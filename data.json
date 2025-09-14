@@ -1,18 +1,17 @@
 [
-  {
-"id": 1,
-"title": "Rest Guilt in the Age of Meritocracy: How to Help Children Rediscover Meaning",
-"title_zh": "优绩主义至上时代的休息羞耻：如何帮助孩子重拾意义感",
-"source": "C计划",
-"link": "链接1",
-"tags": ["Education", "Mental Health"],
-"tags_zh": ["教育", "心理健康"],
-"date": "2024-05-15",
-"summary_en": "This article explores the phenomenon of 'rest guilt' in a meritocratic society, where individuals feel ashamed for taking breaks. It discusses the cultural and societal pressures, including the 'hardship culture' and meritocracy, that contribute to this issue, particularly among students. The piece also highlights the mental health crisis among youth, such as depression and the 'four withouts' phenomenon, and suggests critical thinking and literary discussions as ways to help children rebuild a sense of meaning and autonomy.",
-
-"summary_zh": "本文探讨了优绩主义社会中普遍存在的“休息羞耻”现象，即个体因休息而产生负罪感。文章分析了吃苦文化和优绩主义等社会文化压力如何加剧这一问题，尤其在学生群体中。同时指出了青少年面临的心理健康危机，如抑郁和“四无”状态，并提出通过批判性思维和经典文学讨论帮助孩子重拾意义感、建立自主边界。",
-"best_quote_en": "In a meritocratic society, we internalize the belief that success depends solely on effort and merit, leading to self-exploitation and rest guilt. Even when we know rest is important, we cannot stop, trapped in endless competition.",
-"best_quote_zh": "在优绩主义之下，我们深信成功只取决于努力和能力，从而导致自我剥削和休息羞耻。即使明白休息的重要性，也无法停止，陷入无休止的竞争。"
+ {
+    "id": 1,
+    "title": "How to reimagine education for the 21st century",
+    "title_zh": "如何重新构想21世纪的教育",
+    "source": "Brookings Institution",
+    "link": "https://www.brookings.edu/articles/how-to-reimagine-education-for-the-21st-century/",
+    "tags": ["Education", "21st Century Skills", "Learning"],
+    "tags_zh": ["教育", "21世纪技能", "学习"],
+    "date": "2025-09-09",
+    "summary_en": "This article discusses the growing demand for education to include a new set of competencies, or '21st-century skills,' such as problem-solving, collaboration, and critical thinking. It highlights the challenge of integrating these skills into the existing curriculum and suggests they should be part of the classroom culture rather than a separate subject.",
+    "summary_zh": "这篇文章讨论了教育领域日益增长的需求，即应将问题解决、协作和批判性思维等“21世纪技能”纳入教学体系。它强调了将这些技能整合到现有课程中的挑战，并建议将其作为课堂文化的一部分，而非独立的学科来教授。",
+    "best_quote_en": "Business leaders across the country tell us that to compete in the knowledge-based economy of the 21st Century children will need a different kind of training and education.",
+    "best_quote_zh": "全国各地的商业领袖告诉我们，要想在21世纪的知识经济中竞争，孩子们需要一种不同的培训和教育。"
 },
 {
 "id": 2,
@@ -41,5 +40,35 @@
 "summary_zh": "中国领导人习近平正在与时间赛跑，以巩固他在历史上的地位，而这一目标取决于与台湾的统一。尽管过去采取的和平策略行之有效，但以更激进的方式推动统一可能是他执政生涯中最危险的一次豪赌，将面临战略上的屈辱和国内政治动荡的风险。",
 "best_quote_en": "A forced attempt to seize Taiwan would be the most dangerous gamble of his rule.",
 "best_quote_zh": "强行攻占台湾将是他执政生涯中最危险的一次豪赌。"
-}
+},
+{
+"id": 4,
+"title": "The Problem with Your 'Authentic Self'",
+"title_zh": "你的“真实自我”有什么问题",
+"source": "Psychology Today",
+"link": "https://www.psychologytoday.com/sg/blog/mr-personality/202509/the-problem-with-your-authentic-self",
+"tags": ["Cognitive Psychology", "Authenticity", "Personality"],
+"tags_zh": ["认知心理学", "真实性", "人格"],
+"date": "2025-09-13",
+"summary_en": "This article argues that the modern emphasis on finding your 'authentic self' can be problematic, leading to a self-centered, narcissistic society. Instead of focusing on being 'real,' the author suggests we should strive to be our 'best self' by practicing emotional intelligence, self-control, and empathy.",
+"summary_zh": "这篇文章指出，现代社会对寻找“真实自我”的强调可能带来问题，导致一个以自我为中心、自恋化的社会。作者建议，与其专注于成为“真实的自己”，我们应该通过练习情商、自控和同理心，努力成为“最好的自己”。",
+"best_quote_en": "Authenticity, when taken to extremes, fuels a society that is self-centered, narcissistic, and infantilized.",
+"best_quote_zh": "当“真实性”走向极端时，它会助长一个以自我为中心、自恋化、幼稚化的社会。"
+},
+{
+"id": 5,
+"title": "Taylor Swift is engaged: she’s been getting her fans ready for this moment for 20 years",
+"title_zh": "泰勒·斯威夫特订婚了：她用20年为粉丝准备这一刻",
+"source": "The Conversation",
+"link": "https://theconversation.com/taylor-swift-is-engaged-shes-been-getting-her-fans-ready-for-this-moment-for-20-years-264027",
+"tags": ["Celebrity News", "Music", "Fan Culture"],
+"tags_zh": ["名人新闻", "音乐", "粉丝文化"],
+"date": "2025-08-27",
+"summary_en": "This article explores how Taylor Swift's long-term engagement with her fans has prepared them for her personal milestones, such as her engagement to Travis Kelce. It discusses how her narrative has created a strong emotional bond that led to an outpouring of support and love from her fan base.",
+"summary_zh": "这篇文章探讨了泰勒·斯威夫特如何通过长期与粉丝的互动，让他们为她的个人里程碑（如与特拉维斯·凯尔斯的订婚）做好了准备。文章讨论了她的叙事如何创造了强烈的情感联系，从而引发了粉丝群体的巨大支持和喜爱。",
+"best_quote_en": "She's been getting her fans ready for this moment for 20 years.",
+"best_quote_zh": "她用20年为粉丝准备了这一刻。"
+},
+
+  
 ]
