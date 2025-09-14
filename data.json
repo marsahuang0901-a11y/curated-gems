@@ -69,6 +69,34 @@
 "best_quote_en": "She's been getting her fans ready for this moment for 20 years.",
 "best_quote_zh": "她用20年为粉丝准备了这一刻。"
 },
-
+{
+"id": 6,
+"title": "Human Agency in the Age of AI",
+"title_zh": "人工智能时代的人类能动性",
+"source": "Psychology Today",
+"link": "https://www.psychologytoday.com/sg/blog/the-digital-self/202509/human-agency-in-the-age-of-ai",
+"tags": ["Cognitive Psychology", "AI", "Technology"],
+"tags_zh": ["认知心理学", "人工智能", "技术"],
+"date": "2025-09-13",
+"summary_en": "This article discusses the importance of human agency—the ability to direct our own thinking—in an age where AI is becoming increasingly persuasive. It argues that we must teach critical thinking and remain actively engaged to avoid running on 'AI autopilot' and to maintain our role as the 'authors of our own minds.'",
+"summary_zh": "这篇文章讨论了在一个人工智能日益具有说服力的时代，人类能动性（即指导我们自身思维的能力）的重要性。文章指出，我们必须培养批判性思维并保持积极参与，以避免进入“AI自动驾驶”模式，并保持我们作为“自己思想作者”的角色。",
+"best_quote_en": "Human agency is what keeps us drivers, not passengers, of the mind.",
+"best_quote_zh": "人类能动性是让我们成为思想的“驾驶员”而非“乘客”的关键。"
+},
+{
+"id": 7,
+"title": "3 Ways Exercise Can Slow (or Even Reverse) Epigenetic Aging",
+"title_zh": "运动延缓甚至逆转表观遗传衰老的3种方式",
+"source": "Psychology Today",
+"link": "https://www.psychologytoday.com/sg/blog/the-athletes-way/202509/3-ways-exercise-can-slow-or-even-reverse-epigenetic-aging",
+"tags": ["Exercise", "Epigenetics", "Aging"],
+"tags_zh": ["运动", "表观遗传学", "衰老"],
+"date": "2025-09-11",
+"summary_en": "Regular exercise acts as a powerful 'geroprotector' by influencing your epigenome. It helps to keep DNA packaging loose for better repair, creates 'good' stress (hormesis) that rejuvenates cells, and strengthens mitochondria to combat aging.",
+"summary_zh": "定期运动通过影响表观遗传学，可以作为一种强大的“延缓衰老保护剂”。它有助于保持DNA包装松散以利于修复，产生“良性”压力（毒物兴奋效应）来使细胞恢复活力，并增强线粒体以对抗衰老。",
+"best_quote_en": "Research suggests that lifestyle choices (e.g., diet, exercise, stress management) can slow down epigenetic aging or even rewind it.",
+"best_quote_zh": "研究表明，生活方式的选择（例如饮食、运动、压力管理）可以减缓表观遗传衰老，甚至逆转它。"
+},
+ 
   
 ]
