@@ -97,6 +97,46 @@
 "best_quote_en": "Research suggests that lifestyle choices (e.g., diet, exercise, stress management) can slow down epigenetic aging or even rewind it.",
 "best_quote_zh": "研究表明，生活方式的选择（例如饮食、运动、压力管理）可以减缓表观遗传衰老，甚至逆转它。"
 },
- 
-  
+{
+"id": 8,
+"title": "美国芯片巨头三年降价一半，中国企业陷入“被动跟跌” 困境",
+"title_zh": "美国芯片巨头三年降价一半，中国企业陷入“被动跟跌” 困境",
+"source": "第一财经",
+"link": "https://www.yicai.com/news/102823085.html",
+"tags": ["半导体", "经济", "科技", "中美关系"],
+"tags_zh": ["半导体", "经济", "科技", "中美关系"],
+"date": "2025-09-13",
+"summary_en": "The article reports that the Chinese Ministry of Commerce has initiated an anti-dumping investigation into imported U.S. chips. The investigation was prompted by a domestic industry request, alleging that U.S. chip giants have cut prices by half over three years, putting Chinese companies in a difficult position of 'passive price-following.'",
+"summary_zh": "文章报道称，中国商务部已应国内产业申请，决定对原产于美国的进口相关模拟芯片发起反倾销调查。调查指出，美国芯片巨头在三年内将价格削减了一半，导致中国企业陷入“被动跟跌”的困境。",
+"best_quote_en": "U.S. chip giants slash prices by half in three years, leaving Chinese companies in a 'passive follow-the-fall' predicament.",
+"best_quote_zh": "美国芯片巨头三年降价一半，中国企业陷入“被动跟跌” 困境。"
+},
+{
+"id": 9,
+"title": "Extreme Heat Will Change You",
+"title_zh": "极端高温会改变你",
+"source": "Nautilus",
+"link": "https://nautil.us/extreme-heat-will-change-you-1232228/",
+"tags": ["Climate Change", "Physiology", "Health"],
+"tags_zh": ["气候变化", "生理学", "健康"],
+"date": "2025-08-27",
+"summary_en": "This article explores how extreme heat affects the human body at a molecular level. It discusses how heat can cause proteins to unfold and lead to changes in DNA, potentially accelerating aging and making people more vulnerable to heat-related illnesses.",
+"summary_zh": "这篇文章探讨了极端高温如何在分子层面影响人体。文中讨论了高温如何导致蛋白质展开和DNA发生改变，这可能加速衰老，并使人们更容易受到与热相关的疾病影响。",
+"best_quote_en": "The key message from our findings is that heat could be affecting healthy populations in ways that we can't see.",
+"best_quote_zh": "我们研究结果的核心信息是，高温可能以我们肉眼看不见的方式影响健康人群。"
+},
+{
+"id": 10,
+"title": "Does Musical Taste Narrow with Age?",
+"title_zh": "音乐品味会随着年龄增长而变窄吗？",
+"source": "Nautilus",
+"link": "https://nautil.us/does-musical-taste-narrow-with-age-1237216/",
+"tags": ["Psychology", "Music", "Data Science"],
+"tags_zh": ["心理学", "音乐", "数据科学"],
+"date": "2025-09-12",
+"summary_en": "This article explores how musical listening habits evolve with age. It uses data from 450 million song plays to analyze whether people's musical tastes become more narrow as they get older.",
+"summary_zh": "这篇文章探讨了随着年龄的增长，人们的音乐收听习惯如何演变。它利用4.5亿次歌曲播放数据来分析人们的音乐品味是否会随着年龄增长而变得更窄。",
+"best_quote_en": "What 450 million song plays tell us about how our listening habits evolve.",
+"best_quote_zh": "4.5亿次歌曲播放数据告诉我们，我们的收听习惯是如何演变的。"
+}
 ]
