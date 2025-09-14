@@ -1,33 +1,21 @@
 [
   {
-
 "id": 1,
-
 "title": "Rest Guilt in the Age of Meritocracy: How to Help Children Rediscover Meaning",
-
 "title_zh": "优绩主义至上时代的休息羞耻：如何帮助孩子重拾意义感",
-
 "source": "C计划",
-
 "link": "链接1",
-
 "tags": ["Education", "Mental Health"],
-
 "tags_zh": ["教育", "心理健康"],
-
 "date": "2024-05-15",
-
 "summary_en": "This article explores the phenomenon of 'rest guilt' in a meritocratic society, where individuals feel ashamed for taking breaks. It discusses the cultural and societal pressures, including the 'hardship culture' and meritocracy, that contribute to this issue, particularly among students. The piece also highlights the mental health crisis among youth, such as depression and the 'four withouts' phenomenon, and suggests critical thinking and literary discussions as ways to help children rebuild a sense of meaning and autonomy.",
 
 "summary_zh": "本文探讨了优绩主义社会中普遍存在的“休息羞耻”现象，即个体因休息而产生负罪感。文章分析了吃苦文化和优绩主义等社会文化压力如何加剧这一问题，尤其在学生群体中。同时指出了青少年面临的心理健康危机，如抑郁和“四无”状态，并提出通过批判性思维和经典文学讨论帮助孩子重拾意义感、建立自主边界。",
-
 "best_quote_en": "In a meritocratic society, we internalize the belief that success depends solely on effort and merit, leading to self-exploitation and rest guilt. Even when we know rest is important, we cannot stop, trapped in endless competition.",
-
 "best_quote_zh": "在优绩主义之下，我们深信成功只取决于努力和能力，从而导致自我剥削和休息羞耻。即使明白休息的重要性，也无法停止，陷入无休止的竞争。"
-
 },
-  {
-    "id": 1,
+{
+"id": 2,
     "title": "Is This the End of the Growth Mindset Theory?",
     "title_zh": "成长型思维理论终结了吗？",
     "source": "Psychology Today",
@@ -40,8 +28,8 @@
     "best_quote_en": "When only the 14 study outcomes with the highest quality rating were considered, the effect of growth mindset interventions was around zero.",
     "best_quote_zh": "当只考虑14个最高质量的研究结果时，成长型思维干预措施的影响几乎为零。"
 },
-  {
-    "id": 1,
+{
+"id": 3,
     "title": "Xi Jinping is in a race against time to secure his legacy in China",
     "title_zh": "习近平正在与时间赛跑以巩固他在中国的历史遗产",
     "source": "The Conversation",
