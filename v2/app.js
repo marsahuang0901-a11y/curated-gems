@@ -83,7 +83,7 @@ function mountControls() {
 
     // 🔍 优化后的搜索框提示文字 - 更友好、更直观
     const placeholder = lang === 'zh'
-        ? '🔍 这里可以搜索...'
+        ? '🔍 现在对什么感兴趣呢...'
         : '🔍 you can search here...';
 
     controlsEl.innerHTML = `
@@ -214,7 +214,7 @@ function render(items) {
 
         // 😅 优化后的空结果提示 - 更友好、提供建议
         const emptyTexts = {
-            zh: '😅 没有找到相关内容，换个关键词试试吧， 或许会有惊喜',
+            zh: '😅 没有关注相关内容，换个话题试试吧， 或许会有惊喜',
             en: '😅 No relevant content found, try different keywords'
         };
 
