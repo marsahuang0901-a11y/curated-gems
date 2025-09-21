@@ -168,7 +168,7 @@
 "best_quote_zh": "设计中的AI好坏取决于你向它提出的问题。它不会替你完成工作，也无法取代你的思考。但它可以帮助你更快地行动，探索更多选项，验证想法，并将精力集中在困难的部分，而不是浪费时间在重复性任务上。"
 },
  {
-"id": 1,
+"id": 13,
 "title": "中美元首年内第三次通话，专家：两国关系进入新阶段",
 "title_zh": "中美元首年内第三次通话，专家：两国关系进入新阶段",
 "source": "新浪财经",
@@ -180,5 +180,19 @@
 "summary_zh": "这篇文章报道了中美元首年内第三次通话，并引用专家观点分析了此次通话对中美关系的意义。通话发生在9月19日晚，是继6月5日后的又一次通话。文章指出，这次通话是务实、积极、建设性的，并为下一阶段中美关系的稳定发展提供了战略指引。专家们认为，此次通话释放了积极信号，确认了元首外交在两国关系中的关键作用，并为未来的元首会晤奠定了基础。通话还涉及了关键议题，如TikTok问题和对二战历史的看法。尽管两国关系仍存在博弈，但专家认为此次通话有效地锚定了中美关系的稳定态势，并展现了中方管控和稳定中美关系的积极意愿和能力。",
 "best_quote_en": "This phone call sent a positive and constructive signal. The two leaders affirmed the results of the latest round of China-U.S. economic and trade negotiations and expressed hope that both sides will continue to work to achieve more results in other areas. This call means that China-U.S. relations have entered the next stage, that is, 'it may be entering the head-of-state meeting stage.'",
 "best_quote_zh": "这次通话释放了积极和建设性的信号，两国领导人肯定了最新一轮中美经贸谈判取得的成果，并表达了双方将继续努力在其他领域取得更多成果的希望。这次通话意味着中美关系进入了下一个阶段，即“可能要进入元首会晤阶段”。"
+},
+ {
+"id": 14,
+"title": "DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting | Lex Fridman Podcast #474",
+"title_zh": "DHH：编程的未来、AI、Ruby on Rails、生产力与育儿 | Lex Fridman播客 #474",
+"source": "Lex Fridman",
+"link": "https://www.youtube.com/watch?v=vagyIcmIGOQ",
+"tags": ["Programming", "AI", "Ruby on Rails", "Technology", "Web Development", "Productivity"],
+"tags_zh": ["编程", "人工智能", "Ruby on Rails", "科技", "网络开发", "生产力"],
+"date": "2025-07-12",
+"summary_en": "This episode of the Lex Fridman Podcast features an extensive conversation with David Heinemeier Hansson (DHH), the creator of Ruby on Rails, co-owner of 37signals, and a New York Times best-selling author. The discussion covers a wide range of topics, including DHH's initial struggles with learning programming in his childhood, his views on the evolution of web development, and his philosophy behind Ruby on Rails' design, particularly the 'no build' approach in Rails 8 that seeks to combine the simplicity of early web development with modern advancements. He critiques elements like cookie banners as a 'complete boondoggle' and a monument to regulatory failures. The conversation also touches upon the broader societal impact of technology, human creativity versus AI, and the importance of intellectual humility in understanding complex global affairs.",
+"summary_zh": "Lex Fridman播客的这一集深入采访了David Heinemeier Hansson (DHH)，他是Ruby on Rails的创始人，37signals的共同所有者，也是一位纽约时报畅销书作家。讨论涵盖了广泛的主题，包括DHH童年时期学习编程的最初挣扎，他对网络发展演变的看法，以及他关于Ruby on Rails设计理念，特别是Rails 8中旨在将早期网络开发的简洁性与现代进步相结合的“无构建”方法。他批评了像Cookie横幅这样的元素，称其为“彻底的浪费”和监管失败的象征。对话还触及了技术对社会的更广泛影响、人类创造力与人工智能的对比，以及在理解复杂的全球事务中保持知识谦逊的重要性。",
+"best_quote_en": "no one anywhere who's serious believes that Cookie banners does anything good for anyone yet we've been unable to get rid of it... no one in the universe is safe from this nonsense.",
+"best_quote_zh": "任何认真的人都不相信Cookie横幅对任何人有好处，然而我们却无法摆脱它……宇宙中没有人能幸免于这种无稽之谈。"
 }
 ]
