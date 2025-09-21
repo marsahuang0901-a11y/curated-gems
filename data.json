@@ -137,6 +137,19 @@
 "summary_en": "This article explores how musical listening habits evolve with age. It uses data from 450 million song plays to analyze whether people's musical tastes become more narrow as they get older.",
 "summary_zh": "这篇文章探讨了随着年龄的增长，人们的音乐收听习惯如何演变。它利用4.5亿次歌曲播放数据来分析人们的音乐品味是否会随着年龄增长而变得更窄。",
 "best_quote_en": "What 450 million song plays tell us about how our listening habits evolve.",
-"best_quote_zh": "4.5亿次歌曲播放数据告诉我们，我们的收听习惯是如何演变的。"
+"best_quote_zh": "4.5亿次歌曲播放数据告诉我们，我们的收听习惯是如何演变的。",
+{
+"id": 1,
+"title": "Luma AI CEO: Hollywood is dying, only AI can save it - Lowpass",
+"title_zh": "Luma AI CEO：好莱坞已死，唯有AI能拯救它 - Lowpass",
+"source": "Lowpass",
+"link": "https://www.lowpass.cc/p/luma-ai-ceo-amit-jain-ray3-genai-hollywood",
+"tags": ["AI", "Movies", "Technology"],
+"tags_zh": ["AI", "电影", "科技"],
+"date": "2025-09-18",
+"summary_en": "The article discusses the views of Luma AI CEO Amit Jain on the state of the movie industry. Jain argues that Hollywood is 'already dead' if it continues its current path of producing a small number of expensive blockbusters and telling the same stories. He believes that generative AI is the only way to save the industry by helping filmmakers take creative risks and experiment with new ideas faster and at a lower cost. The article also mentions Luma AI's new video model, Ray 3, which Jain claims is the first generative video model with reasoning capabilities.",
+"summary_zh": "这篇文章讨论了Luma AI首席执行官阿米特·贾因（Amit Jain）对电影行业现状的看法。贾因认为，如果好莱坞继续走目前制作少数昂贵大片、并反复讲述同样故事的道路，它就已经“死了”。他相信生成式AI是拯救该行业的唯一途径，因为它能帮助电影制作人更快、以更低的成本承担创意风险并尝试新想法。文章还提到了Luma AI的新视频模型Ray 3，贾因声称这是首个具有推理能力的生成式视频模型。",
+"best_quote_en": "Hollywood is already dead if it continues on its current path. This has nothing to do with AI. The way it is consolidating, and keeps telling the same stories over and over again.",
+"best_quote_zh": "如果好莱坞继续走目前的道路，它就已经死了。这与AI无关。它正在整合，并且不断地一遍又一遍地讲述同样的故事。"
 }
 ]
