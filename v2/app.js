@@ -152,6 +152,28 @@ function applyAndRender() {
     
     window.__countsForCurrentQuery = counts;
     // 筛选数据
+    // 统计：当前搜索条件下，各数据源可见数量
+    const counts = { all: 0 };
+    for (const item of raw) {
+      const summaryField = (lang === 'zh' ? item.summary_zh : item.summary_en) || '';
+      const quoteField   = (lang === 'zh' ? item.best_quote_zh : item.best_quote_en) || '';
+      const titleField   = (lang === 'zh' ? (item.title_zh || item.title) : item.title) || '';
+      const tagsArr      = item.tags || [];
+    
+      const matchesQuery = !query ||
+        titleField.toLowerCase().includes(query) ||
+        summaryField.toLowerCase().includes(query) ||
+        quoteField.toLowerCase().includes(query) ||
+        tagsArr.some(tag => tag.toLowerCase().includes(query));
+    
+      if (matchesQuery) {
+        counts.all += 1;
+        const s = item.source || 'unknown';
+        counts[s] = (counts[s] || 0) + 1;
+  }
+}
+
+window.__countsForCurrentQuery = counts;
     view = raw.filter(item => {
         // 根据语言选择对应字段
         const summaryField = lang === 'zh' ? item.summary_zh : item.summary_en;
