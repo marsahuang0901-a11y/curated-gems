@@ -208,5 +208,19 @@
 "summary_zh": "这段视频是英伟达GTC 2025上的一场由Tiffany Jansen主持的专家小组讨论，汇集了机器人领域的领军人物：Burnt Barnick (1X)、Deepak Pathak (Skilled AI)、Pros Feligaputo (Agility Robotics)、Aaron Saunders (Boston Dynamics) 和 Jim Fan (NVIDIA)。小组讨论探讨了通用机器人的快速发展和人形机器人的兴起。主要议题包括机器人作为AI应用的历史性缓慢进展、大型基础模型对推理和多模态理解的变革性影响、通过GPU加速模拟进行数据生成的关键作用，以及硬件成本效益和鲁棒性的显著提升。小组成员讨论了从基于控制的机器人到基于经验学习的转变、跨实体和数据多样性的挑战，以及机器人自动化科学甚至自我组装其他机器人的未来愿景。他们强调，尽管完全通用的机器人仍需数年才能实现，但能够立即提供价值的专业机器人已经问世，并将日益普及。",
 "best_quote_en": "We were born too late to explore the earth, we were born too early to travel to other galaxies, we were born just in time to solve robotics and everything that moves will be autonomous.",
 "best_quote_zh": "我们出生得太晚，无法探索地球；出生得太早，无法旅行到其他星系；但我们恰好出生在解决机器人问题的时代，未来所有能移动的东西都将是自主的。"
+},
+ {
+"id": 1,
+"title": "When the career ladder breaks for women—and how to succeed anyway",
+"title_zh": "当女性的职业阶梯断裂时——以及如何成功突围",
+"source": "McKinsey & Company",
+"link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/when-the-career-ladder-breaks-for-women-and-how-to-succeed-anyway",
+"tags": ["Women in the workplace", "Career development", "Leadership", "Diversity"],
+"tags_zh": ["职场女性", "职业发展", "领导力", "多元化"],
+"date": "2025-03-27",
+"summary_en": "This is a McKinsey Podcast episode discussing the challenges limiting professional women's progress and the approaches they can use to succeed. It highlights that while career advancement is difficult for everyone, it can be particularly elusive for women, citing the 'broken rung' as a major obstacle to their career progression.",
+"summary_zh": "这是麦肯锡的一期播客节目，讨论了限制职业女性发展的挑战以及她们可以用来成功的策略。节目指出，尽管职业发展对每个人来说都很艰难，但对女性而言可能尤其难以捉摸，并将“断裂的阶梯”（broken rung）作为她们职业晋升的主要障碍。",
+"best_quote_en": "Career advancement is tough for everyone—but for women, it can feel particularly elusive.",
+"best_quote_zh": "职业发展对每个人来说都很艰难，但对女性而言可能尤其难以捉摸。"
 }
 ]
