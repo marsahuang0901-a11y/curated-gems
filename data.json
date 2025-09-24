@@ -194,5 +194,19 @@
 "summary_zh": "Lex Fridman播客的这一集深入采访了David Heinemeier Hansson (DHH)，他是Ruby on Rails的创始人，37signals的共同所有者，也是一位纽约时报畅销书作家。讨论涵盖了广泛的主题，包括DHH童年时期学习编程的最初挣扎，他对网络发展演变的看法，以及他关于Ruby on Rails设计理念，特别是Rails 8中旨在将早期网络开发的简洁性与现代进步相结合的“无构建”方法。他批评了像Cookie横幅这样的元素，称其为“彻底的浪费”和监管失败的象征。对话还触及了技术对社会的更广泛影响、人类创造力与人工智能的对比，以及在理解复杂的全球事务中保持知识谦逊的重要性。",
 "best_quote_en": "no one anywhere who's serious believes that Cookie banners does anything good for anyone yet we've been unable to get rid of it... no one in the universe is safe from this nonsense.",
 "best_quote_zh": "任何认真的人都不相信Cookie横幅对任何人有好处，然而我们却无法摆脱它……宇宙中没有人能幸免于这种无稽之谈。"
+},
+{
+"id": 15,
+"title": "A New Era for Generalist Robotics: The Rise of Humanoids | NVIDIA GTC 2025",
+"title_zh": "通用机器人新时代：人形机器人的崛起 | 英伟达GTC 2025",
+"source": "NVIDIA Developer",
+"link": "https://www.youtube.com/watch?v=BmD22FNOAY4",
+"tags": ["Robotics", "Humanoids", "AI", "NVIDIA GTC", "Hardware", "Simulation", "Generalist AI"],
+"tags_zh": ["机器人", "人形机器人", "人工智能", "英伟达GTC", "硬件", "模拟", "通用人工智能"],
+"date": "2025-04-08",
+"summary_en": "This video captures a panel discussion from NVIDIA GTC 2025, moderated by Tiffany Jansen, featuring leaders in robotics: Burnt Barnick (1X), Deepak Pathak (Skilled AI), Pros Feligaputo (Agility Robotics), Aaron Saunders (Boston Dynamics), and Jim Fan (NVIDIA). The panel explores the rapid advancements in generalist robotics and the rise of humanoids. Key themes include the historical slowness of robotics as an AI application, the transformative impact of large foundation models for reasoning and multimodal understanding, the critical role of data generation through GPU-accelerated simulation, and significant improvements in hardware affordability and robustness. The panelists discuss the shift from control-based robotics to learning-from-experience, the challenges of cross-embodiment and data diversity, and the future vision of robots automating science and even self-assembling other robots. They emphasize that while full general-purpose robots are still years away, specialized robots delivering immediate value are already here and will become increasingly prevalent.",
+"summary_zh": "这段视频是英伟达GTC 2025上的一场由Tiffany Jansen主持的专家小组讨论，汇集了机器人领域的领军人物：Burnt Barnick (1X)、Deepak Pathak (Skilled AI)、Pros Feligaputo (Agility Robotics)、Aaron Saunders (Boston Dynamics) 和 Jim Fan (NVIDIA)。小组讨论探讨了通用机器人的快速发展和人形机器人的兴起。主要议题包括机器人作为AI应用的历史性缓慢进展、大型基础模型对推理和多模态理解的变革性影响、通过GPU加速模拟进行数据生成的关键作用，以及硬件成本效益和鲁棒性的显著提升。小组成员讨论了从基于控制的机器人到基于经验学习的转变、跨实体和数据多样性的挑战，以及机器人自动化科学甚至自我组装其他机器人的未来愿景。他们强调，尽管完全通用的机器人仍需数年才能实现，但能够立即提供价值的专业机器人已经问世，并将日益普及。",
+"best_quote_en": "We were born too late to explore the earth, we were born too early to travel to other galaxies, we were born just in time to solve robotics and everything that moves will be autonomous.",
+"best_quote_zh": "我们出生得太晚，无法探索地球；出生得太早，无法旅行到其他星系；但我们恰好出生在解决机器人问题的时代，未来所有能移动的东西都将是自主的。"
 }
 ]
