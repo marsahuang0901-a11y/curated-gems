@@ -425,13 +425,13 @@ function renderTags(list) {
   // TODO: 学员任务 - 实现标签统计功能
   // 提示：需要统计每个标签在当前列表中的使用次数
   // 参考格式：const tagCounts = {};
- const tagCounts = {};
-list.forEach(item => {
-  const itemTags = item[tagsField] || item.tags || [];
-  itemTags.forEach(tag => {
-    tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+  const tagCounts = {};
+  list.forEach(item => {
+    const itemTags = item[tagsField] || item.tags || [];
+    itemTags.forEach(tag => {
+      tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+    });
   });
-});
   
   // 添加"全部"选项
   const allText = lang === 'zh' ? '全部' : 'All';
@@ -444,10 +444,10 @@ list.forEach(item => {
     const tagValue = isAll ? 'all' : t;
     const isActive = activeTags.has(tagValue);
     // TODO: 在这里添加标签数量显示逻辑
-     const count = isAll ? list.length : (tagCounts[t] || 0);
-     return `<span class="tag ${isActive ? 'active' : ''}" data-tag="${esc(tagValue)}">
-    ${esc(t)} <span class="tag-count">(${count})</span>
-  </span>`;
+    const count = isAll ? list.length : (tagCounts[t] || 0);
+    return `<span class="tag ${isActive ? 'active' : ''}" data-tag="${esc(tagValue)}">
+      ${esc(t)} <span class="tag-count">(${count})</span>
+    </span>`;
   }).join('');
 }
 
