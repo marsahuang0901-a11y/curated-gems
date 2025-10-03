@@ -39,7 +39,7 @@ async function init() {
 
   try {
     console.log('Fetching data...');
-    raw = await loadData();
+    raw = await ();
     window.currentData = raw;
     console.log('Data loaded:', raw.length, 'items');
     console.log('First item:', raw[0]);
@@ -65,7 +65,17 @@ async function init() {
 
 async function loadData() {
   try {
-    const response = await fetch('../data.json');
+    // 环境检测：根据URL路径判断是否在GitHub Pages环境
+    let dataUrl;
+    if (window.location.pathname.includes('/curated-gems/')) {
+      // GitHub Pages环境
+      dataUrl = window.location.origin + '/curated-gems/data.json';
+    } else {
+      // 本地开发环境
+      dataUrl = './data.json';
+    }
+    
+    const response = await fetch(dataUrl);
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}: ${response.statusText}`);
     }
