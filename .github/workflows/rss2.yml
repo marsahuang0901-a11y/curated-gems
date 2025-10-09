@@ -1,4 +1,4 @@
-name: RSS Content Analyzer
+name: RSS Content Analyzer copy
 
 on:
   schedule:
