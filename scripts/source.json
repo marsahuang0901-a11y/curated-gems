@@ -3,7 +3,7 @@
     "name": "A year of reading the world",
     "url":"https://ayearofreadingtheworld.com/feed"
   },
-  {
+{
     "name": "Women | The Guardian",
     "url": "http://theguardian.com/lifeandstyle/women/rss"
   },
@@ -28,8 +28,8 @@
     "url": "https://kk.org/cooltools/feed/"
   },
   {
-    "name": "Sam Altman",
-    "url": "https://blog.samaltman.com/posts.atom"
+    "name": "Sam Altman's Blog",
+    "url": "https://blog.samaltman.com/rss.xml"
   },
   {
     "name": "Huberman Lab",
@@ -38,5 +38,153 @@
   {
     "name": "Tim Ferriss",
     "url": "https://tim.blog/feed/"
+  },
+  {
+    "name": "Ulterior Motives (Art Markman Ph.D.)",
+    "url": "https://www.psychologytoday.com/blog/ulterior-motives/feed"
+  },
+  {
+    "name": "Psychology Tomorrow (Bence Nanay Ph.D.)",
+    "url": "https://www.psychologytoday.com/blog/psychology-tomorrow/feed"
+  },
+  {
+    "name": "The Future Brain (Cami Rosso)",
+    "url": "https://www.psychologytoday.com/blog/the-future-brain/feed"
+  },
+  {
+    "name": "Know Your Mind (Denise Cummins Ph.D.)",
+    "url": "https://www.psychologytoday.com/blog/know-your-mind/feed"
+  },
+  {
+    "name": "Social Self (Mark Travers Ph.D.)",
+    "url": "https://www.psychologytoday.com/blog/the-social-self/feed"
+  },
+  {
+    "name": "The Healthy Mind Toolkit (Alice Boyes Ph.D.)",
+    "url": "https://www.psychologytoday.com/blog/in-practice/feed"
+  },
+  {
+    "name": "PsyBlog",
+    "url": "https://www.spring.org.uk/feed/"
+  },
+  {
+    "name": "Buzzsprout",
+    "url": "https://feed.buzzsprout.com/2334908.rss"
+  },
+  {
+    "name": "Stephen Wolfram's Writings",
+    "url": "https://writings.stephenwolfram.com/feed/"
+  },
+  {
+    "name": "Stephen Fleming (AEON)",
+    "url": "http://aeon.co/feed.rss"
+  },
+  {
+    "name": "Music Business Worldwide",
+    "url": "https://www.musicbusinessworldwide.com/feed/"
+  },
+  {
+    "name": "Budgets Are Sexy",
+    "url": "https://feeds2.feedburner.com/budgetsaresexy"
+  },
+  {
+    "name": "Making Sense Of Cents",
+    "url": "https://www.makingsenseofcents.com/feed"
+  },
+  {
+    "name": "CodeNewbie",
+    "url": "http://feeds.codenewbie.org/cnpodcast.xml"
+  },
+  {
+    "name": "Page Array – NewInBooks",
+    "url": "https://www.newinbooks.com/feed/"
+  },
+  {
+    "name": "BBC News - Home",
+    "url": "http://feeds.bbci.co.uk/news/rss.xml"
+  },
+  {
+    "name": "NYT > Top Stories",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+  },
+  {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/rss"
+  },
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/full.xml"
+  },
+  {
+    "name": "WSJ.com: World News",
+    "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+  },
+  {
+    "name": "Bloomberg (YouTube Channel)",
+    "url": "https://www.youtube.com/feeds/videos.xml?user=Bloomberg"
+  },
+  {
+    "name": "Smashing Magazine",
+    "url": "https://www.smashingmagazine.com/feed/"
+  },
+  {
+    "name": "HBR IdeaCast",
+    "url": "http://feeds.harvardbusiness.org/harvardbusiness/ideacast"
+  },
+  {
+    "name": "designboom",
+    "url": "https://www.designboom.com/design/feed"
+  },
+  {
+    "name": "ELLE Fashion",
+    "url": "https://www.elle.com/rss/fashion.xml/"
+  },
+  {
+    "name": "SlashFilm",
+    "url": "https://feeds2.feedburner.com/slashfilm"
+  },
+  {
+    "name": "Reddit/r/movies",
+    "url": "https://www.reddit.com/r/movies/.rss"
+  },
+  {
+    "name": "The New York Times",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"
+  },
+  {
+    "name": "Nature",
+    "url": "https://www.nature.com/nature.rss"
+  },
+  {
+    "name": "Phys.org",
+    "url": "https://phys.org/rss-feed/"
+  },
+  {
+    "name": "TED Talks",
+    "url": "https://pa.tedcdn.com/feeds/talks.rss"
+  },
+  {
+    "name": "Lex Fridman Podcast (Audio)",
+    "url": "https://lexfridman.com/feed/podcast/"
+  },
+  {
+    "name": "Lex Fridman (YouTube Channel)",
+    "url": "https://www.youtube.com/feeds/videos.xml?user=lexfridman"
+  },
+  {
+    "name": "Tiffany Janzen",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4MZ7zUHb5eAxU75Dc_nqdQ"
+  },
+  {
+    "name": "The McKinsey Podcast",
+    "url": "https://feeds.omny.fm/shows/the-mckinsey-podcast/podcast.rss"
+  },
+  {
+    "name": "Wolfram Blog",
+    "url": "https://blog.wolfram.com/feed/"
+  },
+  {
+    "name": "Kurzgesagt – In a Nutshell",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXQMGO-xsIu-l-3Yw0sD9w"
   }
 ]
