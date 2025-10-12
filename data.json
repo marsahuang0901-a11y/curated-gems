@@ -1,226 +1,506 @@
 [
- {
-"id": 1,
-"title": "How to reimagine education for the 21st century",
-"title_zh": "如何重新构想21世纪的教育",
-"source": "Brookings Institution",
-"link": "https://www.brookings.edu/articles/how-to-reimagine-education-for-the-21st-century/",
-"tags": ["Education", "21st Century Skills", "Learning"],
-"tags_zh": ["教育", "21世纪技能", "学习"],
-"date": "2025-09-09",
-"summary_en": "This article discusses the growing demand for education to include a new set of competencies, or '21st-century skills,' such as problem-solving, collaboration, and critical thinking. It highlights the challenge of integrating these skills into the existing curriculum and suggests they should be part of the classroom culture rather than a separate subject.",
-"summary_zh": "这篇文章讨论了教育领域日益增长的需求，即应将问题解决、协作和批判性思维等“21世纪技能”纳入教学体系。它强调了将这些技能整合到现有课程中的挑战，并建议将其作为课堂文化的一部分，而非独立的学科来教授。",
-"best_quote_en": "Business leaders across the country tell us that to compete in the knowledge-based economy of the 21st Century children will need a different kind of training and education.",
-"best_quote_zh": "全国各地的商业领袖告诉我们，要想在21世纪的知识经济中竞争，孩子们需要一种不同的培训和教育。"
-},
-{
-"id": 2,
-"title": "Is This the End of the Growth Mindset Theory?",
-"title_zh": "成长型思维理论终结了吗？",
-"source": "Psychology Today",
-"link": "https://www.psychologytoday.com/sg/blog/the-asymmetric-brain/202509/is-this-the-end-of-the-growth-mindset-theory",
-"tags": ["Cognitive Psychology", "Education", "Growth Mindset"],
-"tags_zh": ["认知心理学", "教育", "成长型思维"],
-"date": "2025-09-13",
-"summary_en": "A new structured review of studies on growth mindset interventions finds that they have little to no effect on academic performance. The study focused on high-quality data and found that the positive effects reported in lower-quality studies were likely due to flawed study designs rather than actual effectiveness.",
-"summary_zh": "一项针对成长型思维干预研究的最新系统性综述发现，该理论对学业表现几乎没有影响。这项研究主要关注高质量数据，并指出低质量研究中报告的积极影响，更有可能是由于有缺陷的研究设计，而非干预措施的实际效果。",
-"best_quote_en": "When only the 14 study outcomes with the highest quality rating were considered, the effect of growth mindset interventions was around zero.",
-"best_quote_zh": "当只考虑14个最高质量的研究结果时，成长型思维干预措施的影响几乎为零。"
-},
-{
-"id": 3,
-"title": "Xi Jinping is in a race against time to secure his legacy in China",
-"title_zh": "习近平正在与时间赛跑以巩固他在中国的历史遗产",
-"source": "The Conversation",
-"link": "https://theconversation.com/xi-jinping-is-in-a-race-against-time-to-secure-his-legacy-in-china-264691",
-"tags": ["Politics", "China", "Xi Jinping", "Foreign Policy"],
-"tags_zh": ["政治", "中国", "习近平", "外交政策"],
-"date": "2025-09-12",
-"summary_en": "Chinese leader Xi Jinping is in a race against time to secure his place in history, a goal that hinges on the unification with Taiwan. While a peaceful approach has worked in the past, a more aggressive push for unification could be the most dangerous gamble of his rule, risking strategic humiliation and political turbulence.",
-"summary_zh": "中国领导人习近平正在与时间赛跑，以巩固他在历史上的地位，而这一目标取决于与台湾的统一。尽管过去采取的和平策略行之有效，但以更激进的方式推动统一可能是他执政生涯中最危险的一次豪赌，将面临战略上的屈辱和国内政治动荡的风险。",
-"best_quote_en": "A forced attempt to seize Taiwan would be the most dangerous gamble of his rule.",
-"best_quote_zh": "强行攻占台湾将是他执政生涯中最危险的一次豪赌。"
-},
-{
-"id": 4,
-"title": "The Problem with Your 'Authentic Self'",
-"title_zh": "你的“真实自我”有什么问题",
-"source": "Psychology Today",
-"link": "https://www.psychologytoday.com/sg/blog/mr-personality/202509/the-problem-with-your-authentic-self",
-"tags": ["Cognitive Psychology", "Authenticity", "Personality"],
-"tags_zh": ["认知心理学", "真实性", "人格"],
-"date": "2025-09-13",
-"summary_en": "This article argues that the modern emphasis on finding your 'authentic self' can be problematic, leading to a self-centered, narcissistic society. Instead of focusing on being 'real,' the author suggests we should strive to be our 'best self' by practicing emotional intelligence, self-control, and empathy.",
-"summary_zh": "这篇文章指出，现代社会对寻找“真实自我”的强调可能带来问题，导致一个以自我为中心、自恋化的社会。作者建议，与其专注于成为“真实的自己”，我们应该通过练习情商、自控和同理心，努力成为“最好的自己”。",
-"best_quote_en": "Authenticity, when taken to extremes, fuels a society that is self-centered, narcissistic, and infantilized.",
-"best_quote_zh": "当“真实性”走向极端时，它会助长一个以自我为中心、自恋化、幼稚化的社会。"
-},
-{
-"id": 5,
-"title": "Taylor Swift is engaged: she’s been getting her fans ready for this moment for 20 years",
-"title_zh": "泰勒·斯威夫特订婚了：她用20年为粉丝准备这一刻",
-"source": "The Conversation",
-"link": "https://theconversation.com/taylor-swift-is-engaged-shes-been-getting-her-fans-ready-for-this-moment-for-20-years-264027",
-"tags": ["Celebrity News", "Music", "Fan Culture"],
-"tags_zh": ["名人新闻", "音乐", "粉丝文化"],
-"date": "2025-08-27",
-"summary_en": "This article explores how Taylor Swift's long-term engagement with her fans has prepared them for her personal milestones, such as her engagement to Travis Kelce. It discusses how her narrative has created a strong emotional bond that led to an outpouring of support and love from her fan base.",
-"summary_zh": "这篇文章探讨了泰勒·斯威夫特如何通过长期与粉丝的互动，让他们为她的个人里程碑（如与特拉维斯·凯尔斯的订婚）做好了准备。文章讨论了她的叙事如何创造了强烈的情感联系，从而引发了粉丝群体的巨大支持和喜爱。",
-"best_quote_en": "She's been getting her fans ready for this moment for 20 years.",
-"best_quote_zh": "她用20年为粉丝准备了这一刻。"
-},
-{
-"id": 6,
-"title": "Human Agency in the Age of AI",
-"title_zh": "人工智能时代的人类能动性",
-"source": "Psychology Today",
-"link": "https://www.psychologytoday.com/sg/blog/the-digital-self/202509/human-agency-in-the-age-of-ai",
-"tags": ["Cognitive Psychology", "AI", "Technology"],
-"tags_zh": ["认知心理学", "人工智能", "技术"],
-"date": "2025-09-13",
-"summary_en": "This article discusses the importance of human agency—the ability to direct our own thinking—in an age where AI is becoming increasingly persuasive. It argues that we must teach critical thinking and remain actively engaged to avoid running on 'AI autopilot' and to maintain our role as the 'authors of our own minds.'",
-"summary_zh": "这篇文章讨论了在一个人工智能日益具有说服力的时代，人类能动性（即指导我们自身思维的能力）的重要性。文章指出，我们必须培养批判性思维并保持积极参与，以避免进入“AI自动驾驶”模式，并保持我们作为“自己思想作者”的角色。",
-"best_quote_en": "Human agency is what keeps us drivers, not passengers, of the mind.",
-"best_quote_zh": "人类能动性是让我们成为思想的“驾驶员”而非“乘客”的关键。"
-},
-{
-"id": 7,
-"title": "3 Ways Exercise Can Slow (or Even Reverse) Epigenetic Aging",
-"title_zh": "运动延缓甚至逆转表观遗传衰老的3种方式",
-"source": "Psychology Today",
-"link": "https://www.psychologytoday.com/sg/blog/the-athletes-way/202509/3-ways-exercise-can-slow-or-even-reverse-epigenetic-aging",
-"tags": ["Exercise", "Epigenetics", "Aging"],
-"tags_zh": ["运动", "表观遗传学", "衰老"],
-"date": "2025-09-11",
-"summary_en": "Regular exercise acts as a powerful 'geroprotector' by influencing your epigenome. It helps to keep DNA packaging loose for better repair, creates 'good' stress (hormesis) that rejuvenates cells, and strengthens mitochondria to combat aging.",
-"summary_zh": "定期运动通过影响表观遗传学，可以作为一种强大的“延缓衰老保护剂”。它有助于保持DNA包装松散以利于修复，产生“良性”压力（毒物兴奋效应）来使细胞恢复活力，并增强线粒体以对抗衰老。",
-"best_quote_en": "Research suggests that lifestyle choices (e.g., diet, exercise, stress management) can slow down epigenetic aging or even rewind it.",
-"best_quote_zh": "研究表明，生活方式的选择（例如饮食、运动、压力管理）可以减缓表观遗传衰老，甚至逆转它。"
-},
-{
-"id": 8,
-"title": "美国芯片巨头三年降价一半，中国企业陷入“被动跟跌” 困境",
-"title_zh": "美国芯片巨头三年降价一半，中国企业陷入“被动跟跌” 困境",
-"source": "第一财经",
-"link": "https://www.yicai.com/news/102823085.html",
-"tags": ["半导体", "经济", "科技", "中美关系"],
-"tags_zh": ["半导体", "经济", "科技", "中美关系"],
-"date": "2025-09-13",
-"summary_en": "The article reports that the Chinese Ministry of Commerce has initiated an anti-dumping investigation into imported U.S. chips. The investigation was prompted by a domestic industry request, alleging that U.S. chip giants have cut prices by half over three years, putting Chinese companies in a difficult position of 'passive price-following.'",
-"summary_zh": "文章报道称，中国商务部已应国内产业申请，决定对原产于美国的进口相关模拟芯片发起反倾销调查。调查指出，美国芯片巨头在三年内将价格削减了一半，导致中国企业陷入“被动跟跌”的困境。",
-"best_quote_en": "U.S. chip giants slash prices by half in three years, leaving Chinese companies in a 'passive follow-the-fall' predicament.",
-"best_quote_zh": "美国芯片巨头三年降价一半，中国企业陷入“被动跟跌” 困境。"
-},
-{
-"id": 9,
-"title": "Extreme Heat Will Change You",
-"title_zh": "极端高温会改变你",
-"source": "Nautilus",
-"link": "https://nautil.us/extreme-heat-will-change-you-1232228/",
-"tags": ["Climate Change", "Physiology", "Health"],
-"tags_zh": ["气候变化", "生理学", "健康"],
-"date": "2025-08-27",
-"summary_en": "This article explores how extreme heat affects the human body at a molecular level. It discusses how heat can cause proteins to unfold and lead to changes in DNA, potentially accelerating aging and making people more vulnerable to heat-related illnesses.",
-"summary_zh": "这篇文章探讨了极端高温如何在分子层面影响人体。文中讨论了高温如何导致蛋白质展开和DNA发生改变，这可能加速衰老，并使人们更容易受到与热相关的疾病影响。",
-"best_quote_en": "The key message from our findings is that heat could be affecting healthy populations in ways that we can't see.",
-"best_quote_zh": "我们研究结果的核心信息是，高温可能以我们肉眼看不见的方式影响健康人群。"
-},
-{
-"id": 10,
-"title": "Does Musical Taste Narrow with Age?",
-"title_zh": "音乐品味会随着年龄增长而变窄吗？",
-"source": "Nautilus",
-"link": "https://nautil.us/does-musical-taste-narrow-with-age-1237216/",
-"tags": ["Psychology", "Music", "Data Science"],
-"tags_zh": ["心理学", "音乐", "数据科学"],
-"date": "2025-09-12",
-"summary_en": "This article explores how musical listening habits evolve with age. It uses data from 450 million song plays to analyze whether people's musical tastes become more narrow as they get older.",
-"summary_zh": "这篇文章探讨了随着年龄的增长，人们的音乐收听习惯如何演变。它利用4.5亿次歌曲播放数据来分析人们的音乐品味是否会随着年龄增长而变得更窄。",
-"best_quote_en": "What 450 million song plays tell us about how our listening habits evolve.",
-"best_quote_zh": "4.5亿次歌曲播放数据告诉我们，我们的收听习惯是如何演变的。"
-},
-{
-"id": 11,
-"title": "Luma AI CEO: Hollywood is dying, only AI can save it - Lowpass",
-"title_zh": "Luma AI CEO：好莱坞已死，唯有AI能拯救它 - Lowpass",
-"source": "Lowpass",
-"link": "https://www.lowpass.cc/p/luma-ai-ceo-amit-jain-ray3-genai-hollywood",
-"tags": ["AI", "Movies", "Technology"],
-"tags_zh": ["AI", "电影", "科技"],
-"date": "2025-09-18",
-"summary_en": "The article discusses the views of Luma AI CEO Amit Jain on the state of the movie industry. Jain argues that Hollywood is 'already dead' if it continues its current path of producing a small number of expensive blockbusters and telling the same stories. He believes that generative AI is the only way to save the industry by helping filmmakers take creative risks and experiment with new ideas faster and at a lower cost. The article also mentions Luma AI's new video model, Ray 3, which Jain claims is the first generative video model with reasoning capabilities.",
-"summary_zh": "这篇文章讨论了Luma AI首席执行官阿米特·贾因（Amit Jain）对电影行业现状的看法。贾因认为，如果好莱坞继续走目前制作少数昂贵大片、并反复讲述同样故事的道路，它就已经“死了”。他相信生成式AI是拯救该行业的唯一途径，因为它能帮助电影制作人更快、以更低的成本承担创意风险并尝试新想法。文章还提到了Luma AI的新视频模型Ray 3，贾因声称这是首个具有推理能力的生成式视频模型。",
-"best_quote_en": "Hollywood is already dead if it continues on its current path. This has nothing to do with AI. The way it is consolidating, and keeps telling the same stories over and over again.",
-"best_quote_zh": "如果好莱坞继续走目前的道路，它就已经死了。这与AI无关。它正在整合，并且不断地一遍又一遍地讲述同样的故事。"
-},
-{
-"id": 12,
-"title": "Beyond The Hype: What AI Can Really Do For Product Design",
-"title_zh": "超越炒作：AI对产品设计到底能做什么",
-"source": "Smashing Magazine",
-"link": "https://www.smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/",
-"tags": ["AI", "Product Design", "Technology"],
-"tags_zh": ["AI", "产品设计", "科技"],
-"date": "2025-08-18",
-"summary_en": "The article discusses the practical application of AI in the product design workflow. It explains how to effectively integrate AI into four core stages: idea generation, prototyping, visual design, and data analysis. The author emphasizes that AI should be treated as a “co-pilot,” not an “autopilot,” and that providing the right, structured context is key to getting meaningful results. The article highlights that AI is not a replacement for human creativity but a tool to boost productivity, spark new ideas, and validate concepts.",
-"summary_zh": "这篇文章探讨了AI在产品设计工作流程中的实际应用，超越了炒作。文章解释了如何将AI有效地整合到四个核心阶段：创意生成、原型设计、视觉设计和数据分析。作者强调，AI应该被视为“副驾驶”，而非“自动驾驶”，提供正确、结构化的上下文是获得有意义结果的关键。文章指出，AI并非取代人类创造力，而是一种提升生产力、激发新想法和验证概念的工具。",
-"best_quote_en": "AI in design is only as good as the questions you ask it. It doesn't do the work for you. It doesn't replace your thinking. But it helps you move faster, explore more options, validate ideas, and focus on the hard parts instead of burning time on repetitive ones.",
-"best_quote_zh": "设计中的AI好坏取决于你向它提出的问题。它不会替你完成工作，也无法取代你的思考。但它可以帮助你更快地行动，探索更多选项，验证想法，并将精力集中在困难的部分，而不是浪费时间在重复性任务上。"
-},
- {
-"id": 13,
-"title": "中美元首年内第三次通话，专家：两国关系进入新阶段",
-"title_zh": "中美元首年内第三次通话，专家：两国关系进入新阶段",
-"source": "新浪财经",
-"link": "https://finance.sina.com.cn/jjxw/2025-09-21/doc-infrekky8185511.shtml",
-"tags": ["外交", "中美关系", "政治", "国际关系"],
-"tags_zh": ["外交", "中美关系", "政治", "国际关系"],
-"date": "2025-09-21",
-"summary_en": "The article reports on the third phone call this year between the heads of state of China and the United States, and analyzes its significance for China-U.S. relations based on expert opinions. The call, which took place on the evening of September 19, was described as practical, positive, and constructive. Experts believe the call sent a positive signal, confirmed the crucial role of head-of-state diplomacy, and laid the foundation for future meetings. It also touched on key issues like the TikTok problem and historical views on World War II. Despite the ongoing competition between the two countries, experts agree that the call effectively anchored the stability of China-U.S. relations and demonstrated China's proactive willingness and ability to manage and stabilize the relationship.",
-"summary_zh": "这篇文章报道了中美元首年内第三次通话，并引用专家观点分析了此次通话对中美关系的意义。通话发生在9月19日晚，是继6月5日后的又一次通话。文章指出，这次通话是务实、积极、建设性的，并为下一阶段中美关系的稳定发展提供了战略指引。专家们认为，此次通话释放了积极信号，确认了元首外交在两国关系中的关键作用，并为未来的元首会晤奠定了基础。通话还涉及了关键议题，如TikTok问题和对二战历史的看法。尽管两国关系仍存在博弈，但专家认为此次通话有效地锚定了中美关系的稳定态势，并展现了中方管控和稳定中美关系的积极意愿和能力。",
-"best_quote_en": "This phone call sent a positive and constructive signal. The two leaders affirmed the results of the latest round of China-U.S. economic and trade negotiations and expressed hope that both sides will continue to work to achieve more results in other areas. This call means that China-U.S. relations have entered the next stage, that is, 'it may be entering the head-of-state meeting stage.'",
-"best_quote_zh": "这次通话释放了积极和建设性的信号，两国领导人肯定了最新一轮中美经贸谈判取得的成果，并表达了双方将继续努力在其他领域取得更多成果的希望。这次通话意味着中美关系进入了下一个阶段，即“可能要进入元首会晤阶段”。"
-},
- {
-"id": 14,
-"title": "DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting | Lex Fridman Podcast #474",
-"title_zh": "DHH：编程的未来、AI、Ruby on Rails、生产力与育儿 | Lex Fridman播客 #474",
-"source": "Lex Fridman",
-"link": "https://www.youtube.com/watch?v=vagyIcmIGOQ",
-"tags": ["Programming", "AI", "Ruby on Rails", "Technology", "Web Development", "Productivity"],
-"tags_zh": ["编程", "人工智能", "Ruby on Rails", "科技", "网络开发", "生产力"],
-"date": "2025-07-12",
-"summary_en": "This episode of the Lex Fridman Podcast features an extensive conversation with David Heinemeier Hansson (DHH), the creator of Ruby on Rails, co-owner of 37signals, and a New York Times best-selling author. The discussion covers a wide range of topics, including DHH's initial struggles with learning programming in his childhood, his views on the evolution of web development, and his philosophy behind Ruby on Rails' design, particularly the 'no build' approach in Rails 8 that seeks to combine the simplicity of early web development with modern advancements. He critiques elements like cookie banners as a 'complete boondoggle' and a monument to regulatory failures. The conversation also touches upon the broader societal impact of technology, human creativity versus AI, and the importance of intellectual humility in understanding complex global affairs.",
-"summary_zh": "Lex Fridman播客的这一集深入采访了David Heinemeier Hansson (DHH)，他是Ruby on Rails的创始人，37signals的共同所有者，也是一位纽约时报畅销书作家。讨论涵盖了广泛的主题，包括DHH童年时期学习编程的最初挣扎，他对网络发展演变的看法，以及他关于Ruby on Rails设计理念，特别是Rails 8中旨在将早期网络开发的简洁性与现代进步相结合的“无构建”方法。他批评了像Cookie横幅这样的元素，称其为“彻底的浪费”和监管失败的象征。对话还触及了技术对社会的更广泛影响、人类创造力与人工智能的对比，以及在理解复杂的全球事务中保持知识谦逊的重要性。",
-"best_quote_en": "no one anywhere who's serious believes that Cookie banners does anything good for anyone yet we've been unable to get rid of it... no one in the universe is safe from this nonsense.",
-"best_quote_zh": "任何认真的人都不相信Cookie横幅对任何人有好处，然而我们却无法摆脱它……宇宙中没有人能幸免于这种无稽之谈。"
-},
-{
-"id": 15,
-"title": "A New Era for Generalist Robotics: The Rise of Humanoids | NVIDIA GTC 2025",
-"title_zh": "通用机器人新时代：人形机器人的崛起 | 英伟达GTC 2025",
-"source": "NVIDIA Developer",
-"link": "https://www.youtube.com/watch?v=BmD22FNOAY4",
-"tags": ["Robotics", "Humanoids", "AI", "NVIDIA GTC", "Hardware", "Simulation", "Generalist AI"],
-"tags_zh": ["机器人", "人形机器人", "人工智能", "英伟达GTC", "硬件", "模拟", "通用人工智能"],
-"date": "2025-04-08",
-"summary_en": "This video captures a panel discussion from NVIDIA GTC 2025, moderated by Tiffany Jansen, featuring leaders in robotics: Burnt Barnick (1X), Deepak Pathak (Skilled AI), Pros Feligaputo (Agility Robotics), Aaron Saunders (Boston Dynamics), and Jim Fan (NVIDIA). The panel explores the rapid advancements in generalist robotics and the rise of humanoids. Key themes include the historical slowness of robotics as an AI application, the transformative impact of large foundation models for reasoning and multimodal understanding, the critical role of data generation through GPU-accelerated simulation, and significant improvements in hardware affordability and robustness. The panelists discuss the shift from control-based robotics to learning-from-experience, the challenges of cross-embodiment and data diversity, and the future vision of robots automating science and even self-assembling other robots. They emphasize that while full general-purpose robots are still years away, specialized robots delivering immediate value are already here and will become increasingly prevalent.",
-"summary_zh": "这段视频是英伟达GTC 2025上的一场由Tiffany Jansen主持的专家小组讨论，汇集了机器人领域的领军人物：Burnt Barnick (1X)、Deepak Pathak (Skilled AI)、Pros Feligaputo (Agility Robotics)、Aaron Saunders (Boston Dynamics) 和 Jim Fan (NVIDIA)。小组讨论探讨了通用机器人的快速发展和人形机器人的兴起。主要议题包括机器人作为AI应用的历史性缓慢进展、大型基础模型对推理和多模态理解的变革性影响、通过GPU加速模拟进行数据生成的关键作用，以及硬件成本效益和鲁棒性的显著提升。小组成员讨论了从基于控制的机器人到基于经验学习的转变、跨实体和数据多样性的挑战，以及机器人自动化科学甚至自我组装其他机器人的未来愿景。他们强调，尽管完全通用的机器人仍需数年才能实现，但能够立即提供价值的专业机器人已经问世，并将日益普及。",
-"best_quote_en": "We were born too late to explore the earth, we were born too early to travel to other galaxies, we were born just in time to solve robotics and everything that moves will be autonomous.",
-"best_quote_zh": "我们出生得太晚，无法探索地球；出生得太早，无法旅行到其他星系；但我们恰好出生在解决机器人问题的时代，未来所有能移动的东西都将是自主的。"
-},
- {
-"id": 16,
-"title": "When the career ladder breaks for women—and how to succeed anyway",
-"title_zh": "当女性的职业阶梯断裂时——以及如何成功突围",
-"source": "McKinsey & Company",
-"link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/when-the-career-ladder-breaks-for-women-and-how-to-succeed-anyway",
-"tags": ["Women in the workplace", "Career development", "Leadership", "Diversity"],
-"tags_zh": ["职场女性", "职业发展", "领导力", "多元化"],
-"date": "2025-03-27",
-"summary_en": "This is a McKinsey Podcast episode discussing the challenges limiting professional women's progress and the approaches they can use to succeed. It highlights that while career advancement is difficult for everyone, it can be particularly elusive for women, citing the 'broken rung' as a major obstacle to their career progression.",
-"summary_zh": "这是麦肯锡的一期播客节目，讨论了限制职业女性发展的挑战以及她们可以用来成功的策略。节目指出，尽管职业发展对每个人来说都很艰难，但对女性而言可能尤其难以捉摸，并将“断裂的阶梯”（broken rung）作为她们职业晋升的主要障碍。",
-"best_quote_en": "Career advancement is tough for everyone—but for women, it can feel particularly elusive.",
-"best_quote_zh": "职业发展对每个人来说都很艰难，但对女性而言可能尤其难以捉摸。"
-}
+  {
+    "id": 1,
+    "title": "How to reimagine education for the 21st century",
+    "title_zh": "如何重新构想21世纪的教育",
+    "source": "Brookings Institution",
+    "link": "https://www.brookings.edu/articles/how-to-reimagine-education-for-the-21st-century/",
+    "tags": [
+      "Education",
+      "21st Century Skills",
+      "Learning"
+    ],
+    "tags_zh": [
+      "教育",
+      "21世纪技能",
+      "学习"
+    ],
+    "date": "2025-09-09",
+    "summary_en": "This article discusses the growing demand for education to include a new set of competencies, or '21st-century skills,' such as problem-solving, collaboration, and critical thinking. It highlights the challenge of integrating these skills into the existing curriculum and suggests they should be part of the classroom culture rather than a separate subject.",
+    "summary_zh": "这篇文章讨论了教育领域日益增长的需求，即应将问题解决、协作和批判性思维等“21世纪技能”纳入教学体系。它强调了将这些技能整合到现有课程中的挑战，并建议将其作为课堂文化的一部分，而非独立的学科来教授。",
+    "best_quote_en": "Business leaders across the country tell us that to compete in the knowledge-based economy of the 21st Century children will need a different kind of training and education.",
+    "best_quote_zh": "全国各地的商业领袖告诉我们，要想在21世纪的知识经济中竞争，孩子们需要一种不同的培训和教育。"
+  },
+  {
+    "id": 2,
+    "title": "Is This the End of the Growth Mindset Theory?",
+    "title_zh": "成长型思维理论终结了吗？",
+    "source": "Psychology Today",
+    "link": "https://www.psychologytoday.com/sg/blog/the-asymmetric-brain/202509/is-this-the-end-of-the-growth-mindset-theory",
+    "tags": [
+      "Cognitive Psychology",
+      "Education",
+      "Growth Mindset"
+    ],
+    "tags_zh": [
+      "认知心理学",
+      "教育",
+      "成长型思维"
+    ],
+    "date": "2025-09-13",
+    "summary_en": "A new structured review of studies on growth mindset interventions finds that they have little to no effect on academic performance. The study focused on high-quality data and found that the positive effects reported in lower-quality studies were likely due to flawed study designs rather than actual effectiveness.",
+    "summary_zh": "一项针对成长型思维干预研究的最新系统性综述发现，该理论对学业表现几乎没有影响。这项研究主要关注高质量数据，并指出低质量研究中报告的积极影响，更有可能是由于有缺陷的研究设计，而非干预措施的实际效果。",
+    "best_quote_en": "When only the 14 study outcomes with the highest quality rating were considered, the effect of growth mindset interventions was around zero.",
+    "best_quote_zh": "当只考虑14个最高质量的研究结果时，成长型思维干预措施的影响几乎为零。"
+  },
+  {
+    "id": 3,
+    "title": "Xi Jinping is in a race against time to secure his legacy in China",
+    "title_zh": "习近平正在与时间赛跑以巩固他在中国的历史遗产",
+    "source": "The Conversation",
+    "link": "https://theconversation.com/xi-jinping-is-in-a-race-against-time-to-secure-his-legacy-in-china-264691",
+    "tags": [
+      "Politics",
+      "China",
+      "Xi Jinping",
+      "Foreign Policy"
+    ],
+    "tags_zh": [
+      "政治",
+      "中国",
+      "习近平",
+      "外交政策"
+    ],
+    "date": "2025-09-12",
+    "summary_en": "Chinese leader Xi Jinping is in a race against time to secure his place in history, a goal that hinges on the unification with Taiwan. While a peaceful approach has worked in the past, a more aggressive push for unification could be the most dangerous gamble of his rule, risking strategic humiliation and political turbulence.",
+    "summary_zh": "中国领导人习近平正在与时间赛跑，以巩固他在历史上的地位，而这一目标取决于与台湾的统一。尽管过去采取的和平策略行之有效，但以更激进的方式推动统一可能是他执政生涯中最危险的一次豪赌，将面临战略上的屈辱和国内政治动荡的风险。",
+    "best_quote_en": "A forced attempt to seize Taiwan would be the most dangerous gamble of his rule.",
+    "best_quote_zh": "强行攻占台湾将是他执政生涯中最危险的一次豪赌。"
+  },
+  {
+    "id": 4,
+    "title": "The Problem with Your 'Authentic Self'",
+    "title_zh": "你的“真实自我”有什么问题",
+    "source": "Psychology Today",
+    "link": "https://www.psychologytoday.com/sg/blog/mr-personality/202509/the-problem-with-your-authentic-self",
+    "tags": [
+      "Cognitive Psychology",
+      "Authenticity",
+      "Personality"
+    ],
+    "tags_zh": [
+      "认知心理学",
+      "真实性",
+      "人格"
+    ],
+    "date": "2025-09-13",
+    "summary_en": "This article argues that the modern emphasis on finding your 'authentic self' can be problematic, leading to a self-centered, narcissistic society. Instead of focusing on being 'real,' the author suggests we should strive to be our 'best self' by practicing emotional intelligence, self-control, and empathy.",
+    "summary_zh": "这篇文章指出，现代社会对寻找“真实自我”的强调可能带来问题，导致一个以自我为中心、自恋化的社会。作者建议，与其专注于成为“真实的自己”，我们应该通过练习情商、自控和同理心，努力成为“最好的自己”。",
+    "best_quote_en": "Authenticity, when taken to extremes, fuels a society that is self-centered, narcissistic, and infantilized.",
+    "best_quote_zh": "当“真实性”走向极端时，它会助长一个以自我为中心、自恋化、幼稚化的社会。"
+  },
+  {
+    "id": 5,
+    "title": "Taylor Swift is engaged: she’s been getting her fans ready for this moment for 20 years",
+    "title_zh": "泰勒·斯威夫特订婚了：她用20年为粉丝准备这一刻",
+    "source": "The Conversation",
+    "link": "https://theconversation.com/taylor-swift-is-engaged-shes-been-getting-her-fans-ready-for-this-moment-for-20-years-264027",
+    "tags": [
+      "Celebrity News",
+      "Music",
+      "Fan Culture"
+    ],
+    "tags_zh": [
+      "名人新闻",
+      "音乐",
+      "粉丝文化"
+    ],
+    "date": "2025-08-27",
+    "summary_en": "This article explores how Taylor Swift's long-term engagement with her fans has prepared them for her personal milestones, such as her engagement to Travis Kelce. It discusses how her narrative has created a strong emotional bond that led to an outpouring of support and love from her fan base.",
+    "summary_zh": "这篇文章探讨了泰勒·斯威夫特如何通过长期与粉丝的互动，让他们为她的个人里程碑（如与特拉维斯·凯尔斯的订婚）做好了准备。文章讨论了她的叙事如何创造了强烈的情感联系，从而引发了粉丝群体的巨大支持和喜爱。",
+    "best_quote_en": "She's been getting her fans ready for this moment for 20 years.",
+    "best_quote_zh": "她用20年为粉丝准备了这一刻。"
+  },
+  {
+    "id": 6,
+    "title": "Human Agency in the Age of AI",
+    "title_zh": "人工智能时代的人类能动性",
+    "source": "Psychology Today",
+    "link": "https://www.psychologytoday.com/sg/blog/the-digital-self/202509/human-agency-in-the-age-of-ai",
+    "tags": [
+      "Cognitive Psychology",
+      "AI",
+      "Technology"
+    ],
+    "tags_zh": [
+      "认知心理学",
+      "人工智能",
+      "技术"
+    ],
+    "date": "2025-09-13",
+    "summary_en": "This article discusses the importance of human agency—the ability to direct our own thinking—in an age where AI is becoming increasingly persuasive. It argues that we must teach critical thinking and remain actively engaged to avoid running on 'AI autopilot' and to maintain our role as the 'authors of our own minds.'",
+    "summary_zh": "这篇文章讨论了在一个人工智能日益具有说服力的时代，人类能动性（即指导我们自身思维的能力）的重要性。文章指出，我们必须培养批判性思维并保持积极参与，以避免进入“AI自动驾驶”模式，并保持我们作为“自己思想作者”的角色。",
+    "best_quote_en": "Human agency is what keeps us drivers, not passengers, of the mind.",
+    "best_quote_zh": "人类能动性是让我们成为思想的“驾驶员”而非“乘客”的关键。"
+  },
+  {
+    "id": 7,
+    "title": "3 Ways Exercise Can Slow (or Even Reverse) Epigenetic Aging",
+    "title_zh": "运动延缓甚至逆转表观遗传衰老的3种方式",
+    "source": "Psychology Today",
+    "link": "https://www.psychologytoday.com/sg/blog/the-athletes-way/202509/3-ways-exercise-can-slow-or-even-reverse-epigenetic-aging",
+    "tags": [
+      "Exercise",
+      "Epigenetics",
+      "Aging"
+    ],
+    "tags_zh": [
+      "运动",
+      "表观遗传学",
+      "衰老"
+    ],
+    "date": "2025-09-11",
+    "summary_en": "Regular exercise acts as a powerful 'geroprotector' by influencing your epigenome. It helps to keep DNA packaging loose for better repair, creates 'good' stress (hormesis) that rejuvenates cells, and strengthens mitochondria to combat aging.",
+    "summary_zh": "定期运动通过影响表观遗传学，可以作为一种强大的“延缓衰老保护剂”。它有助于保持DNA包装松散以利于修复，产生“良性”压力（毒物兴奋效应）来使细胞恢复活力，并增强线粒体以对抗衰老。",
+    "best_quote_en": "Research suggests that lifestyle choices (e.g., diet, exercise, stress management) can slow down epigenetic aging or even rewind it.",
+    "best_quote_zh": "研究表明，生活方式的选择（例如饮食、运动、压力管理）可以减缓表观遗传衰老，甚至逆转它。"
+  },
+  {
+    "id": 8,
+    "title": "美国芯片巨头三年降价一半，中国企业陷入“被动跟跌” 困境",
+    "title_zh": "美国芯片巨头三年降价一半，中国企业陷入“被动跟跌” 困境",
+    "source": "第一财经",
+    "link": "https://www.yicai.com/news/102823085.html",
+    "tags": [
+      "半导体",
+      "经济",
+      "科技",
+      "中美关系"
+    ],
+    "tags_zh": [
+      "半导体",
+      "经济",
+      "科技",
+      "中美关系"
+    ],
+    "date": "2025-09-13",
+    "summary_en": "The article reports that the Chinese Ministry of Commerce has initiated an anti-dumping investigation into imported U.S. chips. The investigation was prompted by a domestic industry request, alleging that U.S. chip giants have cut prices by half over three years, putting Chinese companies in a difficult position of 'passive price-following.'",
+    "summary_zh": "文章报道称，中国商务部已应国内产业申请，决定对原产于美国的进口相关模拟芯片发起反倾销调查。调查指出，美国芯片巨头在三年内将价格削减了一半，导致中国企业陷入“被动跟跌”的困境。",
+    "best_quote_en": "U.S. chip giants slash prices by half in three years, leaving Chinese companies in a 'passive follow-the-fall' predicament.",
+    "best_quote_zh": "美国芯片巨头三年降价一半，中国企业陷入“被动跟跌” 困境。"
+  },
+  {
+    "id": 9,
+    "title": "Extreme Heat Will Change You",
+    "title_zh": "极端高温会改变你",
+    "source": "Nautilus",
+    "link": "https://nautil.us/extreme-heat-will-change-you-1232228/",
+    "tags": [
+      "Climate Change",
+      "Physiology",
+      "Health"
+    ],
+    "tags_zh": [
+      "气候变化",
+      "生理学",
+      "健康"
+    ],
+    "date": "2025-08-27",
+    "summary_en": "This article explores how extreme heat affects the human body at a molecular level. It discusses how heat can cause proteins to unfold and lead to changes in DNA, potentially accelerating aging and making people more vulnerable to heat-related illnesses.",
+    "summary_zh": "这篇文章探讨了极端高温如何在分子层面影响人体。文中讨论了高温如何导致蛋白质展开和DNA发生改变，这可能加速衰老，并使人们更容易受到与热相关的疾病影响。",
+    "best_quote_en": "The key message from our findings is that heat could be affecting healthy populations in ways that we can't see.",
+    "best_quote_zh": "我们研究结果的核心信息是，高温可能以我们肉眼看不见的方式影响健康人群。"
+  },
+  {
+    "id": 10,
+    "title": "Does Musical Taste Narrow with Age?",
+    "title_zh": "音乐品味会随着年龄增长而变窄吗？",
+    "source": "Nautilus",
+    "link": "https://nautil.us/does-musical-taste-narrow-with-age-1237216/",
+    "tags": [
+      "Psychology",
+      "Music",
+      "Data Science"
+    ],
+    "tags_zh": [
+      "心理学",
+      "音乐",
+      "数据科学"
+    ],
+    "date": "2025-09-12",
+    "summary_en": "This article explores how musical listening habits evolve with age. It uses data from 450 million song plays to analyze whether people's musical tastes become more narrow as they get older.",
+    "summary_zh": "这篇文章探讨了随着年龄的增长，人们的音乐收听习惯如何演变。它利用4.5亿次歌曲播放数据来分析人们的音乐品味是否会随着年龄增长而变得更窄。",
+    "best_quote_en": "What 450 million song plays tell us about how our listening habits evolve.",
+    "best_quote_zh": "4.5亿次歌曲播放数据告诉我们，我们的收听习惯是如何演变的。"
+  },
+  {
+    "id": 11,
+    "title": "Luma AI CEO: Hollywood is dying, only AI can save it - Lowpass",
+    "title_zh": "Luma AI CEO：好莱坞已死，唯有AI能拯救它 - Lowpass",
+    "source": "Lowpass",
+    "link": "https://www.lowpass.cc/p/luma-ai-ceo-amit-jain-ray3-genai-hollywood",
+    "tags": [
+      "AI",
+      "Movies",
+      "Technology"
+    ],
+    "tags_zh": [
+      "AI",
+      "电影",
+      "科技"
+    ],
+    "date": "2025-09-18",
+    "summary_en": "The article discusses the views of Luma AI CEO Amit Jain on the state of the movie industry. Jain argues that Hollywood is 'already dead' if it continues its current path of producing a small number of expensive blockbusters and telling the same stories. He believes that generative AI is the only way to save the industry by helping filmmakers take creative risks and experiment with new ideas faster and at a lower cost. The article also mentions Luma AI's new video model, Ray 3, which Jain claims is the first generative video model with reasoning capabilities.",
+    "summary_zh": "这篇文章讨论了Luma AI首席执行官阿米特·贾因（Amit Jain）对电影行业现状的看法。贾因认为，如果好莱坞继续走目前制作少数昂贵大片、并反复讲述同样故事的道路，它就已经“死了”。他相信生成式AI是拯救该行业的唯一途径，因为它能帮助电影制作人更快、以更低的成本承担创意风险并尝试新想法。文章还提到了Luma AI的新视频模型Ray 3，贾因声称这是首个具有推理能力的生成式视频模型。",
+    "best_quote_en": "Hollywood is already dead if it continues on its current path. This has nothing to do with AI. The way it is consolidating, and keeps telling the same stories over and over again.",
+    "best_quote_zh": "如果好莱坞继续走目前的道路，它就已经死了。这与AI无关。它正在整合，并且不断地一遍又一遍地讲述同样的故事。"
+  },
+  {
+    "id": 12,
+    "title": "Beyond The Hype: What AI Can Really Do For Product Design",
+    "title_zh": "超越炒作：AI对产品设计到底能做什么",
+    "source": "Smashing Magazine",
+    "link": "https://www.smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/",
+    "tags": [
+      "AI",
+      "Product Design",
+      "Technology"
+    ],
+    "tags_zh": [
+      "AI",
+      "产品设计",
+      "科技"
+    ],
+    "date": "2025-08-18",
+    "summary_en": "The article discusses the practical application of AI in the product design workflow. It explains how to effectively integrate AI into four core stages: idea generation, prototyping, visual design, and data analysis. The author emphasizes that AI should be treated as a “co-pilot,” not an “autopilot,” and that providing the right, structured context is key to getting meaningful results. The article highlights that AI is not a replacement for human creativity but a tool to boost productivity, spark new ideas, and validate concepts.",
+    "summary_zh": "这篇文章探讨了AI在产品设计工作流程中的实际应用，超越了炒作。文章解释了如何将AI有效地整合到四个核心阶段：创意生成、原型设计、视觉设计和数据分析。作者强调，AI应该被视为“副驾驶”，而非“自动驾驶”，提供正确、结构化的上下文是获得有意义结果的关键。文章指出，AI并非取代人类创造力，而是一种提升生产力、激发新想法和验证概念的工具。",
+    "best_quote_en": "AI in design is only as good as the questions you ask it. It doesn't do the work for you. It doesn't replace your thinking. But it helps you move faster, explore more options, validate ideas, and focus on the hard parts instead of burning time on repetitive ones.",
+    "best_quote_zh": "设计中的AI好坏取决于你向它提出的问题。它不会替你完成工作，也无法取代你的思考。但它可以帮助你更快地行动，探索更多选项，验证想法，并将精力集中在困难的部分，而不是浪费时间在重复性任务上。"
+  },
+  {
+    "id": 13,
+    "title": "中美元首年内第三次通话，专家：两国关系进入新阶段",
+    "title_zh": "中美元首年内第三次通话，专家：两国关系进入新阶段",
+    "source": "新浪财经",
+    "link": "https://finance.sina.com.cn/jjxw/2025-09-21/doc-infrekky8185511.shtml",
+    "tags": [
+      "外交",
+      "中美关系",
+      "政治",
+      "国际关系"
+    ],
+    "tags_zh": [
+      "外交",
+      "中美关系",
+      "政治",
+      "国际关系"
+    ],
+    "date": "2025-09-21",
+    "summary_en": "The article reports on the third phone call this year between the heads of state of China and the United States, and analyzes its significance for China-U.S. relations based on expert opinions. The call, which took place on the evening of September 19, was described as practical, positive, and constructive. Experts believe the call sent a positive signal, confirmed the crucial role of head-of-state diplomacy, and laid the foundation for future meetings. It also touched on key issues like the TikTok problem and historical views on World War II. Despite the ongoing competition between the two countries, experts agree that the call effectively anchored the stability of China-U.S. relations and demonstrated China's proactive willingness and ability to manage and stabilize the relationship.",
+    "summary_zh": "这篇文章报道了中美元首年内第三次通话，并引用专家观点分析了此次通话对中美关系的意义。通话发生在9月19日晚，是继6月5日后的又一次通话。文章指出，这次通话是务实、积极、建设性的，并为下一阶段中美关系的稳定发展提供了战略指引。专家们认为，此次通话释放了积极信号，确认了元首外交在两国关系中的关键作用，并为未来的元首会晤奠定了基础。通话还涉及了关键议题，如TikTok问题和对二战历史的看法。尽管两国关系仍存在博弈，但专家认为此次通话有效地锚定了中美关系的稳定态势，并展现了中方管控和稳定中美关系的积极意愿和能力。",
+    "best_quote_en": "This phone call sent a positive and constructive signal. The two leaders affirmed the results of the latest round of China-U.S. economic and trade negotiations and expressed hope that both sides will continue to work to achieve more results in other areas. This call means that China-U.S. relations have entered the next stage, that is, 'it may be entering the head-of-state meeting stage.'",
+    "best_quote_zh": "这次通话释放了积极和建设性的信号，两国领导人肯定了最新一轮中美经贸谈判取得的成果，并表达了双方将继续努力在其他领域取得更多成果的希望。这次通话意味着中美关系进入了下一个阶段，即“可能要进入元首会晤阶段”。"
+  },
+  {
+    "id": 14,
+    "title": "DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting | Lex Fridman Podcast #474",
+    "title_zh": "DHH：编程的未来、AI、Ruby on Rails、生产力与育儿 | Lex Fridman播客 #474",
+    "source": "Lex Fridman",
+    "link": "https://www.youtube.com/watch?v=vagyIcmIGOQ",
+    "tags": [
+      "Programming",
+      "AI",
+      "Ruby on Rails",
+      "Technology",
+      "Web Development",
+      "Productivity"
+    ],
+    "tags_zh": [
+      "编程",
+      "人工智能",
+      "Ruby on Rails",
+      "科技",
+      "网络开发",
+      "生产力"
+    ],
+    "date": "2025-07-12",
+    "summary_en": "This episode of the Lex Fridman Podcast features an extensive conversation with David Heinemeier Hansson (DHH), the creator of Ruby on Rails, co-owner of 37signals, and a New York Times best-selling author. The discussion covers a wide range of topics, including DHH's initial struggles with learning programming in his childhood, his views on the evolution of web development, and his philosophy behind Ruby on Rails' design, particularly the 'no build' approach in Rails 8 that seeks to combine the simplicity of early web development with modern advancements. He critiques elements like cookie banners as a 'complete boondoggle' and a monument to regulatory failures. The conversation also touches upon the broader societal impact of technology, human creativity versus AI, and the importance of intellectual humility in understanding complex global affairs.",
+    "summary_zh": "Lex Fridman播客的这一集深入采访了David Heinemeier Hansson (DHH)，他是Ruby on Rails的创始人，37signals的共同所有者，也是一位纽约时报畅销书作家。讨论涵盖了广泛的主题，包括DHH童年时期学习编程的最初挣扎，他对网络发展演变的看法，以及他关于Ruby on Rails设计理念，特别是Rails 8中旨在将早期网络开发的简洁性与现代进步相结合的“无构建”方法。他批评了像Cookie横幅这样的元素，称其为“彻底的浪费”和监管失败的象征。对话还触及了技术对社会的更广泛影响、人类创造力与人工智能的对比，以及在理解复杂的全球事务中保持知识谦逊的重要性。",
+    "best_quote_en": "no one anywhere who's serious believes that Cookie banners does anything good for anyone yet we've been unable to get rid of it... no one in the universe is safe from this nonsense.",
+    "best_quote_zh": "任何认真的人都不相信Cookie横幅对任何人有好处，然而我们却无法摆脱它……宇宙中没有人能幸免于这种无稽之谈。"
+  },
+  {
+    "id": 15,
+    "title": "A New Era for Generalist Robotics: The Rise of Humanoids | NVIDIA GTC 2025",
+    "title_zh": "通用机器人新时代：人形机器人的崛起 | 英伟达GTC 2025",
+    "source": "NVIDIA Developer",
+    "link": "https://www.youtube.com/watch?v=BmD22FNOAY4",
+    "tags": [
+      "Robotics",
+      "Humanoids",
+      "AI",
+      "NVIDIA GTC",
+      "Hardware",
+      "Simulation",
+      "Generalist AI"
+    ],
+    "tags_zh": [
+      "机器人",
+      "人形机器人",
+      "人工智能",
+      "英伟达GTC",
+      "硬件",
+      "模拟",
+      "通用人工智能"
+    ],
+    "date": "2025-04-08",
+    "summary_en": "This video captures a panel discussion from NVIDIA GTC 2025, moderated by Tiffany Jansen, featuring leaders in robotics: Burnt Barnick (1X), Deepak Pathak (Skilled AI), Pros Feligaputo (Agility Robotics), Aaron Saunders (Boston Dynamics), and Jim Fan (NVIDIA). The panel explores the rapid advancements in generalist robotics and the rise of humanoids. Key themes include the historical slowness of robotics as an AI application, the transformative impact of large foundation models for reasoning and multimodal understanding, the critical role of data generation through GPU-accelerated simulation, and significant improvements in hardware affordability and robustness. The panelists discuss the shift from control-based robotics to learning-from-experience, the challenges of cross-embodiment and data diversity, and the future vision of robots automating science and even self-assembling other robots. They emphasize that while full general-purpose robots are still years away, specialized robots delivering immediate value are already here and will become increasingly prevalent.",
+    "summary_zh": "这段视频是英伟达GTC 2025上的一场由Tiffany Jansen主持的专家小组讨论，汇集了机器人领域的领军人物：Burnt Barnick (1X)、Deepak Pathak (Skilled AI)、Pros Feligaputo (Agility Robotics)、Aaron Saunders (Boston Dynamics) 和 Jim Fan (NVIDIA)。小组讨论探讨了通用机器人的快速发展和人形机器人的兴起。主要议题包括机器人作为AI应用的历史性缓慢进展、大型基础模型对推理和多模态理解的变革性影响、通过GPU加速模拟进行数据生成的关键作用，以及硬件成本效益和鲁棒性的显著提升。小组成员讨论了从基于控制的机器人到基于经验学习的转变、跨实体和数据多样性的挑战，以及机器人自动化科学甚至自我组装其他机器人的未来愿景。他们强调，尽管完全通用的机器人仍需数年才能实现，但能够立即提供价值的专业机器人已经问世，并将日益普及。",
+    "best_quote_en": "We were born too late to explore the earth, we were born too early to travel to other galaxies, we were born just in time to solve robotics and everything that moves will be autonomous.",
+    "best_quote_zh": "我们出生得太晚，无法探索地球；出生得太早，无法旅行到其他星系；但我们恰好出生在解决机器人问题的时代，未来所有能移动的东西都将是自主的。"
+  },
+  {
+    "id": 16,
+    "title": "When the career ladder breaks for women—and how to succeed anyway",
+    "title_zh": "当女性的职业阶梯断裂时——以及如何成功突围",
+    "source": "McKinsey & Company",
+    "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/when-the-career-ladder-breaks-for-women-and-how-to-succeed-anyway",
+    "tags": [
+      "Women in the workplace",
+      "Career development",
+      "Leadership",
+      "Diversity"
+    ],
+    "tags_zh": [
+      "职场女性",
+      "职业发展",
+      "领导力",
+      "多元化"
+    ],
+    "date": "2025-03-27",
+    "summary_en": "This is a McKinsey Podcast episode discussing the challenges limiting professional women's progress and the approaches they can use to succeed. It highlights that while career advancement is difficult for everyone, it can be particularly elusive for women, citing the 'broken rung' as a major obstacle to their career progression.",
+    "summary_zh": "这是麦肯锡的一期播客节目，讨论了限制职业女性发展的挑战以及她们可以用来成功的策略。节目指出，尽管职业发展对每个人来说都很艰难，但对女性而言可能尤其难以捉摸，并将“断裂的阶梯”（broken rung）作为她们职业晋升的主要障碍。",
+    "best_quote_en": "Career advancement is tough for everyone—but for women, it can feel particularly elusive.",
+    "best_quote_zh": "职业发展对每个人来说都很艰难，但对女性而言可能尤其难以捉摸。"
+  },
+  {
+    "id": 17,
+    "title": "What is the future of English studies?",
+    "title_zh": "英语研究的未来是什么？",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/07/07/whats-is-the-future-of-english-studies/",
+    "tags": [
+      "learn",
+      "education",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2025-07-07",
+    "summary_en": "This reflective essay explores the current challenges facing English studies, particularly the decline in student engagement and joy in reading. The author, an advocate for embracing incomprehension in literature, shares experiences from academic conferences and workshops, highlighting the emotional and pedagogical disconnect in modern education. Through personal anecdotes and expert insights, the piece underscores the importance of fostering a love for reading and storytelling, while navigating the encroachment of technology and standardized testing. It serves as both a lament for the changing landscape of English education and an inspiration for innovative approaches to literature and comprehension.",
+    "summary_zh": "这篇文章反思了英语研究当前面临的挑战，尤其是学生参与度和阅读乐趣的下降。作者作为文学研究倡导者，分享了在学术会议和工作坊中的经验，突显了现代教育中情感和教学上的脱节。通过个人轶事和专家见解，文章强调了培养阅读和故事讲述热情的重要性，同时应对技术入侵和标准化测试的挑战。它既是对英语教育变革的哀叹，也是对文学创新方法的激励。",
+    "best_quote_en": "Reading has always been about joy. I was eight when I decided that I wanted to study English literature at university, having been entranced by L.M. Montgomery’s 'Anne of Green Gables'. Reading was magic, it seemed to me.",
+    "best_quote_zh": "阅读一直是关于快乐的。我在八岁时决定想上大学学习英国文学，因为我被L.M. Montgomery的《绿山墙上的安妮》迷住了。在我看来，阅读是魔法。"
+  },
+  {
+    "id": 18,
+    "title": "Why it’s worth taking a wider look at biarchal cultures | Letters",
+    "title_zh": "为什么值得更广泛地审视二元文化",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/science/2025/oct/10/why-its-worth-taking-a-wider-look-at-biarchal-cultures",
+    "tags": [
+      "update",
+      "society",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "案例研究"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "Laura Spinney's article proposes a fascinating exploration of gender-egalitarian societies that once existed, challenging the Eurocentric narrative of societal evolution. However, the piece remains constrained by this perspective, overlooking regions where biarchal traditions persist or were recently suppressed by colonial forces. The author effectively highlights examples from North America, Africa, India, and Polynesia, demonstrating that these cultures were not confined to ancient times but were actively dismantled through European colonialism. This content offers both historical insight and a critique of contemporary gender norms, encouraging readers to reconsider the possibility of more balanced gender systems. It serves as a powerful tool for education and advocacy, particularly for those interested in decolonizing gender studies and promoting inclusive societal structures.",
+    "summary_zh": "劳拉·斯宾尼的文章提出了关于曾经存在过的性别平等社会的迷人探索，挑战了社会进化过程中的欧洲中心主义叙事。然而，文章仍然受限于这种视角，忽视了殖民主义如何摧毁这些传统在北美、非洲、印度和波利尼西亚等地持续存在的事实。作者有效展示了这些例子，证明这些文化并非局限于古代，而是被欧洲殖民主义积极摧毁。这篇文章提供了历史洞察和对当代性别规范的批判，鼓励读者重新考虑更平衡的性别系统的可能性。它特别适合作为教育和倡导工具，对于那些有兴趣解构性别研究和促进包容性社会结构的人来说尤为相关。",
+    "best_quote_en": "In societies where women were valued equally to men, individuals with both masculine and feminine traits were often revered.",
+    "best_quote_zh": "在女性与男性同样被重视的社会中，同时具备阳刚与阴柔特质的人往往受到尊敬。"
+  },
+  {
+    "id": 19,
+    "title": "Modeling a Wealth Tax",
+    "title_zh": "财富税建模",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/wtax.html",
+    "tags": [
+      "update",
+      "startup-strategy",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业策略",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-12",
+    "summary_en": "This article provides a detailed financial modeling of the impact of wealth taxes on startup founders, demonstrating how even low tax rates can drastically reduce lifetime wealth accumulation due to compounding effects. The author effectively uses mathematical modeling to illustrate the progressive nature of wealth taxes, contrasting them with income taxes that only apply annually. The analysis challenges conventional perceptions by quantifying the long-term consequences, making complex economic concepts accessible to a broad audience. The implications extend beyond taxation, highlighting the need for founders to consider alternative wealth retention strategies.",
+    "summary_zh": "本文通过详细财务建模，展示了财富税对创业创始人财富积累的深远影响，揭示了即使低税率也能因复利效应而显著减少终身财富。作者通过数学建模有效阐明了财富税的累进特性，与仅按年度征收的所得税形成对比。该分析挑战了传统观念，通过量化长期后果使复杂的经济概念易于理解。其意义不仅限于税务领域，还强调了创始人需考虑替代财富保留策略的必要性。",
+    "best_quote_en": "A wealth tax will usually have a threshold at which it starts. How much difference would a high threshold make?",
+    "best_quote_zh": "财富税通常有一个起征点。高起征点会带来多大差异？"
+  },
+  {
+    "id": 20,
+    "title": "The Persistent Pull of Planet Epstein",
+    "title_zh": "The Persistent Pull of Planet Epstein",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/the-persistent-pull-of-planet-epstein",
+    "tags": [
+      "update",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-10",
+    "summary_en": "Jay Caspian Kang's 'The Persistent Pull of Planet Epstein' examines the rise of alternative media creators like Candace Owens, who wield significant influence by offering a conspiratorial narrative that challenges mainstream media credibility. The essay highlights the erosion of trust in traditional outlets and the emergence of 'Planet Epstein'—a digital ecosystem where conspiracies thrive, fueled by algorithmic amplification and audience disillusionment. Kang argues that while alternative media may not yet surpass the establishment in sheer power, their grip on public imagination is undeniable, reflecting a broader societal fracture in information consumption. The piece calls for a nuanced understanding of media dynamics, questioning both the integrity of mainstream journalism and the potential harms of unchecked conspiracy theories.",
+    "summary_zh": "杰·卡西安·康的文章《持续吸引埃普斯坦星球》探讨了坎达丝·奥文斯等另类媒体创作者的崛起，他们通过提供阴谋论叙事挑战主流媒体的可信度，从而获得巨大影响力。文章揭示了传统媒体信任度下降的现象，并指出'埃普斯坦星球'这一数字生态系统中阴谋论的盛行，这一现象由算法放大和受众的幻灭感驱动。康认为，虽然另类媒体在纯粹权力上尚未超越主流媒体，但其对公众想象力的控制是毋庸置疑的，反映了信息消费方面的社会分裂。文章呼吁对媒体动态进行细致理解，既质疑主流新闻的诚信，也指出不受约束的阴谋论可能带来的危害。",
+    "best_quote_en": "‘Is it a matter of audience size? The amount of revenue generated? The hearts and minds won to a particular view?’",
+    "best_quote_zh": "‘这是观众规模的问题吗？产生的收入数量？赢得某种特定观点的心智和心灵？’"
+  },
+  {
+    "id": 21,
+    "title": "Gar’s Tips & Tools – Issue #205",
+    "title_zh": "Gar’s Tips & Tools – Issue #205",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/gars-tips-tools-issue-205/",
+    "tags": [
+      [
+        "solve",
+        "diy",
+        "actionable"
+      ],
+      [
+        "learn",
+        "electronics",
+        "beginner-friendly"
+      ]
+    ],
+    "tags_zh": [
+      [
+        "解决问题",
+        "DIY",
+        "可操作"
+      ],
+      [
+        "学习",
+        "电子",
+        "初学者友好"
+      ]
+    ],
+    "date": "2025-10-10",
+    "summary_en": "This issue of Gar’s Tips & Tools delivers a wealth of practical DIY advice for makers, hobbyists, and crafters. From building an affordable desktop spray booth using everyday materials to exploring budget-friendly cordless rotary tools and carpenter pencil sharpening techniques, the content emphasizes resourcefulness and cost-effectiveness. Becky Stern’s guide to benchtop power supplies offers a beginner-friendly introduction to essential electronics tools, while the battery rolling segment adds a lighthearted touch to energy management. The community engagement in 'Shop Talk' highlights the value of reader interaction, and the subscription appeal underscores the content’s commitment to continuous value delivery. Overall, this issue balances technical tutorials with relatable, everyday applications, fostering both skill development and a sense of community among makers.",
+    "summary_zh": "本期 Gar’s Tips & Tools 内容丰富，为手工爱好者、工匠和制作者提供了大量实用 DIY 建议。从利用日常材料构建经济实惠的桌面喷漆 booth，到探索价格亲民的无线旋转工具和木匠铅笔打磨技巧，内容强调了资源利用和成本效益。Becky Stern 对工作台电源的指导，为电子工具初学者提供了一个清晰的入门指南，而电池翻转部分则为能源管理增添了一抹轻松色彩。'车间闲聊' 中的社区互动凸显了读者交流的价值，而订阅呼吁则体现了内容对持续价值传递的承诺。总体而言，本期在技术教程与日常应用之间取得了平衡，促进了技能提升和手工爱好者间的社区归属感。",
+    "best_quote_en": "Never use a brushed box fan for something like this.",
+    "best_quote_zh": "永远不要在这种场合使用带刷直流风扇。"
+  }
 ]
