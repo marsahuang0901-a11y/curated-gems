@@ -503,4 +503,27 @@
     "best_quote_en": "Never use a brushed box fan for something like this.",
     "best_quote_zh": "永远不要在这种场合使用带刷直流风扇。"
   }
-]
+,{
+    "id": 22,
+    "title": "Iron Ladies review – inspiring account of the women on the miners’ strike picket lines",
+    "title_zh": "《铁娘子们》影评：矿工罢工纠察线上女性们的励志故事",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/film/2025/oct/09/iron-ladies-review-inspiring-account-of-the-women-on-the-miners-strike-picket-lines",
+    "tags": [
+      "analyze",
+      "politics",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "This review analyzes \"Iron Ladies,\" a documentary that shifts the historical lens from the male-dominated picket lines of the 1984-85 UK miners' strike to the women who became its organizational and emotional backbone. The core insight is the profound paradox of the event: while the strike represented a crushing defeat for the unions and their communities, it served as a crucible for the political awakening of thousands of women. Initially motivated by the need to feed their families, they evolved into sophisticated activists, organizing under the \"Women Against Pit Closures\" banner. The reviewer astutely notes that this experience gave them a \"freedom\" and a political consciousness that propelled many into local politics and further education long after the pits closed. The documentary's power lies in reclaiming a narrative of loss and reframing it as a story of grassroots empowerment and enduring legacy, contrasting Margaret Thatcher, the singular \"Iron Lady,\" with the collective strength of the \"hundreds\" of women who discovered their own power in the struggle.",
+    "summary_zh": "这篇影评深刻揭示了纪录片《铁娘子们》的核心价值：它并非简单回顾历史，而是重新聚焦于1984年英国矿工大罢工中被忽视的女性力量。文章洞察到一个关键悖论：在集体抗争的失败中，这些女性完成了惊人的个人蜕变与政治启蒙。她们从家庭主妇转变为社会活动家，这场斗争虽败，却为她们开启了通往公共生活的大门。她们对抗的是一位“铁娘子”，但她们自己，才是成百上千位真正的“铁娘子”。",
+    "best_quote_en": "She was one iron lady, we were hundreds.",
+    "best_quote_zh": "她是一位铁娘子，而我们是成百上千位。"
+  }]
