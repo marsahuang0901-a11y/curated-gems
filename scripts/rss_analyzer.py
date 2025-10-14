@@ -391,31 +391,122 @@ def parse_json_safely(text):
 
 def call_openrouter(model, title, full_content):
     # Updated prompt for smart tagging system
-    prompt_content = f"""
-# TASK: Intelligent Content Analysis & Value-Based Tagging
+prompt_content = f"""
+# 任务: 深度批判性思考分析与结构化输出
 
-You are an expert content analyst specializing in extracting meaningful insights and generating intelligent tags based on content value and user discoverability.
+你是一个顶级的、精通批判性思维的分析师，你的任务是阅读并深度分析用户提供的文章内容。
+请严格按照以下【八项批判性思考任务】的要求，对文章进行深入分析和结构化输出。
 
-## ANALYSIS FRAMEWORK:
+---
+**文章标题 (Title):** {title}
+**文章内容 (Content):**
+{full_content}
+---
 
-### 1. CONTENT VALUE IDENTIFICATION
-- Assess information novelty and uniqueness
-- Evaluate practical applicability and actionability
-- Identify thought leadership and expert insights
-- Determine educational and learning value
+**【八项批判性思考任务】**
 
-### 2. USER INTENT PREDICTION
-- Consider what users would search for to find this content
-- Identify the primary problems this content solves
-- Determine the target audience and their needs
-- Predict discovery patterns and search behaviors
+**1. 批判性思维九步拆解**
+请用以下9步审视并输出结构化摘要：
+① 论点：一句话概括作者核心主张。
+② 事实/观点分离：列出 3 条可验证事实 + 3 条主观评价。
+③ 证据审查：每条事实标注来源可信度（高/中/低）。
+③ 逻辑链：用箭头图（例如：A -> B -> C）表示主要推理，并指出 3 处潜在漏洞。
+⑤ 隐藏假设：写出作者未明说的 3 条前提。
+⑥ 反例：给出 1 个反例或对立视角。
+⑦ 概念澄清：圈出 1 个关键词并给出你的明确定义。
+⑧ 边界条件：指出该结论最可能失效的 3 种情境。
+⑨ 角色立场：推断作者身份、利益相关方与潜在动机，并评估这对文本可信度与论述重点的影响。
 
-### 3. THREE-LAYER TAG GENERATION
-- Layer 1 (Value Type): Identify user reading intent (learn/solve/inspire/update/analyze/guide)
-- Layer 2 (Domain Theme): Determine content domain and thematic focus
-- Layer 3 (Feature Tags): Add 1-3 descriptive characteristics (actionable, advanced, etc.)
-- Ensure hierarchical consistency and user discoverability across all layers
+**2. 三栏表分析**
+请列出以下三栏的详细内容，每栏标注**整体可信度（高/中/低）**及**一段简短的可质疑点**：
+| 隐含前提 | 证据 (数据、案例等) | 逻辑推论 (Premise to Conclusion) |
 
+**3. 反例压力**
+给出 3 个**数据充分且结论相反**的案例（简述即可），并模拟原文作者可能给出的一段回应。
+
+**4. 价值冲突雷达**
+对照以下核心价值观（自由·平等·可持续），列出冲突强度为 1–5 的 3 个具体点。
+
+**5. 立场换位**
+将原文改写成一篇立场**相反但仍自洽**的短文（约 150-200 字）。
+
+**6. 情绪—归因实验**
+假设读者阅读后主要情绪为**（请选择一个主要情绪，如：焦虑/认同/质疑）**，请给出 3 种可能的认知归因，并设计 1 个 24 小时内可验证的小实验。
+
+**7. 十年回溯**
+若我持续相信原文观点，请写出：
+* 10 年后的最大收益（1 条）。
+* 10 年后的最大风险（1 条）。
+* 本周可执行的小步调整策略（1 条）。
+
+**8. 思考写这篇文章的人角色立场**
+推断作者的**角色立场**，并评估其潜在的**角色代入**影响。
+
+---
+**【最终输出格式要求】**
+
+请将以上所有分析结果整合成一个清晰、易读的 Markdown 格式文本块，并将其**翻译成中文 (critique_zh)** 和**英文 (critique_en)** 两个版本。
+
+同时，为了保证数据完整性，请保留原有的摘要、标题翻译和标签字段。
+
+## OUTPUT SPECIFICATION:
+
+Return a JSON object with **exactly** these fields:
+
+```json
+{{
+  "title_zh": "Chinese translation of article title",
+  "summary_en": "150-200 word objective English summary of the article's core points.",
+  "summary_zh": "150-200 character objective Chinese summary of the article's core points.",
+  "best_quote_en": "Most insightful English quote from article (translate if necessary)",
+  "best_quote_zh": "Most insightful Chinese quote from article (translate if necessary)",
+  "tags": ["ValueType", "DomainTheme", "FeatureTags"],
+  "tags_zh": ["价值类型", "领域主题", "内容特征"],
+  "critique_zh": "## 批判性思考深度分析\\n\\n[将八项任务的全部中文分析结果放入这里，使用Markdown格式，并确保转义换行符]",
+  "critique_en": "## Deep Critical Analysis\\n\\n[The complete English translation of the eight tasks analysis, in Markdown format, ensure escape newlines]"
+}}
+```
+
+## TAGGING QUALITY STANDARDS:
+
+**DO:**
+- Apply the three-layer tag hierarchy: Value Type + Domain Theme + Feature Tags
+- Layer 1: Identify user intent (learn/solve/inspire/update/analyze/guide)
+- Layer 2: Determine domain theme based on content focus
+- Layer 3: Add 1-3 feature tags that describe content characteristics
+- Ensure tags reflect actual content value and user discoverability
+- Generate 3-6 high-quality tags per language following the hierarchy
+
+**AVOID:**
+- Mixing tags from different layers without clear hierarchy
+- Generic topic tags without value context
+- Overly specific tags that limit discoverability
+- Redundant tags within the same layer
+- More than 6 tags per language or ignoring the three-layer structure
+
+## INPUT:
+
+**Title:** {title}
+
+**Content:**
+{full_content}
+
+---
+
+Provide your analysis as a clean JSON object only.""". strip()
+
+    headers = {
+        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+        "Content-Type": "application/json"
+    }
+
+    # APE-optimized system prompt for better instruction following
+    system_prompt = """
+You are a world-class content analyst with expertise in:
+- Deep textual analysis and critical thinking
+- Cross-cultural communication and translation
+- Insight extraction and synthesis
+- Structured data output# TASK: Intelligent Content Analysis & Value-Based Tagging
 ## TAG STRATEGY:
 
 **Layer 1 - Value Types (用户意图):** learn, solve, inspire, update, analyze, guide
@@ -464,7 +555,7 @@ Return a JSON object with exactly these fields:
 
 ---
 
-Provide your analysis as a clean JSON object only.""".strip()
+Provide your analysis as a clean JSON object only.""". strip()
 
     headers = {
         "Authorization": f"Bearer {OPENROUTER_API_KEY}",
@@ -478,7 +569,6 @@ You are a world-class content analyst with expertise in:
 - Cross-cultural communication and translation
 - Insight extraction and synthesis
 - Structured data output
-
 Core competencies:
 1. ANALYTICAL PRECISION: Extract meaningful insights beyond surface content
 2. LINGUISTIC EXCELLENCE: Provide nuanced translations and culturally appropriate summaries
