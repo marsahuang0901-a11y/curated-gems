@@ -526,4 +526,97 @@
     "summary_zh": "这篇影评深刻揭示了纪录片《铁娘子们》的核心价值：它并非简单回顾历史，而是重新聚焦于1984年英国矿工大罢工中被忽视的女性力量。文章洞察到一个关键悖论：在集体抗争的失败中，这些女性完成了惊人的个人蜕变与政治启蒙。她们从家庭主妇转变为社会活动家，这场斗争虽败，却为她们开启了通往公共生活的大门。她们对抗的是一位“铁娘子”，但她们自己，才是成百上千位真正的“铁娘子”。",
     "best_quote_en": "She was one iron lady, we were hundreds.",
     "best_quote_zh": "她是一位铁娘子，而我们是成百上千位。"
+  },{
+    "id": 23,
+    "title": "Orthodoxy and women in the Anglican church | Letters",
+    "title_zh": "正统派与英国圣公会中的女性 | 书信",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/oct/13/orthodoxy-and-women-in-the-anglican-church",
+    "tags": [
+      "solve",
+      "society",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "The Guardian’s letter piece on Sarah Mullally’s appointment as archbishop of Canterbury invites readers to rethink the oft‑simplified narrative that traditionalist Anglicanism is merely misogynistic. The author, Rev Simon Jones, argues that the opposition to female ordination stems from a deeply held theological conviction—an interpretation of scripture that views ministry as a representative act before God rather than a merit‑based vocation. This stance, he contends, is not rooted in prejudice but in a coherent, albeit conservative, doctrinal framework that predates contemporary culture wars. The article urges the Church of England to embrace theological pluralism, protecting conscience while fostering respectful discourse. By advocating a model of “gracious, theologically literate unity,” it challenges the church to prove that faith can coexist with intellectual rigor and moral seriousness, offering a blueprint for renewal that transcends gendered politics and invites a new generation to engage with faith on a deeper level.",
+    "summary_zh": "作者强调，传统圣公会对女性牧师的抵制并非出于偏见，而是源自对经文的深层解读。文章呼吁教会在保持神学多元的同时，培养尊重与包容，展示信仰与理性并存的可能，激励新生代以更深刻的视角重新审视宗教。",
+    "best_quote_en": "What has damaged the Church of England most in recent years is not honest theological difference but the intolerance of it.",
+    "best_quote_zh": "近年来英国教会受损最大，并非诚实的神学分歧，而是对其的不容忍。"
+  },
+  {
+    "id": 24,
+    "title": "Gaza’s Broken Politics",
+    "title_zh": "加沙的破碎政治",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/essay/gazas-broken-politics",
+    "tags": [
+      "analyze",
+      "politics",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "Mohammed Mhawish’s essay dissects the political vacuum left in Gaza after decades of conflict and the failure of local actors to shape a post‑war future. The piece critiques Trump’s 20‑point “transitional authority” plan, exposing its external control, lack of Palestinian legitimacy, and potential to entrench a security‑first regime. Mhawish argues that Gaza’s political survival hinges on local agency—youth, civil society, unions, and intellectuals must lead planning and implementation. He highlights the erosion of Hamas, the marginalization of the PA, and the collapse of leftist factions, painting a picture of a territory bereft of meaningful representation. The essay calls for a reckoning that re‑establishes internal governance, warns against the “temporary” system becoming permanent, and urges the international community to respect Gaza’s right to self‑determination. The analysis is rich in historical context, critical evaluation of external proposals, and a compelling vision for a locally‑driven political renaissance.",
+    "summary_zh": "文章剖析加沙战争后政治真空与外部干预计划的弊端，强调地方主体治理的必要性与自决权，呼吁国际社会尊重加沙人民的政治重建。",
+    "best_quote_en": "The first imperative is local agency: youth, civil society, unions, and intellectuals must lead planning and implementation. Legitimacy cannot be imported or imposed. It must emerge from within.",
+    "best_quote_zh": "首要任务是地方代理：青年、民间社会、工会和知识分子必须主导规划和实施。合法性不能被外部引入或强加，它必须从内部产生。"
+  },
+  {
+    "id": 25,
+    "title": "Kayaks",
+    "title_zh": "皮划艇",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/kayaks/",
+    "tags": [
+      "learn",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "The article is a practical guide that blends personal experience with expert advice to help readers build a high‑performance Coho kayak from a kit. It begins with a comparative review of several manufacturers—Pygmy, Mill Creek, Red Wing, Chesapeake Light Craft, Dancing Waters, and One Ocean Design—highlighting the precision of Pygmy’s computer‑controlled router cuts and the elegant deck‑hull integration that set the Coho apart. The writer then documents a 300‑hour, step‑by‑step construction process, noting design nuances such as the eight‑panel multi‑chine hull, vertical stern, and optional structural tweaks (e.g., bulkheads, glass‑reinforced deck). A second section showcases a lightweight, inflatable heavy‑duty kayak, emphasizing portability, rapid deployment, and stability for recreational and rescue scenarios. Finally, the author praises the “Kayaks You Can Build” book for its clear instructions, photographic guidance, and practical work‑table design, recommending it as a foundational text for stitch‑and‑glue builders. The piece invites readers to experiment, adapt, and share their own customizations, underscoring the community‑driven nature of kayak craftsmanship.",
+    "summary_zh": "作者通过对多家制造商的对比，推荐Pygmy Coho船舶套件，详细记录300小时的建造过程，强调多面板船体与精确切割的优势。随后介绍轻便充气船的快速组装与稳定性，并高度评价《Kayaks You Can Build》一书的实用性与图解，鼓励读者在社区中分享改造经验，体现皮划艇手工艺的开放与创新。",
+    "best_quote_en": "The book explains how to build a very flat, level, elevated worktable with internal/external stations to hold the boat in position.",
+    "best_quote_zh": "该书解释如何建造一个非常平坦、水平、升高的工作台，配备内部/外部站点以保持船只在位置上。"
+  },
+  {
+    "id": 26,
+    "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",
+    "title_zh": "保护与提升听力与大脑健康 | 斯坦福耳鼻喉科教授康斯坦丁娜·斯坦科维奇博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/protect-improve-your-hearing-brain-health-konstantina-stankovic",
+    "tags": [
+      "analyze",
+      "medicine",
+      "psychology",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "心理学",
+      "未来预测"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "In this episode, Dr. Konstantina Stankovic—Stanford’s chair of Otolaryngology—unpacks the biology of hearing and the staggering toll of hearing loss, which now affects more than 1.5 billion people worldwide. She links auditory decline to reduced focus, higher risk of dementia, and even menopause‑related shifts, underscoring how a single sensory deficit can ripple through cognition, mood, and social engagement. The discussion pivots to evidence‑based protocols: safe sound thresholds, magnesium‑threonate supplementation, ear‑plug etiquette for concerts, and emerging AI‑enhanced hearing aids. By framing hearing loss as a public‑health issue rather than a niche clinical problem, she invites listeners to adopt concrete, low‑cost practices—slow‑speech cues, noise‑cancellation, and regular audiometric check‑ups. The episode blends expert insight with actionable steps, offering a roadmap that balances scientific nuance with everyday practicality. It invites a reevaluation of how we protect a fundamental sense, not just for longevity but for preserving the very fabric of our cognitive life.",
+    "summary_zh": "斯坦科维奇博士深入剖析听力失衡如何影响专注、认知衰退与更年期变化，并提供基于科学的保护方案。她强调耳机使用、镁补充与AI助听器等可落地措施，呼吁将听力健康视为全人类福祉。",
+    "best_quote_en": "Hearing loss impairs focus and increases the risk of cognitive decline.",
+    "best_quote_zh": "听力损失会削弱专注力，并增加认知衰退的风险。"
   }]
