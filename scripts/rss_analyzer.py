@@ -44,7 +44,7 @@ OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 TEMPERATURE = float(os.getenv("OPENROUTER_TEMPERATURE", "0.7"))  # Creativity vs consistency balance
 TOP_P = float(os.getenv("OPENROUTER_TOP_P", "0.9"))  # Nucleus sampling
 TOP_K = int(os.getenv("OPENROUTER_TOP_K", "40"))  # Top-k sampling
-MAX_TOKENS = int(os.getenv("OPENROUTER_MAX_TOKENS", "2048"))  # Response length limit
+MAX_TOKENS = int(os.getenv("OPENROUTER_MAX_TOKENS", "4096"))  # Response length limit
 
 PROCESSED_LINKS_FILE = "scripts/processed_links.json"
 OUTPUT_FILE = "data.json"
