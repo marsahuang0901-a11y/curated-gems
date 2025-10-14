@@ -1,56 +1,118 @@
 [
-{
-  "id": 1,
-  "title": "The Problem With Your Authentic Self",
-  "title_zh": "你的“真实自我”有问题",
-  "source": "Psychology Today (Blog: Mr. Personality)",
-  "link": "https://www.psychologytoday.com/sg/blog/mr-personality/202509/the-problem-with-your-authentic-self",
-  "tags": [
-    "Psychology",
-    "Personality",
-    "Authenticity",
-    "Self-Help"
-  ],
-  "tags_zh": [
-    "心理学",
-    "人格",
-    "真实性",
-    "自我提升"
-  ],
-  "date": "2025-09-15",
-  "summary_en": "The article challenges the modern obsession with 'authenticity,' arguing that taken to an extreme, it is a detrimental principle. The author highlights five 'dark sides,' including fueling self-obsession, serving as an alibi for rudeness, justifying tribal politics, derailing careers by discouraging self-control, and acting as a privilege for those in power. The author concludes that people should strive to be their 'best self,' characterized by self-control, empathy, and respect, rather than their unfiltered, 'authentic self.'",
-  "summary_zh": "文章质疑了现代社会对“真实性”（Authenticity）的痴迷，认为将其推向极端是一种有害的原则。作者提出了五个“黑暗面”，包括助长自我沉迷、成为不文明行为的借口、加剧部落式政治极化、因缺乏自控而阻碍职业发展，以及成为权力阶层的特权。作者总结道，人们应该努力成为“最好的自己”，这体现在自控、同理心和尊重他人，而不是一味追求未经过滤的“真实自我”。",
-  "best_quote_en": "If we want healthier organizations and healthier societies, we should stop fetishizing authenticity and start celebrating maturity: the ability to rise above our immediate impulses, consider the impact of our actions on others, and bring forth not just our true selves, but our best selves.",
-  "best_quote_zh": "“如果我们想要更健康的组织和更健康的社会，就应该停止对真实性的迷恋，开始颂扬成熟：即超越我们即时冲动、考虑自身行为对他人的影响、并展现出不仅是我们的真实自我，而是我们最好的自我的能力。”",
-  "critique_zh": "## 批判性思考 · 核心观点\n\n| 维度 | 观点（中文） | 补充说明 |\n| :--- | :--- | :--- |\n| **核心结论** | 真实性是陷阱，应以“最好的自我”为目标。 | 将“真实自我”视为冲动、自我放纵的自我，提倡以“自控、同理心”为核心的“最好的自我”（即成熟）。 |\n| **概念质疑** | **定义过于狭隘**，简化了“真实性”。 | 批判仅指向“未经过滤的表达”，忽略了真实性在哲学上的深层含义——忠于个人最深刻的价值观，这本身就需要高度的自律和选择。 |\n| **逻辑漏洞** | **虚假二分法**，将“真实”与“最好”对立。 | 两者并非互斥。努力成为“最好的自我”可以被视为一个人**最真实**的价值观和抱负的体现。 |\n| **证据偏差** | 依赖**论证和观察**，缺乏实证数据。 | 论点说服力强，但对于“导致职业受挫”或“加剧社会分裂”等后果缺乏如数据分析般的硬性证据支持。 |\n| **价值风险** | 隐含鼓励**从众和压抑**的风险。 | 过分强调“最好的自我”以适应社会规范（如职场信任、合作），可能扼杀健康的个人特质、创新精神及对现有体制的必要挑战。 |\n\n**反驳立场：** 真正的真实性是**经过深思熟虑的“整合的自我”**，它将个人核心价值与对社会影响的认知结合起来，而非简单的“不加过滤”。“最好的自我”是**实现真实性的手段**，而非其对立面。",
-  "critique_en": "## Critical Analysis · Core Points\n\n| Dimension | Point (English) | Elaboration |\n| :--- | :--- | :--- |\n| **Core Finding** | Authenticity is a trap; aim for the 'best self'. | Defines the 'authentic self' as impulsive and self-indulgent, advocating for the 'best self' (maturity, self-control, empathy) as the alternative. |\n| **Conceptual Doubt** | **Overly narrow definition** of 'Authenticity'. | The critique only targets *unfiltered expression*. It ignores the deeper philosophical meaning: acting in line with one's *deepest values*, which often *requires* discipline and selective disclosure. |\n| **Logical Flaw** | **False Dichotomy**: Authentic vs. Best. | The two are not mutually exclusive. Striving to be one's 'best self' can be seen as the authentic expression of one's deepest values and aspirations, not a facade. |\n| **Evidence Critique** | Relies on **rhetoric and observation**, not empirical data. | The claims about career derailment and social harm are persuasive but lack the hard, data-driven evidence found in the example JSON's source. |\n| **Value Risk** | Implicitly promotes **Conformity and Suppression**. | Overemphasis on the 'best self' (defined by societal norms like trustworthiness, cooperation) risks stifling healthy non-conformity, innovation, and necessary challenges to the status quo. |\n\n**Counter-Argument:** True authenticity is a **deliberate, 'integrated self'** that synthesizes personal core values with an awareness of social impact, rather than simple 'unfiltered' behavior. The 'best self' is the **means to achieve authenticity**, not its opposite."
-}
-{
-  "id": 2,
-  "title": "A New Era for Generalist Robotics: The Rise of Humanoids | NVIDIA GTC 2025",
-  "title_zh": "通用机器人新时代：人形机器人的崛起 | 英伟达 GTC 2025",
-  "source": "NVIDIA Developer",
-  "link": "https://www.youtube.com/watch?v=BmD22FNOAY4",
-  "tags": [
-    "Robotics",
-    "AI",
-    "Humanoids",
-    "Simulation",
-    "GTC 2025"
-  ],
-  "tags_zh": [
-    "机器人技术",
-    "人工智能",
-    "人形机器人",
-    "模拟",
-    "GTC 2025"
-  ],
-  "date": "2025-04-08",
-  "summary_en": "This NVIDIA GTC 2025 panel features leaders from 1X, Boston Dynamics, Agility Robotics, Skild AI, and NVIDIA discussing the rapid acceleration of generalist humanoid robotics. The panel identifies key drivers: the advent of large foundation models, GPU-accelerated simulation for scalable data generation (e.g., Jim Fan's data pyramid), and advancements in hardware robustness. The discussion covers strategies for building a 'robot brain,' balancing end-to-end learning ('photons to actions') with classic control and safety, and the essential role of real-world deployment in overcoming the 'Sim2Real' gap and developing cross-embodiment capabilities.",
-  "summary_zh": "该英伟达 GTC 2025 圆桌会议汇集了 1X、波士顿动力、Agility Robotics、Skild AI 和英伟达的领导者，讨论通用人形机器人技术的快速发展。嘉宾们认为主要驱动因素包括：大型基础模型的出现、用于大规模数据生成的 GPU 加速模拟（如 Jim Fan 的数据金字塔），以及硬件鲁棒性的进步。讨论涵盖了构建“机器人大脑”的策略，如何平衡端到端学习（“从光子到动作”）与经典控制和安全，以及实际部署在弥合“Sim2Real”鸿沟和发展跨平台兼容能力方面所起的关键作用。",
-  "best_quote_en": "We were born just in time to solve robotics and everything that moves will be autonomous.",
-  "best_quote_zh": "“我们出生得太晚，没能探索地球；出生得太早，无法旅行到其他星系；但我们出生得恰逢其时，得以解决机器人技术——所有运动的物体都将实现自主化。”",
-  "critique_zh": "## 批判性思考 · 核心观点\n\n| 维度 | 观点（中文） | 补充说明 |\n| :--- | :--- | :--- |\n| **核心结论** | 通用机器人时代因AI模型和算力加速到来。 | 基础模型提供推理能力，GPU加速模拟解决了数据匮乏问题。 |\n| **观点分歧** | **技术路线侧重不同**。 | NVIDIA/Skild AI 侧重 AI 模型和数据；Boston Dynamics/Agility 强调硬件鲁棒性、安全与经典控制的协同。 |\n| **逻辑漏洞** | **通用性与性能的取舍**。 | 领域随机化（追求通用性）可能牺牲特定任务下的系统最优性能（如高精度操作）。 |\n| **概念质疑** | **短期预测过于激进**。 | 行业对全面普及的速度有分歧（短期内是专家型，通用型需10年），技术预测可能过度乐观。 |\n| **价值核心** | **机器人是可适应的学习引擎**。 | 迪帕克强调机器人区别于数字AI的本质，在于它是一个能在运行时适应自身状态和环境变化的“学习引擎”。 |\n\n**反驳立场：** 机器人技术面临的最大挑战并非算法，而是如何以经济高效且安全的方式，大规模且多样化地获取**真实世界的互动反馈数据**，来消除模型中的“幻觉”和提高跨平台（Cross-Embodiment）兼容性。",
-  "critique_en": "## Critical Analysis · Core Points\n\n| Dimension | Point (English) | Elaboration |\n| :--- | :--- | :--- |\n| **Core Finding** | Generalist Robotics accelerated by AI models and compute. | Foundation models enable reasoning; GPU-accelerated simulation solves the data scarcity problem. |\n| **Diverging Views** | **Different Technical Emphasis.** | NVIDIA/Skild AI focus on the AI model and data; Boston Dynamics/Agility emphasize hardware robustness, safety, and synergy with classic control. |\n| **Logical Flaw** | **Trade-off between Generality and Performance.** | Domain randomization (for generality) may mask dynamics and potentially lower performance in specific tasks (e.g., high-precision operations). |\n| **Conceptual Doubt** | **Aggressive Short-Term Predictions.** | The industry is split on the pace of full adoption (specialist sooner, generalist in 10+ years), suggesting short-term tech predictions may be overly optimistic. |\n| **Value Core** | **Robot as an Adaptive Learning Engine.** | Deepak emphasizes that the robot's core difference from digital AI is its adaptive 'learning engine,' which can adjust to changes in its own body and environment during runtime. |\n\n**Counter-Argument:** The biggest challenge for robotics is not the algorithm, but how to cost-effectively and safely acquire **large-scale, diverse, real-world interaction feedback data** to eliminate 'hallucinations' in the model and improve cross-embodiment compatibility."
-}
+  {
+    "id": 1,
+    "title": "Book of the month: Tahir Hamut Izgil",
+    "title_zh": "Book of the month: Tahir Hamut Izgil",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/06/30/book-of-the-month-tahir-hamut-izgil/",
+    "tags": [
+      "learn",
+      "writing-content",
+      "politics",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "写作内容",
+      "政治时事",
+      "案例研究"
+    ],
+    "date": "2025-06-30",
+    "summary_en": "...",
+    "summary_zh": "...",
+    "best_quote_en": "...",
+    "best_quote_zh": "..."
+  },
+  {
+    "id": 2,
+    "title": "My Software Setup",
+    "title_zh": "我的软件设置",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/MZimdoKyywT53jZBe/my-software-setup",
+    "tags": [
+      "solve",
+      "education",
+      "programming",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "编程开发",
+      "深度分析"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "This post is a candid, almost autobiographical tour through the author’s personal computing ecosystem, revealing how a series of practical frustrations led to a deep‑dive into Linux, tiling window managers, and Emacs. It chronicles the pivot from Windows to a Linux‑centric workflow, the discovery of i3’s Scratchpad for rapid LLM queries, and the eventual adoption of Regolith to resolve peripheral glitches. The narrative is peppered with actionable insights—how a single shortcut can triple productivity, how WSL’s quirks can be mitigated, and how a Vim‑centric mindset can unify the editor, browser, and shell. The writer’s voice is reflective yet instructive, encouraging fellow CS students to experiment with advanced configurations while highlighting the steep learning curve that eventually pays off. The piece underscores the power of customization, the importance of tooling that aligns with cognitive habits, and the way new AI tools can be seamlessly integrated into a workflow. It serves as both a practical guide and a philosophical reminder that the right environment can transform learning and productivity.",
+    "summary_zh": "作者用亲身经历阐述从 Windows 到 Linux 的转变，展示了 i3 窗口管理器、Scratchpad 与 LLM 的高效结合，以及 Regolith 如何解决硬件兼容问题。文章强调自定义工具能显著提升学习与工作效率，提醒同学们勇于尝试先进配置，虽然学习曲线陡峭，但长远收益巨大。",
+    "best_quote_en": "This probably tripled my LLM usage, which made me pretty competent at using them.",
+    "best_quote_zh": "这大概把我的LLM使用量翻了三倍，使我在使用它们时变得相当熟练。"
+  },
+  {
+    "id": 3,
+    "title": "Why María Corina Machado Says That Trump Deserves Her Nobel Peace Prize",
+    "title_zh": "为什么玛丽亚·科里娜·马查多认为特朗普值得她的诺贝尔和平奖",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/why-maria-corina-machado-says-that-donald-trump-deserves-her-peace-prize",
+    "tags": [
+      "update",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-10-13",
+    "summary_en": "In a sharply satirical profile, Jon Lee Anderson dissects the paradox that Venezuela’s opposition icon María Corina Machado, a staunch critic of Nicolás Maduro, has been awarded the Nobel Peace Prize while former U.S. President Donald Trump—whose rhetoric and actions have often been at odds with the prize’s ideals—has publicly celebrated the win. Anderson traces a web of geopolitical theatrics: Trump’s anti‑immigrant campaign framed Venezuelan migrants as gang members, his administration’s punitive strikes on alleged narco‑boats, and the U.S. Treasury’s bounty on Maduro—all juxtaposed with Trump’s own lobbying for the award. The piece interrogates the Nobel Committee’s choice, suggesting it reflects a politicized rather than a principled stance. Machado’s own remarks, framing the prize as a tribute to “the people of Venezuela and President Trump,” underscore a narrative of liberation from “narco‑dictatorships” and a hopeful, albeit contentious, future for the Americas. Anderson’s analysis invites readers to question the intersection of political ambition, international legitimacy, and the symbolic weight of the Nobel Peace Prize, urging a critical appraisal of who truly deserves the honor in a polarized world.",
+    "summary_zh": "安德森在讽刺性报道中揭示，马查多获诺贝尔和平奖，特朗普却为此喝彩，凸显奖项与政治的错位。文章追溯特朗普对委内瑞拉的攻击与对奖项的争夺，质疑诺贝尔委员会的选择是否出于政治考量。马查多称奖是为“委内瑞拉人民和特朗普”，暗示自由与反毒的未来。作者呼吁读者批判性思考，探讨政治野心与国际合法性之间的张力，评判真正配得这份荣誉的人。",
+    "best_quote_en": "The Nobel Committee proved they place politics over peace.",
+    "best_quote_zh": "诺贝尔委员会证明他们把政治置于和平之上。"
+  },
+  {
+    "id": 4,
+    "title": "GPT-4o",
+    "title_zh": "GPT-4o",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/gpt-4o",
+    "tags": [
+      "guide",
+      "ai-research",
+      "ai-product",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "AI产品",
+      "深度分析"
+    ],
+    "date": "2024-05-13",
+    "summary_en": "OpenAI’s latest GPT‑4o rollout signals a pivotal shift: the company is not just building AI, it’s democratizing it. By offering the most capable model free of charge in ChatGPT, the team underscores a mission‑driven business model that balances open access with future‑proof monetization. The voice‑and‑video mode, described as “the best computer interface I’ve ever used,” redefines human‑computer interaction, delivering near‑human latency, expressiveness, and an intuitive conversational flow that feels almost cinematic. This breakthrough illustrates how multimodal AI can bridge the gap between abstract text models and tangible user experiences, hinting at broader applications from personal assistants to collaborative creative tools. The announcement invites developers, designers, and everyday users to envision a world where computers not only respond but anticipate and act, turning everyday tasks into seamless, almost invisible, extensions of human intent. The strategic emphasis on free access paired with optional premium services sets a new industry standard for balancing innovation, inclusivity, and sustainability in AI deployment.",
+    "summary_zh": "OpenAI 推出的 GPT‑4o 通过免费提供最强模型，展示了将 AI 民主化的使命。其语音与视频模式被形容为“我用过的最佳计算机界面”，实现了几乎人类级的响应速度与表现力，重新定义人与计算机的交互。多模态 AI 的突破让文字模型走向可触感体验，为个人助手、协作创作等应用铺路。公司将免费服务与可选付费相结合，既保持创新，又兼顾普惠与可持续发展，树立了行业新标杆。",
+    "best_quote_en": "The new voice (and video) mode is the best computer interface I’ve ever used. It feels like AI from the movies; and it’s still a bit surprising to me that it’s real.",
+    "best_quote_zh": "新的语音（和视频）模式是我用过的最佳计算机界面。它像电影里的 AI；而它真实存在仍让我有点惊讶。"
+  },
+  {
+    "id": 5,
+    "title": "Essentials: Time Perception, Memory & Focus",
+    "title_zh": "基础要点：时间感知、记忆与专注",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-time-perception-memory-focus",
+    "tags": [
+      "learn",
+      "lifestyle",
+      "science"
+    ],
+    "tags_zh": [
+      "学习",
+      "生活方式",
+      "科学研究"
+    ],
+    "date": "2025-10-09",
+    "summary_en": "Huberman Lab’s “Essentials” episode dissects how our internal clocks and neurotransmitters sculpt the way we perceive, remember, and manage time. The host explains how entrainment to daily and seasonal light cycles regulates melatonin, dopamine, and serotonin, which in turn shape energy, mood, and motivation. By mapping circadian, ultradian, and circannual rhythms, he reveals why certain times of day are optimal for exercise, creative work, and rest. The episode also tackles the paradox of “over‑clocking”—when chronic stress or trauma compresses subjective time—and offers concrete, science‑backed strategies: structured work blocks, timed light exposure, and habit‑based scheduling. He emphasizes the role of novelty, emotion, and routine in shaping our temporal experience and memory encoding. The discussion is grounded in peer‑reviewed research yet translated into actionable habits for listeners. It bridges neuroscience with daily productivity, making the science accessible and immediately useful.",
+    "summary_zh": "Huberman 讲解生物节律与神经递质如何塑造时间感知、记忆与专注。通过昼夜、季节光照同步，调节褪黑激素、血清素与多巴胺，影响能量、情绪与动机。节目揭示昼夜节律与超昼夜节律如何决定最佳锻炼、创作与休息时段，并讨论“过度时钟化”导致的时间压缩。提供基于科学的实用技巧：结构化工作区块、定时光照、习惯化排程，帮助恢复时间流畅。强调新奇、情绪与日常习惯对时间体验与记忆编码的影响。内容兼具学术深度与可操作性，既是科学洞察，也是提升生产力的指南。",
+    "best_quote_en": "I share science-based tools to enhance focus and productivity, including strategies for structuring work intervals and optimizing the timing of exercise and daily light exposure.",
+    "best_quote_zh": "我分享基于科学的工具来提升专注力和生产力，包括结构化工作间隔和优化运动与每日光照时机的策略。"
+  }
 ]
