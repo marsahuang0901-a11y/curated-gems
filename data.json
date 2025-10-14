@@ -1,6 +1,6 @@
 [
 {
-  "id": 1000,
+  "id": 1,
   "title": "The Problem With Your Authentic Self",
   "title_zh": "你的“真实自我”有问题",
   "source": "Psychology Today (Blog: Mr. Personality)",
@@ -21,20 +21,9 @@
   "summary_en": "The article challenges the modern obsession with 'authenticity,' arguing that taken to an extreme, it is a detrimental principle. The author highlights five 'dark sides,' including fueling self-obsession, serving as an alibi for rudeness, justifying tribal politics, derailing careers by discouraging self-control, and acting as a privilege for those in power. The author concludes that people should strive to be their 'best self,' characterized by self-control, empathy, and respect, rather than their unfiltered, 'authentic self.'",
   "summary_zh": "文章质疑了现代社会对“真实性”（Authenticity）的痴迷，认为将其推向极端是一种有害的原则。作者提出了五个“黑暗面”，包括助长自我沉迷、成为不文明行为的借口、加剧部落式政治极化、因缺乏自控而阻碍职业发展，以及成为权力阶层的特权。作者总结道，人们应该努力成为“最好的自己”，这体现在自控、同理心和尊重他人，而不是一味追求未经过滤的“真实自我”。",
   "best_quote_en": "If we want healthier organizations and healthier societies, we should stop fetishizing authenticity and start celebrating maturity: the ability to rise above our immediate impulses, consider the impact of our actions on others, and bring forth not just our true selves, but our best selves.",
-  "best_quote_zh": "如果我们想要更健康的组织和更健康的社会，就应该停止对真实性的迷恋，开始颂扬成熟：即超越我们即时冲动、考虑自身行为对他人的影响、并展现出不仅是我们的真实自我，而是我们最好的自我的能力。",
-  "critique_zh": "## 批判性思考 · 核心观点\n\n| 维度 | 观点（中文） | 补充说明 |\n| :--- | :--- | :--- |\
-| **核心结论** | 真实性是陷阱，应以“最好的自我”为目标。 | 将“真实自我”视为冲动、自我放纵的自我，提倡以“自控、同理心”为核心的“最好的自我”（即成熟）。 |\
-| **概念质疑** | **定义过于狭隘**，简化了“真实性”。 | 批判仅指向“未经过滤的表达”，忽略了真实性在哲学上的深层含义——忠于个人最深刻的价值观，这本身就需要高度的自律和选择。 |\
-| **逻辑漏洞** | **虚假二分法**，将“真实”与“最好”对立。 | 两者并非互斥。努力成为“最好的自我”可以被视为一个人**最真实**的价值观和抱负的体现。 |\
-| **证据偏差** | 依赖**论证和观察**，缺乏实证数据。 | 论点说服力强，但对于“导致职业受挫”或“加剧社会分裂”等后果缺乏如数据分析般的硬性证据支持。 |\
-| **价值风险** | 隐含鼓励**从众和压抑**的风险。 | 过分强调“最好的自我”以适应社会规范（如职场信任、合作），可能扼杀健康的个人特质、创新精神及对现有体制的必要挑战。 |\n\n**反驳立场：** 真正的真实性是**经过深思熟虑的“整合的自我”**，它将个人核心价值与对社会影响的认知结合起来，而非简单的“不加过滤”。“最好的自我”是**实现真实性的手段**，而非其对立面。",
-  "critique_en": "## Critical Analysis · Core Points\n\n| Dimension | Point (English) | Elaboration |\
-| :--- | :--- | :--- |\
-| **Core Finding** | Authenticity is a trap; aim for the 'best self'. | Defines the 'authentic self' as impulsive and self-indulgent, advocating for the 'best self' (maturity, self-control, empathy) as the alternative. |\
-| **Conceptual Doubt** | **Overly narrow definition** of 'Authenticity'. | The critique only targets *unfiltered expression*. It ignores the deeper philosophical meaning: acting in line with one's *deepest values*, which often *requires* discipline and selective disclosure. |\
-| **Logical Flaw** | **False Dichotomy**: Authentic vs. Best. | The two are not mutually exclusive. Striving to be one's 'best self' can be seen as the authentic expression of one's deepest values and aspirations, not a facade. |\
-| **Evidence Critique** | Relies on **rhetoric and observation**, not empirical data. | The claims about career derailment and social harm are persuasive but lack the hard, data-driven evidence found in the example JSON's source. |\
-| **Value Risk** | Implicitly promotes **Conformity and Suppression**. | Overemphasis on the 'best self' (defined by societal norms like trustworthiness, cooperation) risks stifling healthy non-conformity, innovation, and necessary challenges to the status quo. |\n\n**Counter-Argument:** True authenticity is a **deliberate, 'integrated self'** that synthesizes personal core values with an awareness of social impact, rather than simple 'unfiltered' behavior. The 'best self' is the **means to achieve authenticity**, not its opposite."
+  "best_quote_zh": "“如果我们想要更健康的组织和更健康的社会，就应该停止对真实性的迷恋，开始颂扬成熟：即超越我们即时冲动、考虑自身行为对他人的影响、并展现出不仅是我们的真实自我，而是我们最好的自我的能力。”",
+  "critique_zh": "## 批判性思考 · 核心观点\n\n| 维度 | 观点（中文） | 补充说明 |\n| :--- | :--- | :--- |\n| **核心结论** | 真实性是陷阱，应以“最好的自我”为目标。 | 将“真实自我”视为冲动、自我放纵的自我，提倡以“自控、同理心”为核心的“最好的自我”（即成熟）。 |\n| **概念质疑** | **定义过于狭隘**，简化了“真实性”。 | 批判仅指向“未经过滤的表达”，忽略了真实性在哲学上的深层含义——忠于个人最深刻的价值观，这本身就需要高度的自律和选择。 |\n| **逻辑漏洞** | **虚假二分法**，将“真实”与“最好”对立。 | 两者并非互斥。努力成为“最好的自我”可以被视为一个人**最真实**的价值观和抱负的体现。 |\n| **证据偏差** | 依赖**论证和观察**，缺乏实证数据。 | 论点说服力强，但对于“导致职业受挫”或“加剧社会分裂”等后果缺乏如数据分析般的硬性证据支持。 |\n| **价值风险** | 隐含鼓励**从众和压抑**的风险。 | 过分强调“最好的自我”以适应社会规范（如职场信任、合作），可能扼杀健康的个人特质、创新精神及对现有体制的必要挑战。 |\n\n**反驳立场：** 真正的真实性是**经过深思熟虑的“整合的自我”**，它将个人核心价值与对社会影响的认知结合起来，而非简单的“不加过滤”。“最好的自我”是**实现真实性的手段**，而非其对立面。",
+  "critique_en": "## Critical Analysis · Core Points\n\n| Dimension | Point (English) | Elaboration |\n| :--- | :--- | :--- |\n| **Core Finding** | Authenticity is a trap; aim for the 'best self'. | Defines the 'authentic self' as impulsive and self-indulgent, advocating for the 'best self' (maturity, self-control, empathy) as the alternative. |\n| **Conceptual Doubt** | **Overly narrow definition** of 'Authenticity'. | The critique only targets *unfiltered expression*. It ignores the deeper philosophical meaning: acting in line with one's *deepest values*, which often *requires* discipline and selective disclosure. |\n| **Logical Flaw** | **False Dichotomy**: Authentic vs. Best. | The two are not mutually exclusive. Striving to be one's 'best self' can be seen as the authentic expression of one's deepest values and aspirations, not a facade. |\n| **Evidence Critique** | Relies on **rhetoric and observation**, not empirical data. | The claims about career derailment and social harm are persuasive but lack the hard, data-driven evidence found in the example JSON's source. |\n| **Value Risk** | Implicitly promotes **Conformity and Suppression**. | Overemphasis on the 'best self' (defined by societal norms like trustworthiness, cooperation) risks stifling healthy non-conformity, innovation, and necessary challenges to the status quo. |\n\n**Counter-Argument:** True authenticity is a **deliberate, 'integrated self'** that synthesizes personal core values with an awareness of social impact, rather than simple 'unfiltered' behavior. The 'best self' is the **means to achieve authenticity**, not its opposite."
 }
 {
   "id": 2,
