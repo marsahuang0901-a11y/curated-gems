@@ -502,8 +502,8 @@
     "summary_zh": "本期 Gar’s Tips & Tools 内容丰富，为手工爱好者、工匠和制作者提供了大量实用 DIY 建议。从利用日常材料构建经济实惠的桌面喷漆 booth，到探索价格亲民的无线旋转工具和木匠铅笔打磨技巧，内容强调了资源利用和成本效益。Becky Stern 对工作台电源的指导，为电子工具初学者提供了一个清晰的入门指南，而电池翻转部分则为能源管理增添了一抹轻松色彩。'车间闲聊' 中的社区互动凸显了读者交流的价值，而订阅呼吁则体现了内容对持续价值传递的承诺。总体而言，本期在技术教程与日常应用之间取得了平衡，促进了技能提升和手工爱好者间的社区归属感。",
     "best_quote_en": "Never use a brushed box fan for something like this.",
     "best_quote_zh": "永远不要在这种场合使用带刷直流风扇。"
-  }
-,{
+  },
+  {
     "id": 22,
     "title": "Iron Ladies review – inspiring account of the women on the miners’ strike picket lines",
     "title_zh": "《铁娘子们》影评：矿工罢工纠察线上女性们的励志故事",
@@ -526,7 +526,8 @@
     "summary_zh": "这篇影评深刻揭示了纪录片《铁娘子们》的核心价值：它并非简单回顾历史，而是重新聚焦于1984年英国矿工大罢工中被忽视的女性力量。文章洞察到一个关键悖论：在集体抗争的失败中，这些女性完成了惊人的个人蜕变与政治启蒙。她们从家庭主妇转变为社会活动家，这场斗争虽败，却为她们开启了通往公共生活的大门。她们对抗的是一位“铁娘子”，但她们自己，才是成百上千位真正的“铁娘子”。",
     "best_quote_en": "She was one iron lady, we were hundreds.",
     "best_quote_zh": "她是一位铁娘子，而我们是成百上千位。"
-  },{
+  },
+  {
     "id": 23,
     "title": "Orthodoxy and women in the Anglican church | Letters",
     "title_zh": "正统派与英国圣公会中的女性 | 书信",
@@ -619,4 +620,125 @@
     "summary_zh": "斯坦科维奇博士深入剖析听力失衡如何影响专注、认知衰退与更年期变化，并提供基于科学的保护方案。她强调耳机使用、镁补充与AI助听器等可落地措施，呼吁将听力健康视为全人类福祉。",
     "best_quote_en": "Hearing loss impairs focus and increases the risk of cognitive decline.",
     "best_quote_zh": "听力损失会削弱专注力，并增加认知衰退的风险。"
-  }]
+  },
+  {
+    "id": 27,
+    "title": "Book of the month: Julian Maka’a",
+    "title_zh": "本月书籍推荐：朱利安·马卡",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/05/29/book-of-the-month-julian-makaa/",
+    "tags": [
+      "learn",
+      "education",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2025-05-29",
+    "summary_en": "...",
+    "summary_zh": "...",
+    "best_quote_en": "...",
+    "best_quote_zh": "..."
+  },
+  {
+    "id": 28,
+    "title": "From the archive: ‘Infertility stung me’: Black motherhood and me – podcast",
+    "title_zh": "档案回顾：‘不孕让我受伤’：黑人母亲与我的故事 – 播客",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/news/audio/2025/oct/15/from-the-archive-infertility-stung-me-black-motherhood-and-me-podcast",
+    "tags": [
+      "guide",
+      "science",
+      "medicine",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "医学健康",
+      "深度分析"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "This intimate audio long‑read chronicles Edna Bonhomme’s journey through infertility and IVF, framed within the broader context of Black motherhood, race, and feminist agency. By candidly revealing her misgivings—“I assumed I would be part of the first generation to have full agency over my reproduction – but I was wrong”—the narrative exposes the systemic gaps in reproductive healthcare that disproportionately affect women of colour. The podcast deftly balances personal testimony with broader sociopolitical critique, inviting listeners to interrogate the myth of universal reproductive autonomy. It highlights how intersectional identities shape access to fertility treatments, the emotional toll of delayed motherhood, and the cultural narratives that silence Black women’s experiences. The episode serves as a call to action: to demand equitable policy reforms, diversify clinical research, and foster community‑based support networks. Its layered storytelling offers both a powerful narrative and a catalyst for conversation, making it essential listening for anyone engaged in reproductive justice, social equity, or feminist health advocacy.",
+    "summary_zh": "这段亲密的音频长读记录了Edna Bonhomme在不孕和试管婴儿过程中的旅程，置于黑人母亲、种族与女权主义代理权的更广阔语境中。她坦言“我原以为自己会成为第一代拥有完全生殖自主权的一员——但我错了”，揭示了系统性医疗空白对有色人种女性的冲击。节目将个人叙事与社会批判交织，促使听众质疑普遍的生殖自主神话，强调交叉身份如何影响医疗获取、情感负担与文化沉默。它呼吁政策改革、研究多样化与社区支持网络，成为生殖正义与社会公平讨论的必听之作。",
+    "best_quote_en": "I assumed I would be part of the first generation to have full agency over my reproduction – but I was wrong.",
+    "best_quote_zh": "我原以为自己会成为第一代拥有完全生殖自主权的一员——但我错了。"
+  },
+  {
+    "id": 29,
+    "title": "The Four Quadrants of Conformism",
+    "title_zh": "顺从主义的四象限",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/conformism.html",
+    "tags": [
+      "update",
+      "startup-strategy",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业策略",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "The essay reframes conformity through a Cartesian grid, splitting individuals into four quadrants—aggressively conventional, passively conventional, passively independent, and aggressively independent. By tracing these archetypes from childhood classrooms to adult professional arenas, the author argues that personality, not societal norms, largely dictates a person’s placement. The piece highlights that the majority are passive conventionalists, while the rare aggressively independent are the real catalysts of innovation. It critiques the current erosion of free inquiry, warning that a surge of conventional enforcement narrows the intellectual frontier and stifles the independent thinkers who push boundaries. The author cites universities as historical refuges for the independent-minded, noting their decline as a symptom of a broader shift toward conformity. Despite uncertainties about the future, there is optimism that independent thinkers will forge new institutions. The analysis blends psychological typology with sociopolitical critique, offering a data‑driven lens on how conformity shapes society and innovation.",
+    "summary_zh": "作者用坐标轴将人分为四类——激进传统、被动传统、被动独立、激进独立，指出性格决定归属而非社会规范。大多数人是被动传统，少数激进独立是创新的源泉。文章批评自由探讨被削弱，警示传统执法压缩思想边界，抑制独立思考者。大学曾是独立者的避风港，但其衰退反映了整体趋同。作者虽不确定未来走向，却对独立者能创建新机构保持乐观。文章融合心理学类型学与社会批判，以数据驱动视角阐释顺从如何塑造社会与创新。",
+    "best_quote_en": "Four types are not equally common. There are more passive people than aggressive ones, and far more conventional-minded people than independent-minded ones.",
+    "best_quote_zh": "四种类型并不均等。被动的人比攻击性的人多，传统主义者比独立主义者多得多。"
+  },
+  {
+    "id": 30,
+    "title": "Communism By Another Name",
+    "title_zh": "另一种名义下的共产主义",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/RLKEkNMoaHDuCTscu/communism-by-another-name",
+    "tags": [
+      "update",
+      "ai-research",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "The story of a rural family navigating China’s electric‑vehicle boom and bust becomes a micro‑cosm of state‑led market manipulation. Through sensory detail—metallic dust from a rare‑earth mine, the hum of transformers, the blue glow of a phone screen—the narrator reveals how local consumers are lured by aggressive price wars, only to be left with a collapsing supply chain. The narrative juxtaposes the chaotic town square, where salesmen promise endless warranties, against the cold, glass‑walled Apex dealership that offers a fixed, higher price. The collapse of Stellar, Leaper, and Meteor illustrates how government subsidies can create bubbles that inevitably burst when the “faucet” of capital is shut. The protagonist’s patience and willingness to wait for the market to stabilize pay off, underscoring the importance of strategic timing and critical evaluation in consumer decisions. The piece invites readers to question the sustainability of rapid industrial growth and the role of state intervention in shaping market outcomes.",
+    "summary_zh": "在中国电动汽车热潮与崩溃的微观缩影里，作者用细腻的感官描写揭示政府补贴与市场泡沫的交织。通过镇上喧嚣的售货员与冷静的Apex交易，故事阐明了消费决策的时机与批判性思考的重要性。",
+    "best_quote_en": "The faucet had been turned off.",
+    "best_quote_zh": "水龙头已经被关掉。"
+  },
+  {
+    "id": 31,
+    "title": "Donabe / We Stand on Guard",
+    "title_zh": "Donabe / 我们站在守卫",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/donabe-we-stand-on-guard/",
+    "tags": [
+      "solve",
+      "education",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-10-14",
+    "summary_en": "The article juxtaposes two seemingly disparate works—a Japanese clay‑pot cookbook and a dystopian comic—yet both illuminate how everyday tools and narrative frameworks shape communal identity and power dynamics.  Donabe, with its emphasis on shared, tactile cooking, foregrounds cultural heritage and low‑tech conviviality, offering actionable recipes that democratize culinary expertise.  The accompanying review underscores the book’s role as a cultural bridge, inviting readers to reinterpret familiar dishes (e.g., the shime broth extension) and fostering a sense of belonging through food.  In contrast, We Stand on Guard presents a speculative military thriller that interrogates resource‑driven imperialism, high‑tech occupation, and national sovereignty.  Its dialog‑heavy storytelling, rich visual design, and political subtext provide a case study in how narrative media can critique contemporary geopolitical anxieties.  Together, the pieces challenge readers to consider how material culture and storytelling co‑create shared values and resistance, offering both practical guidance and critical insight into modern society.",
+    "summary_zh": "本文将日本粘土锅料理书与科幻漫画对比，揭示日常工具与叙事框架如何塑造社区认同与权力结构。粘土锅强调共享烹饪与文化遗产，提供实用菜谱；漫画则批判资源驱动的侵略与高科技占领，提供对当代地缘政治的深刻反思。两者共同探讨物质文化与叙事如何共同创造共享价值与抵抗，兼具实用与批判性洞见。",
+    "best_quote_en": "Don’t just drink up the broth, create yet another course!",
+    "best_quote_zh": "Donabe (doh-nah-bei) 是日语中‘粘土锅’的意思。"
+  }
+]
