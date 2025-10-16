@@ -741,4 +741,123 @@
     "best_quote_en": "Don’t just drink up the broth, create yet another course!",
     "best_quote_zh": "Donabe (doh-nah-bei) 是日语中‘粘土锅’的意思。"
   }
-]
+,{
+    "id": 32,
+    "title": "Orthodox Privilege",
+    "title_zh": "正统特权",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/orth.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-10-16",
+    "summary_en": "The essay reframes the contemporary privilege discourse by spotlighting a subtle, often invisible bias: orthodox privilege. It argues that people steeped in conventional thinking assume their worldview is universally safe, presuming that any opinion aligning with the status quo can be voiced without peril. Yet history shows that even today, certain truths remain unspoken or dangerous to articulate. The author contends that this blindness cannot be remedied merely by knowledge acquisition; instead, it requires a shift toward independent, critical thinking—a process that unfolds over time, not a single conversation. By suggesting that politeness—accepting others’ claims even when evidence is elusive—can be a bridge, the piece offers a pragmatic, human‑centered tactic to counter this entrenched bias. It invites readers to question their own comfort with “safe” discourse and to recognize that true openness demands more than surface‑level tolerance.",
+    "summary_zh": "文章把当下的特权议题重新聚焦在一种不易察觉的偏见——正统特权。作者指出，传统思维者自以为自己的观点是安全的，忽视了历史上仍有难以言说的真理。正统特权的盲目无法仅靠知识补偿，而需通过独立思考逐步突破。文中提出以礼貌接纳他人主张的方式，可作为对抗此偏见的务实途径。它呼吁读者审视自身对“安全”言论的舒适度，意识到真正的开放超越表面容忍。",
+    "best_quote_en": "People can overcome the blindness induced by most forms of privilege by learning more about whatever they're not. But they can't overcome orthodox privilege just by learning more.",
+    "best_quote_zh": "人们可以通过学习未知的内容来克服大多数特权所导致的盲目，但他们无法仅靠学习来克服正统特权。"
+  },
+  {
+    "id": 33,
+    "title": "Among the Talibros",
+    "title_zh": "Talibros之旅",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/among-the-talibros",
+    "tags": [
+      "guide",
+      "society",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "社会议题",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "The article dissects the paradox of alt‑travel influencers who dramatize danger to lure audiences while simultaneously sanitizing the very threats they showcase. By staging mock executions and glossing over the harsh realities of Taliban rule, creators like Yosaf Aryubi and Addison Maalouf exploit the erosion of trust in mainstream journalism. The piece argues that such content reduces complex geopolitical histories to bite‑size, sensational narratives that thrive on algorithmic amplification. It highlights the broader phenomenon of “red‑pill” influencers who position themselves as lone truth‑tellers, feeding a “nervous state” that fuels fear and division. The analysis underscores the need for critical media literacy, noting that while the videos may entertain, they risk perpetuating misinformation and trivializing violence. Ultimately, the article calls for a more nuanced engagement with travel media—one that balances curiosity with informed skepticism.",
+    "summary_zh": "文章揭示了另类旅行博主的矛盾：通过夸张危险来吸粉，却淡化塔利班暴行。作者指出，这种内容把复杂的地缘政治简化为轰动短片，利用公众对主流媒体失信的心理，助长“红药丸”式的恐惧与分裂。它提醒我们，娱乐与信息不应混为一谈，媒体素养与批判性思考是抵御误导的关键。",
+    "best_quote_en": "\"As the objective view of the world recedes, it is replaced by intuition as to which way things are heading now. This nervous state offers more emotional stimulation and sensitivity, but for the same reason it is unsettling and disruptive of peaceful situations.\"",
+    "best_quote_zh": "\"当客观世界的视角消退时，它被关于事态走向的直觉所取代。 这种焦虑状态带来更多情绪刺激和敏感性，但正因如此，它也令人不安并扰乱和平局面。\""
+  },
+  {
+    "id": 34,
+    "title": "What’s in my NOW? — Alison Qiu",
+    "title_zh": "我的现在有什么？ — Alison Qiu",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-alison-qiu/",
+    "tags": [
+      "guide",
+      "psychology",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "Alison Qiu’s “What’s in my NOW?” reads like a curated toolbox for everyday wellbeing, blending physical gadgets, digital apps, and a touch of philosophy. Her list of inexpensive drink mixes, a compact stair‑stepper, and a DIY miniature kit showcases how small, affordable items can inject variety and mindfulness into a hectic schedule. The digital section—ranging from a soothing bedtime podcast to an AI voice‑therapy app—highlights the growing trend of using technology as a companion for mental health and self‑reflection. The invisible layer, with its simple yet profound quote, reminds readers that learning can come from anyone. The piece’s strength lies in its actionable nature: each recommendation is accompanied by a clear benefit, a cost comparison, and a personal anecdote, making it both relatable and practical. While the content is inherently subjective, it offers a template for readers to build their own “NOW” kit, encouraging experimentation, self‑care, and a habit of continual learning. Its broader significance is a gentle critique of the over‑produced self‑help market, proving that meaningful change can stem from everyday choices.",
+    "summary_zh": "Alison的“我的现在有什么？”以个人化的方式呈现了提升生活质量的实用物品与数字工具，凸显了自我关怀与微习惯的力量。她的推荐既具操作性，又鼓励读者主动探索、学习与自我疗愈。",
+    "best_quote_en": "Everyone has something to teach you. Learn from whomever you can.",
+    "best_quote_zh": "每个人都有可以教你的东西。向任何人学习。"
+  },
+  {
+    "id": 35,
+    "title": "What I Wish Someone Had Told Me",
+    "title_zh": "我希望有人告诉我的事",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/what-i-wish-someone-had-told-me",
+    "tags": [
+      "analyze",
+      "leadership",
+      "music-arts",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "领导管理",
+      "音乐艺术",
+      "数据驱动"
+    ],
+    "date": "2023-12-21",
+    "summary_en": "The article distills a founder’s playbook into a compact, punch‑driven checklist that feels both universal and startlingly specific. It opens with the raw ingredients of a venture—optimism, obsession, and self‑belief—and moves swiftly to the mechanics of finishing: cohesive teams, a mix of calm and urgency, and unreasonable commitment. The author repeatedly stresses the importance of focus: “Concentrate your resources on a small number of high‑conviction bets.” That line echoes the lean‑startup mantra of eliminating the noise, yet it is couched in a tone that makes the advice feel actionable rather than generic. He frames incentives as “superpowers,” reminding leaders that the right reward structure can unlock otherwise invisible talent. The piece also champions rapid iteration, encouraging teams to “be wrong, iterate fast,” and warns against the business equivalent of physics—accepting hard truths. Finally, it celebrates the human side: working with great people is “one of the best parts of life.” The essay is a concise, high‑impact guide that blends practical tactics with philosophical nudges, making it a useful reference for any founder or product manager seeking clarity and momentum.",
+    "summary_zh": "这篇短文像一份创业者速成手册，先列出激情、执着与自信的起点，再强调团队协作、专注与快速迭代的终点。作者把激励视为“超能力”，提醒要精准设置；把资源聚焦在少数高信念赌注上，既是精简也是力量。对产品经理和创始人而言，它既是可操作的行动清单，也是一段关于人性与成长的哲思，提醒大家最宝贵的还是与优秀人共事。",
+    "best_quote_en": "Incentives are superpowers; set them carefully.",
+    "best_quote_zh": "激励是超能力；请谨慎设置。"
+  },
+  {
+    "id": 36,
+    "title": "How to Make Yourself Unbreakable | DJ Shipley",
+    "title_zh": "让自己变得不可摧毁 | DJ Shipley",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/make-yourself-unbreakable-dj-shipley",
+    "tags": [
+      "solve",
+      "psychology",
+      "health-wellness",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "健康养生",
+      "深度分析"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "DJ Shipley, a retired Navy SEAL, turns battlefield grit into a practical guide for everyday resilience. He teaches a step‑by‑step routine—morning rituals, micro‑wins, and the mantra “control the controllable”—that anyone can adopt to strengthen both mind and body. The episode blends personal anecdotes with evidence‑based treatments for PTSD, addiction, and depression, including emerging psychedelic therapies. Shipley’s “stack small wins” strategy turns ordinary actions into a compounding force, while his emphasis on compartmentalization and intentionality offers a roadmap for balancing family, work, and self‑growth. The content is a hybrid of case study and expert insight, delivering actionable tools that appeal to both lay listeners seeking self‑improvement and mental‑health professionals looking for real‑world applications. It underscores the idea that unbreakability is not a myth but a skill forged through deliberate practice and psychological mastery.",
+    "summary_zh": "DJ Shipley 这位退役海豹突击队员以其不屈精神为我们揭示了从战场到生活的心理与身体韧性秘诀。他强调“堆叠小胜利”与“专注可控”，并分享了针对 PTSD、成瘾与抑郁的前沿疗法。通过实用的晨间例行、微型目标与身体训练，他展示了如何在家庭、工作与个人成长中持续突破极限。内容兼具案例研究与专业洞见，既适合寻求自我提升的普通读者，也为心理健康从业者提供可操作的策略。",
+    "best_quote_en": "Stack small wins and be ultra‑intentional about your mindset.",
+    "best_quote_zh": "堆叠小胜利，并对你的心态保持高度意图。"
+  }]
