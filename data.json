@@ -860,4 +860,97 @@
     "summary_zh": "DJ Shipley 这位退役海豹突击队员以其不屈精神为我们揭示了从战场到生活的心理与身体韧性秘诀。他强调“堆叠小胜利”与“专注可控”，并分享了针对 PTSD、成瘾与抑郁的前沿疗法。通过实用的晨间例行、微型目标与身体训练，他展示了如何在家庭、工作与个人成长中持续突破极限。内容兼具案例研究与专业洞见，既适合寻求自我提升的普通读者，也为心理健康从业者提供可操作的策略。",
     "best_quote_en": "Stack small wins and be ultra‑intentional about your mindset.",
     "best_quote_zh": "堆叠小胜利，并对你的心态保持高度意图。"
+  },{
+    "id": 37,
+    "title": "Coronavirus and Credibility",
+    "title_zh": "冠状病毒与可信度",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/cred.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-10-17",
+    "summary_en": "The piece dissects why public figures misjudged COVID‑19, framing it as a rare test of credibility. It argues that ordinary pundits habitually issue unfounded forecasts because the stakes are low or the outcomes are fuzzy. An epidemic, however, exposes predictions instantly, exposing the gap between rhetoric and reality. By citing Buffett’s metaphor about the tide, the author suggests that the pandemic is the clearest moment yet to reveal who truly understands the situation. The article invites readers to reflect on the dangers of overconfidence, the role of media in shaping public trust, and the ethical responsibility of leaders to base statements on evidence. It blends anecdote, psychological insight, and a call to vigilance, urging that the lessons from COVID‑19 should inform future communication in crises. The tone is skeptical yet constructive, offering a critique of political rhetoric while highlighting the importance of accountability.",
+    "summary_zh": "文章剖析了为何公众人物在新冠疫情中低估病毒，揭示了舆论与事实的巨大鸿沟。作者指出，平时的夸大言论因风险低或结果模糊而逃脱惩罚，而疫情却立刻检验了预言的真伪。引用巴菲特的“潮水退去时才知道谁在裸泳”比喻，强调这场危机是最清晰的信誉考验。文章提醒读者警惕自信过度，关注媒体对公共信任的塑造，以及领导者基于证据发声的道德责任。通过案例与心理洞察，呼吁在危机沟通中保持透明与问责，留下可供后世借鉴的教训。",
+    "best_quote_en": "It's only when the tide goes out that you learn who's been swimming naked.",
+    "best_quote_zh": "只有潮水退去时，你才能知道谁在裸泳。"
+  },
+  {
+    "id": 38,
+    "title": "Donald Trump’s Dream Palace of Puffery",
+    "title_zh": "唐纳德·特朗普的梦幻宫殿",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trumps-dream-palace-of-puffery",
+    "tags": [
+      "update",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-10-16",
+    "summary_en": "Donald Trump’s second term has turned the White House into a curated stage where dissenting questions are muted and flattering voices dominate. The article dissects how the administration’s selective press pool—evidenced by the Pentagon’s recent ban on independent reporting—serves a broader strategy of media control. By sidelining traditional journalists and elevating partisan commentators, Trump reclaims narrative authority and shields himself from scrutiny. The piece’s critical lens exposes a pattern: every high‑profile press interaction is engineered to reinforce Trump’s self‑image as a ‘peacemaker’ or a decisive leader, while the press is reduced to a ceremonial audience. The author’s balanced use of anecdotal evidence, such as the ABC reporter’s abrupt dismissal, underscores the erosion of democratic norms. For readers, the article offers a timely warning about the fragility of press freedom in a polarized political climate and invites reflection on how leadership, media, and public perception intertwine in contemporary governance.",
+    "summary_zh": "特朗普二期将白宫变成自我秀台，媒体被挑选、新闻被过滤，传统记者被边缘化，亲特朗普评论员占据主导。文章揭示媒体管控与权力自我塑造的循环，警示新闻自由在分裂时代的脆弱。通过剔除独立记者、让亲特朗普声音主导，白宫的问答被改造成自我肯定的仪式。作者用具体例子揭示了这一趋势的深层逻辑，并提醒公众关注媒体与政治的相互影响。",
+    "best_quote_en": "A dark day for press freedom.",
+    "best_quote_zh": "这是新闻自由的黑暗一天。"
+  },
+  {
+    "id": 39,
+    "title": "Helion Needs You",
+    "title_zh": "Helion 需要你",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/helion-needs-you",
+    "tags": [
+      "solve",
+      "design",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2022-07-13",
+    "summary_en": "Helion’s meteoric ascent in fusion research is not just a technical milestone; it’s a call to action for the next generation of engineers. The company’s 2024 roadmap—demonstrating Q > 1 fusion and resolving the engineering riddles that will enable a mass‑producible fusion generator—speaks to a bold vision: clean, continuous power at 1 ¢ per kilowatt‑hour, enough to electrify the planet within a decade. This is more than a promise; it’s a blueprint for a post‑carbon economy, offering a low‑cost platform for carbon capture and a dramatic shift in global energy economics. The article juxtaposes this future with the present reality of talent shortages, framing recruitment as the linchpin of success. Readers gain insight into the technical challenges, the economic stakes, and the personal opportunity to shape a transformative industry. The piece invites curiosity, critical reflection, and a sense of urgency, making it a compelling blend of inspiration and actionable guidance.",
+    "summary_zh": "Helion正以惊人速度推进聚变技术，目标是2024年实现Q>1聚变并打造可量产的发电机。若成功，1¢/kWh的清洁能源将彻底改写全球能源格局，甚至为碳捕集提供低成本动力。文章不仅描绘技术愿景，更呼吁工程师加入，强调人才是突破的关键。读者能从中感受到能源革命的迫切与机遇，也意识到个人职业选择与世界命运的紧密联系。",
+    "best_quote_en": "Helion has been progressing even faster than I expected and is on pace in 2024 to 1) demonstrate Q > 1 fusion and 2) resolve all questions needed to design a mass‑producible fusion generator.",
+    "best_quote_zh": "Helion的进展速度比我预期的还快，2024年计划完成Q>1聚变演示，并解决设计可量产聚变发电机所需的所有问题。"
+  },
+  {
+    "id": 40,
+    "title": "The Tim Ferriss Show Transcripts: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment (#830)",
+    "title_zh": "泰姆·费里斯秀访谈稿：Nick Kokonas 与诺贝尔奖得主 Richard Thaler——现实经济学，避免赢家诅咒，使用诱惑捆绑，以及反对体制（#830）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/10/10/richard-thaler-transcript/",
+    "tags": [
+      "solve",
+      "science",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2025-10-11",
+    "summary_en": "In this deep dive with Nobel laureate Richard Thaler and restaurateur‑turned‑innovator Nick Kokonas, Tim Ferriss unpacks the core of behavioral economics: the fragile assumption of perfect rationality, the paradox of the winner’s curse, and the power of nudges. Thaler illustrates how tiny friction‑reducing tweaks—automatic 401(k) enrollment, deposit‑based reservation systems, or price‑signal road markings—can dramatically reshape human choice. The conversation bridges theory and practice, showing how behavioral insights can turn complex market failures into actionable business strategies, while also warning of the dark side of nudging. Their dialogue invites listeners to rethink everyday decisions and the design of institutions that shape them.",
+    "summary_zh": "本期访谈中，诺贝尔奖得主理查德·塞勒与餐饮创新者尼克·科科纳斯探讨行为经济学核心：理性假设的脆弱性、赢家诅咒悖论以及“提示”力量。塞勒举例说明，微小的摩擦降低——如自动401(k)注册、押金预订系统或道路价格信号——如何显著改变人类选择。对话将理论与实践相结合，展示如何将行为洞察转化为可操作的商业策略，并警示提示的潜在阴暗面。",
+    "best_quote_en": "If you want people to do something, make it easy.",
+    "best_quote_zh": "如果你想让人们做某事，就让它变得容易。"
   }]
