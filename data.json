@@ -953,4 +953,99 @@
     "summary_zh": "本期访谈中，诺贝尔奖得主理查德·塞勒与餐饮创新者尼克·科科纳斯探讨行为经济学核心：理性假设的脆弱性、赢家诅咒悖论以及“提示”力量。塞勒举例说明，微小的摩擦降低——如自动401(k)注册、押金预订系统或道路价格信号——如何显著改变人类选择。对话将理论与实践相结合，展示如何将行为洞察转化为可操作的商业策略，并警示提示的潜在阴暗面。",
     "best_quote_en": "If you want people to do something, make it easy.",
     "best_quote_zh": "如果你想让人们做某事，就让它变得容易。"
+  },{
+    "id": 41,
+    "title": "RLF Collected podcast",
+    "title_zh": "RLF收集播客",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/05/13/rlf-collected-podcast/",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "society",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "社会议题",
+      "案例研究"
+    ],
+    "date": "2025-05-13",
+    "summary_en": "The Royal Literary Fund’s new “Collected” podcast is a creative bridge between archival interviews of celebrated writers and contemporary voices, offering listeners a richly textured portrait of the modern writer’s journey. By weaving archival clips with live conversations featuring authors, poets, musicians, and cultural commentators, the series demystifies the creative process and humanizes the often‑stereotyped image of the writer in media. The podcast’s strength lies in its nuanced storytelling—highlighting diverse perspectives from UK‑based writers, global voices such as Kerala‑born novelist Deepa Anappara, and the inclusive WritersMosaic platform—thereby expanding the conversation beyond national borders. It serves as both an educational resource and an inspirational narrative, providing actionable insights into navigating publishing expectations, cultural identity, and genre experimentation. The format invites listeners to engage with the voices of the past while simultaneously witnessing contemporary dialogue, making the series a valuable case study for writers, educators, and anyone interested in the evolving landscape of literary culture.",
+    "summary_zh": "RLF新播客《Collected》以档案访谈与当代对话相结合，生动描绘现代作家的创作历程与多元视角，既是学习资源，也是激励之源，展示跨文化与跨世代的文学对话。",
+    "best_quote_en": "The aim is to offer a more nuanced picture than we often see in the media, and it’s been wonderful to hear guests including Women’s Prize founder Kate Mosse, crime writer Howard Linskey, and visual artist and poet Ella Frears embracing the concept with warmth and frankness.",
+    "best_quote_zh": "我们的目标是呈现比媒体常见更细腻的画面，听到Kate Mosse、Howard Linskey、Ella Frears等嘉宾以温暖坦诚的方式接受这一概念，真是令人欣喜。"
+  },
+  {
+    "id": 42,
+    "title": "How to Write Usefully",
+    "title_zh": "如何写出有用的文章",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/useful.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-10-18",
+    "summary_en": "The essay reframes the purpose of writing from persuasion to usefulness, outlining a four‑factor model—correctness, importance, novelty, and strength—that can be multiplied into a usefulness score. It advocates a loose‑tight workflow: draft rapidly to test ideas, then rigorously prune, ensuring only statements that are true, significant, and as strong as possible survive. The author draws on a friend’s “publish‑only‑if‑worth‑hearing” technique, turning the usual publication bias into a quality filter. He warns that novelty can provoke backlash, especially when it challenges entrenched beliefs, and that absolute confidence may invite misinterpretation. He emphasizes humility, qualification, and simplicity as tools to mitigate errors and misrepresentation. Finally, the piece celebrates the internet’s democratization of essay writing, suggesting that the vast majority of insightful essays remain unwritten, offering a fertile ground for discovery. The text invites writers to start small, focus on their own interests, and let the iterative process reveal both clarity and new ideas.",
+    "summary_zh": "文章将写作的目的从说服转向“有用”，提出正确性、重要性、新颖性、力度四要素的乘积模型，形成可量化的有用度评分。作者倡导先快速草拟、后严谨删改，保证每句都真实、重要且力度足够。借鉴朋友的“仅发布值得听闻”的技巧，将发表偏差变为质量过滤。警示新颖观点可能引发反感，过度自信易被曲解，强调谦逊、适度修饰与简洁表达以降低错误与误读。文章还赞美互联网让随时随地写作成为可能，指出大量尚未写出的深刻议题等待发现，鼓励写作者先聚焦自身兴趣，循序渐进挖掘洞见。",
+    "best_quote_en": "If you write about something that matters to you, it will matter to others.",
+    "best_quote_zh": "如果你写关于对你重要的事，它也会对他人重要。"
+  },
+  {
+    "id": 43,
+    "title": "Russell Vought, Donald Trump’s Deep-State Wrecking Ball",
+    "title_zh": "Russell Vought，唐纳德·特朗普的深层国家破坏者",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/10/27/russell-vought-profile-donald-trump",
+    "tags": [
+      "update",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-10-17",
+    "summary_en": "Russell Vought’s tenure as head of the White House Office of Management and Budget illustrates a new form of executive overreach that threatens the constitutional balance of power. By redirecting Defense dollars to the border wall, freezing Ukraine aid, and orchestrating mass firings and agency shutdowns, Vought has turned the OMB into a “deep‑state wrecking ball” that tests the limits of the law. The article exposes how Vought leveraged the impoundment and rescission mechanisms to bypass congressional oversight, sparking legal challenges and raising questions about the viability of the Impoundment Control Act. Vought’s rhetoric—characterizing federal spending as “woke and weaponized”—shows how ideology can be weaponized to justify sweeping cuts. The piece also highlights the broader implications for public trust, scientific research, and the integrity of democratic institutions, underscoring the urgency of safeguarding the checks and balances that have governed U.S. policy for centuries.",
+    "summary_zh": "Russell Vought 作为白宫管理预算办公室主任，展示了新的行政权力滥用方式，威胁宪法权力平衡。通过将国防资金转用于边境墙、冻结乌克兰援助以及大规模裁员和机构停摆，他把 OMB 变成了“深层国家破坏者”，挑战法律边界。文中揭露了他如何利用扣留和冲销机制绕过国会监督，导致法律争议，并质疑《扣留控制法》的可行性。Vought 的“ woke 与武器化”言论表明意识形态可被用来为大规模削减辩护。文章强调这对公共信任、科研和民主制度完整性的深远影响，呼吁维护长期的制衡机制。",
+    "best_quote_en": "\"The President has no authority to not spend money Congress has appropriated—that’s not a debate.\"",
+    "best_quote_zh": "\"总统没有权力不使用国会拨款——这不是争论。\""
+  },
+  {
+    "id": 44,
+    "title": "DALL•E 2",
+    "title_zh": "DALL•E 2",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/dall-star-e-2",
+    "tags": [
+      "guide",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2022-04-06",
+    "summary_en": "OpenAI’s DALL·E 2 is more than a flashy demo; it signals a broader shift toward natural‑language interfaces that let users articulate intent and let AI execute complex tasks. The post frames the tool as both a creative springboard for artists and a harbinger of future “AI office workers” that could handle sophisticated requests in plain language. The author contrasts this rapid creative leap with the old narrative that AI would first disrupt physical labor, suggesting that the trajectory is reversing. He also warns that the same power that unlocks imagination can erode certain jobs, urging a measured, incremental rollout to mitigate harms. The article balances enthusiasm with caution, highlighting the need for collaborative governance with researchers and artists. It invites readers to imagine a world where ideas, not technical skill, set the limits—an invitation to rethink how we define creativity, labor, and the role of AI in society.",
+    "summary_zh": "OpenAI 的 DALL·E 2 不仅是炫技演示，更预示自然语言接口的崛起。作者把它视作创意加速器与未来“AI 办公助手”的前瞻，指出 AI 正在倒置传统的劳动力影响顺序，并警示技术进步可能导致某些岗位消失。文章在热情与谨慎之间取得平衡，强调与研究者与艺术家共同制定治理框架，倡导渐进式部署。它让我们重新思考：在这个想法决定边界的时代，创意与劳动力的意义正在被重新定义。",
+    "best_quote_en": "This is another example of what I think is going to be a new computer interface trend: you say what you want in natural language or with contextual clues, and the computer does it.",
+    "best_quote_zh": "这又是我认为将成为新的计算机界面趋势的例子：你用自然语言或上下文线索说出你想要的，计算机就会去做。"
   }]
