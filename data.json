@@ -1048,4 +1048,99 @@
     "summary_zh": "OpenAI 的 DALL·E 2 不仅是炫技演示，更预示自然语言接口的崛起。作者把它视作创意加速器与未来“AI 办公助手”的前瞻，指出 AI 正在倒置传统的劳动力影响顺序，并警示技术进步可能导致某些岗位消失。文章在热情与谨慎之间取得平衡，强调与研究者与艺术家共同制定治理框架，倡导渐进式部署。它让我们重新思考：在这个想法决定边界的时代，创意与劳动力的意义正在被重新定义。",
     "best_quote_en": "This is another example of what I think is going to be a new computer interface trend: you say what you want in natural language or with contextual clues, and the computer does it.",
     "best_quote_zh": "这又是我认为将成为新的计算机界面趋势的例子：你用自然语言或上下文线索说出你想要的，计算机就会去做。"
+  },{
+    "id": 45,
+    "title": "Blog tour: Where Snowbirds Play",
+    "title_zh": "博客巡回：雪鸟之所",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/05/04/blog-tour-where-snowbirds-play/",
+    "tags": [
+      "inspire",
+      "writing-content",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "写作内容",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-05-04",
+    "summary_en": "The piece unfolds as a meta‑review of the book‑blog tour phenomenon, blending the author’s personal history with a strategic look at how such tours amplify a title’s visibility. The narrative starts by positioning the writer as a “book‑blogger” who has witnessed the relentless output of peers, then pivots to a case study: a month‑long, daily‑review tour that generated buzz for a debut novel. By detailing the mechanics—traffic‑light scoring, advance‑copy incentives, and pre‑scheduled posts—the article offers a practical roadmap for authors and marketers seeking to replicate this model. It also foregrounds the emotional resonance of seeing a manuscript evolve under a mentor’s eye, underscoring the human element behind the marketing machinery. The analysis invites readers to consider the tour’s dual role as both a promotional engine and a community‑building exercise, raising questions about sustainability and the unpaid labor that powers literary hype. In short, it’s a thoughtful guide that demystifies a niche yet potent marketing tool.\n",
+    "summary_zh": "文章先描绘作者在书评博客界的身影，随后细说一场为新书量身定制的每日博客巡回，揭示其如何在短时间内放大书名曝光。作者通过“红绿灯”评分、提前投稿、免费预览等细节，呈现出一套可复制的营销流程，并强调在这一过程中作者与编辑的情感共振。此文既是实用指南，也是对文学推广背后无偿劳动的深度反思，提醒读者关注可持续性与社区建设。",
+    "best_quote_en": "I love this book for two reasons. Firstly, I love it because I’ve had the privilege of seeing it develop over several years in my capacity as a mentor/editor to its author.",
+    "best_quote_zh": "我很喜欢这本书，因为我在多年的指导/编辑过程中见证了它的发展。"
+  },
+  {
+    "id": 46,
+    "title": "Being a Noob",
+    "title_zh": "成为新手",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/noob.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "...",
+    "summary_zh": "...",
+    "best_quote_en": "...",
+    "best_quote_zh": "..."
+  },
+  {
+    "id": 47,
+    "title": "Give Me Your Data: The Rationalist Mind Meld",
+    "title_zh": "给我你的数据：理性主义心灵合并",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/9SuQkKbZg39tsToPs/give-me-your-data-the-rationalist-mind-meld",
+    "tags": [
+      "learn",
+      "design",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "The article critiques the overreliance on pure logic in rationalist debates and proposes a “mind‑meld” approach—sharing the data that shapes each person’s intuition. It argues that disagreements often stem from differing information reservoirs rather than single factual errors, and that exposing each other to the underlying evidence can bridge the gap. The author illustrates this with a class‑mobility example, showing how a shared reading list from Slate Star Codex and other essays can illuminate the hidden structure of American class. By framing intuition as a GPU and logic as a CPU, the piece reframes belief formation as a data‑driven training process. It calls for a gradual, community‑wide mind‑meld, where anecdotes, studies, and personal stories become the training set that refines collective rationality. The piece is both a practical guide for rationalist communication and a philosophical reminder that data, not debate, is the engine of understanding.",
+    "summary_zh": "文章批判理性主义者过度依赖逻辑，提出“心灵合并”——共享塑造直觉的数据。它认为分歧源于信息差异，互相展示证据可弥合。以美国阶级为例，列出Slate Star Codex等文献，揭示阶级结构。作者把直觉比作GPU，逻辑比作CPU，强调信念是数据驱动的训练。呼吁社区逐步心灵合并，用轶事、研究与亲身经历作为训练集，提升集体理性。既是沟通指南，也是提醒：数据才是理解的发动机。",
+    "best_quote_en": "The correct way to resolve this is not with logical arguments, but with a mind meld!",
+    "best_quote_zh": "解决这个问题的正确方式不是用逻辑论证，而是进行心灵合并！"
+  },
+  {
+    "id": 48,
+    "title": "Helion",
+    "title_zh": "Helion",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/helion",
+    "tags": [
+      "inspire",
+      "science",
+      "leadership",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "领导管理",
+      "深度分析"
+    ],
+    "date": "2021-11-05",
+    "summary_en": "Helion, a fusion‑energy startup, has captured the attention of a seasoned investor who praises its founders David and Chris for blending scientific rigor with lean startup discipline. The company claims a clear roadmap to net electricity generation by 2024 and a long‑term ambition to sell power at just 1 cent per kilowatt‑hour—an audacious target that, if met, could reshape the climate‑mitigation landscape. What sets Helion apart is its focus on cost optimisation, fuel‑cycle engineering, and a modular, scalable reactor design that eschews the massive capital outlays typical of conventional fusion projects. The author’s enthusiasm reflects a broader belief that affordable, clean energy is the linchpin for decarbonising not only power grids but also carbon‑capture and other high‑energy processes. For investors and technologists alike, Helion offers a rare blend of breakthrough science and pragmatic business strategy, making it a compelling case study for how disciplined engineering can accelerate a long‑term, high‑impact goal.",
+    "summary_zh": "Helion 的愿景与技术让人振奋：以极低成本实现净电力，预示能源革命与气候拯救的可能。创始人兼工程师的双重身份，彰显科技与商业的深度融合。对投资者而言，它既是科学突破，也是市场机会，值得深度关注与学习。",
+    "best_quote_en": "Helion has a clear path to net electricity by 2024, and has a long‑term goal of delivering electricity for 1 cent per kilowatt‑hour.",
+    "best_quote_zh": "Helion 已经有明确的路线在 2024 年实现净电力，并长期目标是以每千瓦时 1 美分的价格提供电力。"
   }]
