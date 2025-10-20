@@ -1143,4 +1143,121 @@
     "summary_zh": "Helion 的愿景与技术让人振奋：以极低成本实现净电力，预示能源革命与气候拯救的可能。创始人兼工程师的双重身份，彰显科技与商业的深度融合。对投资者而言，它既是科学突破，也是市场机会，值得深度关注与学习。",
     "best_quote_en": "Helion has a clear path to net electricity by 2024, and has a long‑term goal of delivering electricity for 1 cent per kilowatt‑hour.",
     "best_quote_zh": "Helion 已经有明确的路线在 2024 年实现净电力，并长期目标是以每千瓦时 1 美分的价格提供电力。"
+  },{
+    "id": 49,
+    "title": "Haters",
+    "title_zh": "Haters",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fh.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "The piece reframes the fame‑induced fanboy–hater dichotomy as a single psychological construct: haters are merely fanboys with the polarity flipped. By mapping both groups onto the same template—obsessive identification, distortion of the target’s reality, and a public need to broadcast the image—the author offers a tidy mental model for founders, leaders, and anyone thrust into the spotlight. The analysis links the phenomenon to a sense of “frustrated talent” and a distorted sense of self‑worth, suggesting that those who never achieve comparable visibility are more prone to become haters. While the argument is compelling and the advice (ignore them, don’t over‑invest in their noise) is actionable, it glosses over cultural nuance and empirical backing. Nonetheless, the piece supplies a useful, if simplified, lens for navigating the toxic side of popularity in the age of instant feedback and social media amplification.",
+    "summary_zh": "文章把名人所面临的粉丝与仇恨者视作同一心理结构的两面，指出仇恨者是‘粉丝’的反向投射。作者以“认知失衡”和“自我认同”解释其形成，并给出忽略他们、专注自我价值的实用建议。虽然模型简化了人类情感，缺乏实证支撑，却为创始人、公众人物提供了可操作的心态工具，值得思考其在社交媒体时代的适用性。",
+    "best_quote_en": "Haters are just fanboys with the sign switched.",
+    "best_quote_zh": "仇恨者只是把符号翻转的粉丝。"
+  },
+  {
+    "id": 50,
+    "title": "Uncommon Utilitarianism #2: Positive Utilitarianism",
+    "title_zh": "不寻常的功利主义 #2：积极功利主义",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/FGEHXmK4EnXK6A6tA/uncommon-utilitarianism-2-positive-utilitarianism",
+    "tags": [
+      "inspire",
+      "psychology",
+      "society",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "启发",
+      "心理学",
+      "社会议题",
+      "深度分析"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "The article is a deeply personal exploration of Positive Utilitarianism, a lesser‑known cousin of Negative Utilitarianism. The author positions himself as a moderate positive utilitarian, valuing many possible worlds as better than non‑existence, and contemplates the implications of such a worldview on regret, learning, and the desire for an almost infinite existence. He muses that this outlook explains his low‑regret attitude and his drive to absorb every experience, framing his life as a continual experiment in maximizing value. The piece touches on decision‑theoretic trade‑offs—paying for simulations of self‑torture, for example—and hints at broader philosophical questions about objective morality and the nature of the “real world.” While the prose is informal, it invites readers to consider how their own value systems shape emotional responses and life choices, offering a thought‑experiment that blends personal narrative with ethical theory. The author’s reflective tone encourages a nuanced, critical examination of utilitarianism beyond the typical good‑vs‑bad binary, highlighting the tension between ambition and humility in the pursuit of a better world.",
+    "summary_zh": "作者以个人视角深入探讨积极功利主义，阐释自己如何将许多可能世界视为比不存在更好，并思考这对悔恨、学习和对无限存在的渴望的影响。他认为这种价值观解释了自己低悔恨、渴望吸收一切经验的动机，并把人生视为持续的价值最大化实验。文中提及决策理论权衡（如为自我折磨付费）以及客观道德与现实世界本质等更广泛哲学问题。作者的反思式语调促使读者重新审视功利主义，超越传统善恶二分法，探讨雄心与谦逊在追求更好世界中的张力。",
+    "best_quote_en": "I want to exist right now, and I don't expect to find myself in any worlds that I think I shouldn't exist in, since those are relatively rare.",
+    "best_quote_zh": "我想现在就存在，而且我不期望发现自己处于我认为不该存在的任何世界，因为那类世界相对罕见。"
+  },
+  {
+    "id": 51,
+    "title": "Retro Recomendo: Science",
+    "title_zh": "Retro Recomendo：科学",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/retro-recomendo-science/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "新手友好"
+    ],
+    "date": "2025-10-19",
+    "summary_en": "The Retro Recomendo series is a thoughtful response to a growing audience’s nostalgia for foundational science insights. By curating evergreen recommendations every six weeks, it bridges the gap between the past and present, offering readers a curated time capsule of knowledge that remains relevant. The highlighted resources span a spectrum—from YouTube’s Two Minute Papers, which distills cutting‑edge research into digestible visual snippets, to Asimov’s classic *Understanding Physics*, a historical narrative that deepens conceptual grasp. The inclusion of NASA’s Citizen Science Projects demonstrates a call to action, inviting readers to participate in real‑world discovery. Meanwhile, the emphasis on hands‑on, visually grounded content, such as Doug’s Geology Journal, underscores a preference for authenticity over spectacle. Collectively, the series promotes active learning, interdisciplinary curiosity, and community engagement, making science accessible and actionable for both novices and seasoned enthusiasts.\n\nCritically, the format’s strength lies in its sustainability: evergreen content resists obsolescence, and the six‑week cadence keeps momentum without overwhelming the audience. The series encourages continuous exploration while honoring the foundational texts that shaped modern science, thus reinforcing the idea that learning is a lifelong, evolving journey.",
+    "summary_zh": "Retro Recomendo把过去的科学经典与现代学习方式相结合，让读者在六周一次的节奏里，既能回顾基础知识，也能跟上前沿进展。它强调可操作性与社区参与，让科学学习变得亲近、活泼。",
+    "best_quote_en": "I find it a painless way to keep up in this fast moving field.",
+    "best_quote_zh": "我觉得这是一种轻松跟上快速变化领域的方式。"
+  },
+  {
+    "id": 52,
+    "title": "The Strength of Being Misunderstood",
+    "title_zh": "被误解的力量",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/the-strength-of-being-misunderstood",
+    "tags": [
+      "solve",
+      "ai-research",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2020-12-01",
+    "summary_en": "The article reframes the perennial question of whether founders should care about others’ opinions, arguing that the real dilemma lies in *when* and *for whom* we listen. It distinguishes two degrees of freedom: selecting the audience whose feedback matters and choosing the timescale over which that feedback is weighed. The author champions a long‑term, strategic mindset—being right on a non‑consensus bet, even if misunderstood today, is a strength that opens space for high‑impact work. This perspective resonates with seasoned entrepreneurs who trade short‑term popularity for long‑term influence, and it offers a nuanced counter‑argument to the simplistic “don’t care” mantra. The piece is actionable for leaders who need a framework to prioritize feedback, yet it also invites critical reflection on the risks of chasing validation from the wrong voices. In short, it turns the discomfort of being misunderstood into a deliberate lever for vision and resilience.",
+    "summary_zh": "作者重新审视创始人是否该在意他人观点的普遍问题，指出真正的难题在于何时以及为谁倾听。文章区分了两个自由度：挑选重要反馈的受众与决定评估的时间尺度。作者倡导长期、战略性的思维——即使被误解，只要在非共识赌注上正确，仍是一种优势，能为高影响力工作腾出空间。该观点与愿意牺牲短期声誉追求长期影响力的经验丰富创业者产生共鸣，并为领导者提供优先考虑反馈的框架。它既可操作，又促使人们批判性地思考追随错误声音的风险。简而言之，它把被误解的痛苦转化为愿景与韧性的有意识杠杆。",
+    "best_quote_en": "I don’t care what you think about me. I don’t think about you at all.",
+    "best_quote_zh": "我不在乎你对我的看法，我根本不考虑你。"
+  },
+  {
+    "id": 53,
+    "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
+    "title_zh": "Essentials：你的大脑如何运作并解读世界 | David Berson博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-brain-functions-interprets-the-world-dr-david-berson",
+    "tags": [
+      "analyze",
+      "science",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2025-10-16",
+    "summary_en": "In this Huberman Lab Essentials episode, neuroscientist Dr. David Berson unpacks the astonishing journey of visual information from photon capture to cortical awareness. He explains how the retina’s photoreceptors, including melanopsin‑rich ganglion cells, translate light into neural code that not only drives color perception but also entrains our circadian clock, linking vision to sleep and hormonal rhythms. The discussion extends to the vestibular system’s role in balance, the cerebellum’s precision timing in motor learning, and the midbrain’s multisensory integration that keeps us oriented in space. A particularly striking case study of neuroplasticity in the visual cortex illustrates how the brain reorganizes after injury, offering hope for rehabilitation. By weaving molecular detail with functional anatomy, Berson provides a data‑driven, advanced perspective that is both deeply informative and practically relevant for anyone curious about how perception shapes behavior and health.",
+    "summary_zh": "在Huberman实验室的Essentials节目中，神经科学家David Berson博士带我们走进视觉信息从光子捕获到皮层意识的惊人旅程。他阐述了视网膜光感受器，尤其是含有黑色素素的神经节细胞，如何将光转换为神经代码，既实现色彩感知，又同步昼夜节律，将视觉与睡眠和激素节奏相连。讨论还涵盖前庭系统在平衡中的作用、小脑在运动学习中的精准时序以及中脑多感官整合保持空间定向的机制。尤其引人注目的是视觉皮层神经可塑性的案例研究，展示大脑在损伤后如何重组，为康复带来希望。Berson将分子细节与功能解剖相结合，提供了数据驱动、先进的视角，既富有洞见又具实用价值。",
+    "best_quote_en": "We explore how the brain processes visual information, from photons entering the eye to conscious perception in the cortex.",
+    "best_quote_zh": "我们探讨大脑如何处理视觉信息，从光子进入眼睛到大脑皮层的意识感知。"
   }]
