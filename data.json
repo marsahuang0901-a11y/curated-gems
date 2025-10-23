@@ -1496,4 +1496,117 @@
     "summary_zh": "弗兰克·米勒在这段访谈中揭示了创作的纪律与叙事结构。他从《雷神》到《罪恶之城》讲述了页面放大如何改变节奏与视觉节拍，并说明与尼尔·阿德姆斯、艾伦·摩尔的合作如何锤炼他的叙事技巧。米勒的工作流程——先用薄纸布局，再上色，再上墨——既系统又混沌，体现了结构与即兴的平衡。他提到欧洲漫画、日本漫画与美国超级英雄的跨文化影响，说明其美学反叛源自多元。最重要的是，他的“问每一个问题”座右铭鼓励持续好奇，可适用于任何创意或创业项目。此访谈为艺术家、作家和创新者提供可操作的洞见，帮助他们突破边界重新定义叙事。",
     "best_quote_en": "Ask every question.",
     "best_quote_zh": "问每一个问题。"
+  },{
+    "id": 64,
+    "title": "It’s great to see pregnant women in the public eye – but must they all be so gorgeous? | Coco Khan",
+    "title_zh": "看到孕妇出现在公众视野真好，但她们都必须如此迷人吗？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/oct/22/its-great-to-see-pregnant-women-in-the-public-eye-but-must-they-all-be-so-gorgeous",
+    "tags": [
+      "learn",
+      "ai-research",
+      "society"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "社会议题"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "The piece dissects the paradox of a pregnant model gracing a Victoria’s Secret runway, spotlighting the industry's penchant for glamour over realism. By juxtaposing the celebratory image of a nine‑month‑old angel with the raw physicality of pregnancy, the author critiques how media perpetuates a narrow, almost fetishized standard of beauty. The article urges a broader representation—real, diverse bodies that reflect the true physiological changes of motherhood. It also touches on the economic pressures that push brands to feature pregnant bodies as a novelty rather than a genuine celebration of fertility. The writing invites readers to question whether visibility equates to empowerment or merely reinforces a commodified, aestheticized narrative. Ultimately, it calls for a cultural shift toward authenticity and inclusivity, reminding us that pregnancy is a profound transformation, not just a fleeting “bump.”",
+    "summary_zh": "作者通过维多利亚的秘密跑道上的孕妇形象，揭示时尚界对孕妇美化的矛盾。她呼吁媒体呈现更真实、更多样的孕产体形，质疑“可见即赋权”的假象，并倡导将孕育视为深刻变革而非商业化装饰。",
+    "best_quote_en": "It’s great to see pregnant women in the public eye – but must they all be so gorgeous?",
+    "best_quote_zh": "看到孕妇出现在公众视野真好，但她们都必须如此迷人吗？"
+  },
+  {
+    "id": 65,
+    "title": "Fashionable Problems",
+    "title_zh": "时尚问题",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fp.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "The piece exposes a pervasive creative blind spot: brilliant minds, even the most imaginative, tend to chase the ‘fashionable’ problems—those that already feel fresh and buzzworthy—while neglecting the vast, underexplored terrain of seemingly dull or fully‑explored fields. By highlighting how the same patterns recur across essays, Lisp, and venture funding, it urges readers to seek novelty not in new domains but in fresh angles within crowded spaces. The author’s central thesis—that the value of a discovery is amplified by the sheer surface area of the problem—invites a strategic reframing: the more people think a problem is solved, the more untapped potential it holds. This insight blends philosophical observation with practical strategy, offering a roadmap for innovators to cultivate genuine passion as a shield against herd behavior. Ultimately, the article challenges us to re‑define ‘fashionable’ as a personal commitment rather than a market trend, urging a shift from following the crowd to pioneering untapped frontiers.",
+    "summary_zh": "作者指出，即便是最具创造力的人，也往往被‘时尚’问题所吸引，忽视了看似已被完全探索的领域。文章强调在拥挤领域寻找新角度的重要性，并指出发现价值与问题表面积成正比。通过将热度与真正创新区分开来，提醒读者把真正热爱当作抵御从众的盾牌。",
+    "best_quote_en": "If you can find a new approach into a big but apparently played out field, the value of whatever you discover will be multiplied by its enormous surface area.",
+    "best_quote_zh": "如果你能在一个看似已被完全探索的大领域中找到一种新的方法，你所发现的价值将因其巨大的表面积而被放大。"
+  },
+  {
+    "id": 66,
+    "title": "A New Paradigm for Protecting Homes from Disastrous Fires",
+    "title_zh": "一种新的范式：保护住宅免受灾难性火灾的威胁",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/a-new-paradigm-for-protecting-homes-from-disastrous-fires",
+    "tags": [
+      "analyze",
+      "science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "The piece dissects how fifty-plus ignition pathways—embers, radiant heat, direct flame—can ignite homes in the wildland‑urban interface, overturning the old belief that fire merely follows a wall of flames. By reconstructing the 2012 Waldo Canyon and 2007 Witch Creek fires, scientists show that most surviving houses owe their resilience to firefighters’ actions, not to design alone. The report proposes a “unified theory” of hardening: Class‑A roofs, mesh‑covered vents, closed eaves, tempered glass, and sealed garage gaps. Yet it confronts the stark reality that voluntary retrofits are incomplete and uneven; a single house can fail if 20 % of the measures are missed. The author argues for a community‑wide, 100 % hardening mandate, a shift that may seem daunting but is essential to break the 80‑20 disaster rule. The article also critiques current policy gaps, highlights California’s Zone Zero and C.W.M.P. pilots, and warns that without systemic political will, millions of older homes will remain vulnerable.",
+    "summary_zh": "文章揭示了火灾在住宅与野生界面中的五十多种点燃途径，挑战传统观念。通过重建瓦尔多峡谷与witch溪火灾，研究显示，住宅幸存主要靠消防员行动，而非设计本身。作者提出统一硬化理论：A级屋顶、网罩通风口、封闭檐口、钢化玻璃与密封车库门缝。但现实是自愿改造往往不完整，20%缺失即可导致失效。呼吁社区级、100%硬化的强制措施，突破80‑20灾害规则。文章批评政策缺口，阐述加州Zone Zero与C.W.M.P.试点，并警示若无政治意愿，数百万旧屋仍处于风险中。",
+    "best_quote_en": "\"The approach that has been taken for the last quarter century has been one of, ‘Hey, something is better than nothing,’ … and, from a fire perspective, that is absolutely not true. Fire doesn’t work that way.\"",
+    "best_quote_zh": "\"过去四分之一世纪的做法是‘好吧，至少比没做好要好’，但从消防角度来看，这绝对不对。火灾不是那样运作的。\""
+  },
+  {
+    "id": 67,
+    "title": "What’s in my NOW? — Aishwarya Goel",
+    "title_zh": "我的现在是什么？ — Aishwarya Goel",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-aishwarya-goel/",
+    "tags": [
+      "update",
+      "design",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "Through a candid snapshot of her daily routines, Aishwarya Goel offers a micro‑case study in how intentional tool selection can shape productivity and well‑being. From a Philips Signe Gradient Floor Lamp that morphs ambience to a DASH Mini Maker griddle that guarantees perfect eggs, she demonstrates that even modest gadgets can yield outsized gains when they align with personal habits. Her digital habits—MyNetDiary’s AI‑powered meal analysis and Bear Blog’s minimalist UX—highlight a growing trend toward data‑driven, low‑friction platforms that reward consistency over complexity. The article’s underlying message is that “excellence is the capacity to take pain,” reframing discomfort as a catalyst for deliberate improvement. While the piece reads more like a curated wishlist than a research report, its practical recommendations and reflective tone make it a valuable resource for founders, creatives, and anyone looking to optimize their “now.”",
+    "summary_zh": "Aishwarya Goel 以日常工具为线索，展示如何通过细致选择提升效率与生活品质。她的灯具、烤盘与数字应用，既实用又富有洞察，提醒我们‘卓越是承受痛苦的能力’，把痛苦视作成长的驱动力。",
+    "best_quote_en": "Excellence is the capacity to take pain. — James Dyson, founder, Dyson.",
+    "best_quote_zh": "卓越是承受痛苦的能力。— 詹姆斯·戴森"
+  },
+  {
+    "id": 68,
+    "title": "Researchers and Founders",
+    "title_zh": "研究人员与创始人",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/researchers-and-founders",
+    "tags": [
+      "inspire",
+      "leadership",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "启发",
+      "领导管理",
+      "深度分析"
+    ],
+    "date": "2020-06-19",
+    "summary_en": "The post contrasts the traits of founders and researchers, uncovering a shared set of habits that drive exceptional performance across both realms. It highlights the rare practice of reflecting on the Hamming question—\"What are the most important problems in your field, and why aren’t you working on them?\"—as a hallmark of top talent. These individuals marry a laser‑focused next‑step mindset with long‑term vision, persistently pursue hard work, and maintain a bias toward action that filters out ineffective pursuits. They thrive on autonomy, resist arbitrary rules, and generate ideas relentlessly, driven by genuine curiosity rather than external validation. The piece invites readers to internalize these habits, suggesting that the same quality set—reflection, focus, persistence, action bias, autonomy, curiosity—transcends the founder‑researcher divide. By framing these traits as actionable insights, the author encourages a broader audience to adopt a more disciplined, future‑oriented approach to problem‑solving, thereby elevating their effectiveness in any field.",
+    "summary_zh": "作者对比创始人与研究者的核心素质，指出顶尖人才的共性：深度反思、聚焦当下与长远、坚持不懈、行动倾向、自治与好奇。文章将这些习惯视为可操作的成长法则，启发读者跨界汲取经验，提升自身问题解决与创新能力。",
+    "best_quote_en": "They have a laser focus on the next step in front of them combined with long‑term vision.",
+    "best_quote_zh": "他们对下一步的专注与长期愿景相结合，远超多数人只拥有其中之一。"
   }]
