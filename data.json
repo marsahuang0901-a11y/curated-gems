@@ -1609,4 +1609,123 @@
     "summary_zh": "作者对比创始人与研究者的核心素质，指出顶尖人才的共性：深度反思、聚焦当下与长远、坚持不懈、行动倾向、自治与好奇。文章将这些习惯视为可操作的成长法则，启发读者跨界汲取经验，提升自身问题解决与创新能力。",
     "best_quote_en": "They have a laser focus on the next step in front of them combined with long‑term vision.",
     "best_quote_zh": "他们对下一步的专注与长期愿景相结合，远超多数人只拥有其中之一。"
+  },{
+    "id": 69,
+    "title": "UK women in tech: we would like to hear from you",
+    "title_zh": "英国科技行业女性：我们想听听您的声音",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/technology/2025/oct/21/uk-women-in-tech-we-would-like-to-hear-from-you",
+    "tags": [
+      "analyze",
+      "science",
+      "tech-trends",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "技术趋势",
+      "数据驱动"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "The Lovelace Report 2025, in partnership with WeAreTechWomen, shines a stark light on the exodus of women from the UK tech sector—between 40,000 and 60,000 per year, draining £2‑3.5 billion from the economy. The report pinpoints three primary levers of attrition: stalled career progression (25 %), inadequate recognition (17 %), and pay inequity (15 %). These findings not only quantify a talent drain but also expose systemic inequities that erode innovation and growth. By inviting women to share their stories, the Guardian turns data into a participatory dialogue, encouraging policymakers, employers, and peers to act. The piece demonstrates how evidence‑based advocacy can mobilize change, yet it also underscores the need for sustained structural reforms—transparent promotion pathways, equitable pay, and inclusive cultures. For anyone invested in tech’s future, this report is a call to translate numbers into action.",
+    "summary_zh": "《Lovelace 2025 报告》揭示英国科技行业女性每年流失4万至6万，损失2-3.5 亿英镑。主要原因是晋升停滞、认可不足和薪酬不平等。报告通过数据与访谈呼吁行业改革，强调透明晋升、薪酬公平与包容文化的必要性，成为推动多元化与创新的行动指南。",
+    "best_quote_en": "Between 40,000 and 60,000 women leave the UK’s tech sector every year, costing the economy an estimated £2 billion to £3.5 billion annually.",
+    "best_quote_zh": "每年有4万至6万名女性离开英国科技行业，给经济造成约20亿至35亿英镑的损失。"
+  },
+  {
+    "id": 70,
+    "title": "Having Kids",
+    "title_zh": "有孩子",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/kids.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "The essay chronicles the author’s pre‑parental anxieties and the radical shift in perspective that follows the birth of a child. He juxtaposes the stereotype of the dull, responsible parent with the unfiltered, almost chemical, surge of protectiveness that he experiences. By exposing his own selection bias—observing parents only in moments of crisis—he invites readers to question surface judgments about parenthood. The narrative balances the joys of spontaneous, quiet moments with the undeniable loss of flexibility and ambition that children demand. He offers pragmatic “hacks” for preserving productivity, such as framing work goals around what he wants to teach his kids, turning personal ambition into a family mission. The piece ultimately serves as a reflective case study, encouraging parents to reassess their own expectations, confront the trade‑offs of responsibility, and find meaning in the unplanned, chaotic rhythm of family life.",
+    "summary_zh": "作者先述对育儿的恐惧与刻板印象，随后在孩子出生后化学反应般的保护欲爆发，揭示育儿的真实面貌。通过自我偏见的反思，提醒读者勿以偏概全。文章兼顾孩子带来的无常与失去自由，提供将工作目标与育儿愿景结合的实用方法，鼓励父母在责任与自我实现之间寻找平衡与意义。",
+    "best_quote_en": "I suddenly felt protective not just toward our child, but toward all children.",
+    "best_quote_zh": "我突然感到不仅对我们的孩子，而是对所有孩子都充满保护欲。"
+  },
+  {
+    "id": 71,
+    "title": "Digital Entry Europe/Text Scammers/Mumbai’s 2nd Airport",
+    "title_zh": "数字入境欧洲/文本诈骗/孟买第二机场",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/digital-entry-europe-text-scammers-mumbais-2nd-airport/",
+    "tags": [
+      "update",
+      "cybersecurity",
+      "marketing",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "网络安全",
+      "市场营销",
+      "未来预测"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "The newsletter stitches together four disparate yet interlocking stories that illuminate the evolving contours of global mobility, digital trust, and urban infrastructure. First, Europe’s rollout of the Electronic Entry System (EES) promises faster borders and a passport‑free experience, but at the cost of granular surveillance and movement tracking—an uneasy trade‑off between convenience and privacy. Second, the piece on “pig‑butchering” scams exposes a sophisticated cyber‑fraud network that siphoned $15 billion in Bitcoin, underscoring the urgency of cross‑border regulatory cooperation and consumer education. Third, Mumbai’s new Navi Airport offers a pragmatic solution to chronic congestion, hinting at the broader trend of satellite hubs relieving pressure on legacy metros. Finally, the Time Out list of the world’s coolest neighborhoods showcases how local character can be leveraged for tourism and community building. Together, these vignettes invite readers to critically assess how technology, policy, and urban planning shape our lived experience.",
+    "summary_zh": "欧洲EES系统让边境更快，却牺牲隐私；“猪屠宰”诈骗案揭示跨国监管缺口；孟买新机场缓解拥堵；时评最酷街区聚焦地方魅力。三者交织，提醒我们科技与政策共同塑造未来。",
+    "best_quote_en": "Does anyone really fall for those?",
+    "best_quote_zh": "有人真的会被那些骗吗？"
+  },
+  {
+    "id": 72,
+    "title": "Project Covalence",
+    "title_zh": "协同项目",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/project-covalence",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2020-06-16",
+    "summary_en": "Project Covalence emerges as a strategic response to the bottleneck of clinical trials in the COVID‑19 era, offering a platform that streamlines trial design, remote data capture, telemedicine, and adaptive protocols. By partnering with TrialSpark and leveraging Dr. Mark Fishman’s expertise, the initiative targets the operational hurdles that slow drug, vaccine, and diagnostic development—particularly the need to conduct trials outside hospitals, in community or home settings. The platform’s 21 CFR Part 11 compliance, at‑home specimen kits, and shared control arms promise a higher‑leverage, cost‑effective path to scientific breakthroughs. For researchers and industry alike, this shared infrastructure could dramatically reduce time and capital outlay, turning the clinical trial process from a cumbersome, expensive hurdle into a rapid, scalable engine of innovation. The project’s emphasis on coordination, master protocols, and adaptive designs positions it as a model for future pandemic preparedness and a blueprint for accelerating translational research.\n",
+    "summary_zh": "项目协同在COVID‑19时代成为临床试验瓶颈的战略回应，提供平台简化试验设计、远程数据采集、远程医疗和自适应方案。通过与TrialSpark及Mark Fishman博士合作，专注解决药物、疫苗和诊断开发的运营障碍，尤其是将试验转移至社区或家庭环境。该平台符合21 CFR Part 11标准，提供居家样本采集套件和共享对照组，承诺更高杠杆、更低成本的科学突破路径。为研究者和产业界提供共享基础设施，可显著缩短时间和资本投入，将临床试验从繁琐昂贵的障碍转变为快速可扩展的创新引擎。其对协调、主协议和自适应设计的强调，使其成为未来流感预备和加速转化研究的范例。\n",
+    "best_quote_en": "Dramatically improving clinical trials, which are usually time‑consuming and cost tens to hundreds of millions of dollars, is one of the highest‑leverage ways to get out of it faster.",
+    "best_quote_zh": "科学仍然是摆脱 COVID‑19 危机的唯一途径。显著改进临床试验——通常耗时且成本高达数千万至数亿美元——是加速摆脱危机的最高杠杆方式。"
+  },
+  {
+    "id": 73,
+    "title": "Essentials: The Science of Gratitude & How to Build a Gratitude Practice",
+    "title_zh": "基础要点：感恩科学与建立感恩练习",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-science-of-gratitude-practice",
+    "tags": [
+      "guide",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-10-23",
+    "summary_en": "Huberman’s “Essentials: The Science of Gratitude” dives deep into the neural circuitry that underpins thankfulness, revealing why the most popular gratitude exercises—simple lists of positives—fall short. By weaving personal stories into the practice, the brain’s reward and social‑connection networks fire more robustly, producing measurable calm, motivation, and even reduced inflammation. The episode not only explains the science but hands readers a step‑by‑step weekly routine that blends emotional reflection with evidence‑based techniques. It bridges neuroscience, psychology, and everyday wellness, offering a tangible framework for anyone looking to harness gratitude as a tool for better mental and physical health. The blend of rigorous research and practical guidance makes this a standout resource for self‑development enthusiasts seeking science‑backed habits.",
+    "summary_zh": "Huberman 的《感恩科学》不仅阐释了感恩背后的神经机制，还揭示了故事式感恩练习对情绪与免疫的双重益处。文章强调，单纯列举感恩清单不足以激活大脑关键区域，而以情境故事为载体的练习能显著提升平静、社交联结与动力，同时降低焦虑与炎症。作者提供了一套循序渐进的每周感恩流程，兼顾心理与生理层面，既实用又基于实验数据。读者可借此构建可持续、深度的感恩日常，进而改善情绪调节、提升睡眠质量与免疫功能。此篇内容对希望用科学方法提升心理健康的读者具有高度参考价值。",
+    "best_quote_en": "Common gratitude practices (like simply listing things you're grateful for) are far less impactful than engaging in story‑based gratitude practices.",
+    "best_quote_zh": "感恩激活特定的大脑区域，提升平静、社交连接和动力，同时减少焦虑和炎症。"
   }]
