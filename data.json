@@ -1847,4 +1847,51 @@
     "summary_zh": "这篇报道揭示了联邦机构如何在极其隐蔽的角落里与海灯蛾——一种古老的寄生生物——作战，防止其摧毁五大湖的渔业。文章阐述了跨国鱼类委员会的长期行动、化学抑制剂的科学原理、现场作业的艰辛以及政治预算削减对这一关键生态工程的冲击。它不仅展示了人工智能、化学诱捕和电网等前沿技术的应用，更提醒我们在财政紧缩的时代，科学驱动的环境治理面临的脆弱性。通过对抗灯蛾抗药性的警示，文章呼吁多元化、可持续的防治策略，强调故事叙述在争取公众支持中的重要作用。",
     "best_quote_en": "If lampreys become resistant to lampricide, we’re gonna need alternatives.",
     "best_quote_zh": "如果灯蛾对铬毒剂产生抗药性，我们就需要寻找替代方案。"
+  },{
+    "id": 79,
+    "title": "Seven-ish Words from My Thought-Language",
+    "title_zh": "七个近似词，源自我的思维语言",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/2uaj4oFCcfAAZpGka/seven-ish-words-from-my-thought-language",
+    "tags": [
+      "learn",
+      "psychology",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "In this playful yet profound essay, the author invents a lexicon of \"untranslatable\" terms that capture nuanced mental states and conversational dynamics that English often glosses over. The piece moves beyond mere word‑play; it interrogates how we map thought onto language, exposing gaps where multiple, mutually exclusive ideas collide, leaving us tongue‑tied. By framing concepts such as *word‑clogged*, *vanilla‑obvious*, and *rabbithole*—each with precise grammatical tags and cross‑linguistic parallels—the author invites readers to rethink the interface between cognition and expression. The work’s originality lies in its systematic, almost quasi‑scientific approach: each entry is annotated with domain, usage, and even philosophical underpinnings. For language lovers, cognitive scientists, and anyone fascinated by the limits of expression, this essay offers fresh vocabulary and a critical lens on how we negotiate meaning. It underscores that language is both a mirror and a constraint, and that expanding our lexicon can illuminate the invisible architecture of thought.",
+    "summary_zh": "作者用一系列“不可翻译”的新词，探讨英语在表达复杂心理状态时的不足，揭示多重冲突思维导致的口吃现象。每个词汇都附有语法标签、跨语言对比与哲学注释，既是语言创新，也是认知反思。",
+    "best_quote_en": "to be tongue‑tied not out of a lack of things to say, but out of an overabundance of mutually exclusive things to say",
+    "best_quote_zh": "不是因为缺乏话语而结结巴巴，而是因为话语过多、相互排斥导致的口吃"
+  },
+  {
+    "id": 80,
+    "title": "What if the Big Law Firms Hadn’t Caved to Trump?",
+    "title_zh": "如果大律师事务所不向特朗普让步会怎样？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-if-the-big-law-firms-had-not-caved-to-trump",
+    "tags": [
+      "solve",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-10-25",
+    "summary_en": "The piece interrogates a pivotal moment in the Trump era: the capitulation of high‑profile law firms to executive orders that threatened the independence of the Justice Department and the rule of law. By weaving historical anecdotes, legal precedent, and real‑world consequences, the author argues that a unified legal front could have stymied Trump’s “unitary executive” agenda and preserved prosecutorial autonomy. The narrative exposes how the allure of short‑term financial gain—pro‑bono settlements, lucrative contracts—overrode the firms’ duty to defend democratic norms, turning powerful institutions into collateral damage. Readers are invited to reflect on the ethical calculus that private practitioners face when political pressure mounts: is survival worth compromising the very system they help shape? The article challenges the legal community to re‑evaluate its collective responsibility, offering a cautionary tale about the fragility of institutional integrity when individual interests dominate. It is a call to action for lawyers, partners, and policymakers alike to safeguard the rule of law against executive overreach.",
+    "summary_zh": "文章以特朗普时代为背景，探讨大律师事务所屈从行政命令导致司法独立受损的关键时刻。作者通过历史案例与现实后果，指出若律师界团结抵制，可能阻止“统一行政”议程，维护执法公正。文中揭示短期经济利益与维护民主原则的冲突，警示强大机构在政治压力下的脆弱。它呼吁法律界重新审视集体责任，提醒从业者在执业与制度保护间做出抉择。",
+    "best_quote_en": "If the rules don’t matter anymore, then lawyers are glorified fixers, who lobby politicos for favors.",
+    "best_quote_zh": "如果规则不再重要，那么律师就变成了光荣的修复者，向政治家寻求好处。"
   }]
