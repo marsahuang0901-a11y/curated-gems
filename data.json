@@ -2013,4 +2013,123 @@
     "summary_zh": "米歇尔·坎宁安的《野天鹅》与史蒂夫·格罗斯、苏珊·达利的《创意小屋》分别在叙事与空间上进行大胆改造。前者以讽刺与同情重塑童话，配合优雅插画，呈现文学与艺术的跨界；后者则展示小空间的再利用与设计美学，启发读者重新思考日常物品与居住环境的潜能。两书共同强调创意的力量与对传统的挑战，鼓励人们在故事与空间中寻找新的可能性。",
     "best_quote_en": "End of story. ‘Happily ever after’ fell on everyone like a guillotine’s blade.",
     "best_quote_zh": "在典型的童话集中可能以浓郁色彩、华丽装订和金属装饰为卖点时，《野天鹅》却以简约优雅为特色。"
+  },{
+    "id": 86,
+    "title": "Girl boss or tradwife? An economist on how a workforce built for men has failed women",
+    "title_zh": "女强人还是传统妻子？经济学家谈以男性为中心的职场如何让女性失望",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/money/2025/oct/26/having-it-all-book-women-workforce",
+    "tags": [
+      "solve",
+      "education",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-10-26",
+    "summary_en": "Corinne Low’s new book, Having It All, dissects the gendered architecture of the modern workplace and the home, revealing how a system built for men systematically undermines women’s economic agency.  By coining the term “the squeeze,” Low quantifies the relentless pressure on working mothers to juggle unpaid home production and paid labor, a reality that data shows drives burnout and limits career progression.  She traces historical shifts—from the 1970s divorce law reforms that propelled women into higher education to the contemporary “girl‑boss” narrative that, while encouraging ambition, ignores the persistent expectation that women shoulder domestic labor.  Low’s critique is not merely lamentation; she offers a dual strategy: policy reforms (paid maternity leave, flexible work) and a reframing of personal utility, urging women to craft individualized success metrics rather than conform to binary ideals.  Her analysis bridges economics, sociology, and feminist thought, inviting readers to rethink the very definition of “having it all.”",
+    "summary_zh": "低女士通过数据剖析男性主导的职场与家庭结构，揭示“压缩”现象让女性陷入无休止的工作与家务双重负担。她指出，女强人运动虽鼓励女性拼搏，却忽视了女性仍需承担大部分家务的现实。低主张政策改革与个人价值重塑，让女性能根据自身需求制定成功路径，重新定义“全能”。",
+    "best_quote_en": "The advice of Sandberg and co falls short. It ignores the structural realities that put the onus on women.",
+    "best_quote_zh": "你有24小时，既当Instagram的tradwife又当Sheryl Sandberg是两份全职工作。"
+  },
+  {
+    "id": 87,
+    "title": "The Bus Ticket Theory of Genius",
+    "title_zh": "公交车票理论：天才的秘诀",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/genius.html",
+    "tags": [
+      "solve",
+      "education",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "The article reframes genius as a triad—natural ability, determination, and a disinterested obsession. By likening passionate collectors of bus tickets to pioneers like Darwin and Ramanujan, it argues that curiosity alone fuels breakthroughs, acting as both a proxy for talent and a substitute for hard work. The piece challenges conventional wisdom that talent alone suffices, instead proposing that cultivating deep, personal interests can unlock creative pathways that rational planning would miss. It also explores the paradox of risk and reward, suggesting that time‑wasting pursuits may, paradoxically, be essential for discovery. The author extends the theory to education and life choices, urging parents and institutions to nurture curiosity rather than impose narrow curricula. Ultimately, the essay invites readers to reimagine genius as an evolving habit of “intellectual bus‑ticket collecting,” offering a hopeful, actionable framework for fostering innovation.",
+    "summary_zh": "作者将天才拆解为天赋、毅力与无私的执着热情，借公交车票收藏家比拟达尔文、拉马努金，指出好奇心是突破的关键。文章质疑单靠天赋足矣，强调培养深度兴趣可开启理性规划忽视的创新路径。它进一步讨论风险与回报的悖论，认为“浪费”时间的探索或许是发现的必要条件。作者把理论延伸至教育与生活，主张父母与机构应培养好奇心而非强加狭窄课程，倡导“知识公交车票收集”作为激发创新的可操作框架。",
+    "best_quote_en": "The bus ticket theory suggests that the way to do great work is to relax a little.",
+    "best_quote_zh": "公交车票理论表明，做出伟大工作的方式是放松一点。"
+  },
+  {
+    "id": 88,
+    "title": "Mowers",
+    "title_zh": "割草机",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/mowers/",
+    "tags": [
+      "update",
+      "science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-10-27",
+    "summary_en": "This article is a hands‑on guide to a range of lawn‑care tools, from the hybrid DR Trimmer/Mower that combines a rotary blade with a weed‑whacker head to the lightweight Brill Luxus reel mower that offers a sustainable, low‑impact alternative to gas models. It also covers the Cyclone Rake for bulk leaf removal, the Stihl FSE‑60 electric trimmer, and a European‑style scythe that reintroduces ergonomic, manual cutting. The author shares practical tips—engine size, line choice, and blade maintenance—and evaluates each tool’s cost‑benefit, durability, and environmental footprint. By juxtaposing user anecdotes with objective performance data, the piece encourages readers to rethink traditional yard‑maintenance workflows, prioritize longevity and community service, and adopt tools that blend efficiency with user comfort. The insights are actionable, data‑driven, and relevant for anyone looking to optimize their outdoor upkeep while minimizing waste and noise.",
+    "summary_zh": "这篇文章通过对多款割草工具的实测与用户评述，揭示了从混合动力割草机到手摇式割草机、叶片收集器、电动修枝机及欧洲式镰刀的性能与使用体验。作者强调工具的可持续性、人体工学、成本效益与社区服务的重要性，并提供了实用的维护与操作建议。读者可从中获得关于工具选择、维护策略和环保理念的深度洞见，进一步提升庭院管理的效率与乐趣。",
+    "best_quote_en": "In value, it’s one of my best tool purchases ever.",
+    "best_quote_zh": "大多数人看到我仅用轻轻一划就把草或杂草清除时会惊讶。"
+  },
+  {
+    "id": 89,
+    "title": "Idea Generation",
+    "title_zh": "创意生成",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/idea-generation",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2020-05-28",
+    "summary_en": "This note distills a practical playbook for founders who struggle to generate viable startup ideas. It argues that idea fluency is a core founder trait—most successful founders generate a high volume of concepts, not just a single “golden” idea. The author recommends immersing oneself in a future‑focused, low‑filter environment: surrounding yourself with optimistic, creative thinkers who tolerate radical, fragile ideas. By projecting 20 years ahead and spotting tectonic shifts, founders can spot nascent opportunities that incumbents miss. The piece also stresses the importance of intrinsic fit—founder capabilities must align with product and market fit. A key diagnostic test is whether you can articulate why the idea seems bad yet understand its hidden advantage. The insights are actionable, data‑driven, and forward‑looking, offering a clear framework for systematic idea generation that transcends generic brainstorming tips.",
+    "summary_zh": "作者强调创意流量是创始人核心素质，建议沉浸在乐观、无滤镜的未来导向环境中，投射20年后寻找地质性变革，捕捉先机。并强调创始人与产品、市场的匹配度，提出检验点：能否说明为何被视为糟糕却理解其优势。内容实用、数据驱动、前瞻性强，提供系统化的创意生成框架，超越传统头脑风暴。",
+    "best_quote_en": "The best ideas are fragile; most people don’t even start talking about them at all because they sound silly.",
+    "best_quote_zh": "最好的想法是脆弱的；大多数人甚至不开始谈论它们，因为它们听起来很傻。"
+  },
+  {
+    "id": 90,
+    "title": "Improve Your Lymphatic System for Overall Health & Appearance",
+    "title_zh": "提升淋巴系统，改善整体健康与外观",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/improve-lymphatic-system-health-appearance",
+    "tags": [
+      "solve",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-10-27",
+    "summary_en": "The episode demystifies the lymphatic system—our body’s silent waste‑drainage network—by weaving together anatomy, physiology, and actionable lifestyle tweaks. It explains how the lack of a central pump forces us to rely on movement, diaphragmatic breathing, and pressure changes to propel lymph fluid. The host outlines a menu of evidence‑based tools: low‑impact rebounders, swimming, tai chi, targeted facial massage, and sleep positioning that collectively enhance lymph flow, reduce edema, clear brain “fog,” and even support cardiac longevity. By grounding recommendations in peer‑reviewed studies and clinical anecdotes, the content invites listeners to experiment with simple, low‑cost interventions while highlighting the emerging science of the glymphatic system. The discussion offers a clear, step‑by‑step protocol that can be adopted by beginners and refined by health‑savvy enthusiasts alike, making the science accessible and immediately applicable.",
+    "summary_zh": "文章深入阐述淋巴系统的功能与重要性，并提供基于科学的实用方法——从运动、呼吸、压力调节到睡眠姿势，帮助读者主动提升免疫力、减少浮肿、改善面部及全身外观。作者结合临床案例与最新研究，强调无泵泵动机制的关键性，并给出循序渐进的自我调理步骤，既适合初学者，也为健康爱好者提供了可操作的高级策略。",
+    "best_quote_en": "Because your lymphatic system lacks a central pump, it needs the mechanical forces generated by specific types of bodily movement, breathing and pressure to circulate your lymph properly.",
+    "best_quote_zh": "因为淋巴系统缺乏中心泵，它需要特定身体运动、呼吸和压力产生的机械力来有效循环淋巴。"
   }]
