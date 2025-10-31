@@ -1,49 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "How to reimagine education for the 21st century",
-    "title_zh": "如何重新构想21世纪的教育",
-    "source": "Brookings Institution",
-    "link": "https://www.brookings.edu/articles/how-to-reimagine-education-for-the-21st-century/",
-    "tags": [
-      "Education",
-      "21st Century Skills",
-      "Learning"
-    ],
-    "tags_zh": [
-      "教育",
-      "21世纪技能",
-      "学习"
-    ],
-    "date": "2025-09-09",
-    "summary_en": "This article discusses the growing demand for education to include a new set of competencies, or '21st-century skills,' such as problem-solving, collaboration, and critical thinking. It highlights the challenge of integrating these skills into the existing curriculum and suggests they should be part of the classroom culture rather than a separate subject.",
-    "summary_zh": "这篇文章讨论了教育领域日益增长的需求，即应将问题解决、协作和批判性思维等“21世纪技能”纳入教学体系。它强调了将这些技能整合到现有课程中的挑战，并建议将其作为课堂文化的一部分，而非独立的学科来教授。",
-    "best_quote_en": "Business leaders across the country tell us that to compete in the knowledge-based economy of the 21st Century children will need a different kind of training and education.",
-    "best_quote_zh": "全国各地的商业领袖告诉我们，要想在21世纪的知识经济中竞争，孩子们需要一种不同的培训和教育。"
-  },
-  {
-    "id": 2,
-    "title": "Is This the End of the Growth Mindset Theory?",
-    "title_zh": "成长型思维理论终结了吗？",
-    "source": "Psychology Today",
-    "link": "https://www.psychologytoday.com/sg/blog/the-asymmetric-brain/202509/is-this-the-end-of-the-growth-mindset-theory",
-    "tags": [
-      "Cognitive Psychology",
-      "Education",
-      "Growth Mindset"
-    ],
-    "tags_zh": [
-      "认知心理学",
-      "教育",
-      "成长型思维"
-    ],
-    "date": "2025-09-13",
-    "summary_en": "A new structured review of studies on growth mindset interventions finds that they have little to no effect on academic performance. The study focused on high-quality data and found that the positive effects reported in lower-quality studies were likely due to flawed study designs rather than actual effectiveness.",
-    "summary_zh": "一项针对成长型思维干预研究的最新系统性综述发现，该理论对学业表现几乎没有影响。这项研究主要关注高质量数据，并指出低质量研究中报告的积极影响，更有可能是由于有缺陷的研究设计，而非干预措施的实际效果。",
-    "best_quote_en": "When only the 14 study outcomes with the highest quality rating were considered, the effect of growth mindset interventions was around zero.",
-    "best_quote_zh": "当只考虑14个最高质量的研究结果时，成长型思维干预措施的影响几乎为零。"
-  },
-  {
     "id": 3,
     "title": "Xi Jinping is in a race against time to secure his legacy in China",
     "title_zh": "习近平正在与时间赛跑以巩固他在中国的历史遗产",
@@ -740,8 +696,8 @@
     "summary_zh": "本文将日本粘土锅料理书与科幻漫画对比，揭示日常工具与叙事框架如何塑造社区认同与权力结构。粘土锅强调共享烹饪与文化遗产，提供实用菜谱；漫画则批判资源驱动的侵略与高科技占领，提供对当代地缘政治的深刻反思。两者共同探讨物质文化与叙事如何共同创造共享价值与抵抗，兼具实用与批判性洞见。",
     "best_quote_en": "Don’t just drink up the broth, create yet another course!",
     "best_quote_zh": "Donabe (doh-nah-bei) 是日语中‘粘土锅’的意思。"
-  }
-,{
+  },
+  {
     "id": 32,
     "title": "Orthodox Privilege",
     "title_zh": "正统特权",
@@ -860,7 +816,8 @@
     "summary_zh": "DJ Shipley 这位退役海豹突击队员以其不屈精神为我们揭示了从战场到生活的心理与身体韧性秘诀。他强调“堆叠小胜利”与“专注可控”，并分享了针对 PTSD、成瘾与抑郁的前沿疗法。通过实用的晨间例行、微型目标与身体训练，他展示了如何在家庭、工作与个人成长中持续突破极限。内容兼具案例研究与专业洞见，既适合寻求自我提升的普通读者，也为心理健康从业者提供可操作的策略。",
     "best_quote_en": "Stack small wins and be ultra‑intentional about your mindset.",
     "best_quote_zh": "堆叠小胜利，并对你的心态保持高度意图。"
-  },{
+  },
+  {
     "id": 37,
     "title": "Coronavirus and Credibility",
     "title_zh": "冠状病毒与可信度",
@@ -953,7 +910,8 @@
     "summary_zh": "本期访谈中，诺贝尔奖得主理查德·塞勒与餐饮创新者尼克·科科纳斯探讨行为经济学核心：理性假设的脆弱性、赢家诅咒悖论以及“提示”力量。塞勒举例说明，微小的摩擦降低——如自动401(k)注册、押金预订系统或道路价格信号——如何显著改变人类选择。对话将理论与实践相结合，展示如何将行为洞察转化为可操作的商业策略，并警示提示的潜在阴暗面。",
     "best_quote_en": "If you want people to do something, make it easy.",
     "best_quote_zh": "如果你想让人们做某事，就让它变得容易。"
-  },{
+  },
+  {
     "id": 41,
     "title": "RLF Collected podcast",
     "title_zh": "RLF收集播客",
@@ -1048,7 +1006,8 @@
     "summary_zh": "OpenAI 的 DALL·E 2 不仅是炫技演示，更预示自然语言接口的崛起。作者把它视作创意加速器与未来“AI 办公助手”的前瞻，指出 AI 正在倒置传统的劳动力影响顺序，并警示技术进步可能导致某些岗位消失。文章在热情与谨慎之间取得平衡，强调与研究者与艺术家共同制定治理框架，倡导渐进式部署。它让我们重新思考：在这个想法决定边界的时代，创意与劳动力的意义正在被重新定义。",
     "best_quote_en": "This is another example of what I think is going to be a new computer interface trend: you say what you want in natural language or with contextual clues, and the computer does it.",
     "best_quote_zh": "这又是我认为将成为新的计算机界面趋势的例子：你用自然语言或上下文线索说出你想要的，计算机就会去做。"
-  },{
+  },
+  {
     "id": 45,
     "title": "Blog tour: Where Snowbirds Play",
     "title_zh": "博客巡回：雪鸟之所",
@@ -1143,7 +1102,8 @@
     "summary_zh": "Helion 的愿景与技术让人振奋：以极低成本实现净电力，预示能源革命与气候拯救的可能。创始人兼工程师的双重身份，彰显科技与商业的深度融合。对投资者而言，它既是科学突破，也是市场机会，值得深度关注与学习。",
     "best_quote_en": "Helion has a clear path to net electricity by 2024, and has a long‑term goal of delivering electricity for 1 cent per kilowatt‑hour.",
     "best_quote_zh": "Helion 已经有明确的路线在 2024 年实现净电力，并长期目标是以每千瓦时 1 美分的价格提供电力。"
-  },{
+  },
+  {
     "id": 49,
     "title": "Haters",
     "title_zh": "Haters",
@@ -1260,7 +1220,8 @@
     "summary_zh": "在Huberman实验室的Essentials节目中，神经科学家David Berson博士带我们走进视觉信息从光子捕获到皮层意识的惊人旅程。他阐述了视网膜光感受器，尤其是含有黑色素素的神经节细胞，如何将光转换为神经代码，既实现色彩感知，又同步昼夜节律，将视觉与睡眠和激素节奏相连。讨论还涵盖前庭系统在平衡中的作用、小脑在运动学习中的精准时序以及中脑多感官整合保持空间定向的机制。尤其引人注目的是视觉皮层神经可塑性的案例研究，展示大脑在损伤后如何重组，为康复带来希望。Berson将分子细节与功能解剖相结合，提供了数据驱动、先进的视角，既富有洞见又具实用价值。",
     "best_quote_en": "We explore how the brain processes visual information, from photons entering the eye to conscious perception in the cortex.",
     "best_quote_zh": "我们探讨大脑如何处理视觉信息，从光子进入眼睛到大脑皮层的意识感知。"
-  },{
+  },
+  {
     "id": 54,
     "title": "The Guardian view on childbirth and medical negligence: rising payouts highlight the urgency of maternity improvements",
     "title_zh": "《卫报》关于分娩与医疗过失的观点：赔偿上升凸显产科改进的迫切性",
@@ -1379,7 +1340,8 @@
     "summary_zh": "史蒂文·普雷斯菲尔德用实用、可操作的策略拆解内在抵抗，抛弃空洞口号，提供日常结构、纪律习惯和身体训练等工具，帮助人们战胜拖延、怀疑与恐惧，提升创作与生产力。",
     "best_quote_en": "His approach is concrete, not based on slogans or inspirational messages.",
     "best_quote_zh": "他的方法具体而非口号或鼓舞人心的讯息。"
-  },{
+  },
+  {
     "id": 59,
     "title": "We were on the brink of a big bush revival - then Kim K released her pubic hair thong | Coco Khan",
     "title_zh": "我们正处于大阴毛复兴的边缘——随后金·卡戴珊发布了她的阴毛丁字裤 | Coco Khan",
@@ -1496,7 +1458,8 @@
     "summary_zh": "弗兰克·米勒在这段访谈中揭示了创作的纪律与叙事结构。他从《雷神》到《罪恶之城》讲述了页面放大如何改变节奏与视觉节拍，并说明与尼尔·阿德姆斯、艾伦·摩尔的合作如何锤炼他的叙事技巧。米勒的工作流程——先用薄纸布局，再上色，再上墨——既系统又混沌，体现了结构与即兴的平衡。他提到欧洲漫画、日本漫画与美国超级英雄的跨文化影响，说明其美学反叛源自多元。最重要的是，他的“问每一个问题”座右铭鼓励持续好奇，可适用于任何创意或创业项目。此访谈为艺术家、作家和创新者提供可操作的洞见，帮助他们突破边界重新定义叙事。",
     "best_quote_en": "Ask every question.",
     "best_quote_zh": "问每一个问题。"
-  },{
+  },
+  {
     "id": 64,
     "title": "It’s great to see pregnant women in the public eye – but must they all be so gorgeous? | Coco Khan",
     "title_zh": "看到孕妇出现在公众视野真好，但她们都必须如此迷人吗？",
@@ -1609,7 +1572,8 @@
     "summary_zh": "作者对比创始人与研究者的核心素质，指出顶尖人才的共性：深度反思、聚焦当下与长远、坚持不懈、行动倾向、自治与好奇。文章将这些习惯视为可操作的成长法则，启发读者跨界汲取经验，提升自身问题解决与创新能力。",
     "best_quote_en": "They have a laser focus on the next step in front of them combined with long‑term vision.",
     "best_quote_zh": "他们对下一步的专注与长期愿景相结合，远超多数人只拥有其中之一。"
-  },{
+  },
+  {
     "id": 69,
     "title": "UK women in tech: we would like to hear from you",
     "title_zh": "英国科技行业女性：我们想听听您的声音",
@@ -1728,7 +1692,8 @@
     "summary_zh": "Huberman 的《感恩科学》不仅阐释了感恩背后的神经机制，还揭示了故事式感恩练习对情绪与免疫的双重益处。文章强调，单纯列举感恩清单不足以激活大脑关键区域，而以情境故事为载体的练习能显著提升平静、社交联结与动力，同时降低焦虑与炎症。作者提供了一套循序渐进的每周感恩流程，兼顾心理与生理层面，既实用又基于实验数据。读者可借此构建可持续、深度的感恩日常，进而改善情绪调节、提升睡眠质量与免疫功能。此篇内容对希望用科学方法提升心理健康的读者具有高度参考价值。",
     "best_quote_en": "Common gratitude practices (like simply listing things you're grateful for) are far less impactful than engaging in story‑based gratitude practices.",
     "best_quote_zh": "感恩激活特定的大脑区域，提升平静、社交连接和动力，同时减少焦虑和炎症。"
-  },{
+  },
+  {
     "id": 74,
     "title": "News: São Tomé and Príncipe collection published after 13 years",
     "title_zh": "新闻：圣多美和普林西比书籍13年后出版",
@@ -1847,7 +1812,8 @@
     "summary_zh": "这篇报道揭示了联邦机构如何在极其隐蔽的角落里与海灯蛾——一种古老的寄生生物——作战，防止其摧毁五大湖的渔业。文章阐述了跨国鱼类委员会的长期行动、化学抑制剂的科学原理、现场作业的艰辛以及政治预算削减对这一关键生态工程的冲击。它不仅展示了人工智能、化学诱捕和电网等前沿技术的应用，更提醒我们在财政紧缩的时代，科学驱动的环境治理面临的脆弱性。通过对抗灯蛾抗药性的警示，文章呼吁多元化、可持续的防治策略，强调故事叙述在争取公众支持中的重要作用。",
     "best_quote_en": "If lampreys become resistant to lampricide, we’re gonna need alternatives.",
     "best_quote_zh": "如果灯蛾对铬毒剂产生抗药性，我们就需要寻找替代方案。"
-  },{
+  },
+  {
     "id": 79,
     "title": "Seven-ish Words from My Thought-Language",
     "title_zh": "七个近似词，源自我的思维语言",
@@ -1894,7 +1860,8 @@
     "summary_zh": "文章以特朗普时代为背景，探讨大律师事务所屈从行政命令导致司法独立受损的关键时刻。作者通过历史案例与现实后果，指出若律师界团结抵制，可能阻止“统一行政”议程，维护执法公正。文中揭示短期经济利益与维护民主原则的冲突，警示强大机构在政治压力下的脆弱。它呼吁法律界重新审视集体责任，提醒从业者在执业与制度保护间做出抉择。",
     "best_quote_en": "If the rules don’t matter anymore, then lawyers are glorified fixers, who lobby politicos for favors.",
     "best_quote_zh": "如果规则不再重要，那么律师就变成了光荣的修复者，向政治家寻求好处。"
-  },{
+  },
+  {
     "id": 81,
     "title": "Riot Women and lesbians in the 1970s | Letters",
     "title_zh": "《Riot Women》与1970年代女同性恋 | 信件",
@@ -2013,7 +1980,8 @@
     "summary_zh": "米歇尔·坎宁安的《野天鹅》与史蒂夫·格罗斯、苏珊·达利的《创意小屋》分别在叙事与空间上进行大胆改造。前者以讽刺与同情重塑童话，配合优雅插画，呈现文学与艺术的跨界；后者则展示小空间的再利用与设计美学，启发读者重新思考日常物品与居住环境的潜能。两书共同强调创意的力量与对传统的挑战，鼓励人们在故事与空间中寻找新的可能性。",
     "best_quote_en": "End of story. ‘Happily ever after’ fell on everyone like a guillotine’s blade.",
     "best_quote_zh": "在典型的童话集中可能以浓郁色彩、华丽装订和金属装饰为卖点时，《野天鹅》却以简约优雅为特色。"
-  },{
+  },
+  {
     "id": 86,
     "title": "Girl boss or tradwife? An economist on how a workforce built for men has failed women",
     "title_zh": "女强人还是传统妻子？经济学家谈以男性为中心的职场如何让女性失望",
@@ -2132,7 +2100,8 @@
     "summary_zh": "文章深入阐述淋巴系统的功能与重要性，并提供基于科学的实用方法——从运动、呼吸、压力调节到睡眠姿势，帮助读者主动提升免疫力、减少浮肿、改善面部及全身外观。作者结合临床案例与最新研究，强调无泵泵动机制的关键性，并给出循序渐进的自我调理步骤，既适合初学者，也为健康爱好者提供了可操作的高级策略。",
     "best_quote_en": "Because your lymphatic system lacks a central pump, it needs the mechanical forces generated by specific types of bodily movement, breathing and pressure to circulate your lymph properly.",
     "best_quote_zh": "因为淋巴系统缺乏中心泵，它需要特定身体运动、呼吸和压力产生的机械力来有效循环淋巴。"
-  },{
+  },
+  {
     "id": 91,
     "title": "Exclamation marks! Why do women use them three times as much as men?",
     "title_zh": "感叹号！为什么女性使用它们的频率是男性的三倍？",
@@ -2247,7 +2216,8 @@
     "summary_zh": "在David Senra播客首集，Spotify联合创始人Daniel Ek以极具洞察力的方式探讨了伟大与创业的交汇。节目强调以影响力为导向，重视自我激励、信任与学习。通过真实案例，Ek展示了公司如何超越创始人，平衡指标与个人品味，并强调质与恒久的重要性。对创业者与领导者而言，节目提供了可操作的框架：关注质量、善于自省、追随榜样。更重要的是，它鼓励人们将领导视为不断演进的实践，注重真实性与成长。此集既是启发，也是实用指南，值得每位追求可持续影响的人反复聆听。",
     "best_quote_en": "Optimizing for Impact Over Happiness",
     "best_quote_zh": "以影响力为导向，而非仅仅追求幸福"
-  },{
+  },
+  {
     "id": 96,
     "title": "Jess Cartner-Morley: this season, your jeans should be stiff, smart and straight",
     "title_zh": "Jess Cartner‑Morley：本季你的牛仔裤应当是硬挺、精致、笔直",
@@ -2366,4 +2336,51 @@
     "summary_zh": "Huberman Lab 通过阐述免疫与神经系统的互作，揭示呼吸、睡姿、补剂与心态如何共同提升免疫力。内容结合最新研究，提供可操作的呼吸技巧、睡眠姿势与营养建议，帮助听众在日常中主动调节免疫功能，并强调情绪与神经激活对康复的关键影响。作者以通俗易懂的方式将复杂机制拆解，既适合医学爱好者，也适合想提升健康的普通人。",
     "best_quote_en": "Mindset and nervous system activation can directly influence the body's ability to heal.",
     "best_quote_zh": "心态和神经系统的激活可以直接影响身体的自愈能力。"
-  }]
+  },
+  {
+    "id": 101,
+    "title": "Resampling Conserves Redundancy & Mediation (Approximately) Under the Jensen-Shannon Divergence",
+    "title_zh": "重采样在Jensen–Shannon散度下保持冗余与中介（大致）",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/JXsZRDcRX2eoWnSxo/resampling-conserves-redundancy-and-mediation-approximately",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "This paper revisits a previously published claim that resampling latent variables preserves redundancy and introduces a rigorous proof using the Jensen–Shannon (JS) divergence instead of the more common Kullback–Leibler (KL) divergence. By leveraging JS’s metric properties and its interpretation as mutual information, the authors demonstrate that a latent variable defined by conditioning on one of the original redundancy diagrams achieves zero error for one factorization while bounding the other factorizations within a tight function of the original errors. The result is a set of explicit inequalities: ϵΓ₁=0 and ϵΓ₂, ϵΓmed ≤ (2√ϵ₁+√ϵ₂)², offering a more nuanced understanding than the earlier KL-based bound. The work underscores the importance of choosing an appropriate error metric when comparing distributions in latent variable models and suggests that JS may provide a more faithful measure for natural latent structure. Its implications reach beyond theory, guiding practical design of generative models and informing future research on error functions in probabilistic modeling.",
+    "summary_zh": "本文用Jensen–Shannon散度重构了先前关于重采样保持冗余的论证，证明了在该度量下可实现零误差的冗余因子，并给出了对其他因子的紧致上界。作者强调选择合适的误差函数对自然潜在结构的评估至关重要，并指出JS在捕捉分布差异时的优势。此结果不仅提升了理论严谨性，也为生成模型的实际设计提供了可操作的指导，推动未来对潜在变量误差度量的深入研究。",
+    "best_quote_en": "Jensen‑Shannon divergence is equivalent to the mutual information between X, a variable randomly sampled from one of the distributions, and Z, an indicator which determines the distribution X gets sampled from.",
+    "best_quote_zh": "Jensen‑Shannon散度等价于X与Z之间的互信息，其中Z指示X从哪一个分布采样。"
+  },
+  {
+    "id": 102,
+    "title": "The Trump Outrages That Matter Most",
+    "title_zh": "特朗普最重要的愤怒事件",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/the-trump-outrages-that-matter-most",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "In a journalistic‑style recap of President Trump’s second‑term excesses, the piece catalogs a litany of policy overreaches—from the East Wing demolition to the politicization of the military—through a mosaic of scholars, former officials, and commentators.  The author frames these acts as a “battle‑damage assessment,” highlighting how Trump’s rhetoric and unilateral decisions erode institutional checks while amplifying intimidation tactics.  By juxtaposing expert testimony with public outrage, the article exposes a pattern of executive overreach that, despite widespread condemnation, persists because of systemic inertia and a lack of decisive counter‑action.  The piece is both a sobering critique and a call to vigilance, urging readers to recognize the subtle erosion of democratic norms and to demand concrete safeguards.  It offers a data‑driven, case‑study approach that blends analytical depth with actionable insight, making it a valuable resource for scholars, policymakers, and engaged citizens alike.",
+    "summary_zh": "文章以记者视角回顾特朗普在第二任期内的极端举措，揭示其对制度、军队与社会的政治化。作者收集学者、官员和评论员的声音，形成一幅关于权力滥用、恐吓与制度崩解的“战损评估”。文章强调，尽管行动已被普遍谴责，缺乏有效制衡导致其持续。作者呼吁公众对“无声的侵蚀”保持警惕，并以案例研究的方式呈现，既具学术深度，又具可操作性。",
+    "best_quote_en": "The most surprising—and it shouldn’t have been—was how well intimidation works.",
+    "best_quote_zh": "最令人惊讶的——而且不该如此——是恐吓的效果如此之好。"
+  }
+]
