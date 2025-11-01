@@ -1,73 +1,5 @@
 [
   {
-    "id": 3,
-    "title": "Xi Jinping is in a race against time to secure his legacy in China",
-    "title_zh": "习近平正在与时间赛跑以巩固他在中国的历史遗产",
-    "source": "The Conversation",
-    "link": "https://theconversation.com/xi-jinping-is-in-a-race-against-time-to-secure-his-legacy-in-china-264691",
-    "tags": [
-      "Politics",
-      "China",
-      "Xi Jinping",
-      "Foreign Policy"
-    ],
-    "tags_zh": [
-      "政治",
-      "中国",
-      "习近平",
-      "外交政策"
-    ],
-    "date": "2025-09-12",
-    "summary_en": "Chinese leader Xi Jinping is in a race against time to secure his place in history, a goal that hinges on the unification with Taiwan. While a peaceful approach has worked in the past, a more aggressive push for unification could be the most dangerous gamble of his rule, risking strategic humiliation and political turbulence.",
-    "summary_zh": "中国领导人习近平正在与时间赛跑，以巩固他在历史上的地位，而这一目标取决于与台湾的统一。尽管过去采取的和平策略行之有效，但以更激进的方式推动统一可能是他执政生涯中最危险的一次豪赌，将面临战略上的屈辱和国内政治动荡的风险。",
-    "best_quote_en": "A forced attempt to seize Taiwan would be the most dangerous gamble of his rule.",
-    "best_quote_zh": "强行攻占台湾将是他执政生涯中最危险的一次豪赌。"
-  },
-  {
-    "id": 4,
-    "title": "The Problem with Your 'Authentic Self'",
-    "title_zh": "你的“真实自我”有什么问题",
-    "source": "Psychology Today",
-    "link": "https://www.psychologytoday.com/sg/blog/mr-personality/202509/the-problem-with-your-authentic-self",
-    "tags": [
-      "Cognitive Psychology",
-      "Authenticity",
-      "Personality"
-    ],
-    "tags_zh": [
-      "认知心理学",
-      "真实性",
-      "人格"
-    ],
-    "date": "2025-09-13",
-    "summary_en": "This article argues that the modern emphasis on finding your 'authentic self' can be problematic, leading to a self-centered, narcissistic society. Instead of focusing on being 'real,' the author suggests we should strive to be our 'best self' by practicing emotional intelligence, self-control, and empathy.",
-    "summary_zh": "这篇文章指出，现代社会对寻找“真实自我”的强调可能带来问题，导致一个以自我为中心、自恋化的社会。作者建议，与其专注于成为“真实的自己”，我们应该通过练习情商、自控和同理心，努力成为“最好的自己”。",
-    "best_quote_en": "Authenticity, when taken to extremes, fuels a society that is self-centered, narcissistic, and infantilized.",
-    "best_quote_zh": "当“真实性”走向极端时，它会助长一个以自我为中心、自恋化、幼稚化的社会。"
-  },
-  {
-    "id": 5,
-    "title": "Taylor Swift is engaged: she’s been getting her fans ready for this moment for 20 years",
-    "title_zh": "泰勒·斯威夫特订婚了：她用20年为粉丝准备这一刻",
-    "source": "The Conversation",
-    "link": "https://theconversation.com/taylor-swift-is-engaged-shes-been-getting-her-fans-ready-for-this-moment-for-20-years-264027",
-    "tags": [
-      "Celebrity News",
-      "Music",
-      "Fan Culture"
-    ],
-    "tags_zh": [
-      "名人新闻",
-      "音乐",
-      "粉丝文化"
-    ],
-    "date": "2025-08-27",
-    "summary_en": "This article explores how Taylor Swift's long-term engagement with her fans has prepared them for her personal milestones, such as her engagement to Travis Kelce. It discusses how her narrative has created a strong emotional bond that led to an outpouring of support and love from her fan base.",
-    "summary_zh": "这篇文章探讨了泰勒·斯威夫特如何通过长期与粉丝的互动，让他们为她的个人里程碑（如与特拉维斯·凯尔斯的订婚）做好了准备。文章讨论了她的叙事如何创造了强烈的情感联系，从而引发了粉丝群体的巨大支持和喜爱。",
-    "best_quote_en": "She's been getting her fans ready for this moment for 20 years.",
-    "best_quote_zh": "她用20年为粉丝准备了这一刻。"
-  },
-  {
     "id": 6,
     "title": "Human Agency in the Age of AI",
     "title_zh": "人工智能时代的人类能动性",
@@ -2382,5 +2314,77 @@
     "summary_zh": "文章以记者视角回顾特朗普在第二任期内的极端举措，揭示其对制度、军队与社会的政治化。作者收集学者、官员和评论员的声音，形成一幅关于权力滥用、恐吓与制度崩解的“战损评估”。文章强调，尽管行动已被普遍谴责，缺乏有效制衡导致其持续。作者呼吁公众对“无声的侵蚀”保持警惕，并以案例研究的方式呈现，既具学术深度，又具可操作性。",
     "best_quote_en": "The most surprising—and it shouldn’t have been—was how well intimidation works.",
     "best_quote_zh": "最令人惊讶的——而且不该如此——是恐吓的效果如此之好。"
+  },
+  {
+    "id": 103,
+    "title": "Portland Prepares for Invasion",
+    "title_zh": "波特兰为入侵做准备",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/portland-prepares-for-invasion",
+    "tags": [
+      "solve",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-10-31",
+    "summary_en": "The article paints a vivid picture of Portland’s ICE headquarters as a flashpoint for the Trump administration’s rhetoric and a battleground for protestors and counter‑protestors. Mayor Keith Wilson’s visit exposes the chaotic, unplanned state of the facility—broken HVAC, overflowing dumpsters, and a lack of clear objectives—contrasting sharply with the administration’s portrayal of a “war‑zone.” The piece juxtaposes the administration’s dramatic claims with on‑the‑ground realities, underscoring how media narratives can distort public perception. Interviews with local police, activists, and former federal officers reveal a complex ecosystem of distrust, civil‑rights concerns, and a persistent push for de‑escalation. The article also highlights the broader societal divide, showing how a single block can be inflated into a national crisis. Ultimately, it invites readers to question the legitimacy of federal intervention and to consider the nuanced, often contradictory, realities of protest politics in America today.",
+    "summary_zh": "文章以波特兰ICE总部为核心，揭示特朗普政府的戏剧化言辞与当地抗议者之间的激烈对峙。市长访视暴露设施混乱、缺乏目标，与政府“战区”宣称形成鲜明对比。作者通过多方访谈，呈现局势的复杂性与社会分裂，提醒读者质疑联邦干预的合法性，并关注抗议政治的多重面向。",
+    "best_quote_en": "The characterization of ‘the city is on fire’ or ‘a war zone’ is not accurate.",
+    "best_quote_zh": "‘城市正在燃烧’或‘战区’的描述并不准确。"
+  },
+  {
+    "id": 104,
+    "title": "Cheaper Holiday Flights/Most Powerful Passports/Corporate Good Guys",
+    "title_zh": "更便宜的假日航班/最强护照/企业好人",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/cheaper-holiday-flights-most-powerful-passports-corporate-good-guys/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "personal-finance",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "个人理财",
+      "数据驱动"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "This concise newsletter stitches together four timely travel insights that blend economics, psychology, and sustainability. First, it highlights a sharp 19‑percent dip in domestic U.S. holiday fares, pinpointing Florida, Dallas, and Cancun as sweet spots—an actionable cue for budget‑savvy travelers. Next, a simple sleep‑tech hack—eye mask, noise‑canceling earbuds, and a mellow playlist—demonstrates how behavioral cues can transform a cramped economy seat into a quick nap, offering a low‑cost productivity boost. The passport ranking segment flips expectations, revealing Singapore, South Korea, and Japan as the most powerful passports and noting the U.S. slipping to 12th place, prompting readers to reassess visa‑free strategies. Finally, the Patagonia case study celebrates responsible fashion, showcasing lifetime guarantees, trade‑in credits, and on‑site repairs that align luxury with sustainability. Together, these snippets serve as a guide for travelers seeking cost savings, comfort, and ethical consumption, while encouraging a broader reflection on how individual choices ripple across global mobility and environmental stewardship.",
+    "summary_zh": "本简报聚合四个旅行洞见：美国假日机票大幅下跌，提供实用省钱节点；睡眠小技巧让经济舱也能快速入睡；护照排名惊现新星，提示签证策略需更新；Patagonia案例凸显可持续时尚，倡导责任消费。整体为旅行者提供省钱、舒适与环保的实用指南。",
+    "best_quote_en": "For the first time since the index started 20 years ago, the U.S. passport dropped out of the top‑10 and now sits at #12.",
+    "best_quote_zh": "我把眼罩戴上，插上降噪耳塞，然后播放我“睡眠专辑”之一。"
+  },
+  {
+    "id": 105,
+    "title": "Please Fund More Science",
+    "title_zh": "请更多资助科学",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/please-fund-more-science",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2020-03-30",
+    "summary_en": "The post argues that the pandemic has revealed an unprecedented surge in scientific focus and speed, yet funding remains a critical bottleneck. It calls for a shift in private capital and philanthropy toward pandemic‑related research, framing this as both an urgent solution and a moral imperative. The author highlights the triple‑pronged exit strategy—vaccines, treatments, and public health measures—and stresses that the only way to secure a swift, sustainable return to normalcy is to empower scientists with resources and networks. By urging investors to signal intent, the piece taps into a crowd‑sourced opportunity, promising a flood of vetted projects and a concentration of top founders. The tone balances optimism with pragmatism, noting the learning curve is steep but manageable, and that the societal payoff will be transformative. This call to action invites a new generation of funders to become part of a historic pivot, redefining the relationship between science, policy, and the private sector.",
+    "summary_zh": "文章指出，疫情期间科学研究的速度和热情前所未有，但资金仍是主要瓶颈。作者呼吁私营资本和慈善机构将更多资金投向疫情相关研究，强调这是实现疫苗、治疗和公共卫生措施三位一体的关键。通过鼓励投资者表明资助意向，文中暗示将有大量经过筛选的项目涌现，聚集顶尖创始人。文章语气既乐观又务实，指出学习曲线虽陡峭但可管理，社会收益将是变革性的。此举邀请新一代资助者参与历史转折，重新定义科学、政策与私营部门的关系。",
+    "best_quote_en": "Scientists can get us out of this. What they need are money and connections.",
+    "best_quote_zh": "科学家能帮助我们走出困境，他们需要的是资金和人脉。"
   }
 ]
