@@ -1,95 +1,5 @@
 [
   {
-    "id": 6,
-    "title": "Human Agency in the Age of AI",
-    "title_zh": "人工智能时代的人类能动性",
-    "source": "Psychology Today",
-    "link": "https://www.psychologytoday.com/sg/blog/the-digital-self/202509/human-agency-in-the-age-of-ai",
-    "tags": [
-      "Cognitive Psychology",
-      "AI",
-      "Technology"
-    ],
-    "tags_zh": [
-      "认知心理学",
-      "人工智能",
-      "技术"
-    ],
-    "date": "2025-09-13",
-    "summary_en": "This article discusses the importance of human agency—the ability to direct our own thinking—in an age where AI is becoming increasingly persuasive. It argues that we must teach critical thinking and remain actively engaged to avoid running on 'AI autopilot' and to maintain our role as the 'authors of our own minds.'",
-    "summary_zh": "这篇文章讨论了在一个人工智能日益具有说服力的时代，人类能动性（即指导我们自身思维的能力）的重要性。文章指出，我们必须培养批判性思维并保持积极参与，以避免进入“AI自动驾驶”模式，并保持我们作为“自己思想作者”的角色。",
-    "best_quote_en": "Human agency is what keeps us drivers, not passengers, of the mind.",
-    "best_quote_zh": "人类能动性是让我们成为思想的“驾驶员”而非“乘客”的关键。"
-  },
-  {
-    "id": 7,
-    "title": "3 Ways Exercise Can Slow (or Even Reverse) Epigenetic Aging",
-    "title_zh": "运动延缓甚至逆转表观遗传衰老的3种方式",
-    "source": "Psychology Today",
-    "link": "https://www.psychologytoday.com/sg/blog/the-athletes-way/202509/3-ways-exercise-can-slow-or-even-reverse-epigenetic-aging",
-    "tags": [
-      "Exercise",
-      "Epigenetics",
-      "Aging"
-    ],
-    "tags_zh": [
-      "运动",
-      "表观遗传学",
-      "衰老"
-    ],
-    "date": "2025-09-11",
-    "summary_en": "Regular exercise acts as a powerful 'geroprotector' by influencing your epigenome. It helps to keep DNA packaging loose for better repair, creates 'good' stress (hormesis) that rejuvenates cells, and strengthens mitochondria to combat aging.",
-    "summary_zh": "定期运动通过影响表观遗传学，可以作为一种强大的“延缓衰老保护剂”。它有助于保持DNA包装松散以利于修复，产生“良性”压力（毒物兴奋效应）来使细胞恢复活力，并增强线粒体以对抗衰老。",
-    "best_quote_en": "Research suggests that lifestyle choices (e.g., diet, exercise, stress management) can slow down epigenetic aging or even rewind it.",
-    "best_quote_zh": "研究表明，生活方式的选择（例如饮食、运动、压力管理）可以减缓表观遗传衰老，甚至逆转它。"
-  },
-  {
-    "id": 8,
-    "title": "美国芯片巨头三年降价一半，中国企业陷入“被动跟跌” 困境",
-    "title_zh": "美国芯片巨头三年降价一半，中国企业陷入“被动跟跌” 困境",
-    "source": "第一财经",
-    "link": "https://www.yicai.com/news/102823085.html",
-    "tags": [
-      "半导体",
-      "经济",
-      "科技",
-      "中美关系"
-    ],
-    "tags_zh": [
-      "半导体",
-      "经济",
-      "科技",
-      "中美关系"
-    ],
-    "date": "2025-09-13",
-    "summary_en": "The article reports that the Chinese Ministry of Commerce has initiated an anti-dumping investigation into imported U.S. chips. The investigation was prompted by a domestic industry request, alleging that U.S. chip giants have cut prices by half over three years, putting Chinese companies in a difficult position of 'passive price-following.'",
-    "summary_zh": "文章报道称，中国商务部已应国内产业申请，决定对原产于美国的进口相关模拟芯片发起反倾销调查。调查指出，美国芯片巨头在三年内将价格削减了一半，导致中国企业陷入“被动跟跌”的困境。",
-    "best_quote_en": "U.S. chip giants slash prices by half in three years, leaving Chinese companies in a 'passive follow-the-fall' predicament.",
-    "best_quote_zh": "美国芯片巨头三年降价一半，中国企业陷入“被动跟跌” 困境。"
-  },
-  {
-    "id": 9,
-    "title": "Extreme Heat Will Change You",
-    "title_zh": "极端高温会改变你",
-    "source": "Nautilus",
-    "link": "https://nautil.us/extreme-heat-will-change-you-1232228/",
-    "tags": [
-      "Climate Change",
-      "Physiology",
-      "Health"
-    ],
-    "tags_zh": [
-      "气候变化",
-      "生理学",
-      "健康"
-    ],
-    "date": "2025-08-27",
-    "summary_en": "This article explores how extreme heat affects the human body at a molecular level. It discusses how heat can cause proteins to unfold and lead to changes in DNA, potentially accelerating aging and making people more vulnerable to heat-related illnesses.",
-    "summary_zh": "这篇文章探讨了极端高温如何在分子层面影响人体。文中讨论了高温如何导致蛋白质展开和DNA发生改变，这可能加速衰老，并使人们更容易受到与热相关的疾病影响。",
-    "best_quote_en": "The key message from our findings is that heat could be affecting healthy populations in ways that we can't see.",
-    "best_quote_zh": "我们研究结果的核心信息是，高温可能以我们肉眼看不见的方式影响健康人群。"
-  },
-  {
     "id": 10,
     "title": "Does Musical Taste Narrow with Age?",
     "title_zh": "音乐品味会随着年龄增长而变窄吗？",
@@ -2386,5 +2296,101 @@
     "summary_zh": "文章指出，疫情期间科学研究的速度和热情前所未有，但资金仍是主要瓶颈。作者呼吁私营资本和慈善机构将更多资金投向疫情相关研究，强调这是实现疫苗、治疗和公共卫生措施三位一体的关键。通过鼓励投资者表明资助意向，文中暗示将有大量经过筛选的项目涌现，聚集顶尖创始人。文章语气既乐观又务实，指出学习曲线虽陡峭但可管理，社会收益将是变革性的。此举邀请新一代资助者参与历史转折，重新定义科学、政策与私营部门的关系。",
     "best_quote_en": "Scientists can get us out of this. What they need are money and connections.",
     "best_quote_zh": "科学家能帮助我们走出困境，他们需要的是资金和人脉。"
+  },
+  {
+    "id": 106,
+    "title": "Book of the month: Bachtyar Ali",
+    "title_zh": "本月书单：巴赫塔尔·阿里",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/10/30/book-of-the-month-bachtyar-ali/",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "society",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "社会议题",
+      "案例研究"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "In this reflective book‑of‑the‑month feature, the author uncovers a Kurdish novel that blends magical realism with raw human truth, challenging Western literary norms. The narrative follows Muzafar, a 43‑year‑old peshmerga freed after 21 years of imprisonment, as he searches for his son and confronts the devastation wrought on his homeland. The prose—translated by Kareem Abdulrahman—shimmers with vivid imagery that grounds fantastical elements in an emotional reality. The story’s core insight is the interdependence of all life, illustrated through stark contrasts between privileged journalists and marginalized street children. By positioning the reader as a refugee aboard a ferry to England, the novel expands its temporal scope, suggesting that individual destinies ripple across time. This piece invites readers to recognize underrepresented voices, reminding us that extraordinary literature can emerge from the most unexpected corners of the world.",
+    "summary_zh": "作者通过这部库尔德小说，揭示了魔幻现实主义与人性真相的交织，挑战西方文学刻板印象。主人公穆扎法尔在获释后寻找失散的儿子，直面家园破坏。翻译生动的意象让奇幻元素扎根于情感现实。故事核心在于生命相互依存，体现了特权与边缘化的对比。作者将读者置为前往英国的难民，扩展时间视角，暗示个人命运的连锁影响。此书提醒我们，非主流声音同样能产生深刻文学价值。",
+    "best_quote_en": "That night by the fire, the journalist spoke about the wealth of agriculture and the yield of livestock, but Saryas spoke about the neglected and forgotten wealth of the thousands of abandoned children who found themselves on the streets from the age of four.",
+    "best_quote_zh": "那一夜，记者谈论农业的财富和牲畜的产量，Saryas却谈论被遗忘的街头儿童的财富。"
+  },
+  {
+    "id": 107,
+    "title": "‘Every time I step outside, the first thing on my mind is my forehead’: the women getting hair transplants",
+    "title_zh": "每次走出门，第一件事是我的额头——女性植发潮",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/oct/25/every-time-i-step-outside-the-first-thing-on-my-mind-is-my-forehead-the-women-getting-hair-transplants",
+    "tags": [
+      "solve",
+      "medicine",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-10-25",
+    "summary_en": "Women’s hair transplants are moving from a male‑only procedure to a mainstream cosmetic choice, driven by social media, celebrity endorsements and a growing awareness of the psychological toll of hair loss. The Guardian piece combines statistics, expert commentary and intimate patient stories to reveal a 16.5 % rise in female procedures between 2021‑24, the high costs (up to £10,000), and the uneven safety record of clinics worldwide. It explains the two main techniques—FUT and FUE—highlighting how donor site choice affects scarring and recovery. The narrative also tackles gendered beauty standards, the stigma of “high foreheads,” and the pressure on women to conform to an ideal that often feels unattainable. Finally, it urges readers to vet surgeons, seek dermatological advice first, and recognize that hair loss can signal deeper health issues. The article is a timely, data‑driven guide that balances hope with caution, offering practical insight for anyone considering the procedure.",
+    "summary_zh": "女性植发不再是男性专属，背后是对美学、身份与心理的多重挑战。本文揭示了女性植发的增长趋势、手术技术、成本与安全隐患，并以真实案例剖析社会期望对自尊的影响。它提醒读者，除医学评估外，还需关注心理准备、术后护理与专业资质。面对“高额头”与“稀疏发际”带来的焦虑，文章呼吁行业规范与公众教育，以免被低价诊所误导。",
+    "best_quote_en": "Women are suffering in silence.",
+    "best_quote_zh": "这不是虚荣！"
+  },
+  {
+    "id": 108,
+    "title": "Charisma / Power",
+    "title_zh": "魅力 / 权力",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/pow.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "leadership",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "领导管理",
+      "深度分析"
+    ],
+    "date": "2025-11-02",
+    "summary_en": "The piece tackles a paradox at the intersection of influence and personal magnetism, arguing that powerful figures who lack charisma—whether a politician or a CEO—often become lightning rods for criticism. By citing Hillary Clinton and the archetypal “builder” executive, the author illustrates how the very traits that make a leader effective—focus, technical skill, and strategic vision—can also render them vulnerable to public scrutiny when they lack the social finesse to defuse it. The essay rejects the notion that charisma is a prerequisite for success, instead framing criticism as a potential indicator of a person’s suitability for a role. It invites readers to rethink leadership evaluation: power and competence can coexist with disapproval, and the criticism itself may be a signal that a leader’s hard‑earned expertise is precisely what the organization needs. The argument is subtle, humanistic, and invites a deeper conversation about the qualities we value in leaders.",
+    "summary_zh": "文章探讨权力与魅力的悖论，指出强势却缺乏魅力的人往往成为批评焦点。以希拉里·克林顿和“建造者型CEO”为例，强调专业能力与人际技巧的平衡。作者认为批评可能是适任的信号，鼓励重新评估领导者的价值。",
+    "best_quote_en": "People who are powerful but uncharismatic will tend to be disliked.",
+    "best_quote_zh": "有权力却缺乏魅力的人往往会被人不喜欢。"
+  },
+  {
+    "id": 109,
+    "title": "Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+    "title_zh": "Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-biology-slowing-reversing-aging-dr-david-sinclair",
+    "tags": [
+      "update",
+      "medicine",
+      "lifestyle",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "生活方式",
+      "深度分析"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "In this Huberman Lab Essentials episode, Dr. David Sinclair unpacks the cellular and molecular choreography that underpins aging, revealing how simple, evidence‑based behaviors—fasting, exercise, and NAD⁺‑boosting compounds—can activate the body’s own longevity circuitry. The discussion moves beyond abstract biology to concrete, actionable strategies, framing aging not as an inevitable decline but as a modifiable process. Sinclair’s emphasis on epigenetics, sirtuins, and autophagy invites listeners to view lifestyle choices as therapeutic levers. The episode’s strength lies in its blend of rigorous science and pragmatic advice, yet it stops short of offering a step‑by‑step protocol, leaving room for individual tailoring. For researchers and health‑enthusiasts alike, the interview underscores the potential of integrating metabolic interventions with personalized medicine, hinting at a future where aging is not merely postponed but actively rewound.",
+    "summary_zh": "在本期Huberman Lab Essentials节目中，David Sinclair博士阐释衰老的细胞与分子机制，揭示禁食、运动及NAD⁺补充可激活天然寿命通路。内容将科学与可操作建议结合，强调生活方式是可调节衰老的关键。对科研者与健康爱好者而言，提示将代谢干预与精准医疗相结合，或许能真正逆转衰老。",
+    "best_quote_en": "\"The discussion highlights how lifestyle choices profoundly influence the aging process and may even slow or reverse key aspects of biological aging.\"",
+    "best_quote_zh": "这段讨论强调了生活方式选择如何深刻影响衰老过程，甚至可能减缓或逆转生物衰老的关键方面。"
   }
 ]
