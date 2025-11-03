@@ -1,123 +1,5 @@
 [
   {
-    "id": 10,
-    "title": "Does Musical Taste Narrow with Age?",
-    "title_zh": "音乐品味会随着年龄增长而变窄吗？",
-    "source": "Nautilus",
-    "link": "https://nautil.us/does-musical-taste-narrow-with-age-1237216/",
-    "tags": [
-      "Psychology",
-      "Music",
-      "Data Science"
-    ],
-    "tags_zh": [
-      "心理学",
-      "音乐",
-      "数据科学"
-    ],
-    "date": "2025-09-12",
-    "summary_en": "This article explores how musical listening habits evolve with age. It uses data from 450 million song plays to analyze whether people's musical tastes become more narrow as they get older.",
-    "summary_zh": "这篇文章探讨了随着年龄的增长，人们的音乐收听习惯如何演变。它利用4.5亿次歌曲播放数据来分析人们的音乐品味是否会随着年龄增长而变得更窄。",
-    "best_quote_en": "What 450 million song plays tell us about how our listening habits evolve.",
-    "best_quote_zh": "4.5亿次歌曲播放数据告诉我们，我们的收听习惯是如何演变的。"
-  },
-  {
-    "id": 11,
-    "title": "Luma AI CEO: Hollywood is dying, only AI can save it - Lowpass",
-    "title_zh": "Luma AI CEO：好莱坞已死，唯有AI能拯救它 - Lowpass",
-    "source": "Lowpass",
-    "link": "https://www.lowpass.cc/p/luma-ai-ceo-amit-jain-ray3-genai-hollywood",
-    "tags": [
-      "AI",
-      "Movies",
-      "Technology"
-    ],
-    "tags_zh": [
-      "AI",
-      "电影",
-      "科技"
-    ],
-    "date": "2025-09-18",
-    "summary_en": "The article discusses the views of Luma AI CEO Amit Jain on the state of the movie industry. Jain argues that Hollywood is 'already dead' if it continues its current path of producing a small number of expensive blockbusters and telling the same stories. He believes that generative AI is the only way to save the industry by helping filmmakers take creative risks and experiment with new ideas faster and at a lower cost. The article also mentions Luma AI's new video model, Ray 3, which Jain claims is the first generative video model with reasoning capabilities.",
-    "summary_zh": "这篇文章讨论了Luma AI首席执行官阿米特·贾因（Amit Jain）对电影行业现状的看法。贾因认为，如果好莱坞继续走目前制作少数昂贵大片、并反复讲述同样故事的道路，它就已经“死了”。他相信生成式AI是拯救该行业的唯一途径，因为它能帮助电影制作人更快、以更低的成本承担创意风险并尝试新想法。文章还提到了Luma AI的新视频模型Ray 3，贾因声称这是首个具有推理能力的生成式视频模型。",
-    "best_quote_en": "Hollywood is already dead if it continues on its current path. This has nothing to do with AI. The way it is consolidating, and keeps telling the same stories over and over again.",
-    "best_quote_zh": "如果好莱坞继续走目前的道路，它就已经死了。这与AI无关。它正在整合，并且不断地一遍又一遍地讲述同样的故事。"
-  },
-  {
-    "id": 12,
-    "title": "Beyond The Hype: What AI Can Really Do For Product Design",
-    "title_zh": "超越炒作：AI对产品设计到底能做什么",
-    "source": "Smashing Magazine",
-    "link": "https://www.smashingmagazine.com/2025/08/beyond-hype-what-ai-can-do-product-design/",
-    "tags": [
-      "AI",
-      "Product Design",
-      "Technology"
-    ],
-    "tags_zh": [
-      "AI",
-      "产品设计",
-      "科技"
-    ],
-    "date": "2025-08-18",
-    "summary_en": "The article discusses the practical application of AI in the product design workflow. It explains how to effectively integrate AI into four core stages: idea generation, prototyping, visual design, and data analysis. The author emphasizes that AI should be treated as a “co-pilot,” not an “autopilot,” and that providing the right, structured context is key to getting meaningful results. The article highlights that AI is not a replacement for human creativity but a tool to boost productivity, spark new ideas, and validate concepts.",
-    "summary_zh": "这篇文章探讨了AI在产品设计工作流程中的实际应用，超越了炒作。文章解释了如何将AI有效地整合到四个核心阶段：创意生成、原型设计、视觉设计和数据分析。作者强调，AI应该被视为“副驾驶”，而非“自动驾驶”，提供正确、结构化的上下文是获得有意义结果的关键。文章指出，AI并非取代人类创造力，而是一种提升生产力、激发新想法和验证概念的工具。",
-    "best_quote_en": "AI in design is only as good as the questions you ask it. It doesn't do the work for you. It doesn't replace your thinking. But it helps you move faster, explore more options, validate ideas, and focus on the hard parts instead of burning time on repetitive ones.",
-    "best_quote_zh": "设计中的AI好坏取决于你向它提出的问题。它不会替你完成工作，也无法取代你的思考。但它可以帮助你更快地行动，探索更多选项，验证想法，并将精力集中在困难的部分，而不是浪费时间在重复性任务上。"
-  },
-  {
-    "id": 13,
-    "title": "中美元首年内第三次通话，专家：两国关系进入新阶段",
-    "title_zh": "中美元首年内第三次通话，专家：两国关系进入新阶段",
-    "source": "新浪财经",
-    "link": "https://finance.sina.com.cn/jjxw/2025-09-21/doc-infrekky8185511.shtml",
-    "tags": [
-      "外交",
-      "中美关系",
-      "政治",
-      "国际关系"
-    ],
-    "tags_zh": [
-      "外交",
-      "中美关系",
-      "政治",
-      "国际关系"
-    ],
-    "date": "2025-09-21",
-    "summary_en": "The article reports on the third phone call this year between the heads of state of China and the United States, and analyzes its significance for China-U.S. relations based on expert opinions. The call, which took place on the evening of September 19, was described as practical, positive, and constructive. Experts believe the call sent a positive signal, confirmed the crucial role of head-of-state diplomacy, and laid the foundation for future meetings. It also touched on key issues like the TikTok problem and historical views on World War II. Despite the ongoing competition between the two countries, experts agree that the call effectively anchored the stability of China-U.S. relations and demonstrated China's proactive willingness and ability to manage and stabilize the relationship.",
-    "summary_zh": "这篇文章报道了中美元首年内第三次通话，并引用专家观点分析了此次通话对中美关系的意义。通话发生在9月19日晚，是继6月5日后的又一次通话。文章指出，这次通话是务实、积极、建设性的，并为下一阶段中美关系的稳定发展提供了战略指引。专家们认为，此次通话释放了积极信号，确认了元首外交在两国关系中的关键作用，并为未来的元首会晤奠定了基础。通话还涉及了关键议题，如TikTok问题和对二战历史的看法。尽管两国关系仍存在博弈，但专家认为此次通话有效地锚定了中美关系的稳定态势，并展现了中方管控和稳定中美关系的积极意愿和能力。",
-    "best_quote_en": "This phone call sent a positive and constructive signal. The two leaders affirmed the results of the latest round of China-U.S. economic and trade negotiations and expressed hope that both sides will continue to work to achieve more results in other areas. This call means that China-U.S. relations have entered the next stage, that is, 'it may be entering the head-of-state meeting stage.'",
-    "best_quote_zh": "这次通话释放了积极和建设性的信号，两国领导人肯定了最新一轮中美经贸谈判取得的成果，并表达了双方将继续努力在其他领域取得更多成果的希望。这次通话意味着中美关系进入了下一个阶段，即“可能要进入元首会晤阶段”。"
-  },
-  {
-    "id": 14,
-    "title": "DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting | Lex Fridman Podcast #474",
-    "title_zh": "DHH：编程的未来、AI、Ruby on Rails、生产力与育儿 | Lex Fridman播客 #474",
-    "source": "Lex Fridman",
-    "link": "https://www.youtube.com/watch?v=vagyIcmIGOQ",
-    "tags": [
-      "Programming",
-      "AI",
-      "Ruby on Rails",
-      "Technology",
-      "Web Development",
-      "Productivity"
-    ],
-    "tags_zh": [
-      "编程",
-      "人工智能",
-      "Ruby on Rails",
-      "科技",
-      "网络开发",
-      "生产力"
-    ],
-    "date": "2025-07-12",
-    "summary_en": "This episode of the Lex Fridman Podcast features an extensive conversation with David Heinemeier Hansson (DHH), the creator of Ruby on Rails, co-owner of 37signals, and a New York Times best-selling author. The discussion covers a wide range of topics, including DHH's initial struggles with learning programming in his childhood, his views on the evolution of web development, and his philosophy behind Ruby on Rails' design, particularly the 'no build' approach in Rails 8 that seeks to combine the simplicity of early web development with modern advancements. He critiques elements like cookie banners as a 'complete boondoggle' and a monument to regulatory failures. The conversation also touches upon the broader societal impact of technology, human creativity versus AI, and the importance of intellectual humility in understanding complex global affairs.",
-    "summary_zh": "Lex Fridman播客的这一集深入采访了David Heinemeier Hansson (DHH)，他是Ruby on Rails的创始人，37signals的共同所有者，也是一位纽约时报畅销书作家。讨论涵盖了广泛的主题，包括DHH童年时期学习编程的最初挣扎，他对网络发展演变的看法，以及他关于Ruby on Rails设计理念，特别是Rails 8中旨在将早期网络开发的简洁性与现代进步相结合的“无构建”方法。他批评了像Cookie横幅这样的元素，称其为“彻底的浪费”和监管失败的象征。对话还触及了技术对社会的更广泛影响、人类创造力与人工智能的对比，以及在理解复杂的全球事务中保持知识谦逊的重要性。",
-    "best_quote_en": "no one anywhere who's serious believes that Cookie banners does anything good for anyone yet we've been unable to get rid of it... no one in the universe is safe from this nonsense.",
-    "best_quote_zh": "任何认真的人都不相信Cookie横幅对任何人有好处，然而我们却无法摆脱它……宇宙中没有人能幸免于这种无稽之谈。"
-  },
-  {
     "id": 15,
     "title": "A New Era for Generalist Robotics: The Rise of Humanoids | NVIDIA GTC 2025",
     "title_zh": "通用机器人新时代：人形机器人的崛起 | 英伟达GTC 2025",
@@ -2392,5 +2274,123 @@
     "summary_zh": "在本期Huberman Lab Essentials节目中，David Sinclair博士阐释衰老的细胞与分子机制，揭示禁食、运动及NAD⁺补充可激活天然寿命通路。内容将科学与可操作建议结合，强调生活方式是可调节衰老的关键。对科研者与健康爱好者而言，提示将代谢干预与精准医疗相结合，或许能真正逆转衰老。",
     "best_quote_en": "\"The discussion highlights how lifestyle choices profoundly influence the aging process and may even slow or reverse key aspects of biological aging.\"",
     "best_quote_zh": "这段讨论强调了生活方式选择如何深刻影响衰老过程，甚至可能减缓或逆转生物衰老的关键方面。"
+  },
+  {
+    "id": 110,
+    "title": "The Risk of Discovery",
+    "title_zh": "发现的风险",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/disc.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "The short essay on “The Risk of Discovery” invites us to rethink how we view scientific genius. It argues that biographies routinely sanitize mistakes, making the daring choices of figures like Newton appear inevitable rather than perilous. By framing Newton’s work in alchemy, theology, and physics as three simultaneous bets, the author reminds us that breakthrough is a gamble, not a straight line. The piece also draws a subtle parallel to modern entrepreneurship: the unknown payoff of a novel idea forces pioneers to wager on the improbable. This reflection challenges the myth of the infallible scientist and encourages a more honest appraisal of risk in any creative endeavor. The essay’s strength lies in its concise, thought‑provoking narrative and its ability to bridge historical insight with contemporary relevance, making it a valuable read for scholars, innovators, and anyone curious about the hidden cost of discovery.",
+    "summary_zh": "文章以简洁的笔触揭示了科学家被誉为“无误”的谬误，指出牛顿等人的大胆赌注被后人淡化。它将科学研究比作创业的高风险投机，提醒我们突破往往源于敢于赌注。此文不仅解构了历史叙事，也为当代创新者提供了关于风险与回报的深刻思考，值得学者与实践者细细品味。",
+    "best_quote_en": "Newton made three bets. One of them worked. But they were all risky.",
+    "best_quote_zh": "牛顿做了三次赌注，其中一次成功了。但它们都很冒险。"
+  },
+  {
+    "id": 111,
+    "title": "Lack of Social Grace is a Lack of Skill",
+    "title_zh": "缺乏社交礼仪即缺乏技能",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/NnTwbvvsPg5kj3BKq/lack-of-social-grace-is-a-lack-of-skill-1",
+    "tags": [
+      "solve",
+      "education",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "The essay argues that social grace is not a moral virtue but a learned skill, paralleling technical proficiencies such as programming or music. The author uses personal anecdotes to illustrate how lacking a skill blinds one to its absence, and how practice turns an initially laborious competence into an almost effortless asset. He critiques the notion that honesty and politeness are mutually exclusive, asserting instead that most situations allow a graceful expression of truth once the skill of tact is cultivated. The piece blends philosophical reflection with pragmatic advice, framing social competence as a form of epistemic virtue that can be improved through deliberate practice. It invites readers to reframe social awkwardness as a gap in skill set rather than a character flaw, and to treat politeness with the same systematic approach used in mastering technical disciplines. The underlying implication is that emotional intelligence, like any other skill, can be quantified, taught, and mastered, thereby enhancing both personal relationships and broader societal interactions.",
+    "summary_zh": "作者把社交礼仪当成可学习的技能，而非道德美德，强调通过练习把礼貌变成几乎不费力的本能。文章借个人经历说明，缺乏某项技能会让人对其缺失视而不见；而把礼貌视作可培养的能力，能让真诚与礼貌并存。作者批判了“诚实与礼貌互斥”的说法，指出大多数情境都可用优雅方式表达真相。整篇文章兼具哲学思考与实用建议，呼吁把社交笨拙视为技能缺口，而非性格缺陷，并用系统化的训练方法提升情商，进而改善人际与社会互动。",
+    "best_quote_en": "Once you’ve practiced for a while, grace doesn’t take as much effort as you might think.",
+    "best_quote_zh": "只要练习了一段时间，礼仪的掌握并不像你想象的那样费力。"
+  },
+  {
+    "id": 112,
+    "title": "What Zohran Mamdani’s Bid for Mayor Reveals About Being Muslim in America",
+    "title_zh": "Zohran Mamdani 的竞选揭示了在美国作为穆斯林的意义",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-zohran-mamdanis-bid-for-mayor-reveals-about-being-muslim-in-america",
+    "tags": [
+      "solve",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-11-02",
+    "summary_en": "The article dissects how Zohran Mamdani’s 2025 New York mayoral bid exposes the enduring specter of Islamophobia in American politics. It traces a lineage from the 2008 Obama campaign—where religious identity was weaponised—to today’s heated rhetoric that conflates Muslim identity with terrorism. By weaving historical anecdotes, media clips, and Mamdani’s own testimony, the piece illustrates how anti‑Muslim sentiment has evolved from overt accusations of “dual loyalty” to subtler denaturalisation threats and targeted attacks on civic engagement. The narrative underscores that, despite Mamdani’s policy focus on housing and public transit, the campaign’s survival hinges on confronting prejudice rather than policy alone. The article’s data‑driven tone—citing FBI hate‑crime statistics and election‑poll figures—provides a factual backbone, while the case‑study framing offers readers concrete evidence of how systemic bias operates in a major city. Overall, it invites readers to recognise that the politics of identity are not peripheral but central to contemporary governance and civic trust.",
+    "summary_zh": "文章通过扎哈兰·马姆达尼在2025年纽约市长竞选中的经历，揭示了美国政治中持续存在的伊斯兰恐惧症。它将2008年奥巴马竞选时的宗教身份被武器化的情景与今日将穆斯林身份与恐怖主义混为一谈的言论相连。文章通过历史轶事、媒体片段以及马姆达尼的亲身陈述，展示了反穆斯林情绪从“双重忠诚”指控演变为更隐蔽的去国籍化威胁和针对公民参与的攻击。尽管马姆达尼关注住房与公共交通的政策，但竞选的存活取决于对抗偏见，而非单纯的政策。文章以数据驱动的语调提供事实依据，并通过案例研究让读者看到系统性偏见如何在大都市中运作，强调身份政治是当代治理与公民信任的核心。",
+    "best_quote_en": "To be Muslim in New York is to expect indignity.",
+    "best_quote_zh": "成为纽约的穆斯林意味着要预期被侮辱。"
+  },
+  {
+    "id": 113,
+    "title": "Build Your Ideal Physique | Dr. Bret Contreras",
+    "title_zh": "打造理想体型 | 布雷特·康特拉斯博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/build-ideal-physique-bret-contreras",
+    "tags": [
+      "learn",
+      "ai-research",
+      "leadership",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "领导管理",
+      "新手友好"
+    ],
+    "date": "2025-09-22",
+    "summary_en": "In this episode, Dr. Bret Contreras—known as the “glute guy” and a leading authority on strength and hypertrophy—unpacks a science‑backed framework for sculpting a balanced, powerful physique. He walks listeners through the mechanics of progressive overload, periodization, and the critical role of recovery, emphasizing that muscle growth is as much about smart programming as it is about lifting heavier. The discussion is rich with practical details: ideal training frequency, set‑rep schemes, the “Big Six” lifts, and how to target lagging muscle groups without compromising joint health. Contreras also addresses common pitfalls in hip‑thrust execution, gender‑specific adaptations, and how hormonal changes after 40 can be leveraged for continued gains. The episode is a comprehensive guide that blends evidence‑based principles with actionable advice, making it a valuable resource for anyone—from beginners to seasoned athletes—seeking to maximize aesthetics, performance, and longevity.",
+    "summary_zh": "布雷特·康特拉斯博士以科学为支撑，详细阐述渐进式超负荷、周期化与恢复的协同作用，提供从训练频率到“六大动作”的实用方案，帮助男女在任何年龄段实现肌肉增长与身体美学的双重提升。",
+    "best_quote_en": "Progressive overload is the single most powerful driver of muscle growth, but it must be paired with recovery and periodization to avoid injury.",
+    "best_quote_zh": "渐进式超负荷是肌肉增长最强大的驱动力，但必须与恢复和周期化相结合，以避免受伤。"
+  },
+  {
+    "id": 114,
+    "title": "The Tim Ferriss Show Transcripts: Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen (#833)",
+    "title_zh": "The Tim Ferriss Show Transcripts: Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen (#833)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/10/30/jack-canfield-transcript/",
+    "tags": [
+      "learn",
+      "education",
+      "writing-content",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "写作内容",
+      "新手友好"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "Jack Canfield’s long‑form interview on The Tim Ferriss Show unpacks the mechanics behind a $600 million‑plus publishing empire, the psychology of success, and the accidental pathway that turned a humble “Chicken Soup” story into a cultural touchstone. The conversation reveals a pattern of intentional learning: early exposure to diverse mentors, a relentless focus on storytelling, and a willingness to test ideas in real‑world settings. Canfield’s narrative illustrates that success is rarely a single epiphany; it is a series of “sliding‑door” moments, each compounded by disciplined action—training sales teams, leveraging low‑cost insurance, and mastering the rule of five interviews per day. The interview also critiques conventional wisdom about publishing, emphasizing the power of persistence, feedback loops, and the importance of a clear, emotionally resonant title. For listeners, the episode offers a roadmap that blends mindset, strategy, and execution, reminding us that scalable impact emerges from consistent, data‑driven, human‑centric effort.",
+    "summary_zh": "杰克·坎菲尔德在《蒂姆·费里斯秀》中的访谈，剖析了其六亿本书籍成功的背后逻辑与心态。对话强调“滑动门”式机会、故事化营销与持续试错。通过低成本保险、培训销售团队以及每日五次访谈等具体做法，展示了从失败到百万销量的转化路径。它还批判传统出版观念，突出坚持、反馈与情感共鸣标题的重要性，为听众提供可复制的思维与行动框架。",
+    "best_quote_en": "You have to take your shot when you can take your shots.",
+    "best_quote_zh": "你必须在能抓住机会时抓住机会。"
   }
 ]
