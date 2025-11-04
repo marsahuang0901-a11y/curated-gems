@@ -1,105 +1,5 @@
 [
   {
-    "id": 15,
-    "title": "A New Era for Generalist Robotics: The Rise of Humanoids | NVIDIA GTC 2025",
-    "title_zh": "通用机器人新时代：人形机器人的崛起 | 英伟达GTC 2025",
-    "source": "NVIDIA Developer",
-    "link": "https://www.youtube.com/watch?v=BmD22FNOAY4",
-    "tags": [
-      "Robotics",
-      "Humanoids",
-      "AI",
-      "NVIDIA GTC",
-      "Hardware",
-      "Simulation",
-      "Generalist AI"
-    ],
-    "tags_zh": [
-      "机器人",
-      "人形机器人",
-      "人工智能",
-      "英伟达GTC",
-      "硬件",
-      "模拟",
-      "通用人工智能"
-    ],
-    "date": "2025-04-08",
-    "summary_en": "This video captures a panel discussion from NVIDIA GTC 2025, moderated by Tiffany Jansen, featuring leaders in robotics: Burnt Barnick (1X), Deepak Pathak (Skilled AI), Pros Feligaputo (Agility Robotics), Aaron Saunders (Boston Dynamics), and Jim Fan (NVIDIA). The panel explores the rapid advancements in generalist robotics and the rise of humanoids. Key themes include the historical slowness of robotics as an AI application, the transformative impact of large foundation models for reasoning and multimodal understanding, the critical role of data generation through GPU-accelerated simulation, and significant improvements in hardware affordability and robustness. The panelists discuss the shift from control-based robotics to learning-from-experience, the challenges of cross-embodiment and data diversity, and the future vision of robots automating science and even self-assembling other robots. They emphasize that while full general-purpose robots are still years away, specialized robots delivering immediate value are already here and will become increasingly prevalent.",
-    "summary_zh": "这段视频是英伟达GTC 2025上的一场由Tiffany Jansen主持的专家小组讨论，汇集了机器人领域的领军人物：Burnt Barnick (1X)、Deepak Pathak (Skilled AI)、Pros Feligaputo (Agility Robotics)、Aaron Saunders (Boston Dynamics) 和 Jim Fan (NVIDIA)。小组讨论探讨了通用机器人的快速发展和人形机器人的兴起。主要议题包括机器人作为AI应用的历史性缓慢进展、大型基础模型对推理和多模态理解的变革性影响、通过GPU加速模拟进行数据生成的关键作用，以及硬件成本效益和鲁棒性的显著提升。小组成员讨论了从基于控制的机器人到基于经验学习的转变、跨实体和数据多样性的挑战，以及机器人自动化科学甚至自我组装其他机器人的未来愿景。他们强调，尽管完全通用的机器人仍需数年才能实现，但能够立即提供价值的专业机器人已经问世，并将日益普及。",
-    "best_quote_en": "We were born too late to explore the earth, we were born too early to travel to other galaxies, we were born just in time to solve robotics and everything that moves will be autonomous.",
-    "best_quote_zh": "我们出生得太晚，无法探索地球；出生得太早，无法旅行到其他星系；但我们恰好出生在解决机器人问题的时代，未来所有能移动的东西都将是自主的。"
-  },
-  {
-    "id": 16,
-    "title": "When the career ladder breaks for women—and how to succeed anyway",
-    "title_zh": "当女性的职业阶梯断裂时——以及如何成功突围",
-    "source": "McKinsey & Company",
-    "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/when-the-career-ladder-breaks-for-women-and-how-to-succeed-anyway",
-    "tags": [
-      "Women in the workplace",
-      "Career development",
-      "Leadership",
-      "Diversity"
-    ],
-    "tags_zh": [
-      "职场女性",
-      "职业发展",
-      "领导力",
-      "多元化"
-    ],
-    "date": "2025-03-27",
-    "summary_en": "This is a McKinsey Podcast episode discussing the challenges limiting professional women's progress and the approaches they can use to succeed. It highlights that while career advancement is difficult for everyone, it can be particularly elusive for women, citing the 'broken rung' as a major obstacle to their career progression.",
-    "summary_zh": "这是麦肯锡的一期播客节目，讨论了限制职业女性发展的挑战以及她们可以用来成功的策略。节目指出，尽管职业发展对每个人来说都很艰难，但对女性而言可能尤其难以捉摸，并将“断裂的阶梯”（broken rung）作为她们职业晋升的主要障碍。",
-    "best_quote_en": "Career advancement is tough for everyone—but for women, it can feel particularly elusive.",
-    "best_quote_zh": "职业发展对每个人来说都很艰难，但对女性而言可能尤其难以捉摸。"
-  },
-  {
-    "id": 17,
-    "title": "What is the future of English studies?",
-    "title_zh": "英语研究的未来是什么？",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/07/07/whats-is-the-future-of-english-studies/",
-    "tags": [
-      "learn",
-      "education",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2025-07-07",
-    "summary_en": "This reflective essay explores the current challenges facing English studies, particularly the decline in student engagement and joy in reading. The author, an advocate for embracing incomprehension in literature, shares experiences from academic conferences and workshops, highlighting the emotional and pedagogical disconnect in modern education. Through personal anecdotes and expert insights, the piece underscores the importance of fostering a love for reading and storytelling, while navigating the encroachment of technology and standardized testing. It serves as both a lament for the changing landscape of English education and an inspiration for innovative approaches to literature and comprehension.",
-    "summary_zh": "这篇文章反思了英语研究当前面临的挑战，尤其是学生参与度和阅读乐趣的下降。作者作为文学研究倡导者，分享了在学术会议和工作坊中的经验，突显了现代教育中情感和教学上的脱节。通过个人轶事和专家见解，文章强调了培养阅读和故事讲述热情的重要性，同时应对技术入侵和标准化测试的挑战。它既是对英语教育变革的哀叹，也是对文学创新方法的激励。",
-    "best_quote_en": "Reading has always been about joy. I was eight when I decided that I wanted to study English literature at university, having been entranced by L.M. Montgomery’s 'Anne of Green Gables'. Reading was magic, it seemed to me.",
-    "best_quote_zh": "阅读一直是关于快乐的。我在八岁时决定想上大学学习英国文学，因为我被L.M. Montgomery的《绿山墙上的安妮》迷住了。在我看来，阅读是魔法。"
-  },
-  {
-    "id": 18,
-    "title": "Why it’s worth taking a wider look at biarchal cultures | Letters",
-    "title_zh": "为什么值得更广泛地审视二元文化",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/science/2025/oct/10/why-its-worth-taking-a-wider-look-at-biarchal-cultures",
-    "tags": [
-      "update",
-      "society",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "案例研究"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "Laura Spinney's article proposes a fascinating exploration of gender-egalitarian societies that once existed, challenging the Eurocentric narrative of societal evolution. However, the piece remains constrained by this perspective, overlooking regions where biarchal traditions persist or were recently suppressed by colonial forces. The author effectively highlights examples from North America, Africa, India, and Polynesia, demonstrating that these cultures were not confined to ancient times but were actively dismantled through European colonialism. This content offers both historical insight and a critique of contemporary gender norms, encouraging readers to reconsider the possibility of more balanced gender systems. It serves as a powerful tool for education and advocacy, particularly for those interested in decolonizing gender studies and promoting inclusive societal structures.",
-    "summary_zh": "劳拉·斯宾尼的文章提出了关于曾经存在过的性别平等社会的迷人探索，挑战了社会进化过程中的欧洲中心主义叙事。然而，文章仍然受限于这种视角，忽视了殖民主义如何摧毁这些传统在北美、非洲、印度和波利尼西亚等地持续存在的事实。作者有效展示了这些例子，证明这些文化并非局限于古代，而是被欧洲殖民主义积极摧毁。这篇文章提供了历史洞察和对当代性别规范的批判，鼓励读者重新考虑更平衡的性别系统的可能性。它特别适合作为教育和倡导工具，对于那些有兴趣解构性别研究和促进包容性社会结构的人来说尤为相关。",
-    "best_quote_en": "In societies where women were valued equally to men, individuals with both masculine and feminine traits were often revered.",
-    "best_quote_zh": "在女性与男性同样被重视的社会中，同时具备阳刚与阴柔特质的人往往受到尊敬。"
-  },
-  {
     "id": 19,
     "title": "Modeling a Wealth Tax",
     "title_zh": "财富税建模",
@@ -2392,5 +2292,99 @@
     "summary_zh": "杰克·坎菲尔德在《蒂姆·费里斯秀》中的访谈，剖析了其六亿本书籍成功的背后逻辑与心态。对话强调“滑动门”式机会、故事化营销与持续试错。通过低成本保险、培训销售团队以及每日五次访谈等具体做法，展示了从失败到百万销量的转化路径。它还批判传统出版观念，突出坚持、反馈与情感共鸣标题的重要性，为听众提供可复制的思维与行动框架。",
     "best_quote_en": "You have to take your shot when you can take your shots.",
     "best_quote_zh": "你必须在能抓住机会时抓住机会。"
+  },
+  {
+    "id": 115,
+    "title": "Jess Cartner-Morley on fashion: the number-one rule for coats this winter – make it long",
+    "title_zh": "Jess Cartner-Morley谈时尚：今年冬季外套的首要规则——让它更长",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/oct/15/jess-cartner-morley-on-fashion-the-number-one-rule-for-coats-this-winter-make-it-long",
+    "tags": [
+      "update",
+      "lifestyle",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-10-15",
+    "summary_en": "Jess Cartner‑Morley distills an entire season’s sartorial wisdom into a single, razor‑sharp prescription: the coat must be long.  In a landscape where layering, scarves, and knitwear are endlessly debated, the author’s blunt advice cuts through the noise, positioning length as the ultimate fashion signal.  Her analysis ties the shift to broader cultural currents—looser trousers, a renewed emphasis on silhouette—and draws on runway evidence from Burberry, MaxMara and other luxury houses to substantiate the claim.  The piece is both a practical guide and a cultural commentary, urging readers to view their outerwear as an extension of personality and a marker of contemporary taste.  For fashion‑savvy consumers, the takeaway is clear: invest in a well‑proportioned, below‑knee coat to anchor your winter wardrobe and project confidence.  The article invites reflection on how seemingly minor details can redefine style narratives and signal alignment with evolving aesthetic norms.",
+    "summary_zh": "Jess Cartner‑Morley把整个冬季的时尚智慧浓缩成一句话：外套必须长。她用简洁的论点揭示长度是时尚的终极信号，并结合Burberry、MaxMara等品牌的走秀案例，说明这一趋势与裤型宽松、剪裁强调等文化变迁的关联。对时尚爱好者而言，建议投资一件合身、膝下或更长的外套，既能点亮整体造型，也能展现自信与品味。",
+    "best_quote_en": "Your coat needs to be long. That’s it, that’s the big news.",
+    "best_quote_zh": "外套必须长。就是这样，这是大新闻。"
+  },
+  {
+    "id": 116,
+    "title": "How to Make Pittsburgh a Startup Hub",
+    "title_zh": "让匹兹堡成为创业中心",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/pgh.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "The talk outlines a pragmatic roadmap for transforming Pittsburgh into a Silicon Valley‑style startup hub, grounded in demographic data, urban design, and institutional strategy. By highlighting the city’s growing 25‑29‑year‑old population and the vibrant “youth‑driven food boom,” the speaker argues that attracting and retaining young talent is foundational. The analysis stresses preserving historic buildings, fostering walkable, bike‑friendly neighborhoods, and leveraging Carnegie Mellon’s research strength—while cautioning against over‑commercializing university branding. Key actionable recommendations include streamlining permits for small food businesses, protecting architectural heritage, and creating a culture that tolerates and nurtures unconventional ideas. The speaker also notes that a robust investor community will grow organically, supported by low startup costs, crowdfunding, and accelerator programs. Overall, the piece offers a data‑driven, culturally attuned blueprint that blends urban policy, economic incentives, and community values to build a resilient startup ecosystem.",
+    "summary_zh": "作者以匹兹堡年轻人口增长、餐饮热潮为切入点，阐述打造创业中心的可行路径。强调保留历史建筑、提升步行与骑行友好度、充分发挥卡内基梅隆的科研优势，并警示避免过度商业化大学品牌。提出简化餐饮审批、维护城市个性、培养容忍异想天开的文化。指出投资者生态将随创业成本降低、众筹与加速器等机制自然形成。整体构思既数据驱动又文化贴合，兼顾城市规划与经济激励，助力匹兹堡成为可持续的创新聚集地。",
+    "best_quote_en": "If a university really wanted to help its students start startups, the empirical evidence, weighted by market cap, suggests the best thing they can do is literally nothing.",
+    "best_quote_zh": "如果一所大学真的想帮助学生创业，经验数据表明最好的做法就是什么都不做。"
+  },
+  {
+    "id": 117,
+    "title": "Funding for COVID-19 Projects",
+    "title_zh": "为COVID-19项目提供资金",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/funding-for-covid-19-projects",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "tech-trends",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "技术趋势",
+      "数据驱动"
+    ],
+    "date": "2020-03-15",
+    "summary_en": "This post is a pragmatic appeal from a seasoned investor to funnel capital into COVID‑19‑focused ventures. It outlines four concrete problem spaces—rapid production of ventilators and PPE, drug repurposing, novel vaccine strategies, and unconventional therapeutics—highlighting where engineering ingenuity can outpace pharmaceutical inertia. The author’s insistence on testing capacity as a prerequisite signals a systems‑thinking mindset, while the call for contract research collaborations underscores the need for agile, interdisciplinary partnerships. For readers, the piece offers a roadmap of actionable funding priorities and a reminder that even in a crisis, the most valuable lever is the ability to mobilize resources quickly. Critically, it exposes gaps in public‑private coordination and the lack of scalable manufacturing pipelines, suggesting that future resilience hinges on pre‑emptive infrastructure investments. The tone balances urgency with a realistic appraisal of what can be achieved, making it a useful reference for venture leaders, policy makers, and entrepreneurs seeking to align capital with high‑impact, low‑barrier COVID‑19 solutions.",
+    "summary_zh": "这篇文章是经验丰富投资人对COVID‑19项目融资的务实呼吁，列出四大关键领域：快速生产呼吸机/防护服、药物再利用、新型疫苗策略及非传统疗法。作者强调测试能力先行，呼吁合同研发合作，凸显跨学科敏捷伙伴关系的重要性。文章为读者提供可操作的资金优先级路线图，并指出公共与私人协同不足、制造链缺口等问题，提醒未来韧性需预先布局基础设施。其语气兼具紧迫感与现实评估，是风险投资者、政策制定者和创业者对高影响、低门槛COVID‑19解决方案的有价值参考。",
+    "best_quote_en": "I think we will soon have enough testing capacity, so now I’d like to start funding more startups working on:",
+    "best_quote_zh": "我认为我们很快就会有足够的检测能力，所以现在我想开始资助更多从事以下工作的初创企业："
+  },
+  {
+    "id": 118,
+    "title": "Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen (#833)",
+    "title_zh": "Jack Canfield — 销售6亿+本书、成功原则以及他如何让《每周工作4小时》成真（#833）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/10/29/jack-canfield/",
+    "tags": [
+      "solve",
+      "education",
+      "lifestyle",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "生活方式",
+      "争议观点"
+    ],
+    "date": "2025-10-29",
+    "summary_en": "Jack Canfield’s interview is a masterclass in turning personal adversity into a global movement. From a childhood marked by poverty and a single, supportive step‑father, he forged a philosophy that blends science, storytelling, and a relentless commitment to accountability. His “E + R = O” equation—event plus response equals outcome—serves as a pragmatic framework that underpins the Success Principles, the Chicken Soup series, and even the 4‑Hour Workweek’s culture of intentional living. The episode weaves anecdotes—like the Chinese “easy‑A” that opened doors to historical scholarship—with actionable productivity hacks such as the “clean‑up your messes” checklist and the Rule of Five for time management. Canfield’s narrative underscores that success is a system of habits, responsibility, and community, offering listeners a roadmap that is both deeply personal and universally applicable. His story reminds us that the most powerful tools are often the simplest: clarity, commitment, and the willingness to take 100 % responsibility.",
+    "summary_zh": "Jack Canfield 的访谈是一堂把个人逆境转化为全球运动的课程。童年贫困、单亲父亲的支持，让他形成了将科学、故事与责任感结合的成功原则。核心公式 E+R=O（事件+回应=结果）为鸡汤系列和《每周工作4小时》提供了实用框架。访谈中穿插了“轻松拿A”打开历史研究之门的故事，及“清理杂乱”清单、五步法等时间管理技巧。Canfield 的叙事强调成功是习惯、责任和社区的系统，给听众一条既个人化又普适的路线图。",
+    "best_quote_en": "E + R = O — event plus response equals outcome.",
+    "best_quote_zh": "当你小时候，奶奶给你鸡汤，当你生病时……人的精神是生病的。"
   }
 ]
