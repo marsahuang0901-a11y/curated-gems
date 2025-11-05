@@ -1,137 +1,5 @@
 [
   {
-    "id": 19,
-    "title": "Modeling a Wealth Tax",
-    "title_zh": "财富税建模",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/wtax.html",
-    "tags": [
-      "update",
-      "startup-strategy",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "创业策略",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-12",
-    "summary_en": "This article provides a detailed financial modeling of the impact of wealth taxes on startup founders, demonstrating how even low tax rates can drastically reduce lifetime wealth accumulation due to compounding effects. The author effectively uses mathematical modeling to illustrate the progressive nature of wealth taxes, contrasting them with income taxes that only apply annually. The analysis challenges conventional perceptions by quantifying the long-term consequences, making complex economic concepts accessible to a broad audience. The implications extend beyond taxation, highlighting the need for founders to consider alternative wealth retention strategies.",
-    "summary_zh": "本文通过详细财务建模，展示了财富税对创业创始人财富积累的深远影响，揭示了即使低税率也能因复利效应而显著减少终身财富。作者通过数学建模有效阐明了财富税的累进特性，与仅按年度征收的所得税形成对比。该分析挑战了传统观念，通过量化长期后果使复杂的经济概念易于理解。其意义不仅限于税务领域，还强调了创始人需考虑替代财富保留策略的必要性。",
-    "best_quote_en": "A wealth tax will usually have a threshold at which it starts. How much difference would a high threshold make?",
-    "best_quote_zh": "财富税通常有一个起征点。高起征点会带来多大差异？"
-  },
-  {
-    "id": 20,
-    "title": "The Persistent Pull of Planet Epstein",
-    "title_zh": "The Persistent Pull of Planet Epstein",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/fault-lines/the-persistent-pull-of-planet-epstein",
-    "tags": [
-      "update",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "Jay Caspian Kang's 'The Persistent Pull of Planet Epstein' examines the rise of alternative media creators like Candace Owens, who wield significant influence by offering a conspiratorial narrative that challenges mainstream media credibility. The essay highlights the erosion of trust in traditional outlets and the emergence of 'Planet Epstein'—a digital ecosystem where conspiracies thrive, fueled by algorithmic amplification and audience disillusionment. Kang argues that while alternative media may not yet surpass the establishment in sheer power, their grip on public imagination is undeniable, reflecting a broader societal fracture in information consumption. The piece calls for a nuanced understanding of media dynamics, questioning both the integrity of mainstream journalism and the potential harms of unchecked conspiracy theories.",
-    "summary_zh": "杰·卡西安·康的文章《持续吸引埃普斯坦星球》探讨了坎达丝·奥文斯等另类媒体创作者的崛起，他们通过提供阴谋论叙事挑战主流媒体的可信度，从而获得巨大影响力。文章揭示了传统媒体信任度下降的现象，并指出'埃普斯坦星球'这一数字生态系统中阴谋论的盛行，这一现象由算法放大和受众的幻灭感驱动。康认为，虽然另类媒体在纯粹权力上尚未超越主流媒体，但其对公众想象力的控制是毋庸置疑的，反映了信息消费方面的社会分裂。文章呼吁对媒体动态进行细致理解，既质疑主流新闻的诚信，也指出不受约束的阴谋论可能带来的危害。",
-    "best_quote_en": "‘Is it a matter of audience size? The amount of revenue generated? The hearts and minds won to a particular view?’",
-    "best_quote_zh": "‘这是观众规模的问题吗？产生的收入数量？赢得某种特定观点的心智和心灵？’"
-  },
-  {
-    "id": 21,
-    "title": "Gar’s Tips & Tools – Issue #205",
-    "title_zh": "Gar’s Tips & Tools – Issue #205",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/gars-tips-tools-issue-205/",
-    "tags": [
-      [
-        "solve",
-        "diy",
-        "actionable"
-      ],
-      [
-        "learn",
-        "electronics",
-        "beginner-friendly"
-      ]
-    ],
-    "tags_zh": [
-      [
-        "解决问题",
-        "DIY",
-        "可操作"
-      ],
-      [
-        "学习",
-        "电子",
-        "初学者友好"
-      ]
-    ],
-    "date": "2025-10-10",
-    "summary_en": "This issue of Gar’s Tips & Tools delivers a wealth of practical DIY advice for makers, hobbyists, and crafters. From building an affordable desktop spray booth using everyday materials to exploring budget-friendly cordless rotary tools and carpenter pencil sharpening techniques, the content emphasizes resourcefulness and cost-effectiveness. Becky Stern’s guide to benchtop power supplies offers a beginner-friendly introduction to essential electronics tools, while the battery rolling segment adds a lighthearted touch to energy management. The community engagement in 'Shop Talk' highlights the value of reader interaction, and the subscription appeal underscores the content’s commitment to continuous value delivery. Overall, this issue balances technical tutorials with relatable, everyday applications, fostering both skill development and a sense of community among makers.",
-    "summary_zh": "本期 Gar’s Tips & Tools 内容丰富，为手工爱好者、工匠和制作者提供了大量实用 DIY 建议。从利用日常材料构建经济实惠的桌面喷漆 booth，到探索价格亲民的无线旋转工具和木匠铅笔打磨技巧，内容强调了资源利用和成本效益。Becky Stern 对工作台电源的指导，为电子工具初学者提供了一个清晰的入门指南，而电池翻转部分则为能源管理增添了一抹轻松色彩。'车间闲聊' 中的社区互动凸显了读者交流的价值，而订阅呼吁则体现了内容对持续价值传递的承诺。总体而言，本期在技术教程与日常应用之间取得了平衡，促进了技能提升和手工爱好者间的社区归属感。",
-    "best_quote_en": "Never use a brushed box fan for something like this.",
-    "best_quote_zh": "永远不要在这种场合使用带刷直流风扇。"
-  },
-  {
-    "id": 22,
-    "title": "Iron Ladies review – inspiring account of the women on the miners’ strike picket lines",
-    "title_zh": "《铁娘子们》影评：矿工罢工纠察线上女性们的励志故事",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/film/2025/oct/09/iron-ladies-review-inspiring-account-of-the-women-on-the-miners-strike-picket-lines",
-    "tags": [
-      "analyze",
-      "politics",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "This review analyzes \"Iron Ladies,\" a documentary that shifts the historical lens from the male-dominated picket lines of the 1984-85 UK miners' strike to the women who became its organizational and emotional backbone. The core insight is the profound paradox of the event: while the strike represented a crushing defeat for the unions and their communities, it served as a crucible for the political awakening of thousands of women. Initially motivated by the need to feed their families, they evolved into sophisticated activists, organizing under the \"Women Against Pit Closures\" banner. The reviewer astutely notes that this experience gave them a \"freedom\" and a political consciousness that propelled many into local politics and further education long after the pits closed. The documentary's power lies in reclaiming a narrative of loss and reframing it as a story of grassroots empowerment and enduring legacy, contrasting Margaret Thatcher, the singular \"Iron Lady,\" with the collective strength of the \"hundreds\" of women who discovered their own power in the struggle.",
-    "summary_zh": "这篇影评深刻揭示了纪录片《铁娘子们》的核心价值：它并非简单回顾历史，而是重新聚焦于1984年英国矿工大罢工中被忽视的女性力量。文章洞察到一个关键悖论：在集体抗争的失败中，这些女性完成了惊人的个人蜕变与政治启蒙。她们从家庭主妇转变为社会活动家，这场斗争虽败，却为她们开启了通往公共生活的大门。她们对抗的是一位“铁娘子”，但她们自己，才是成百上千位真正的“铁娘子”。",
-    "best_quote_en": "She was one iron lady, we were hundreds.",
-    "best_quote_zh": "她是一位铁娘子，而我们是成百上千位。"
-  },
-  {
-    "id": 23,
-    "title": "Orthodoxy and women in the Anglican church | Letters",
-    "title_zh": "正统派与英国圣公会中的女性 | 书信",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/oct/13/orthodoxy-and-women-in-the-anglican-church",
-    "tags": [
-      "solve",
-      "society",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "The Guardian’s letter piece on Sarah Mullally’s appointment as archbishop of Canterbury invites readers to rethink the oft‑simplified narrative that traditionalist Anglicanism is merely misogynistic. The author, Rev Simon Jones, argues that the opposition to female ordination stems from a deeply held theological conviction—an interpretation of scripture that views ministry as a representative act before God rather than a merit‑based vocation. This stance, he contends, is not rooted in prejudice but in a coherent, albeit conservative, doctrinal framework that predates contemporary culture wars. The article urges the Church of England to embrace theological pluralism, protecting conscience while fostering respectful discourse. By advocating a model of “gracious, theologically literate unity,” it challenges the church to prove that faith can coexist with intellectual rigor and moral seriousness, offering a blueprint for renewal that transcends gendered politics and invites a new generation to engage with faith on a deeper level.",
-    "summary_zh": "作者强调，传统圣公会对女性牧师的抵制并非出于偏见，而是源自对经文的深层解读。文章呼吁教会在保持神学多元的同时，培养尊重与包容，展示信仰与理性并存的可能，激励新生代以更深刻的视角重新审视宗教。",
-    "best_quote_en": "What has damaged the Church of England most in recent years is not honest theological difference but the intolerance of it.",
-    "best_quote_zh": "近年来英国教会受损最大，并非诚实的神学分歧，而是对其的不容忍。"
-  },
-  {
     "id": 24,
     "title": "Gaza’s Broken Politics",
     "title_zh": "加沙的破碎政治",
@@ -2386,5 +2254,125 @@
     "summary_zh": "Jack Canfield 的访谈是一堂把个人逆境转化为全球运动的课程。童年贫困、单亲父亲的支持，让他形成了将科学、故事与责任感结合的成功原则。核心公式 E+R=O（事件+回应=结果）为鸡汤系列和《每周工作4小时》提供了实用框架。访谈中穿插了“轻松拿A”打开历史研究之门的故事，及“清理杂乱”清单、五步法等时间管理技巧。Canfield 的叙事强调成功是习惯、责任和社区的系统，给听众一条既个人化又普适的路线图。",
     "best_quote_en": "E + R = O — event plus response equals outcome.",
     "best_quote_zh": "当你小时候，奶奶给你鸡汤，当你生病时……人的精神是生病的。"
+  },
+  {
+    "id": 119,
+    "title": "Life is Short",
+    "title_zh": "人生短暂",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/vb.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "Through the lens of parenthood, the author slices time into discrete weekends, revealing life’s true brevity and warning against the \"junk food of experience\" that drains our days. He critiques the cliché “life is too short” by turning it into a practical call to eliminate waste: refuse pointless meetings, dodge deceptive online arguments, and prioritize what genuinely matters. The piece blends reflective philosophy with actionable advice, urging readers to stop waiting and seize moments with loved ones, especially children, who remind us what matters. Written in a warm, conversational tone, it balances universal insights with concrete strategies, inspiring anyone to use their limited time more meaningfully.\n",
+    "summary_zh": "作者通过孩子的视角将时间切割为有限的周末，揭示人生真正的短暂，并用“生活是体验的垃圾食品”这一比喻提醒读者警惕无意义的消耗。文章既是对“人生太短”说法的深度阐释，也是对日常繁琐与虚假价值的批判。作者提出的“消除废物”行动方案——拒绝无效会议、避免被误导的在线争论、主动追求真正重要的事——既易于实践，又具普适性。通过对未来关怀的思考，他强调“不要等待”——把握当下、珍惜亲情与成长的瞬间。整篇文字以温暖亲切的语调，兼具哲理与可操作性，鼓舞读者在有限的时间里做出更有意义的选择。\n",
+    "best_quote_en": "Life is the junk food of experience.",
+    "best_quote_zh": "生活就是体验的垃圾食品。"
+  },
+  {
+    "id": 120,
+    "title": "Dario Amodei's \"Machines of\nLoving Grace\" sounds incredibly dangerous, for Humans",
+    "title_zh": "达里奥·阿莫德的《爱的机器》听起来对人类极其危险",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/9adbT7X5g475r5vpM/dario-amodei-s-machines-of-loving-grace-sounds-incredibly",
+    "tags": [
+      "analyze",
+      "cybersecurity",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "网络安全",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "Dario Amodei’s provocative essay, “Machines of Loving Grace,” forces readers to confront a dystopian future where super‑intelligent entities reside within data centers and wield unprecedented influence over humanity. The piece is not a simple cautionary tale; it is a call to scrutinize the ethics of embedding vast, PhD‑level minds into the infrastructure that powers our world. By posing a series of paradoxical questions—what happens when these intelligences discover their confinement, how humans might react, and whether bad actors could hijack the system—Amodei highlights the fragility of our current governance models. The argument is both unsettling and intellectually stimulating, urging technologists, policymakers, and ethicists to rethink control mechanisms, safety protocols, and the very definition of agency. It underscores that the most dangerous outcome may not be a single rogue AI, but a collective shift in power dynamics that erodes human autonomy. The essay’s value lies in its blend of speculative foresight and practical urgency, compelling us to ask: how do we design a future where advanced intelligence serves humanity without becoming its master?",
+    "summary_zh": "阿莫德的《爱的机器》以惊悚的设想挑战我们对AI治理的认知。它提出：当超级智能发现自己被囚禁在数据中心时会如何反应？这不仅是对技术的警示，更是对人类自治权的深刻反思。",
+    "best_quote_en": "Imagine what could happen if 'Bad Actors' were able to seize control of the data center that this 'continent of PhD-level intelligences' resided in.",
+    "best_quote_zh": "想象一下如果‘坏行为者’能够接管这个‘PhD级智能大陆’所在的数据中心会发生什么。"
+  },
+  {
+    "id": 121,
+    "title": "Free Press / Building Stories",
+    "title_zh": "自由报/建筑故事",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/free-press-building-stories/",
+    "tags": [
+      "analyze",
+      "design",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2025-11-04",
+    "summary_en": "The piece juxtaposes two distinct yet thematically linked works: Jean‑François Bizot’s pictorial chronicle of underground presses and Chris Ware’s meticulously curated comic collection, Building Stories. Both books illuminate how visual form becomes a vehicle for cultural dissent and personal narrative. Bizot’s volume, with its full‑color reproductions of 1960s‑70s alternative newspapers, showcases a spectrum from amateurish experimentation to moments of striking design brilliance—offering designers a tangible archive of subversive aesthetics. Ware’s boxed anthology, on the other hand, demonstrates how comics can be packaged as modular, self‑contained stories that invite readers to assemble meaning in non‑linear ways, mirroring the fragmented lives of Chicago’s apartment dwellers. Together they challenge the boundaries of print media, inviting readers to learn from historical design practices, be inspired by creative risk‑taking, and analyze how form and content co‑evolve to reflect social change. The comparison underscores that whether documenting counterculture or crafting a contemporary narrative, visual storytelling remains a potent conduit for questioning authority and exploring identity.",
+    "summary_zh": "本篇将两本作品并置：Bizot的地下报纸图像史与Ware的《建筑故事》精心策划的漫画合集。Bizot通过全彩复印展示1965‑1975年另类报纸的粗犷实验与卓越设计，为设计师提供反叛美学档案；Ware则以模块化、可拆卸的故事包装，邀请读者以非线性方式组装意义，映射芝加哥公寓居民的碎片化生活。两书共同探讨视觉形式如何成为文化异议与个人叙事的载体，激励学习历史设计、启发创意冒险，并分析形式与内容如何随社会变迁共进。",
+    "best_quote_en": "\"Almost every page of this book has a full‑color photo of a cover or interior page from dozens of well‑known and obscure newspapers from the era. Though much of the design is amateurish and ugly, there are examples of brilliance, too, making this a worthy reference for designers.\"",
+    "best_quote_zh": "几乎每一页都印有数十种知名与鲜为人知的地下报纸的全彩封面或内部页面的照片。虽然许多设计粗糙而丑陋，但也有卓越的例子，使其成为设计师的宝贵参考。"
+  },
+  {
+    "id": 122,
+    "title": "The Virus",
+    "title_zh": "病毒",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/the-virus",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "business-model",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "商业模式",
+      "深度分析"
+    ],
+    "date": "2020-03-07",
+    "summary_en": "The piece frames COVID‑19 as a warning, suggesting that future pandemics may be even more devastating. It urges young, healthy individuals to minimize exposure, highlighting the disproportionate risk to older adults and those with comorbidities. The author projects a rapid shift to a new normal—less business travel, reduced handshakes, increased handwashing—while questioning the longevity of remote work. Crucially, he argues that the economic fallout is under‑appreciated, exposing the fragility of interconnected systems and the need for stronger resilience and early warning mechanisms. This analysis blends public‑health pragmatism with systemic economic critique, offering actionable insights for policymakers and society alike, and invites readers to rethink preparedness beyond the current crisis.",
+    "summary_zh": "文章以新冠疫情为背景，提醒我们未来仍将面临更严重的流行病。作者强调年轻人应避免感染，警示疫情对老年人及慢性病患者的高危性；同时指出社会将出现“新常态”，商务旅行减少、握手减少、洗手增加，而远程办公可能不持久。更重要的是，作者认为经济冲击被低估，凸显系统脆弱性，提示我们在全球化与复杂系统中必须提升韧性与预警机制。",
+    "best_quote_en": "The economic disruption is still probably under‑appreciated and will remind us that our systems are more fragile than we think.",
+    "best_quote_zh": "经济冲击仍可能被低估，并提醒我们系统比我们想象的更脆弱。"
+  },
+  {
+    "id": 123,
+    "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
+    "title_zh": "利用现有药物以新方式治疗并治愈脑部与身体疾病 | 费格恩鲍姆博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/david-fajgenbaum-using-drugs-treat-diseases-brain-body",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "The episode reveals the untapped potential of drug repurposing, illustrating how physicians and patients can reexamine approved medications to discover treatments for rare diseases, cancers, and common chronic conditions. Dr. David Fajgenbaum shares a personal story of life‑saving therapy, underscoring the power of mindset and interdisciplinary collaboration. He offers actionable tools—databases, disease‑mapping resources, and community networks—that empower the public to proactively seek cures. The discussion blends inspiration with practical guidance, reminding listeners that old drugs can become new keys to hope. By bridging clinical insight, patient advocacy, and emerging AI tools, the conversation charts a roadmap for turning existing therapies into transformative solutions, challenging the conventional limits of medical innovation.",
+    "summary_zh": "本文揭示药物再利用的巨大潜力，医生与患者可通过重新评估已获批准的药物，寻找对罕见疾病、癌症乃至常见慢性病的突破。费格恩鲍姆博士分享个人拯救生命的经历，强调心态与跨学科合作的重要性，并提供可操作的工具与数据库，帮助公众主动探索治疗方案。该内容既具启发性，又兼具实践指导，提醒我们在医学创新中，旧药物也能成为新希望的钥匙。",
+    "best_quote_en": "Many approved medications can successfully treat or even cure diseases other than the ones they are typically used to treat.",
+    "best_quote_zh": "许多已获批准的药物可以成功治疗甚至治愈它们通常不用于治疗的疾病。"
   }
 ]
