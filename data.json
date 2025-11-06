@@ -1,99 +1,5 @@
 [
   {
-    "id": 24,
-    "title": "Gaza’s Broken Politics",
-    "title_zh": "加沙的破碎政治",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/essay/gazas-broken-politics",
-    "tags": [
-      "analyze",
-      "politics",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "Mohammed Mhawish’s essay dissects the political vacuum left in Gaza after decades of conflict and the failure of local actors to shape a post‑war future. The piece critiques Trump’s 20‑point “transitional authority” plan, exposing its external control, lack of Palestinian legitimacy, and potential to entrench a security‑first regime. Mhawish argues that Gaza’s political survival hinges on local agency—youth, civil society, unions, and intellectuals must lead planning and implementation. He highlights the erosion of Hamas, the marginalization of the PA, and the collapse of leftist factions, painting a picture of a territory bereft of meaningful representation. The essay calls for a reckoning that re‑establishes internal governance, warns against the “temporary” system becoming permanent, and urges the international community to respect Gaza’s right to self‑determination. The analysis is rich in historical context, critical evaluation of external proposals, and a compelling vision for a locally‑driven political renaissance.",
-    "summary_zh": "文章剖析加沙战争后政治真空与外部干预计划的弊端，强调地方主体治理的必要性与自决权，呼吁国际社会尊重加沙人民的政治重建。",
-    "best_quote_en": "The first imperative is local agency: youth, civil society, unions, and intellectuals must lead planning and implementation. Legitimacy cannot be imported or imposed. It must emerge from within.",
-    "best_quote_zh": "首要任务是地方代理：青年、民间社会、工会和知识分子必须主导规划和实施。合法性不能被外部引入或强加，它必须从内部产生。"
-  },
-  {
-    "id": 25,
-    "title": "Kayaks",
-    "title_zh": "皮划艇",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/kayaks/",
-    "tags": [
-      "learn",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "The article is a practical guide that blends personal experience with expert advice to help readers build a high‑performance Coho kayak from a kit. It begins with a comparative review of several manufacturers—Pygmy, Mill Creek, Red Wing, Chesapeake Light Craft, Dancing Waters, and One Ocean Design—highlighting the precision of Pygmy’s computer‑controlled router cuts and the elegant deck‑hull integration that set the Coho apart. The writer then documents a 300‑hour, step‑by‑step construction process, noting design nuances such as the eight‑panel multi‑chine hull, vertical stern, and optional structural tweaks (e.g., bulkheads, glass‑reinforced deck). A second section showcases a lightweight, inflatable heavy‑duty kayak, emphasizing portability, rapid deployment, and stability for recreational and rescue scenarios. Finally, the author praises the “Kayaks You Can Build” book for its clear instructions, photographic guidance, and practical work‑table design, recommending it as a foundational text for stitch‑and‑glue builders. The piece invites readers to experiment, adapt, and share their own customizations, underscoring the community‑driven nature of kayak craftsmanship.",
-    "summary_zh": "作者通过对多家制造商的对比，推荐Pygmy Coho船舶套件，详细记录300小时的建造过程，强调多面板船体与精确切割的优势。随后介绍轻便充气船的快速组装与稳定性，并高度评价《Kayaks You Can Build》一书的实用性与图解，鼓励读者在社区中分享改造经验，体现皮划艇手工艺的开放与创新。",
-    "best_quote_en": "The book explains how to build a very flat, level, elevated worktable with internal/external stations to hold the boat in position.",
-    "best_quote_zh": "该书解释如何建造一个非常平坦、水平、升高的工作台，配备内部/外部站点以保持船只在位置上。"
-  },
-  {
-    "id": 26,
-    "title": "Protect & Improve Your Hearing & Brain Health | Dr. Konstantina Stankovic",
-    "title_zh": "保护与提升听力与大脑健康 | 斯坦福耳鼻喉科教授康斯坦丁娜·斯坦科维奇博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/protect-improve-your-hearing-brain-health-konstantina-stankovic",
-    "tags": [
-      "analyze",
-      "medicine",
-      "psychology",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "心理学",
-      "未来预测"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "In this episode, Dr. Konstantina Stankovic—Stanford’s chair of Otolaryngology—unpacks the biology of hearing and the staggering toll of hearing loss, which now affects more than 1.5 billion people worldwide. She links auditory decline to reduced focus, higher risk of dementia, and even menopause‑related shifts, underscoring how a single sensory deficit can ripple through cognition, mood, and social engagement. The discussion pivots to evidence‑based protocols: safe sound thresholds, magnesium‑threonate supplementation, ear‑plug etiquette for concerts, and emerging AI‑enhanced hearing aids. By framing hearing loss as a public‑health issue rather than a niche clinical problem, she invites listeners to adopt concrete, low‑cost practices—slow‑speech cues, noise‑cancellation, and regular audiometric check‑ups. The episode blends expert insight with actionable steps, offering a roadmap that balances scientific nuance with everyday practicality. It invites a reevaluation of how we protect a fundamental sense, not just for longevity but for preserving the very fabric of our cognitive life.",
-    "summary_zh": "斯坦科维奇博士深入剖析听力失衡如何影响专注、认知衰退与更年期变化，并提供基于科学的保护方案。她强调耳机使用、镁补充与AI助听器等可落地措施，呼吁将听力健康视为全人类福祉。",
-    "best_quote_en": "Hearing loss impairs focus and increases the risk of cognitive decline.",
-    "best_quote_zh": "听力损失会削弱专注力，并增加认知衰退的风险。"
-  },
-  {
-    "id": 27,
-    "title": "Book of the month: Julian Maka’a",
-    "title_zh": "本月书籍推荐：朱利安·马卡",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/05/29/book-of-the-month-julian-makaa/",
-    "tags": [
-      "learn",
-      "education",
-      "writing-content",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "写作内容",
-      "案例研究"
-    ],
-    "date": "2025-05-29",
-    "summary_en": "...",
-    "summary_zh": "...",
-    "best_quote_en": "...",
-    "best_quote_zh": "..."
-  },
-  {
     "id": 28,
     "title": "From the archive: ‘Infertility stung me’: Black motherhood and me – podcast",
     "title_zh": "档案回顾：‘不孕让我受伤’：黑人母亲与我的故事 – 播客",
@@ -2374,5 +2280,101 @@
     "summary_zh": "本文揭示药物再利用的巨大潜力，医生与患者可通过重新评估已获批准的药物，寻找对罕见疾病、癌症乃至常见慢性病的突破。费格恩鲍姆博士分享个人拯救生命的经历，强调心态与跨学科合作的重要性，并提供可操作的工具与数据库，帮助公众主动探索治疗方案。该内容既具启发性，又兼具实践指导，提醒我们在医学创新中，旧药物也能成为新希望的钥匙。",
     "best_quote_en": "Many approved medications can successfully treat or even cure diseases other than the ones they are typically used to treat.",
     "best_quote_zh": "许多已获批准的药物可以成功治疗甚至治愈它们通常不用于治疗的疾病。"
+  },
+  {
+    "id": 124,
+    "title": "Ecosphere",
+    "title_zh": "生态球",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/ecosphere/",
+    "tags": [
+      "update",
+      "design",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-11-03",
+    "summary_en": "The EcoSphere is a miniature, self‑sustaining ecosystem that captivates by demonstrating the delicate balance of life in a sealed environment. With brine shrimp, snails, and algae, the globe operates without human intervention, turning room light into oxygen and food, while the organisms recycle CO₂ back to the plants. The article not only showcases a lazy‑man’s aquarium but also serves as a living metaphor for human interdependence and the promise of closed‑loop systems. It invites readers to consider sustainability at a scale that is both intimate and profound, offering practical guidance on sourcing, assembling, and maintaining these micro‑worlds. The piece’s curiosity‑driven tone and anecdotal evidence spark wonder while grounding the concept in observable biology. Ultimately, the EcoSphere becomes a teaching tool, a decorative curiosity, and an inspirational reminder that complex systems can thrive with minimal oversight—an insight that resonates across science, design, and everyday life.",
+    "summary_zh": "生态球把微观生态与日常生活巧妙结合，展示自维持系统的平衡与美感。作者以实验与观测为基础，探讨人类与自然的相互依赖，提醒我们可持续性与创新并行。",
+    "best_quote_en": "The algae produce food and oxygen from room light, the shrimp and snails make carbon dioxide for the plants. Together all three organisms support each other with no input from me.",
+    "best_quote_zh": "藻类利用室内光产生食物和氧气，虾和蜗牛产生二氧化碳，三者相互支持，完全不需要我任何投入。"
+  },
+  {
+    "id": 125,
+    "title": "Hard Startups",
+    "title_zh": "艰难创业",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/hard-startups",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2020-02-26",
+    "summary_en": "The piece turns a common startup myth on its head: the most successful ventures are often the ones that demand the most resources, time, and coordination.  By framing a \"hard startup\"—one that solves a truly valuable, difficult problem—as a strategic advantage, the author reframes risk as a magnet for talent, funding, and credibility.  The article argues that hard problems attract serious, committed people, and that the scarcity of such talent turns ambition into a signal that investors and partners take seriously.  It stresses long‑term commitment, a clear vision, and realistic milestones—essentially a disciplined, future‑focused playbook that balances ambition with incremental progress.  The piece is both a call to action and a subtle critique of the “quick‑win” mentality that dominates today’s startup culture, urging founders to aim higher and plan for the long game.  Its implications ripple beyond entrepreneurship: it challenges us to rethink how we value effort, risk, and impact in any ambitious endeavor.",
+    "summary_zh": "文章颠覆常见创业观念，认为最成功的往往是最艰难的。它将“硬核创业”视为吸引人才、资金与信任的战略优势，强调长期承诺、清晰愿景与可行里程碑。作者批判快速取胜的思维，呼吁创业者瞄准更高目标、长远规划，重新审视努力、风险与影响的价值。",
+    "best_quote_en": "An easy startup is a headwind; a hard startup is a tailwind.",
+    "best_quote_zh": "轻松的创业是阻力；艰难的创业是助力。"
+  },
+  {
+    "id": 126,
+    "title": "Essentials: How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
+    "title_zh": "Essentials: How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-exercise-strength-gains-hormone-optimization-duncan-french",
+    "tags": [
+      "solve",
+      "health-wellness",
+      "science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "健康养生",
+      "科学研究",
+      "深度分析"
+    ],
+    "date": "2025-09-18",
+    "summary_en": "In this episode of Huberman Lab Essentials, Dr. Duncan French—a leading performance scientist from the UFC Performance Institute—unpacks the science of how resistance training and acute stress shape hormone profiles, particularly testosterone, and how these changes drive strength and hypertrophy. He walks listeners through a data‑driven 6 × 10 protocol that maximizes anabolic signaling, explains the critical role of rest intervals in metabolic stimulation, and introduces a novel “cold periodization” framework that blends deliberate cold exposure with recovery goals. French also links nutrition periodization to training intensity, showing how carbohydrate timing and exogenous ketones can fine‑tune metabolic flexibility. The episode blends expert insight with actionable tools—heat adaptation via sauna, a 12‑week periodized program, and precise recovery strategies—making it a practical playbook for athletes and fitness enthusiasts seeking to optimize performance through hormonal and metabolic levers. The discussion underscores that strength gains are not just about lifting heavier; they are a systemic interplay of training load, recovery, environment, and diet, all calibrated to hormone dynamics.",
+    "summary_zh": "在Huberman实验室的这期节目中，UFC表现研究所的顶尖专家邓肯·弗朗西斯博士阐释了阻力训练与急性压力如何影响激素水平，尤其是睾酮，并进一步说明了这些变化如何驱动力量与肌肥大。他提供了基于数据的6×10协议、恢复间歇的代谢刺激以及结合冷暴露的“冷周期化”框架，并将营养周期化与训练强度相连，展示碳水化合物时机与外源酮体如何调节代谢灵活性。节目融合了专家洞见与可操作工具——如桑拿热适应、12周周期化计划和精准恢复策略——为想通过激素和代谢杠杆提升表现的运动员和健身爱好者提供实用指南。",
+    "best_quote_en": "Resistance training and acute stress impact hormones and outline specific weight training protocols to increase testosterone to support strength and hypertrophy.",
+    "best_quote_zh": "阻力训练和急性压力影响激素，并概述了特定的举重训练方案，以提高睾酮支持力量和肌肥大。"
+  },
+  {
+    "id": 127,
+    "title": "David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More (#834)",
+    "title_zh": "David Baszucki，Roblox联合创始人——通往1.5亿+日活用户的道路，关键商业决策，酮症疗法提升脑健康，每日例行，Roblox经济学等更多（#834）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/04/david-baszucki-roblox/",
+    "tags": [
+      "learn",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "In this episode, Tim Ferriss dives into the multifaceted world of David Baszucki, the visionary behind Roblox’s meteoric rise to 150 million daily users. Baszucki’s narrative intertwines entrepreneurial grit with a surprising foray into metabolic health—he shares a personal story where a ketogenic diet dramatically improved his son’s bipolar symptoms, underscoring the therapeutic potential of nutrition for mental illness. The interview also examines the platform’s safety architecture, AI‑driven moderation, and the economics of a creator‑centric ecosystem that now generates over $1 billion in annual revenue. Ferriss frames these insights within broader themes of future work, virtual collaboration, and the inevitable acceleration of technology, offering listeners actionable take‑aways for building resilient, user‑centric products. The episode is a rich blend of business strategy, personal health advocacy, and speculative foresight, making it a valuable resource for founders, designers, and anyone interested in the intersection of tech, health, and community.",
+    "summary_zh": "本期节目聚焦Roblox联合创始人David Baszucki，既有其公司成长到1.5亿日活的商业洞察，也揭示他亲身经历的酮症疗法对精神健康的奇效。节目同时剖析平台安全、AI治理与创作者经济，探讨未来工作与虚拟协作的不可逆趋势，为创业者与设计师提供可落地的启示与前瞻思考。",
+    "best_quote_en": "\"Our son with bipolar tried a ketogenic diet, and literally within three weeks or four weeks, we saw progress that we had never seen with any drug or medication. Mind blown, really, and a miracle.\"",
+    "best_quote_zh": "“我们儿子患有双相情感障碍，尝试酮症饮食后，三到四周内出现了我们从未在任何药物或治疗中见过的进步。真是震撼，简直是奇迹。”"
   }
 ]
