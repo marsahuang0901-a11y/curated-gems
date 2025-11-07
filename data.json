@@ -1,125 +1,5 @@
 [
   {
-    "id": 28,
-    "title": "From the archive: ‘Infertility stung me’: Black motherhood and me – podcast",
-    "title_zh": "档案回顾：‘不孕让我受伤’：黑人母亲与我的故事 – 播客",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/news/audio/2025/oct/15/from-the-archive-infertility-stung-me-black-motherhood-and-me-podcast",
-    "tags": [
-      "guide",
-      "science",
-      "medicine",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "医学健康",
-      "深度分析"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "This intimate audio long‑read chronicles Edna Bonhomme’s journey through infertility and IVF, framed within the broader context of Black motherhood, race, and feminist agency. By candidly revealing her misgivings—“I assumed I would be part of the first generation to have full agency over my reproduction – but I was wrong”—the narrative exposes the systemic gaps in reproductive healthcare that disproportionately affect women of colour. The podcast deftly balances personal testimony with broader sociopolitical critique, inviting listeners to interrogate the myth of universal reproductive autonomy. It highlights how intersectional identities shape access to fertility treatments, the emotional toll of delayed motherhood, and the cultural narratives that silence Black women’s experiences. The episode serves as a call to action: to demand equitable policy reforms, diversify clinical research, and foster community‑based support networks. Its layered storytelling offers both a powerful narrative and a catalyst for conversation, making it essential listening for anyone engaged in reproductive justice, social equity, or feminist health advocacy.",
-    "summary_zh": "这段亲密的音频长读记录了Edna Bonhomme在不孕和试管婴儿过程中的旅程，置于黑人母亲、种族与女权主义代理权的更广阔语境中。她坦言“我原以为自己会成为第一代拥有完全生殖自主权的一员——但我错了”，揭示了系统性医疗空白对有色人种女性的冲击。节目将个人叙事与社会批判交织，促使听众质疑普遍的生殖自主神话，强调交叉身份如何影响医疗获取、情感负担与文化沉默。它呼吁政策改革、研究多样化与社区支持网络，成为生殖正义与社会公平讨论的必听之作。",
-    "best_quote_en": "I assumed I would be part of the first generation to have full agency over my reproduction – but I was wrong.",
-    "best_quote_zh": "我原以为自己会成为第一代拥有完全生殖自主权的一员——但我错了。"
-  },
-  {
-    "id": 29,
-    "title": "The Four Quadrants of Conformism",
-    "title_zh": "顺从主义的四象限",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/conformism.html",
-    "tags": [
-      "update",
-      "startup-strategy",
-      "education",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "创业策略",
-      "教育学习",
-      "争议观点"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "The essay reframes conformity through a Cartesian grid, splitting individuals into four quadrants—aggressively conventional, passively conventional, passively independent, and aggressively independent. By tracing these archetypes from childhood classrooms to adult professional arenas, the author argues that personality, not societal norms, largely dictates a person’s placement. The piece highlights that the majority are passive conventionalists, while the rare aggressively independent are the real catalysts of innovation. It critiques the current erosion of free inquiry, warning that a surge of conventional enforcement narrows the intellectual frontier and stifles the independent thinkers who push boundaries. The author cites universities as historical refuges for the independent-minded, noting their decline as a symptom of a broader shift toward conformity. Despite uncertainties about the future, there is optimism that independent thinkers will forge new institutions. The analysis blends psychological typology with sociopolitical critique, offering a data‑driven lens on how conformity shapes society and innovation.",
-    "summary_zh": "作者用坐标轴将人分为四类——激进传统、被动传统、被动独立、激进独立，指出性格决定归属而非社会规范。大多数人是被动传统，少数激进独立是创新的源泉。文章批评自由探讨被削弱，警示传统执法压缩思想边界，抑制独立思考者。大学曾是独立者的避风港，但其衰退反映了整体趋同。作者虽不确定未来走向，却对独立者能创建新机构保持乐观。文章融合心理学类型学与社会批判，以数据驱动视角阐释顺从如何塑造社会与创新。",
-    "best_quote_en": "Four types are not equally common. There are more passive people than aggressive ones, and far more conventional-minded people than independent-minded ones.",
-    "best_quote_zh": "四种类型并不均等。被动的人比攻击性的人多，传统主义者比独立主义者多得多。"
-  },
-  {
-    "id": 30,
-    "title": "Communism By Another Name",
-    "title_zh": "另一种名义下的共产主义",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/RLKEkNMoaHDuCTscu/communism-by-another-name",
-    "tags": [
-      "update",
-      "ai-research",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "The story of a rural family navigating China’s electric‑vehicle boom and bust becomes a micro‑cosm of state‑led market manipulation. Through sensory detail—metallic dust from a rare‑earth mine, the hum of transformers, the blue glow of a phone screen—the narrator reveals how local consumers are lured by aggressive price wars, only to be left with a collapsing supply chain. The narrative juxtaposes the chaotic town square, where salesmen promise endless warranties, against the cold, glass‑walled Apex dealership that offers a fixed, higher price. The collapse of Stellar, Leaper, and Meteor illustrates how government subsidies can create bubbles that inevitably burst when the “faucet” of capital is shut. The protagonist’s patience and willingness to wait for the market to stabilize pay off, underscoring the importance of strategic timing and critical evaluation in consumer decisions. The piece invites readers to question the sustainability of rapid industrial growth and the role of state intervention in shaping market outcomes.",
-    "summary_zh": "在中国电动汽车热潮与崩溃的微观缩影里，作者用细腻的感官描写揭示政府补贴与市场泡沫的交织。通过镇上喧嚣的售货员与冷静的Apex交易，故事阐明了消费决策的时机与批判性思考的重要性。",
-    "best_quote_en": "The faucet had been turned off.",
-    "best_quote_zh": "水龙头已经被关掉。"
-  },
-  {
-    "id": 31,
-    "title": "Donabe / We Stand on Guard",
-    "title_zh": "Donabe / 我们站在守卫",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/donabe-we-stand-on-guard/",
-    "tags": [
-      "solve",
-      "education",
-      "design",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "设计创意",
-      "新手友好"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "The article juxtaposes two seemingly disparate works—a Japanese clay‑pot cookbook and a dystopian comic—yet both illuminate how everyday tools and narrative frameworks shape communal identity and power dynamics.  Donabe, with its emphasis on shared, tactile cooking, foregrounds cultural heritage and low‑tech conviviality, offering actionable recipes that democratize culinary expertise.  The accompanying review underscores the book’s role as a cultural bridge, inviting readers to reinterpret familiar dishes (e.g., the shime broth extension) and fostering a sense of belonging through food.  In contrast, We Stand on Guard presents a speculative military thriller that interrogates resource‑driven imperialism, high‑tech occupation, and national sovereignty.  Its dialog‑heavy storytelling, rich visual design, and political subtext provide a case study in how narrative media can critique contemporary geopolitical anxieties.  Together, the pieces challenge readers to consider how material culture and storytelling co‑create shared values and resistance, offering both practical guidance and critical insight into modern society.",
-    "summary_zh": "本文将日本粘土锅料理书与科幻漫画对比，揭示日常工具与叙事框架如何塑造社区认同与权力结构。粘土锅强调共享烹饪与文化遗产，提供实用菜谱；漫画则批判资源驱动的侵略与高科技占领，提供对当代地缘政治的深刻反思。两者共同探讨物质文化与叙事如何共同创造共享价值与抵抗，兼具实用与批判性洞见。",
-    "best_quote_en": "Don’t just drink up the broth, create yet another course!",
-    "best_quote_zh": "Donabe (doh-nah-bei) 是日语中‘粘土锅’的意思。"
-  },
-  {
-    "id": 32,
-    "title": "Orthodox Privilege",
-    "title_zh": "正统特权",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/orth.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "The essay reframes the contemporary privilege discourse by spotlighting a subtle, often invisible bias: orthodox privilege. It argues that people steeped in conventional thinking assume their worldview is universally safe, presuming that any opinion aligning with the status quo can be voiced without peril. Yet history shows that even today, certain truths remain unspoken or dangerous to articulate. The author contends that this blindness cannot be remedied merely by knowledge acquisition; instead, it requires a shift toward independent, critical thinking—a process that unfolds over time, not a single conversation. By suggesting that politeness—accepting others’ claims even when evidence is elusive—can be a bridge, the piece offers a pragmatic, human‑centered tactic to counter this entrenched bias. It invites readers to question their own comfort with “safe” discourse and to recognize that true openness demands more than surface‑level tolerance.",
-    "summary_zh": "文章把当下的特权议题重新聚焦在一种不易察觉的偏见——正统特权。作者指出，传统思维者自以为自己的观点是安全的，忽视了历史上仍有难以言说的真理。正统特权的盲目无法仅靠知识补偿，而需通过独立思考逐步突破。文中提出以礼貌接纳他人主张的方式，可作为对抗此偏见的务实途径。它呼吁读者审视自身对“安全”言论的舒适度，意识到真正的开放超越表面容忍。",
-    "best_quote_en": "People can overcome the blindness induced by most forms of privilege by learning more about whatever they're not. But they can't overcome orthodox privilege just by learning more.",
-    "best_quote_zh": "人们可以通过学习未知的内容来克服大多数特权所导致的盲目，但他们无法仅靠学习来克服正统特权。"
-  },
-  {
     "id": 33,
     "title": "Among the Talibros",
     "title_zh": "Talibros之旅",
@@ -2376,5 +2256,121 @@
     "summary_zh": "本期节目聚焦Roblox联合创始人David Baszucki，既有其公司成长到1.5亿日活的商业洞察，也揭示他亲身经历的酮症疗法对精神健康的奇效。节目同时剖析平台安全、AI治理与创作者经济，探讨未来工作与虚拟协作的不可逆趋势，为创业者与设计师提供可落地的启示与前瞻思考。",
     "best_quote_en": "\"Our son with bipolar tried a ketogenic diet, and literally within three weeks or four weeks, we saw progress that we had never seen with any drug or medication. Mind blown, really, and a miracle.\"",
     "best_quote_zh": "“我们儿子患有双相情感障碍，尝试酮症饮食后，三到四周内出现了我们从未在任何药物或治疗中见过的进步。真是震撼，简直是奇迹。”"
+  },
+  {
+    "id": 128,
+    "title": "Single mothers in China find a new kind of partner – other single mothers",
+    "title_zh": "中国单亲妈妈发现新型伴侣——彼此",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/nov/07/single-mothers-in-china-find-a-new-kind-of-partner-other-single-mothers",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "The Guardian piece uncovers a quiet, grassroots shift in urban China: single mothers are turning to one another for co‑habitation and shared childcare, driven by soaring divorce rates and a cost‑of‑living squeeze that outpaces state welfare. Through Xiaohongshu posts, these women forge informal “house‑mate” networks that blend emotional support, economic pooling, and even joint entrepreneurship. The story spotlights Zhu Danyu and Fei Yuan, who not only share a home but also a start‑up, illustrating how such arrangements can be both a survival strategy and a model of modern, gender‑evolved family life. Yet the narrative also flags legal grey zones, the fragility of ad‑hoc agreements, and the broader societal stigma that still looms over single mothers. The piece invites readers to rethink traditional notions of partnership, community care, and the state’s role in safeguarding vulnerable families. It challenges us to ask: can policy catch up with these emergent support systems, and what lessons might other societies draw from China’s unorthodox “co‑parenting” experiment?",
+    "summary_zh": "在中国城市，离婚率飙升与生活成本上升催生单亲妈妈彼此共住的现象。文章通过社交媒体案例，揭示她们在经济与情感上互助、共创事业，却面临法律空白与社会偏见。它促使人们重新思考伴侣、社区照护与国家角色，探讨如何让政策跟上这种新型共生模式。",
+    "best_quote_en": "Single mothers across all social strata struggle financially, further affected by a lack of state welfare for single parents and a lack of adequate support from kin.",
+    "best_quote_zh": "我们所关心的是孩子是否快乐、健康、学习进步，以及我们的生意是否稳步增长。"
+  },
+  {
+    "id": 129,
+    "title": "Economic Inequality",
+    "title_zh": "经济不平等",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ineq.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "The essay dissects the myth that economic inequality is a monolithic problem, arguing instead that it is a composite of many causes—some harmful, some beneficial. It critiques the pie‑fallacy that assumes the rich merely siphon wealth from the poor, and distinguishes between wealth creation and wealth extraction. By tracing the rise of startup founders and the acceleration of productivity, the author shows that technological progress inevitably amplifies inequality, yet also offers avenues for social mobility. The piece urges a shift from blanket calls to “reduce inequality” toward targeted interventions that address the root injustices—tax loopholes, corrupt practices, and systemic poverty—while acknowledging that eliminating inequality would mean stifling innovation. The argument is nuanced, data‑driven, and forward‑looking, inviting readers to rethink policy goals in light of historical trends and the relentless march of exponential growth.",
+    "summary_zh": "文章拆解经济不平等的“单一”误区，指出其多因性——既有有害的税收漏洞与腐败，也有技术创新带来的财富创造。作者批评“饼图谬误”，强调财富不是简单转移，而是新技术与创业加速导致的正向产出。文章呼吁政策从单纯削减不平等转向精准治理根源不公，既维护创新活力，又兼顾社会公平，提醒我们在面对指数增长时需理性把握。”",
+    "best_quote_en": "\"We may have democracy, or we may have wealth concentrated in the hands of a few, but we can't have both.\"",
+    "best_quote_zh": "\"我们可能拥有民主，也可能拥有财富集中于少数人手中，但我们不能两者兼得。\""
+  },
+  {
+    "id": 130,
+    "title": "Minimizing Loss ≠ Maximizing Intelligence",
+    "title_zh": "最小化损失 ≠ 最大化智能",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/ePdzraxJxQYdj7SN2/minimizing-loss-maximizing-intelligence",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "The article argues that self‑supervised learning, the backbone of today’s LLMs, inherently memorizes vast swaths of data—most of which are irrelevant to useful tasks—because the loss function only cares about next‑token accuracy. By contrast, human intelligence discerns what matters through value‑based filtering and specialized learning. The author invokes the no‑free‑lunch theorem to explain why a truly general model will underperform on the problems we care about, and proposes a “specializable intelligence” that can rapidly adapt to new domains while retaining core competencies like language and logic. The piece critiques a litany of proposed paths to superintelligence—more compute, better data, RLHF, meta‑learning—showing that they all keep the loss‑minimization game and thus fail to eliminate noise. Ultimately, the author calls for novel benchmarks based on novel games and a shift from loss minimization to capability‑focused training, suggesting that the future of AI lies in architectures that learn what to care about, not just what to remember.",
+    "summary_zh": "文章指出，自监督学习只追求下一个词的准确性，导致模型记住大量无用信息。人类通过价值过滤专注重要知识，形成可专门化的智能。作者引用无免费午餐定理，说明通用模型在关键任务上会表现更差，提出“可专门化智能”概念，强调快速适应与核心能力并存。对增量计算、优质数据、RLHF、元学习等路径进行批判，指出它们仍停留在损失最小化游戏中，无法去除噪声。作者呼吁通过新颖游戏和以能力为导向的训练取代传统损失评估，认为AI未来在于学会关注而非记忆。",
+    "best_quote_en": "Self‑supervised learning can only create general models, which are limited in their capability in any domain by trying to succeed in every possible domain.",
+    "best_quote_zh": "自监督学习只能产生通用模型，而通用模型在任何领域的能力都受到试图在所有可能领域取得成功的限制。"
+  },
+  {
+    "id": 131,
+    "title": "America Begins Clapping Back at Donald Trump",
+    "title_zh": "美国开始对唐纳德·特朗普进行回击",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/america-begins-clapping-back-at-donald-trump",
+    "tags": [
+      "update",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "In the wake of a record‑length federal shutdown and a series of unexpected electoral defeats, the article chronicles how the United States is finally turning the tables on Donald Trump. It traces the president’s pattern of deflection—shifting blame, stoking outrage, and ignoring the fallout of policy missteps—while highlighting the broader generational and ideological shift that has left many long‑time Republicans scrambling. The piece points to key moments: the Great Gatsby‑themed Halloween party that seemed designed to distract, the abrupt halt of crucial infrastructure funding, and the stark contrast between Trump’s rhetoric and the reality of a government in crisis. It frames the 2025 mid‑term results not merely as a loss of seats but as a repudiation of a political style that prioritizes spectacle over substance. The narrative underscores that politics is evolving; older figures like Dick Cheney and Nancy Pelosi are stepping aside, making room for new leadership that may better reflect the electorate’s changing priorities. The article invites readers to consider whether Trump’s era is truly over or if it is simply being redefined by a more vocal opposition.\n",
+    "summary_zh": "在长达三十五天的联邦停摆与连串意外选举失利之际，文章描绘美国如何终于对特朗普翻盘。它揭示总统的推脱模式——转移责任、挑起愤怒，忽视政策失误的后果，并聚焦世代与意识形态的转变，导致许多老牌共和党人陷入困境。文章把2025年中期选举结果视为对“表演至上”政治风格的否定，指出政治正在演变，旧人物如谢恩与佩洛西退场，新的领导层正崭露头角。\n",
+    "best_quote_en": "Trump himself immediately defaulted to his playbook for setbacks, of which there have been many in his up‑and‑down life: shift the blame, and, as quickly as possible, distract with some new outrage.",
+    "best_quote_zh": "特朗普立即回到了他对挫折的作战手册：转移责任，并尽快用新的愤怒分散注意力。"
+  },
+  {
+    "id": 132,
+    "title": "Better Travel Pillow/Set Jetting/Top Expat Countries",
+    "title_zh": "更佳旅行枕头/设定旅行/顶级外籍人士国家",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/better-travel-pillow-set-jetting-top-expat-countries/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "This weekly newsletter blends practical travel hacks with data‑driven insights. The author opens with a review of a versatile inflatable pillow that doubles as a seat cushion, highlighting its ergonomic flip‑over design and even repurposing its hood as an eye mask on a frigid flight. He then shares a “pre‑packed” toiletry kit strategy—buy two of each TSA‑friendly item and swap only the sunscreen when needed—offering a clear, actionable packing framework. The piece pivots to Expedia’s latest travel‑trends report, underscoring the surge in searches for Big Sky, Okinawa, Sardinia, Phu Quoc, and Savoie, and introduces emerging patterns like “salvaged stays,” “hotel hops,” and “set jetting.” Finally, the author examines the top Asian expat destinations, noting China’s high ranking for convenience and efficient online shopping. The article marries micro‑tips with macro‑market analysis, giving readers both immediate solutions and broader context for smarter, more intentional travel.",
+    "summary_zh": "这篇简讯以实用的旅行小技巧为核心，评析了多功能旅行枕、预先打包的洗漱套装，并引用Expedia的旅行趋势报告揭示热门目的地。作者将数据驱动与个人经验结合，指出“设定旅行”与“酒店跳跃”等新兴趋势，帮助读者更精准地规划行程。随后，文章聚焦亚洲外籍人士热点，分析了泰国、越南、马来西亚、中国和印尼等国的生活便利性。整体内容兼具教育与启发，既提供可操作的打包清单，又呈现宏观的旅游市场洞察，适合想要提升旅行效率与全球视野的读者。",
+    "best_quote_en": "The destinations seeing the biggest increase in searches are a mixed bunch: the top 5 were Big Sky, Okinawa, Sardinia, Phu Quoc (Vietnam), and Savoie (France).",
+    "best_quote_zh": "搜索量增长最大的目的地是多样化的：前五名分别是大天空、冲绳、撒丁岛、越南富国岛和法国萨沃伊。"
   }
 ]
