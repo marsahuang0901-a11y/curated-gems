@@ -1,29 +1,5 @@
 [
   {
-    "id": 33,
-    "title": "Among the Talibros",
-    "title_zh": "Talibros之旅",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/among-the-talibros",
-    "tags": [
-      "guide",
-      "society",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "社会议题",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "The article dissects the paradox of alt‑travel influencers who dramatize danger to lure audiences while simultaneously sanitizing the very threats they showcase. By staging mock executions and glossing over the harsh realities of Taliban rule, creators like Yosaf Aryubi and Addison Maalouf exploit the erosion of trust in mainstream journalism. The piece argues that such content reduces complex geopolitical histories to bite‑size, sensational narratives that thrive on algorithmic amplification. It highlights the broader phenomenon of “red‑pill” influencers who position themselves as lone truth‑tellers, feeding a “nervous state” that fuels fear and division. The analysis underscores the need for critical media literacy, noting that while the videos may entertain, they risk perpetuating misinformation and trivializing violence. Ultimately, the article calls for a more nuanced engagement with travel media—one that balances curiosity with informed skepticism.",
-    "summary_zh": "文章揭示了另类旅行博主的矛盾：通过夸张危险来吸粉，却淡化塔利班暴行。作者指出，这种内容把复杂的地缘政治简化为轰动短片，利用公众对主流媒体失信的心理，助长“红药丸”式的恐惧与分裂。它提醒我们，娱乐与信息不应混为一谈，媒体素养与批判性思考是抵御误导的关键。",
-    "best_quote_en": "\"As the objective view of the world recedes, it is replaced by intuition as to which way things are heading now. This nervous state offers more emotional stimulation and sensitivity, but for the same reason it is unsettling and disruptive of peaceful situations.\"",
-    "best_quote_zh": "\"当客观世界的视角消退时，它被关于事态走向的直觉所取代。 这种焦虑状态带来更多情绪刺激和敏感性，但正因如此，它也令人不安并扰乱和平局面。\""
-  },
-  {
     "id": 34,
     "title": "What’s in my NOW? — Alison Qiu",
     "title_zh": "我的现在有什么？ — Alison Qiu",
@@ -2372,5 +2348,29 @@
     "summary_zh": "这篇简讯以实用的旅行小技巧为核心，评析了多功能旅行枕、预先打包的洗漱套装，并引用Expedia的旅行趋势报告揭示热门目的地。作者将数据驱动与个人经验结合，指出“设定旅行”与“酒店跳跃”等新兴趋势，帮助读者更精准地规划行程。随后，文章聚焦亚洲外籍人士热点，分析了泰国、越南、马来西亚、中国和印尼等国的生活便利性。整体内容兼具教育与启发，既提供可操作的打包清单，又呈现宏观的旅游市场洞察，适合想要提升旅行效率与全球视野的读者。",
     "best_quote_en": "The destinations seeing the biggest increase in searches are a mixed bunch: the top 5 were Big Sky, Okinawa, Sardinia, Phu Quoc (Vietnam), and Savoie (France).",
     "best_quote_zh": "搜索量增长最大的目的地是多样化的：前五名分别是大天空、冲绳、撒丁岛、越南富国岛和法国萨沃伊。"
+  },
+  {
+    "id": 133,
+    "title": "The Refragmentation",
+    "title_zh": "The Refragmentation",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/re.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2025-11-08",
+    "summary_en": "In this sweeping essay, the author traces the arc of American cohesion from the wartime era of enforced equality to the post‑war era of colossal corporations that stitched society together through shared purpose and uniformity. He argues that the forces that once united—World War II’s mobilization and the rise of national corporations—have largely vanished, leaving fragmentation as the new normal. By dissecting wage compression, corporate tax policies, and the evolution of supply chains, the essay shows how the Duplo‑style economy of a few giants gave way to a high‑resolution world of diverse, agile firms. The author further links this structural shift to rising economic inequality, arguing that technology’s amplifying effect on productivity variance will perpetuate fragmentation unless countered by deliberate policy. The piece is a richly contextualized, data‑driven case study that invites readers to question whether cohesion can be engineered or only mitigated through targeted interventions.",
+    "summary_zh": "作者从二战时代的社会凝聚力谈起，阐述了宏大企业与战争如何统一美国，随后解构这一统一的消逝，导致碎片化成为常态。通过工资压缩、税制与供应链演化，阐明了从“杜普洛”单一巨头向多元灵活企业的转变。技术放大生产率差异，使不平等加剧，作者呼吁通过政策干预缓解碎片化，思考凝聚力能否被重建。",
+    "best_quote_en": "The war was due mostly to external forces, and the Duplo economy was an evolutionary phase.",
+    "best_quote_zh": "战争主要是外部力量导致的，而“杜普洛”经济是一个进化阶段。"
   }
 ]
