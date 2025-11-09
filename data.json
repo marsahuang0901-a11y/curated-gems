@@ -1,101 +1,5 @@
 [
   {
-    "id": 34,
-    "title": "What’s in my NOW? — Alison Qiu",
-    "title_zh": "我的现在有什么？ — Alison Qiu",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-alison-qiu/",
-    "tags": [
-      "guide",
-      "psychology",
-      "education",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "心理学",
-      "教育学习",
-      "深度分析"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "Alison Qiu’s “What’s in my NOW?” reads like a curated toolbox for everyday wellbeing, blending physical gadgets, digital apps, and a touch of philosophy. Her list of inexpensive drink mixes, a compact stair‑stepper, and a DIY miniature kit showcases how small, affordable items can inject variety and mindfulness into a hectic schedule. The digital section—ranging from a soothing bedtime podcast to an AI voice‑therapy app—highlights the growing trend of using technology as a companion for mental health and self‑reflection. The invisible layer, with its simple yet profound quote, reminds readers that learning can come from anyone. The piece’s strength lies in its actionable nature: each recommendation is accompanied by a clear benefit, a cost comparison, and a personal anecdote, making it both relatable and practical. While the content is inherently subjective, it offers a template for readers to build their own “NOW” kit, encouraging experimentation, self‑care, and a habit of continual learning. Its broader significance is a gentle critique of the over‑produced self‑help market, proving that meaningful change can stem from everyday choices.",
-    "summary_zh": "Alison的“我的现在有什么？”以个人化的方式呈现了提升生活质量的实用物品与数字工具，凸显了自我关怀与微习惯的力量。她的推荐既具操作性，又鼓励读者主动探索、学习与自我疗愈。",
-    "best_quote_en": "Everyone has something to teach you. Learn from whomever you can.",
-    "best_quote_zh": "每个人都有可以教你的东西。向任何人学习。"
-  },
-  {
-    "id": 35,
-    "title": "What I Wish Someone Had Told Me",
-    "title_zh": "我希望有人告诉我的事",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/what-i-wish-someone-had-told-me",
-    "tags": [
-      "analyze",
-      "leadership",
-      "music-arts",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "领导管理",
-      "音乐艺术",
-      "数据驱动"
-    ],
-    "date": "2023-12-21",
-    "summary_en": "The article distills a founder’s playbook into a compact, punch‑driven checklist that feels both universal and startlingly specific. It opens with the raw ingredients of a venture—optimism, obsession, and self‑belief—and moves swiftly to the mechanics of finishing: cohesive teams, a mix of calm and urgency, and unreasonable commitment. The author repeatedly stresses the importance of focus: “Concentrate your resources on a small number of high‑conviction bets.” That line echoes the lean‑startup mantra of eliminating the noise, yet it is couched in a tone that makes the advice feel actionable rather than generic. He frames incentives as “superpowers,” reminding leaders that the right reward structure can unlock otherwise invisible talent. The piece also champions rapid iteration, encouraging teams to “be wrong, iterate fast,” and warns against the business equivalent of physics—accepting hard truths. Finally, it celebrates the human side: working with great people is “one of the best parts of life.” The essay is a concise, high‑impact guide that blends practical tactics with philosophical nudges, making it a useful reference for any founder or product manager seeking clarity and momentum.",
-    "summary_zh": "这篇短文像一份创业者速成手册，先列出激情、执着与自信的起点，再强调团队协作、专注与快速迭代的终点。作者把激励视为“超能力”，提醒要精准设置；把资源聚焦在少数高信念赌注上，既是精简也是力量。对产品经理和创始人而言，它既是可操作的行动清单，也是一段关于人性与成长的哲思，提醒大家最宝贵的还是与优秀人共事。",
-    "best_quote_en": "Incentives are superpowers; set them carefully.",
-    "best_quote_zh": "激励是超能力；请谨慎设置。"
-  },
-  {
-    "id": 36,
-    "title": "How to Make Yourself Unbreakable | DJ Shipley",
-    "title_zh": "让自己变得不可摧毁 | DJ Shipley",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/make-yourself-unbreakable-dj-shipley",
-    "tags": [
-      "solve",
-      "psychology",
-      "health-wellness",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "健康养生",
-      "深度分析"
-    ],
-    "date": "2025-10-06",
-    "summary_en": "DJ Shipley, a retired Navy SEAL, turns battlefield grit into a practical guide for everyday resilience. He teaches a step‑by‑step routine—morning rituals, micro‑wins, and the mantra “control the controllable”—that anyone can adopt to strengthen both mind and body. The episode blends personal anecdotes with evidence‑based treatments for PTSD, addiction, and depression, including emerging psychedelic therapies. Shipley’s “stack small wins” strategy turns ordinary actions into a compounding force, while his emphasis on compartmentalization and intentionality offers a roadmap for balancing family, work, and self‑growth. The content is a hybrid of case study and expert insight, delivering actionable tools that appeal to both lay listeners seeking self‑improvement and mental‑health professionals looking for real‑world applications. It underscores the idea that unbreakability is not a myth but a skill forged through deliberate practice and psychological mastery.",
-    "summary_zh": "DJ Shipley 这位退役海豹突击队员以其不屈精神为我们揭示了从战场到生活的心理与身体韧性秘诀。他强调“堆叠小胜利”与“专注可控”，并分享了针对 PTSD、成瘾与抑郁的前沿疗法。通过实用的晨间例行、微型目标与身体训练，他展示了如何在家庭、工作与个人成长中持续突破极限。内容兼具案例研究与专业洞见，既适合寻求自我提升的普通读者，也为心理健康从业者提供可操作的策略。",
-    "best_quote_en": "Stack small wins and be ultra‑intentional about your mindset.",
-    "best_quote_zh": "堆叠小胜利，并对你的心态保持高度意图。"
-  },
-  {
-    "id": 37,
-    "title": "Coronavirus and Credibility",
-    "title_zh": "冠状病毒与可信度",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/cred.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-10-17",
-    "summary_en": "The piece dissects why public figures misjudged COVID‑19, framing it as a rare test of credibility. It argues that ordinary pundits habitually issue unfounded forecasts because the stakes are low or the outcomes are fuzzy. An epidemic, however, exposes predictions instantly, exposing the gap between rhetoric and reality. By citing Buffett’s metaphor about the tide, the author suggests that the pandemic is the clearest moment yet to reveal who truly understands the situation. The article invites readers to reflect on the dangers of overconfidence, the role of media in shaping public trust, and the ethical responsibility of leaders to base statements on evidence. It blends anecdote, psychological insight, and a call to vigilance, urging that the lessons from COVID‑19 should inform future communication in crises. The tone is skeptical yet constructive, offering a critique of political rhetoric while highlighting the importance of accountability.",
-    "summary_zh": "文章剖析了为何公众人物在新冠疫情中低估病毒，揭示了舆论与事实的巨大鸿沟。作者指出，平时的夸大言论因风险低或结果模糊而逃脱惩罚，而疫情却立刻检验了预言的真伪。引用巴菲特的“潮水退去时才知道谁在裸泳”比喻，强调这场危机是最清晰的信誉考验。文章提醒读者警惕自信过度，关注媒体对公共信任的塑造，以及领导者基于证据发声的道德责任。通过案例与心理洞察，呼吁在危机沟通中保持透明与问责，留下可供后世借鉴的教训。",
-    "best_quote_en": "It's only when the tide goes out that you learn who's been swimming naked.",
-    "best_quote_zh": "只有潮水退去时，你才能知道谁在裸泳。"
-  },
-  {
     "id": 38,
     "title": "Donald Trump’s Dream Palace of Puffery",
     "title_zh": "唐纳德·特朗普的梦幻宫殿",
@@ -2372,5 +2276,97 @@
     "summary_zh": "作者从二战时代的社会凝聚力谈起，阐述了宏大企业与战争如何统一美国，随后解构这一统一的消逝，导致碎片化成为常态。通过工资压缩、税制与供应链演化，阐明了从“杜普洛”单一巨头向多元灵活企业的转变。技术放大生产率差异，使不平等加剧，作者呼吁通过政策干预缓解碎片化，思考凝聚力能否被重建。",
     "best_quote_en": "The war was due mostly to external forces, and the Duplo economy was an evolutionary phase.",
     "best_quote_zh": "战争主要是外部力量导致的，而“杜普洛”经济是一个进化阶段。"
+  },
+  {
+    "id": 134,
+    "title": "What’s in my NOW? — Ken Batchelor",
+    "title_zh": "我的现在是什么？—肯·巴奇洛",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-ken-batchelor/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "Ken Batchelor’s “What’s in my NOW?” reads like a personal inventory of everyday tools and philosophies that shape his present life. The piece weaves physical items—“You Matter” cards, barefoot shoes, and a candle accessory kit—into a narrative of intentionality, illustrating how small objects can become anchors for compassion, bodily health, and mindful ritual. Digitally, he highlights LibraryThing and AlphaGuess, framing them as extensions of self‑documentation and playful cognition. The invisible section, with its poetic reference to insect anklets, invites readers to consider sensory awareness as a therapeutic practice. Batchelor’s voice is candid, blending humor with earnest reflection, and his call to sign up for the newsletter positions the article as a gateway to ongoing, curated content. The article offers actionable insights for readers seeking to curate their physical and digital spaces, while also inspiring a broader contemplation of how mundane choices shape identity. Its blend of anecdote, recommendation, and philosophical musing makes it both a practical guide and a subtle meditation on presence.",
+    "summary_zh": "肯·巴奇洛的《我的现在是什么？》像一份个人清单，记录了塑造他当下生活的物品与理念。文章将“你很重要”名片、裸足鞋、蜡烛配件等日常物件与同理、身体健康、正念仪式相连，展示小物件如何成为情感与身体的锚点。数字层面，他推荐LibraryThing和AlphaGuess，分别体现自我记录与轻松游戏。隐形部分引用昆虫脚踝铃声的诗句，提示听觉觉知可作疗愈。文中坦诚而幽默，鼓励读者通过整理物理与数字空间提升存在感，亦启发更深层的自我认知与生活方式选择。",
+    "best_quote_en": "Listening for the sound of the anklets on the feet of an insect as it walks.",
+    "best_quote_zh": "倾听昆虫脚踝上的铃声，当它行走时。"
+  },
+  {
+    "id": 135,
+    "title": "How To Invest In Startups",
+    "title_zh": "如何投资创业公司",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/how-to-invest-in-startups",
+    "tags": [
+      "learn",
+      "startup-funding",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业融资",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2020-01-13",
+    "summary_en": "This article demystifies the art of startup investing, presenting a pragmatic framework that balances access, decision-making, and relationship-building. The author argues that the current market is saturated with capital, making it harder to secure attractive deals; thus, the real edge lies in networking, brand building, and deep founder assessment. He introduces a founder‑evaluation rubric based on growth velocity, mission focus, and resilience, emphasizing that early recognition of rapid improvement can signal future greatness. Market sizing is reframed from current volume to long‑term potential, urging investors to target industries with high growth rates and low entry barriers. The piece also stresses the importance of closing deals by being founder‑friendly, decisive, and genuinely helpful, while providing tactical support post‑investment. Overall, the author blends actionable insights with a strategic mindset, urging investors to think like growth architects rather than passive financiers.",
+    "summary_zh": "文章拆解了创业投资的实战技巧，强调在资本泛滥的时代，真正的竞争力来自于人脉、品牌和对创始人的精准评估。作者提出创始人评估模型，关注成长速度、使命感与韧性，并将市场规模视角转向长期潜力。强调成交时的创始人友好、果断与实质帮助，鼓励投资者以成长架构师的身份参与，而非被动资方。",
+    "best_quote_en": "The best companies tend to ride the wave of a new, important, and rapidly growing platform.",
+    "best_quote_zh": "最好的公司往往在新的、重要的、快速增长的平台浪潮中乘风破浪。"
+  },
+  {
+    "id": 136,
+    "title": "Essentials: Erasing Fears & Traumas Using Modern Neuroscience",
+    "title_zh": "Essentials：运用现代神经科学消除恐惧与创伤",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-erasing-fears-traumas-using-modern-neuroscience",
+    "tags": [
+      "learn",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "Huberman's latest Essentials episode demystifies the neural circuitry that underlies fear and trauma, offering a science‑backed roadmap for erasing lingering responses. He explains that successful treatment must extinguish the old fearful pattern and replace it with a new positive association—something beyond mere cognitive reframing. By mapping the amygdala–prefrontal cortex–dopamine loop, he shows how detailed narrative exposure progressively dampens physiological arousal, and why brief, deliberate stressors like cyclic hyperventilation can rewire the threat reflex. The episode also reviews evidence‑based interventions—prolonged exposure, CBT, ketamine, MDMA, oxytocin—and highlights the role of social connection and sleep in accelerating recovery. Practical take‑aways include a five‑minute daily stress routine, specific nutrition and supplementation strategies, and a step‑by‑step protocol for safe exposure. While the science is compelling, the discussion invites critical reflection on ethical boundaries of pharmacological enhancers and the need for personalized protocols. Overall, the episode blends rigorous neuroscience with actionable guidance, making it a valuable resource for clinicians, researchers, and anyone seeking to reclaim emotional resilience.",
+    "summary_zh": "Huberman 在本期 Essentials 里用神经科学拆解恐惧与创伤的机制，提出既要消除旧恐惧回路又要植入新正向联想的完整方案。他详细阐释了杏仁核‑前额叶‑多巴胺环路，并展示叙事曝露如何逐步降低生理激活；短暂的有意识压力（如循环性过度换气）还能重塑威胁反射。节目还评述了延长曝露、CBT、氯胺酮、MDMA、催产素等证据基础疗法，并强调社交、睡眠在加速康复中的作用。实用建议包括每日五分钟压力练习、营养补充方案和安全曝露步骤。科学性强，但也提醒需关注药物伦理与个体化方案。整体上，节目将严谨研究与可操作指南完美结合，是临床、研究与自助者的宝贵资源。",
+    "best_quote_en": "Detailed recounting of traumatic events progressively reduces their physiological impact.",
+    "best_quote_zh": "详细回顾创伤事件可逐步降低其生理影响。"
+  },
+  {
+    "id": 137,
+    "title": "The Tim Ferriss Show Transcripts: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More (#834)",
+    "title_zh": "《The Tim Ferriss Show》转录：David Baszucki，Roblox 联合创始人——打造1.5亿+日活用户、关键商业决策、酮症治疗脑健康、日常习惯、Roblox 经济等（#834）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/05/david-baszucki-roblox-transcript/",
+    "tags": [
+      "solve",
+      "education",
+      "tech-trends",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "技术趋势",
+      "未来预测"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "In this sprawling episode, Tim Ferriss sits down with David Baszucki, the co‑founder of Roblox, to unpack a remarkable convergence of entrepreneurship, health science, and personal productivity. Baszucki chronicles the meteoric rise of Roblox from a niche physics‑simulation tool to a 120‑million‑user platform, highlighting the pivotal decision to pivot from a subscription‑based model to a fully fledged virtual economy powered by Robux. The conversation then turns to a deeply personal narrative: the family’s battle with bipolar disorder and the unexpected, life‑changing efficacy of a ketogenic diet. Beyond the science, Baszucki shares practical tips for maintaining ketosis, monitoring ketone levels, and integrating the approach into daily routines. The episode also touches on Roblox’s future—procedurally generated worlds, AI‑driven content creation, and the potential of 3D social platforms to replace traditional video calls. Across business strategy, medical insight, and tech foresight, the discussion offers actionable lessons for founders, health enthusiasts, and curious listeners alike.",
+    "summary_zh": "在这场漫长的访谈中，Tim Ferriss 与 Roblox 联合创始人 David Baszucki 对话，交织创业、医学与个人效率。Baszucki 讲述 Roblox 从物理模拟工具跃升至 1.2 亿日活的历程，并阐释关键转折：从订阅模式到完整的虚拟经济。随后分享其家人与双相情感障碍的斗争，以及酮症饮食的奇迹疗效。Baszucki 还提供维持酮症的实用技巧、监测方法，并探讨如何融入日常。节目进一步展望 Roblox 的未来——程序化生成的世界、AI 内容创作与 3D 社交平台可能取代传统视频通话。无论是创业者、健康爱好者还是好奇听众，皆能从中获得可操作的洞见。",
+    "best_quote_en": "Ketogenic therapy was a miracle.",
+    "best_quote_zh": "酮症治疗是一种奇迹。"
   }
 ]
