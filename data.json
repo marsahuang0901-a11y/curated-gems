@@ -1,51 +1,5 @@
 [
   {
-    "id": 38,
-    "title": "Donald Trump’s Dream Palace of Puffery",
-    "title_zh": "唐纳德·特朗普的梦幻宫殿",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trumps-dream-palace-of-puffery",
-    "tags": [
-      "update",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "Donald Trump’s second term has turned the White House into a curated stage where dissenting questions are muted and flattering voices dominate. The article dissects how the administration’s selective press pool—evidenced by the Pentagon’s recent ban on independent reporting—serves a broader strategy of media control. By sidelining traditional journalists and elevating partisan commentators, Trump reclaims narrative authority and shields himself from scrutiny. The piece’s critical lens exposes a pattern: every high‑profile press interaction is engineered to reinforce Trump’s self‑image as a ‘peacemaker’ or a decisive leader, while the press is reduced to a ceremonial audience. The author’s balanced use of anecdotal evidence, such as the ABC reporter’s abrupt dismissal, underscores the erosion of democratic norms. For readers, the article offers a timely warning about the fragility of press freedom in a polarized political climate and invites reflection on how leadership, media, and public perception intertwine in contemporary governance.",
-    "summary_zh": "特朗普二期将白宫变成自我秀台，媒体被挑选、新闻被过滤，传统记者被边缘化，亲特朗普评论员占据主导。文章揭示媒体管控与权力自我塑造的循环，警示新闻自由在分裂时代的脆弱。通过剔除独立记者、让亲特朗普声音主导，白宫的问答被改造成自我肯定的仪式。作者用具体例子揭示了这一趋势的深层逻辑，并提醒公众关注媒体与政治的相互影响。",
-    "best_quote_en": "A dark day for press freedom.",
-    "best_quote_zh": "这是新闻自由的黑暗一天。"
-  },
-  {
-    "id": 39,
-    "title": "Helion Needs You",
-    "title_zh": "Helion 需要你",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/helion-needs-you",
-    "tags": [
-      "solve",
-      "design",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2022-07-13",
-    "summary_en": "Helion’s meteoric ascent in fusion research is not just a technical milestone; it’s a call to action for the next generation of engineers. The company’s 2024 roadmap—demonstrating Q > 1 fusion and resolving the engineering riddles that will enable a mass‑producible fusion generator—speaks to a bold vision: clean, continuous power at 1 ¢ per kilowatt‑hour, enough to electrify the planet within a decade. This is more than a promise; it’s a blueprint for a post‑carbon economy, offering a low‑cost platform for carbon capture and a dramatic shift in global energy economics. The article juxtaposes this future with the present reality of talent shortages, framing recruitment as the linchpin of success. Readers gain insight into the technical challenges, the economic stakes, and the personal opportunity to shape a transformative industry. The piece invites curiosity, critical reflection, and a sense of urgency, making it a compelling blend of inspiration and actionable guidance.",
-    "summary_zh": "Helion正以惊人速度推进聚变技术，目标是2024年实现Q>1聚变并打造可量产的发电机。若成功，1¢/kWh的清洁能源将彻底改写全球能源格局，甚至为碳捕集提供低成本动力。文章不仅描绘技术愿景，更呼吁工程师加入，强调人才是突破的关键。读者能从中感受到能源革命的迫切与机遇，也意识到个人职业选择与世界命运的紧密联系。",
-    "best_quote_en": "Helion has been progressing even faster than I expected and is on pace in 2024 to 1) demonstrate Q > 1 fusion and 2) resolve all questions needed to design a mass‑producible fusion generator.",
-    "best_quote_zh": "Helion的进展速度比我预期的还快，2024年计划完成Q>1聚变演示，并解决设计可量产聚变发电机所需的所有问题。"
-  },
-  {
     "id": 40,
     "title": "The Tim Ferriss Show Transcripts: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment (#830)",
     "title_zh": "泰姆·费里斯秀访谈稿：Nick Kokonas 与诺贝尔奖得主 Richard Thaler——现实经济学，避免赢家诅咒，使用诱惑捆绑，以及反对体制（#830）",
@@ -2368,5 +2322,53 @@
     "summary_zh": "在这场漫长的访谈中，Tim Ferriss 与 Roblox 联合创始人 David Baszucki 对话，交织创业、医学与个人效率。Baszucki 讲述 Roblox 从物理模拟工具跃升至 1.2 亿日活的历程，并阐释关键转折：从订阅模式到完整的虚拟经济。随后分享其家人与双相情感障碍的斗争，以及酮症饮食的奇迹疗效。Baszucki 还提供维持酮症的实用技巧、监测方法，并探讨如何融入日常。节目进一步展望 Roblox 的未来——程序化生成的世界、AI 内容创作与 3D 社交平台可能取代传统视频通话。无论是创业者、健康爱好者还是好奇听众，皆能从中获得可操作的洞见。",
     "best_quote_en": "Ketogenic therapy was a miracle.",
     "best_quote_zh": "酮症治疗是一种奇迹。"
+  },
+  {
+    "id": 138,
+    "title": "Party dressing’s most unexpected upgrade: the cocktail T-shirt",
+    "title_zh": "派对穿搭的意外升级：鸡尾酒T恤",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/nov/07/party-dressing-cocktail-t-shirt-cashmere-wool",
+    "tags": [
+      "update",
+      "design",
+      "economics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "经济金融",
+      "未来预测"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "The article spotlights the cocktail T‑shirt as a fashion renaissance that marries the casual comfort of a tee with the sophistication of knitwear. By shifting from cotton to wool and introducing generous cuts and optional embellishments, designers like Prada and &Daughter are redefining what a party shirt can be—warm yet breathable, polished yet effortless. The piece balances hype with practicality, noting the environmental concerns of synthetic blends and the high‑end price point of true cashmere, while highlighting how the trend offers versatility for both office and evening wear. It also underscores the garment’s inclusivity: the stretch of cashmere accommodates diverse body shapes better than traditional T‑shirts. Readers gain actionable styling cues, a critique of luxury fashion’s sustainability, and a glimpse into the evolving language of party apparel, positioning the cocktail T‑shirt as a future‑forward wardrobe staple.",
+    "summary_zh": "这篇文章把鸡尾酒T恤描绘成一次时尚复兴——把休闲T恤的舒适与针织的优雅融合。作者指出，Prada 与 &Daughter 等品牌用羊毛、宽松剪裁和可选装饰，重新定义了派对服装的温度与气质。文中兼顾潮流与实用，讨论合成纤维的环保问题、真羊毛的高价以及该款式的多场合适用性，甚至强调其对不同身形的包容性。读者可获得可落地的搭配建议、对奢侈品可持续性的批判，以及鸡尾酒T恤在未来衣橱中的位置。",
+    "best_quote_en": "The same ease as a T‑shirt but the elegance of a knit.",
+    "best_quote_zh": "她把它描述为 \"像T恤一样轻松，却有针织的优雅\"."
+  },
+  {
+    "id": 139,
+    "title": "The Tim Ferriss Show Transcripts: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive (#832)",
+    "title_zh": "The Tim Ferriss Show Transcripts: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive (#832)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/10/24/the-return-of-the-lion-tracker-transcript/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "science",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "科学研究",
+      "案例研究"
+    ],
+    "date": "2025-10-25",
+    "summary_en": "In this episode, Boyd Varty—lion tracker, storyteller, and wilderness‑led coach—confronts the restless modern mind by invoking the silent, wordless nature of the wild. He explains how immersion in the natural world forces a shift from the constant need to know toward listening to body‑felt wisdom, allowing one to uncover trauma, purpose, and authenticity. Varty’s anecdotes—from firefighting drills that taught him to slow energy to encounters with lions, leopards, and baboons that reveal the intelligence of animals—illustrate a practical framework: detach from technology, embrace silence, and observe the subtle signals of the environment. Coupled with Tim Ferriss’s focus on actionable habits, the conversation critiques the “always‑on” culture, offering a counter‑culture of stillness, curiosity, and embodied learning. The episode serves not only as a storytelling showcase but as a blueprint for integrating wilderness insights into daily life, urging listeners to reclaim rhythm, reduce cortisol, and find meaning beyond data and schedules.",
+    "summary_zh": "在这场对话中，博伊德·瓦蒂把自然界的沉默与人类内在的动荡对比，揭示了‘自然是无声的环境’的哲学。他强调通过沉默、与野生动物的共振来解锁直觉与情感，进而实现深层自我转化。与托姆·费里斯的对话进一步指出，现代人因持续的技术刺激而失去与自然节奏的同步，导致持续的焦虑。瓦蒂的实践经验—从追踪狮子到在荒野中进行沉默冥想—为听众提供了可操作的路径：放下信息噪音，倾听身体感受，拥抱未知。此访谈不仅是关于狮子追踪的轶事，更是对当代自我提升方法的深刻反思，提示我们在快节奏生活中寻找宁静与本真。",
+    "best_quote_en": "The natural world is a wordless environment.",
+    "best_quote_zh": "自然界是一个无声的环境。"
   }
 ]
