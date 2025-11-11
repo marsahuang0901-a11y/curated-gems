@@ -1,101 +1,5 @@
 [
   {
-    "id": 40,
-    "title": "The Tim Ferriss Show Transcripts: Nick Kokonas and Richard Thaler, Nobel Prize Laureate — Realistic Economics, Avoiding The Winner’s Curse, Using Temptation Bundling, and Going Against the Establishment (#830)",
-    "title_zh": "泰姆·费里斯秀访谈稿：Nick Kokonas 与诺贝尔奖得主 Richard Thaler——现实经济学，避免赢家诅咒，使用诱惑捆绑，以及反对体制（#830）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/10/10/richard-thaler-transcript/",
-    "tags": [
-      "solve",
-      "science",
-      "economics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "经济金融",
-      "数据驱动"
-    ],
-    "date": "2025-10-11",
-    "summary_en": "In this deep dive with Nobel laureate Richard Thaler and restaurateur‑turned‑innovator Nick Kokonas, Tim Ferriss unpacks the core of behavioral economics: the fragile assumption of perfect rationality, the paradox of the winner’s curse, and the power of nudges. Thaler illustrates how tiny friction‑reducing tweaks—automatic 401(k) enrollment, deposit‑based reservation systems, or price‑signal road markings—can dramatically reshape human choice. The conversation bridges theory and practice, showing how behavioral insights can turn complex market failures into actionable business strategies, while also warning of the dark side of nudging. Their dialogue invites listeners to rethink everyday decisions and the design of institutions that shape them.",
-    "summary_zh": "本期访谈中，诺贝尔奖得主理查德·塞勒与餐饮创新者尼克·科科纳斯探讨行为经济学核心：理性假设的脆弱性、赢家诅咒悖论以及“提示”力量。塞勒举例说明，微小的摩擦降低——如自动401(k)注册、押金预订系统或道路价格信号——如何显著改变人类选择。对话将理论与实践相结合，展示如何将行为洞察转化为可操作的商业策略，并警示提示的潜在阴暗面。",
-    "best_quote_en": "If you want people to do something, make it easy.",
-    "best_quote_zh": "如果你想让人们做某事，就让它变得容易。"
-  },
-  {
-    "id": 41,
-    "title": "RLF Collected podcast",
-    "title_zh": "RLF收集播客",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/05/13/rlf-collected-podcast/",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "society",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "社会议题",
-      "案例研究"
-    ],
-    "date": "2025-05-13",
-    "summary_en": "The Royal Literary Fund’s new “Collected” podcast is a creative bridge between archival interviews of celebrated writers and contemporary voices, offering listeners a richly textured portrait of the modern writer’s journey. By weaving archival clips with live conversations featuring authors, poets, musicians, and cultural commentators, the series demystifies the creative process and humanizes the often‑stereotyped image of the writer in media. The podcast’s strength lies in its nuanced storytelling—highlighting diverse perspectives from UK‑based writers, global voices such as Kerala‑born novelist Deepa Anappara, and the inclusive WritersMosaic platform—thereby expanding the conversation beyond national borders. It serves as both an educational resource and an inspirational narrative, providing actionable insights into navigating publishing expectations, cultural identity, and genre experimentation. The format invites listeners to engage with the voices of the past while simultaneously witnessing contemporary dialogue, making the series a valuable case study for writers, educators, and anyone interested in the evolving landscape of literary culture.",
-    "summary_zh": "RLF新播客《Collected》以档案访谈与当代对话相结合，生动描绘现代作家的创作历程与多元视角，既是学习资源，也是激励之源，展示跨文化与跨世代的文学对话。",
-    "best_quote_en": "The aim is to offer a more nuanced picture than we often see in the media, and it’s been wonderful to hear guests including Women’s Prize founder Kate Mosse, crime writer Howard Linskey, and visual artist and poet Ella Frears embracing the concept with warmth and frankness.",
-    "best_quote_zh": "我们的目标是呈现比媒体常见更细腻的画面，听到Kate Mosse、Howard Linskey、Ella Frears等嘉宾以温暖坦诚的方式接受这一概念，真是令人欣喜。"
-  },
-  {
-    "id": 42,
-    "title": "How to Write Usefully",
-    "title_zh": "如何写出有用的文章",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/useful.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-10-18",
-    "summary_en": "The essay reframes the purpose of writing from persuasion to usefulness, outlining a four‑factor model—correctness, importance, novelty, and strength—that can be multiplied into a usefulness score. It advocates a loose‑tight workflow: draft rapidly to test ideas, then rigorously prune, ensuring only statements that are true, significant, and as strong as possible survive. The author draws on a friend’s “publish‑only‑if‑worth‑hearing” technique, turning the usual publication bias into a quality filter. He warns that novelty can provoke backlash, especially when it challenges entrenched beliefs, and that absolute confidence may invite misinterpretation. He emphasizes humility, qualification, and simplicity as tools to mitigate errors and misrepresentation. Finally, the piece celebrates the internet’s democratization of essay writing, suggesting that the vast majority of insightful essays remain unwritten, offering a fertile ground for discovery. The text invites writers to start small, focus on their own interests, and let the iterative process reveal both clarity and new ideas.",
-    "summary_zh": "文章将写作的目的从说服转向“有用”，提出正确性、重要性、新颖性、力度四要素的乘积模型，形成可量化的有用度评分。作者倡导先快速草拟、后严谨删改，保证每句都真实、重要且力度足够。借鉴朋友的“仅发布值得听闻”的技巧，将发表偏差变为质量过滤。警示新颖观点可能引发反感，过度自信易被曲解，强调谦逊、适度修饰与简洁表达以降低错误与误读。文章还赞美互联网让随时随地写作成为可能，指出大量尚未写出的深刻议题等待发现，鼓励写作者先聚焦自身兴趣，循序渐进挖掘洞见。",
-    "best_quote_en": "If you write about something that matters to you, it will matter to others.",
-    "best_quote_zh": "如果你写关于对你重要的事，它也会对他人重要。"
-  },
-  {
-    "id": 43,
-    "title": "Russell Vought, Donald Trump’s Deep-State Wrecking Ball",
-    "title_zh": "Russell Vought，唐纳德·特朗普的深层国家破坏者",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/10/27/russell-vought-profile-donald-trump",
-    "tags": [
-      "update",
-      "politics",
-      "legal",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "法律法规",
-      "争议观点"
-    ],
-    "date": "2025-10-17",
-    "summary_en": "Russell Vought’s tenure as head of the White House Office of Management and Budget illustrates a new form of executive overreach that threatens the constitutional balance of power. By redirecting Defense dollars to the border wall, freezing Ukraine aid, and orchestrating mass firings and agency shutdowns, Vought has turned the OMB into a “deep‑state wrecking ball” that tests the limits of the law. The article exposes how Vought leveraged the impoundment and rescission mechanisms to bypass congressional oversight, sparking legal challenges and raising questions about the viability of the Impoundment Control Act. Vought’s rhetoric—characterizing federal spending as “woke and weaponized”—shows how ideology can be weaponized to justify sweeping cuts. The piece also highlights the broader implications for public trust, scientific research, and the integrity of democratic institutions, underscoring the urgency of safeguarding the checks and balances that have governed U.S. policy for centuries.",
-    "summary_zh": "Russell Vought 作为白宫管理预算办公室主任，展示了新的行政权力滥用方式，威胁宪法权力平衡。通过将国防资金转用于边境墙、冻结乌克兰援助以及大规模裁员和机构停摆，他把 OMB 变成了“深层国家破坏者”，挑战法律边界。文中揭露了他如何利用扣留和冲销机制绕过国会监督，导致法律争议，并质疑《扣留控制法》的可行性。Vought 的“ woke 与武器化”言论表明意识形态可被用来为大规模削减辩护。文章强调这对公共信任、科研和民主制度完整性的深远影响，呼吁维护长期的制衡机制。",
-    "best_quote_en": "\"The President has no authority to not spend money Congress has appropriated—that’s not a debate.\"",
-    "best_quote_zh": "\"总统没有权力不使用国会拨款——这不是争论。\""
-  },
-  {
     "id": 44,
     "title": "DALL•E 2",
     "title_zh": "DALL•E 2",
@@ -2370,5 +2274,97 @@
     "summary_zh": "在这场对话中，博伊德·瓦蒂把自然界的沉默与人类内在的动荡对比，揭示了‘自然是无声的环境’的哲学。他强调通过沉默、与野生动物的共振来解锁直觉与情感，进而实现深层自我转化。与托姆·费里斯的对话进一步指出，现代人因持续的技术刺激而失去与自然节奏的同步，导致持续的焦虑。瓦蒂的实践经验—从追踪狮子到在荒野中进行沉默冥想—为听众提供了可操作的路径：放下信息噪音，倾听身体感受，拥抱未知。此访谈不仅是关于狮子追踪的轶事，更是对当代自我提升方法的深刻反思，提示我们在快节奏生活中寻找宁静与本真。",
     "best_quote_en": "The natural world is a wordless environment.",
     "best_quote_zh": "自然界是一个无声的环境。"
+  },
+  {
+    "id": 140,
+    "title": "Jessica Livingston",
+    "title_zh": "Jessica Livingston",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/jessica.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "Jessica Livingston’s story is more than a footnote in Y Combinator’s history; it is a masterclass in how culture, authenticity, and the human eye can outpace data‑driven metrics. The article paints her as the invisible architect who shaped YC’s “family” ethos, a role that most narratives gloss over in favor of the founder’s spotlight. Her “Social Radar” – the uncanny ability to read character in a room full of strangers – became the linchpin for selecting founders who were not just technically capable but ethically grounded. The piece argues that this focus on founder integrity is the real engine behind YC’s success, turning a seed‑funding program into a living network that thrives on trust. The analysis also critiques how media and gender dynamics have muted her voice, highlighting a broader conversation about how quiet, strategic leaders are often eclipsed by louder, more visible figures. For anyone interested in startup strategy, leadership, or the sociology of venture ecosystems, Livingston’s narrative offers a rare, data‑rich case study that challenges conventional wisdom about funding and culture.",
+    "summary_zh": "Jessica Livingston的故事不仅是YC历史的附录，更是关于文化、真实性与人类直觉如何凌驾于数据的教科书。她被描绘成塑造YC“家庭”精神的无形建筑师，成为选拔技术与品格兼备创始人的“社交雷达”。文章指出，正是这种对创始人诚信的关注，驱动了YC的成功，形成了基于信任的活跃网络。它还批判媒体与性别动态如何压制她的声音，揭示了沉默而有策略的领导者常被更喧闹的公众人物淹没。对于创业策略、领导力或风险生态学感兴趣的人，Livingston的叙事提供了罕见的数据丰富案例，挑战传统的融资与文化观念。",
+    "best_quote_en": "She can see through any kind of faker almost immediately.",
+    "best_quote_zh": "她几乎能立刻看穿任何伪装。"
+  },
+  {
+    "id": 141,
+    "title": "Did Democrats Win the Shutdown After All?",
+    "title_zh": "民主党最终赢得了停摆吗？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/did-democrats-win-the-shutdown-after-all",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "The article dissects the political calculus behind the longest U.S. government shutdown, framing it as a strategic gamble by Democrats to spotlight Trump’s corruption and force a health‑care concession. It argues that while the shutdown drew attention, it failed to coalesce public pressure into a decisive win, especially as the media narrative remained fragmented. The piece highlights the backlash from progressive ranks when moderate senators broke ranks to reopen the government, underscoring the party’s internal tension between hard‑line advocacy and pragmatic compromise. It questions whether the shutdown’s legacy is a tactical triumph or a costly concession that eroded Democratic credibility. Ultimately, the author suggests that the party’s future hinges on balancing principled resistance with realistic coalition building, using the shutdown as a case study for how ideological purity can both galvanize and fracture a movement.",
+    "summary_zh": "文章剖析了美国最长政府停摆背后的政治算计，认为民主党试图借此曝光特朗普腐败并迫使其在医保上让步。停摆虽吸引关注，却未能形成统一公众压力，媒体叙事亦分裂。文中指出，当中立参议员为重启政府而投票时，进步派愤怒，暴露党内对硬核与妥协的拉锯。作者质疑停摆究竟是战术胜利还是削弱党内信誉的代价，并认为未来需在原则抵抗与务实联盟间取得平衡。",
+    "best_quote_en": "If I were in the Senate, I wouldn’t vote for this compromise.",
+    "best_quote_zh": "如果我在参议院，我不会投票给这个妥协。"
+  },
+  {
+    "id": 142,
+    "title": "How Your Thoughts Are Built & How You Can Shape Them | Dr. Jennifer Groh",
+    "title_zh": "你的思维是如何构建的，以及你如何塑造它们 | 约翰·格罗博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-your-thoughts-are-built-shape-them-jennifer-groh",
+    "tags": [
+      "guide",
+      "education",
+      "psychology",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习",
+      "心理学",
+      "未来预测"
+    ],
+    "date": "2025-11-10",
+    "summary_en": "Dr. Jennifer Groh, a Duke University professor of psychology and neuroscience, unpacks the neural choreography that turns raw sensory input into coherent thoughts. She argues that attention is the sculptor of mental content—what we focus on today not only colors our present mind but also rewires the default circuitry that shapes future thinking. By mapping how the brain integrates sights, sounds, and context, she offers a framework for turning the abstract process of thought into a concrete, actionable practice. The episode blends rigorous science with pragmatic tools: mental‑interval training, environmental tweaks, and the neuroscience of flow states. It’s a guide for anyone who wants to sharpen focus, boost happiness, and rewire habitual patterns. The discussion invites listeners to view cognition as a malleable system, rather than a fixed script, and to experiment with deliberate attention as a form of neural exercise.",
+    "summary_zh": "格罗博士揭示感知与思维的神经机制，指出关注决定思维，影响当下与未来。她结合科学与实用工具，如时间间隔训练和环境调整，帮助人们提升专注、幸福感并重塑默认思维模式。该访谈让听众把认知视为可塑系统，鼓励通过有意识的注意力练习来锻炼大脑。",
+    "best_quote_en": "What you focus on determines your thoughts, not just in that moment but your future thoughts too.",
+    "best_quote_zh": "你关注的事物决定了你的想法，不仅仅是此刻，也决定了未来的想法。"
+  },
+  {
+    "id": 143,
+    "title": "Notes on Being a Man, and Advice for Young Men Who Are Feeling Lost — Scott Galloway",
+    "title_zh": "Notes on Being a Man, and Advice for Young Men Who Are Feeling Lost — Scott Galloway",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/10/24/advice-for-young-men/",
+    "tags": [
+      "update",
+      "society",
+      "health-wellness",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "健康养生",
+      "新手友好"
+    ],
+    "date": "2025-10-24",
+    "summary_en": "Scott Galloway’s latest book, “Notes on Being a Man,” serves as a blunt, data‑rich lifeline for a generation of young men spiraling toward disaffection, violence, and under‑employment. By collating alarming statistics—college drop‑out rates, unemployment spikes, and rising suicide and overdose rates—Galloway paints a stark picture of systemic failure. He then translates the numbers into a pragmatic mentorship model that prizes four pillars: fitness, nutrition, money, and work. Rather than preach lofty ideals, he offers concrete, low‑friction actions: track phone time, cut down on porn and TikTok, start a part‑time job, and routinely expose oneself to strangers to build resilience against rejection. His “S‑C‑A‑F‑A” mnemonic (Sweat, Clean eating, Abstinence, Family, Affection) adds a personal health framework. The piece is a call to arms, urging parents, educators, and policymakers to channel men’s testosterone into productive, socially constructive outlets. It blends hard data with accessible guidance, striking a balance between motivational rhetoric and actionable strategy, while provoking critical debate on gendered responsibility and mental‑health scaffolding.",
+    "summary_zh": "Galloway用数据和实操方案，呼吁社会为迷失的青年男生成长提供支持；从健身、饮食、金钱到工作，构建可行的成长路径，强调时间管理与拒绝耐受力。",
+    "best_quote_en": "Many young men have a single source of capital: time.",
+    "best_quote_zh": "许多年轻人只有时间这唯一的资本。"
   }
 ]
