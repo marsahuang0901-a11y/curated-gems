@@ -1,101 +1,5 @@
 [
   {
-    "id": 44,
-    "title": "DALL•E 2",
-    "title_zh": "DALL•E 2",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/dall-star-e-2",
-    "tags": [
-      "guide",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2022-04-06",
-    "summary_en": "OpenAI’s DALL·E 2 is more than a flashy demo; it signals a broader shift toward natural‑language interfaces that let users articulate intent and let AI execute complex tasks. The post frames the tool as both a creative springboard for artists and a harbinger of future “AI office workers” that could handle sophisticated requests in plain language. The author contrasts this rapid creative leap with the old narrative that AI would first disrupt physical labor, suggesting that the trajectory is reversing. He also warns that the same power that unlocks imagination can erode certain jobs, urging a measured, incremental rollout to mitigate harms. The article balances enthusiasm with caution, highlighting the need for collaborative governance with researchers and artists. It invites readers to imagine a world where ideas, not technical skill, set the limits—an invitation to rethink how we define creativity, labor, and the role of AI in society.",
-    "summary_zh": "OpenAI 的 DALL·E 2 不仅是炫技演示，更预示自然语言接口的崛起。作者把它视作创意加速器与未来“AI 办公助手”的前瞻，指出 AI 正在倒置传统的劳动力影响顺序，并警示技术进步可能导致某些岗位消失。文章在热情与谨慎之间取得平衡，强调与研究者与艺术家共同制定治理框架，倡导渐进式部署。它让我们重新思考：在这个想法决定边界的时代，创意与劳动力的意义正在被重新定义。",
-    "best_quote_en": "This is another example of what I think is going to be a new computer interface trend: you say what you want in natural language or with contextual clues, and the computer does it.",
-    "best_quote_zh": "这又是我认为将成为新的计算机界面趋势的例子：你用自然语言或上下文线索说出你想要的，计算机就会去做。"
-  },
-  {
-    "id": 45,
-    "title": "Blog tour: Where Snowbirds Play",
-    "title_zh": "博客巡回：雪鸟之所",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/05/04/blog-tour-where-snowbirds-play/",
-    "tags": [
-      "inspire",
-      "writing-content",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "写作内容",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-05-04",
-    "summary_en": "The piece unfolds as a meta‑review of the book‑blog tour phenomenon, blending the author’s personal history with a strategic look at how such tours amplify a title’s visibility. The narrative starts by positioning the writer as a “book‑blogger” who has witnessed the relentless output of peers, then pivots to a case study: a month‑long, daily‑review tour that generated buzz for a debut novel. By detailing the mechanics—traffic‑light scoring, advance‑copy incentives, and pre‑scheduled posts—the article offers a practical roadmap for authors and marketers seeking to replicate this model. It also foregrounds the emotional resonance of seeing a manuscript evolve under a mentor’s eye, underscoring the human element behind the marketing machinery. The analysis invites readers to consider the tour’s dual role as both a promotional engine and a community‑building exercise, raising questions about sustainability and the unpaid labor that powers literary hype. In short, it’s a thoughtful guide that demystifies a niche yet potent marketing tool.\n",
-    "summary_zh": "文章先描绘作者在书评博客界的身影，随后细说一场为新书量身定制的每日博客巡回，揭示其如何在短时间内放大书名曝光。作者通过“红绿灯”评分、提前投稿、免费预览等细节，呈现出一套可复制的营销流程，并强调在这一过程中作者与编辑的情感共振。此文既是实用指南，也是对文学推广背后无偿劳动的深度反思，提醒读者关注可持续性与社区建设。",
-    "best_quote_en": "I love this book for two reasons. Firstly, I love it because I’ve had the privilege of seeing it develop over several years in my capacity as a mentor/editor to its author.",
-    "best_quote_zh": "我很喜欢这本书，因为我在多年的指导/编辑过程中见证了它的发展。"
-  },
-  {
-    "id": 46,
-    "title": "Being a Noob",
-    "title_zh": "成为新手",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/noob.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-19",
-    "summary_en": "...",
-    "summary_zh": "...",
-    "best_quote_en": "...",
-    "best_quote_zh": "..."
-  },
-  {
-    "id": 47,
-    "title": "Give Me Your Data: The Rationalist Mind Meld",
-    "title_zh": "给我你的数据：理性主义心灵合并",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/9SuQkKbZg39tsToPs/give-me-your-data-the-rationalist-mind-meld",
-    "tags": [
-      "learn",
-      "design",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2025-10-19",
-    "summary_en": "The article critiques the overreliance on pure logic in rationalist debates and proposes a “mind‑meld” approach—sharing the data that shapes each person’s intuition. It argues that disagreements often stem from differing information reservoirs rather than single factual errors, and that exposing each other to the underlying evidence can bridge the gap. The author illustrates this with a class‑mobility example, showing how a shared reading list from Slate Star Codex and other essays can illuminate the hidden structure of American class. By framing intuition as a GPU and logic as a CPU, the piece reframes belief formation as a data‑driven training process. It calls for a gradual, community‑wide mind‑meld, where anecdotes, studies, and personal stories become the training set that refines collective rationality. The piece is both a practical guide for rationalist communication and a philosophical reminder that data, not debate, is the engine of understanding.",
-    "summary_zh": "文章批判理性主义者过度依赖逻辑，提出“心灵合并”——共享塑造直觉的数据。它认为分歧源于信息差异，互相展示证据可弥合。以美国阶级为例，列出Slate Star Codex等文献，揭示阶级结构。作者把直觉比作GPU，逻辑比作CPU，强调信念是数据驱动的训练。呼吁社区逐步心灵合并，用轶事、研究与亲身经历作为训练集，提升集体理性。既是沟通指南，也是提醒：数据才是理解的发动机。",
-    "best_quote_en": "The correct way to resolve this is not with logical arguments, but with a mind meld!",
-    "best_quote_zh": "解决这个问题的正确方式不是用逻辑论证，而是进行心灵合并！"
-  },
-  {
     "id": 48,
     "title": "Helion",
     "title_zh": "Helion",
@@ -2366,5 +2270,101 @@
     "summary_zh": "Galloway用数据和实操方案，呼吁社会为迷失的青年男生成长提供支持；从健身、饮食、金钱到工作，构建可行的成长路径，强调时间管理与拒绝耐受力。",
     "best_quote_en": "Many young men have a single source of capital: time.",
     "best_quote_zh": "许多年轻人只有时间这唯一的资本。"
+  },
+  {
+    "id": 144,
+    "title": "Emma Barnett says she felt ‘mugged, robbed’ after perimenopause at 38",
+    "title_zh": "Emma Barnett 说在38岁经历围绝经期后感到被“抢劫、抢夺”",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2025/nov/07/emma-barnett-bbc-perimenopause",
+    "tags": [
+      "solve",
+      "medicine",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "Emma Barnett’s candid reflection on her perimenopausal experience at 38 shines a spotlight on the often invisible identity crisis that accompanies hormonal transition. By describing the period as a feeling of being “mugged, robbed,” she humanizes a medical condition that is frequently reduced to clinical jargon. Her testimony underscores the urgency for broader public discourse and reliable information, echoing calls from academics for a national education program. The piece balances personal narrative with a critique of the so‑called “menopause gold rush,” where profit motives eclipse evidence‑based care. For readers, Barnett’s story is both a warning and a rallying cry: normalize perimenopause, empower women with knowledge, and demand accountability from the market. It invites healthcare providers, policymakers, and consumers to move beyond stigma and toward an informed, compassionate dialogue about women’s midlife health.",
+    "summary_zh": "Emma Barnett 以“被抢劫、被抢夺”来形容 38 岁围绝经期的体验，生动揭示激素变化带来的身份危机。她的坦诚呼吁公众关注、教育与规范，批判“围绝经期黄金热潮”，并鼓励医疗界、政策制定者与消费者共同推动更具同理心、基于证据的讨论。",
+    "best_quote_en": "\"I do feel there has been a theft. I do feel there’s no emergency number to call.\"",
+    "best_quote_zh": "\"我觉得有被盗窃的感觉……没有紧急号码可以打……\""
+  },
+  {
+    "id": 145,
+    "title": "A Way to Detect Bias",
+    "title_zh": "检测偏见的方法",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/bias.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "The article unveils a surprisingly simple yet powerful statistical test for uncovering bias in selection processes, even when the selector’s intent is opaque. By comparing the post‑selection performance of different applicant groups—provided the groups are roughly equal in ability and the performance metric is valid—one can infer whether a disadvantaged group had to perform better to be chosen. The author applies this logic to venture‑capital funding, pointing out that a firm’s portfolio can reveal its own selection bias if female‑founded startups outperform male‑founded ones. The piece is both a methodological guide and a cautionary tale: the same data that exposes bias can be misused to justify it. With the proliferation of public performance data, the technique is poised to become a standard audit tool for any organization that claims neutrality. It invites researchers, policymakers, and entrepreneurs to rethink how we interpret success metrics and to hold selection mechanisms accountable.",
+    "summary_zh": "作者提出一种利用后续表现对比检测选拔偏见的方法，强调即便选拔者意图不明，只要群体能力相近且衡量指标有效即可揭示偏见。以风险投资为例，若女性创始人所创企业表现优于男性创始人，即可推断投融资过程中存在性别偏好。文章兼具方法论与警示，提醒数据既能揭露偏见，也可能被利用来为偏见辩护。随着公开表现数据的增多，这一技术有望成为评估组织公平性的标准工具。",
+    "best_quote_en": "If the selection process was biased against some type of applicant? Check whether they outperform the others.",
+    "best_quote_zh": "如果选择过程对某类申请者存在偏见？检查他们是否比其他人表现更好。"
+  },
+  {
+    "id": 146,
+    "title": "Only What’s Necessary / The White Donkey",
+    "title_zh": "Only What’s Necessary / The White Donkey",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/only-whats-necessary-the-white-donkey/",
+    "tags": [
+      "inspire",
+      "design",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "The review juxtaposes two starkly different volumes—Chip Kidd’s meticulously curated compendium of Charles Schulz’s Peanuts ephemera and Maximilian Uriarte’s autobiographical comic on Marine Corps life—highlighting how each treats the concept of “necessity” in its own realm. Kidd’s book is a tactile archive: glossy pages, original sketches, wartime sketchbooks, and rare unfinished strips, all contextualized to reveal the disciplined minimalism that defined Schulz’s art. The narrative underscores that “only what’s necessary” means every line, word, and detail that conveys the characters’ humanity. Uriarte’s work, meanwhile, uses minimalist, color‑washed panels to chart a young Marine’s journey from training to combat and back, confronting hazing, PTSD, and identity crises. The art’s deliberate white space and color palettes mirror psychological shifts, while the story’s raw language forces readers to confront the brutal realities of war. Together, the books celebrate the power of essential storytelling—whether preserving a comic legacy or exposing the soldier’s inner war—reminding us that stripping away excess can reveal profound truth.",
+    "summary_zh": "这篇评述把两本截然不同的书放在同一框架下，既展现了《花生》从创作到商业化的细节，也揭示了军旅生活的内在冲突。Chip Kidd 的《Only What’s Necessary》以精心策划的原稿与史料，重现了查尔斯·舒尔茨的创作哲学——“只保留必要”，让读者在视觉与文本中感受简约背后的丰富情感；而 Maximilian Uriarte 的《The White Donkey》则通过简洁的漫画风格与真实的色彩分层，描绘了从训练到战场再到归乡的心理轨迹，深刻探讨了身份认同、创伤与归属感。两者共同强调了“必要”与“真实”的价值，提醒我们在信息过载的时代，回归本质与真情是最具力量的叙事方式。",
+    "best_quote_en": "The title comes from Schulz himself, who referred to his cartooning style as keeping only what’s necessary.",
+    "best_quote_zh": "只有必要"
+  },
+  {
+    "id": 147,
+    "title": "How To Be Successful",
+    "title_zh": "如何成功",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/how-to-be-successful",
+    "tags": [
+      "solve",
+      "leadership",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2019-01-24",
+    "summary_en": "The piece is a distilled playbook from a seasoned founder, weaving 13 aphorisms that span mindset, strategy, and execution. It foregrounds compounding—both as a business engine and a personal growth curve—arguing that success is less about incremental gains and more about exponential levers like network effects, technology, and capital. A recurring motif is self‑belief, framed as a double‑edged sword: it fuels contrarian vision yet must be tempered by critical feedback. The author insists that entrepreneurs must master “sales” not just as transactional persuasion but as evangelism of a vision, and that risk‑taking should be structured as small bets that can scale. The text also underscores the importance of focus, hard work, boldness, and willful persistence, culminating in a call to own value rather than sell time. It is a pragmatic guide that blends anecdote with actionable principles, inviting readers to re‑evaluate their career trajectory through a long‑term, compounding lens.",
+    "summary_zh": "作者用13条洞见，强调复利思维与自信、销售、风险、专注、努力、胆识、意志等要素，构成成功的复合杠杆。它既是实战指南，也是对传统创业思维的挑战，促使读者以长远视角审视自己的成长路径。",
+    "best_quote_en": "Self‑belief is immensely powerful. The most successful people I know believe in themselves almost to the point of delusion.",
+    "best_quote_zh": "自信是极其强大的。我认识的最成功的人几乎把自信做到近乎妄想的程度。"
   }
 ]
