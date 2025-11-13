@@ -1,29 +1,5 @@
 [
   {
-    "id": 48,
-    "title": "Helion",
-    "title_zh": "Helion",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/helion",
-    "tags": [
-      "inspire",
-      "science",
-      "leadership",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "领导管理",
-      "深度分析"
-    ],
-    "date": "2021-11-05",
-    "summary_en": "Helion, a fusion‑energy startup, has captured the attention of a seasoned investor who praises its founders David and Chris for blending scientific rigor with lean startup discipline. The company claims a clear roadmap to net electricity generation by 2024 and a long‑term ambition to sell power at just 1 cent per kilowatt‑hour—an audacious target that, if met, could reshape the climate‑mitigation landscape. What sets Helion apart is its focus on cost optimisation, fuel‑cycle engineering, and a modular, scalable reactor design that eschews the massive capital outlays typical of conventional fusion projects. The author’s enthusiasm reflects a broader belief that affordable, clean energy is the linchpin for decarbonising not only power grids but also carbon‑capture and other high‑energy processes. For investors and technologists alike, Helion offers a rare blend of breakthrough science and pragmatic business strategy, making it a compelling case study for how disciplined engineering can accelerate a long‑term, high‑impact goal.",
-    "summary_zh": "Helion 的愿景与技术让人振奋：以极低成本实现净电力，预示能源革命与气候拯救的可能。创始人兼工程师的双重身份，彰显科技与商业的深度融合。对投资者而言，它既是科学突破，也是市场机会，值得深度关注与学习。",
-    "best_quote_en": "Helion has a clear path to net electricity by 2024, and has a long‑term goal of delivering electricity for 1 cent per kilowatt‑hour.",
-    "best_quote_zh": "Helion 已经有明确的路线在 2024 年实现净电力，并长期目标是以每千瓦时 1 美分的价格提供电力。"
-  },
-  {
     "id": 49,
     "title": "Haters",
     "title_zh": "Haters",
@@ -2366,5 +2342,29 @@
     "summary_zh": "作者用13条洞见，强调复利思维与自信、销售、风险、专注、努力、胆识、意志等要素，构成成功的复合杠杆。它既是实战指南，也是对传统创业思维的挑战，促使读者以长远视角审视自己的成长路径。",
     "best_quote_en": "Self‑belief is immensely powerful. The most successful people I know believe in themselves almost to the point of delusion.",
     "best_quote_zh": "自信是极其强大的。我认识的最成功的人几乎把自信做到近乎妄想的程度。"
+  },
+  {
+    "id": 148,
+    "title": "Can Good Learners Judge How Well They Learned?",
+    "title_zh": "能否判断自己学得好？",
+    "source": "Ulterior Motives (Art Markman Ph.D.)",
+    "link": "https://www.psychologytoday.com/us/blog/ulterior-motives/202510/can-good-learners-judge-how-well-they-learned",
+    "tags": [
+      "analyze",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-01",
+    "summary_en": "Recent research overturns a long‑held assumption that the best learners are simply the most accurate at judging what they have mastered. In a 2025 Psychological Science paper, Mengqi Hu and colleagues re‑analyzed dozens of studies that paired item‑level judgments of learning with recall tests. They found a striking pattern: high‑performing learners actually exhibit a negative correlation between their confidence that they have learned an item and their later recall of that item. Yet, when they do feel confident, their judgments are highly predictive of success; when they doubt, they are more likely to be wrong. This paradox suggests that top learners intentionally bias themselves toward pessimism, allocating extra study time to borderline items and thereby sustaining motivation. The study invites educators to explore whether this self‑induced “pessimism” can be taught, potentially turning metacognitive monitoring from a liability into a strategic advantage. The findings also caution against overreliance on judgment‑of‑learning metrics that ignore recall, reshaping how we evaluate learning effectiveness and design study schedules.",
+    "summary_zh": "研究挑战了“最好学习者最准确判断已学”这一传统观点。Hu等人重新分析多项研究，发现高水平学习者在认为自己已学的项目中，其判断与回忆表现呈正相关，但在认为未学时却呈负相关。此“偏向悲观”行为可能帮助他们把更多精力投入到边缘知识，保持动力。该发现提示教育者可探索培养此策略，转化元认知监控为学习优势，并提醒我们在评估学习效果时不能仅依赖判断‑学习指标。",
+    "best_quote_en": "Good learners have a stronger positive relationship between their judgments of learning and recall performance for items they judge they have learned, but a stronger negative relationship when they judge they have not learned an item.",
+    "best_quote_zh": "优秀学习者在认为自己已学的项目中，其学习判断与回忆表现之间的正相关更强，但在认为未学的项目中，其学习判断与回忆表现之间的负相关更强。"
   }
 ]
