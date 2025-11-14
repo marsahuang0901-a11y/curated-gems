@@ -1,27 +1,5 @@
 [
   {
-    "id": 49,
-    "title": "Haters",
-    "title_zh": "Haters",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/fh.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2025-10-20",
-    "summary_en": "The piece reframes the fame‑induced fanboy–hater dichotomy as a single psychological construct: haters are merely fanboys with the polarity flipped. By mapping both groups onto the same template—obsessive identification, distortion of the target’s reality, and a public need to broadcast the image—the author offers a tidy mental model for founders, leaders, and anyone thrust into the spotlight. The analysis links the phenomenon to a sense of “frustrated talent” and a distorted sense of self‑worth, suggesting that those who never achieve comparable visibility are more prone to become haters. While the argument is compelling and the advice (ignore them, don’t over‑invest in their noise) is actionable, it glosses over cultural nuance and empirical backing. Nonetheless, the piece supplies a useful, if simplified, lens for navigating the toxic side of popularity in the age of instant feedback and social media amplification.",
-    "summary_zh": "文章把名人所面临的粉丝与仇恨者视作同一心理结构的两面，指出仇恨者是‘粉丝’的反向投射。作者以“认知失衡”和“自我认同”解释其形成，并给出忽略他们、专注自我价值的实用建议。虽然模型简化了人类情感，缺乏实证支撑，却为创始人、公众人物提供了可操作的心态工具，值得思考其在社交媒体时代的适用性。",
-    "best_quote_en": "Haters are just fanboys with the sign switched.",
-    "best_quote_zh": "仇恨者只是把符号翻转的粉丝。"
-  },
-  {
     "id": 50,
     "title": "Uncommon Utilitarianism #2: Positive Utilitarianism",
     "title_zh": "不寻常的功利主义 #2：积极功利主义",
@@ -2366,5 +2344,29 @@
     "summary_zh": "研究挑战了“最好学习者最准确判断已学”这一传统观点。Hu等人重新分析多项研究，发现高水平学习者在认为自己已学的项目中，其判断与回忆表现呈正相关，但在认为未学时却呈负相关。此“偏向悲观”行为可能帮助他们把更多精力投入到边缘知识，保持动力。该发现提示教育者可探索培养此策略，转化元认知监控为学习优势，并提醒我们在评估学习效果时不能仅依赖判断‑学习指标。",
     "best_quote_en": "Good learners have a stronger positive relationship between their judgments of learning and recall performance for items they judge they have learned, but a stronger negative relationship when they judge they have not learned an item.",
     "best_quote_zh": "优秀学习者在认为自己已学的项目中，其学习判断与回忆表现之间的正相关更强，但在认为未学的项目中，其学习判断与回忆表现之间的负相关更强。"
+  },
+  {
+    "id": 149,
+    "title": "Essentials: Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman",
+    "title_zh": "基础：呼吸对心理与身体健康与表现的影响 | 费尔德曼博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-breathing-mental-physical-health-performance-jack-feldman",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "This episode dissects the science of breathing, revealing how diaphragmatic mechanics and neural circuits orchestrate respiration and, in turn, shape emotional and cognitive states. Dr. Feldman bridges neurobiology with practical tools—box breathing, active expiration, and magnesium L‑threonate—to empower listeners with evidence‑based techniques for anxiety reduction, emotional resilience, and cognitive longevity. The discussion underscores the bidirectional link between CO₂ dynamics and autonomic regulation, offering a nuanced framework that moves beyond anecdote to mechanistic validation. For practitioners and curious minds alike, the content delivers actionable protocols grounded in peer‑reviewed research, while also hinting at future translational possibilities such as breath‑based interventions for depression and neurodegenerative disease. Ultimately, the episode invites listeners to reframe breathing as a modifiable lever for mental and physical performance, challenging conventional passive views of respiration.",
+    "summary_zh": "在这期节目中，费尔德曼博士用神经生物学的视角阐释呼吸机制与情绪、认知的深度关联。通过箱式呼吸、主动呼气以及镁L-苏氨酸补充等实证方法，节目展示了呼吸调节焦虑、提升情绪韧性和认知寿命的可操作路径。更重要的是，内容将二氧化碳水平与自主神经系统的交互纳入框架，提供从实验验证到临床应用的系统性思考。对想提升身心表现的听众而言，呼吸不再是被动过程，而是可调节的关键杠杆。",
+    "best_quote_en": "Breathing patterns profoundly influence mental states, reducing anxiety and enhancing emotional resilience.",
+    "best_quote_zh": "呼吸模式对情绪状态有深远影响，能够降低焦虑并增强情绪韧性。"
   }
 ]
