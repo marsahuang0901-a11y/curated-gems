@@ -1,53 +1,5 @@
 [
   {
-    "id": 50,
-    "title": "Uncommon Utilitarianism #2: Positive Utilitarianism",
-    "title_zh": "不寻常的功利主义 #2：积极功利主义",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/FGEHXmK4EnXK6A6tA/uncommon-utilitarianism-2-positive-utilitarianism",
-    "tags": [
-      "inspire",
-      "psychology",
-      "society",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "启发",
-      "心理学",
-      "社会议题",
-      "深度分析"
-    ],
-    "date": "2025-10-20",
-    "summary_en": "The article is a deeply personal exploration of Positive Utilitarianism, a lesser‑known cousin of Negative Utilitarianism. The author positions himself as a moderate positive utilitarian, valuing many possible worlds as better than non‑existence, and contemplates the implications of such a worldview on regret, learning, and the desire for an almost infinite existence. He muses that this outlook explains his low‑regret attitude and his drive to absorb every experience, framing his life as a continual experiment in maximizing value. The piece touches on decision‑theoretic trade‑offs—paying for simulations of self‑torture, for example—and hints at broader philosophical questions about objective morality and the nature of the “real world.” While the prose is informal, it invites readers to consider how their own value systems shape emotional responses and life choices, offering a thought‑experiment that blends personal narrative with ethical theory. The author’s reflective tone encourages a nuanced, critical examination of utilitarianism beyond the typical good‑vs‑bad binary, highlighting the tension between ambition and humility in the pursuit of a better world.",
-    "summary_zh": "作者以个人视角深入探讨积极功利主义，阐释自己如何将许多可能世界视为比不存在更好，并思考这对悔恨、学习和对无限存在的渴望的影响。他认为这种价值观解释了自己低悔恨、渴望吸收一切经验的动机，并把人生视为持续的价值最大化实验。文中提及决策理论权衡（如为自我折磨付费）以及客观道德与现实世界本质等更广泛哲学问题。作者的反思式语调促使读者重新审视功利主义，超越传统善恶二分法，探讨雄心与谦逊在追求更好世界中的张力。",
-    "best_quote_en": "I want to exist right now, and I don't expect to find myself in any worlds that I think I shouldn't exist in, since those are relatively rare.",
-    "best_quote_zh": "我想现在就存在，而且我不期望发现自己处于我认为不该存在的任何世界，因为那类世界相对罕见。"
-  },
-  {
-    "id": 51,
-    "title": "Retro Recomendo: Science",
-    "title_zh": "Retro Recomendo：科学",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/retro-recomendo-science/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "新手友好"
-    ],
-    "date": "2025-10-19",
-    "summary_en": "The Retro Recomendo series is a thoughtful response to a growing audience’s nostalgia for foundational science insights. By curating evergreen recommendations every six weeks, it bridges the gap between the past and present, offering readers a curated time capsule of knowledge that remains relevant. The highlighted resources span a spectrum—from YouTube’s Two Minute Papers, which distills cutting‑edge research into digestible visual snippets, to Asimov’s classic *Understanding Physics*, a historical narrative that deepens conceptual grasp. The inclusion of NASA’s Citizen Science Projects demonstrates a call to action, inviting readers to participate in real‑world discovery. Meanwhile, the emphasis on hands‑on, visually grounded content, such as Doug’s Geology Journal, underscores a preference for authenticity over spectacle. Collectively, the series promotes active learning, interdisciplinary curiosity, and community engagement, making science accessible and actionable for both novices and seasoned enthusiasts.\n\nCritically, the format’s strength lies in its sustainability: evergreen content resists obsolescence, and the six‑week cadence keeps momentum without overwhelming the audience. The series encourages continuous exploration while honoring the foundational texts that shaped modern science, thus reinforcing the idea that learning is a lifelong, evolving journey.",
-    "summary_zh": "Retro Recomendo把过去的科学经典与现代学习方式相结合，让读者在六周一次的节奏里，既能回顾基础知识，也能跟上前沿进展。它强调可操作性与社区参与，让科学学习变得亲近、活泼。",
-    "best_quote_en": "I find it a painless way to keep up in this fast moving field.",
-    "best_quote_zh": "我觉得这是一种轻松跟上快速变化领域的方式。"
-  },
-  {
     "id": 52,
     "title": "The Strength of Being Misunderstood",
     "title_zh": "被误解的力量",
@@ -2368,5 +2320,53 @@
     "summary_zh": "在这期节目中，费尔德曼博士用神经生物学的视角阐释呼吸机制与情绪、认知的深度关联。通过箱式呼吸、主动呼气以及镁L-苏氨酸补充等实证方法，节目展示了呼吸调节焦虑、提升情绪韧性和认知寿命的可操作路径。更重要的是，内容将二氧化碳水平与自主神经系统的交互纳入框架，提供从实验验证到临床应用的系统性思考。对想提升身心表现的听众而言，呼吸不再是被动过程，而是可调节的关键杠杆。",
     "best_quote_en": "Breathing patterns profoundly influence mental states, reducing anxiety and enhancing emotional resilience.",
     "best_quote_zh": "呼吸模式对情绪状态有深远影响，能够降低焦虑并增强情绪韧性。"
+  },
+  {
+    "id": 150,
+    "title": "’Tis the season for dubious TV adverts | Letters",
+    "title_zh": "‘这季节的电视广告可疑 | 信件",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/business/2025/nov/14/tis-the-season-for-dubious-tv-adverts",
+    "tags": [
+      "update",
+      "marketing",
+      "writing-content",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "市场营销",
+      "写作内容",
+      "争议观点"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "The Guardian letter offers a razor‑sharp critique of John Lewis’s latest Christmas advert, framing it as a manipulative marketing ploy that turns holiday sentiment into a consumerist trap. By labeling the ad a “shameless attempt to make consumers think they are doing something worthwhile,” the writer exposes a broader trend of corporates exploiting familial and nostalgic imagery to mask profit‑driven motives. The piece also interrogates the gendered portrayal of women as background domestic helpers, raising questions about the perpetuation of stereotypes in mainstream advertising. While the letter is rooted in a specific case, it illuminates the larger cultural moment where advertising increasingly blurs the line between altruism and salesmanship, especially during high‑stakes seasons like Christmas. For readers, the article serves as a call to critically evaluate the emotional narratives we accept, urging a more conscious engagement with media messages that shape consumer behavior and societal norms.",
+    "summary_zh": "这篇《卫报》信件尖锐批评约翰·刘易斯圣诞广告，指出其利用温情叙事掩盖商业目的，揭示广告在节日季的操控性。作者强调广告让消费者误以为在做有意义的事，并批评将女性角色局限为背景家庭形象的刻板印象。文章提醒我们，广告不再是单纯的情感诉求，而是潜在的消费驱动，呼吁读者以更批判的视角审视媒体信息，关注其对社会与消费行为的深远影响。",
+    "best_quote_en": "This ad is a shameless attempt to make consumers think they are doing something worthwhile.",
+    "best_quote_zh": "这广告是一次无耻的尝试，让消费者认为他们正在做些值得的事。"
+  },
+  {
+    "id": 151,
+    "title": "How to Expand Your Consciousness | Dr. Christof Koch",
+    "title_zh": "如何扩展你的意识 | 克里斯托弗·科克博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/expand-consciousness-dr-christof-koch",
+    "tags": [
+      "solve",
+      "science",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2025-09-15",
+    "summary_en": "In this episode, Dr. Christof Koch—a leading neuroscientist—unpacks the neural architecture of consciousness and offers a practical playbook for expanding it. He explains the concept of the \"perception box,\" a cognitive filter that shapes our identity through beliefs and memories, and shows how meditation, deep rest, psychedelics, dreams, and even virtual reality can reshape that box. The conversation moves fluidly from hard science—neuroplasticity, flow states, and the neural correlates of consciousness—to the philosophical implications of a collective consciousness and the ethics of AI perception. Koch’s insights are not merely academic; he provides concrete tools such as belief‑shifting exercises, body‑awareness practices, and digital twin analogies that listeners can apply to enhance empathy, resilience, and creativity. The episode serves as both a guide for personal growth and a catalyst for broader societal reflection on how we can collectively cultivate a more expansive, compassionate, and mindful consciousness.\n",
+    "summary_zh": "克里斯托弗·科克博士在本期节目中阐释意识的神经基础，并提供实用方法扩展意识。他提出\"感知盒子\"概念，解释信念与记忆如何塑造身份，并讨论冥想、深度休息、迷幻药、梦境与虚拟现实如何重塑这一盒子。对话从神经可塑性、流状态、意识神经相关性等硬科学延伸至集体意识与人工智能感知伦理。科克博士不仅提供理论，还给出可操作工具，如信念转化练习、身体觉察训练和数字双生类比，帮助提升同理心、韧性与创造力。该节目既是个人成长的指南，也是关于如何共同培育更广阔、更富同情心与更觉察的意识的社会性反思。\n",
+    "best_quote_en": "\"We all experience life through a unique perception box, which holds our beliefs, our memories and thus our biases about reality.\"",
+    "best_quote_zh": "\"我们都通过一个独特的感知盒子体验生活，它包含我们的信念、记忆，从而形成对现实的偏见。\""
   }
 ]
