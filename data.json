@@ -1,125 +1,5 @@
 [
   {
-    "id": 52,
-    "title": "The Strength of Being Misunderstood",
-    "title_zh": "被误解的力量",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/the-strength-of-being-misunderstood",
-    "tags": [
-      "solve",
-      "ai-research",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2020-12-01",
-    "summary_en": "The article reframes the perennial question of whether founders should care about others’ opinions, arguing that the real dilemma lies in *when* and *for whom* we listen. It distinguishes two degrees of freedom: selecting the audience whose feedback matters and choosing the timescale over which that feedback is weighed. The author champions a long‑term, strategic mindset—being right on a non‑consensus bet, even if misunderstood today, is a strength that opens space for high‑impact work. This perspective resonates with seasoned entrepreneurs who trade short‑term popularity for long‑term influence, and it offers a nuanced counter‑argument to the simplistic “don’t care” mantra. The piece is actionable for leaders who need a framework to prioritize feedback, yet it also invites critical reflection on the risks of chasing validation from the wrong voices. In short, it turns the discomfort of being misunderstood into a deliberate lever for vision and resilience.",
-    "summary_zh": "作者重新审视创始人是否该在意他人观点的普遍问题，指出真正的难题在于何时以及为谁倾听。文章区分了两个自由度：挑选重要反馈的受众与决定评估的时间尺度。作者倡导长期、战略性的思维——即使被误解，只要在非共识赌注上正确，仍是一种优势，能为高影响力工作腾出空间。该观点与愿意牺牲短期声誉追求长期影响力的经验丰富创业者产生共鸣，并为领导者提供优先考虑反馈的框架。它既可操作，又促使人们批判性地思考追随错误声音的风险。简而言之，它把被误解的痛苦转化为愿景与韧性的有意识杠杆。",
-    "best_quote_en": "I don’t care what you think about me. I don’t think about you at all.",
-    "best_quote_zh": "我不在乎你对我的看法，我根本不考虑你。"
-  },
-  {
-    "id": 53,
-    "title": "Essentials: How Your Brain Functions & Interprets the World | Dr. David Berson",
-    "title_zh": "Essentials：你的大脑如何运作并解读世界 | David Berson博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-brain-functions-interprets-the-world-dr-david-berson",
-    "tags": [
-      "analyze",
-      "science",
-      "education",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "教育学习",
-      "深度分析"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "In this Huberman Lab Essentials episode, neuroscientist Dr. David Berson unpacks the astonishing journey of visual information from photon capture to cortical awareness. He explains how the retina’s photoreceptors, including melanopsin‑rich ganglion cells, translate light into neural code that not only drives color perception but also entrains our circadian clock, linking vision to sleep and hormonal rhythms. The discussion extends to the vestibular system’s role in balance, the cerebellum’s precision timing in motor learning, and the midbrain’s multisensory integration that keeps us oriented in space. A particularly striking case study of neuroplasticity in the visual cortex illustrates how the brain reorganizes after injury, offering hope for rehabilitation. By weaving molecular detail with functional anatomy, Berson provides a data‑driven, advanced perspective that is both deeply informative and practically relevant for anyone curious about how perception shapes behavior and health.",
-    "summary_zh": "在Huberman实验室的Essentials节目中，神经科学家David Berson博士带我们走进视觉信息从光子捕获到皮层意识的惊人旅程。他阐述了视网膜光感受器，尤其是含有黑色素素的神经节细胞，如何将光转换为神经代码，既实现色彩感知，又同步昼夜节律，将视觉与睡眠和激素节奏相连。讨论还涵盖前庭系统在平衡中的作用、小脑在运动学习中的精准时序以及中脑多感官整合保持空间定向的机制。尤其引人注目的是视觉皮层神经可塑性的案例研究，展示大脑在损伤后如何重组，为康复带来希望。Berson将分子细节与功能解剖相结合，提供了数据驱动、先进的视角，既富有洞见又具实用价值。",
-    "best_quote_en": "We explore how the brain processes visual information, from photons entering the eye to conscious perception in the cortex.",
-    "best_quote_zh": "我们探讨大脑如何处理视觉信息，从光子进入眼睛到大脑皮层的意识感知。"
-  },
-  {
-    "id": 54,
-    "title": "The Guardian view on childbirth and medical negligence: rising payouts highlight the urgency of maternity improvements",
-    "title_zh": "《卫报》关于分娩与医疗过失的观点：赔偿上升凸显产科改进的迫切性",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/oct/19/the-guardian-view-on-childbirth-and-medical-negligence-rising-payouts-highlight-the-urgency-of-maternity-improvements",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-10-19",
-    "summary_en": "The Guardian editorial exposes a dramatic escalation in NHS payouts for obstetric negligence, tripling the national liability budget over two decades and underscoring systemic failures in maternity care. By citing a parliamentary report that labels “poor care” as “all‑too‑frequently tolerated as normal,” it frames the issue as a cultural problem rather than isolated incidents. The piece links rising compensation to lifelong care costs for children with birth injuries, highlighting the economic weight of medical errors. It critiques persistent disparities across socioeconomic and racial groups, the lack of robust leadership, and inadequate staffing—factors that have led to high-profile scandals such as Morecambe Bay and East Kent. While acknowledging some data‑driven improvements, the author warns that new recommendations risk becoming another “paper exercise.” The editorial calls for a decisive shift in government priorities, suggesting that raising standards will be a litmus test for the current administration. Ultimately, it urges a systemic overhaul that balances accountability, learning culture, and resource allocation to protect mothers and infants.",
-    "summary_zh": "文献揭示英国NHS因产科过失赔偿激增，凸显医疗体系深层次缺陷。引用议会报告指出“糟糕护理被视为正常”，将问题归因于文化缺失而非偶发事件。文中将赔偿上升与儿童长期护理成本挂钩，强调经济负担。批评社会经济与种族差异、领导力薄弱、人员不足等导致的多起安全丑闻。虽然有数据驱动改进，但作者警示新建议可能仅为“纸上谈兵”。呼吁政府以提升标准为试金石，推动制度性改革，兼顾问责、学习文化与资源配置，以保障母婴安全。",
-    "best_quote_en": "poor care is all‑too‑frequently tolerated as normal, and women are treated as an inconvenience.",
-    "best_quote_zh": "糟糕的护理往往被视为正常，女性被视为一种不便。"
-  },
-  {
-    "id": 55,
-    "title": "The Two Kinds of Moderate",
-    "title_zh": "两种温和派",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/mod.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-10-21",
-    "summary_en": "The essay dissects the concept of political moderation into two distinct categories—intentional and accidental—revealing how each shapes ideology, identity, and influence. Intentional moderates deliberately occupy the middle ground, shifting in lockstep with prevailing ideological currents; accidental moderates, by contrast, forge independent stances that average out to neutrality but remain rooted in personal conviction. The author argues that accidental moderates possess the intellectual courage to navigate polarized arenas without the safety net of a large ideological cohort, a trait found in many of the world’s most influential thinkers. The piece also critiques the label of “coward” applied to moderates, suggesting that true independence demands resilience against both extremes. By framing moderation as a strategic, rather than purely principled, stance, the essay invites readers to re-evaluate their own political positioning and the value of nuanced, self‑derived viewpoints in a polarized age.",
-    "summary_zh": "文章将政治温和派分为有意和无意两类，揭示其如何塑造意识形态与影响力。有意温和派随主流波动，偶然温和派凭个人信念保持中立。作者指出，偶然温和派在极端对立中展现独立勇气，许多杰出人物皆属此类。文章批判对温和派的“懦弱”标签，强调真正独立需面对双重攻击。通过把温和视为策略而非单纯原则，作者促使读者重新审视自身立场与细腻自我观点在分化时代的价值。",
-    "best_quote_en": "Nearly all the most impressive people I know are accidental moderates.",
-    "best_quote_zh": "我认识的最令人印象深刻的人几乎都是偶然的温和派。"
-  },
-  {
-    "id": 56,
-    "title": "Why Is the Drug Kingpin Daniel Kinahan Living Large in Dubai?",
-    "title_zh": "为什么毒枭丹尼尔·基纳汉在迪拜过着奢华生活？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/10/27/the-cocaine-kingpin-living-large-in-dubai",
-    "tags": [
-      "solve",
-      "education",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-10-20",
-    "summary_en": "The exposé on Daniel Kinahan’s Dubai empire exposes a sophisticated nexus of drug trafficking, money laundering, and global crime‑networking that thrives on the borders of legality and opulence. It reveals how a former Irish gangster leveraged the Gulf’s lax regulatory environment, high‑profile boxing ventures, and an intricate hawala system to shield billions in illicit proceeds. The narrative underscores the limitations of international law enforcement—highlighting gaps in extradition, jurisdictional cooperation, and intelligence sharing—while illustrating the power of encrypted communication networks like EncroChat in coordinating transnational crime. By dissecting the operational layers—from street‑level smuggling to elite political entanglements—the piece offers critical insights for policymakers, security analysts, and legal practitioners seeking to dismantle such shadow economies. It also raises profound questions about the moral ambiguity of crime‑linked philanthropy and the role of celebrity endorsement in legitimizing illicit capital.",
-    "summary_zh": "基纳汉在迪拜的毒枭帝国揭示了跨国贩毒、洗钱与高端犯罪网络的复杂交织。文章剖析他如何利用阿联酋监管缺口、拳击产业与暗箱金流，隐藏数十亿美元非法收益。它批判国际执法在引渡、司法合作与情报共享上的不足，并展示加密通信网络如何助长跨境犯罪。通过拆解从街头走私到精英政治勾结的层层运作，文章为政策制定者与执法人员提供了消除影子经济的关键洞见，也引发关于犯罪与慈善、名人代言合法化非法资本的道德争议。",
-    "best_quote_en": "The Kinahan brothers are the sons of a woman named Jean Boylan, who once worked as a cleaner in south inner‑city Dublin.",
-    "best_quote_zh": "基纳汉兄弟是Jean Boylan的儿子，她曾在都柏林南部城区做过清洁工。"
-  },
-  {
     "id": 57,
     "title": "Dehydrators",
     "title_zh": "脱水机",
@@ -2368,5 +2248,123 @@
     "summary_zh": "克里斯托弗·科克博士在本期节目中阐释意识的神经基础，并提供实用方法扩展意识。他提出\"感知盒子\"概念，解释信念与记忆如何塑造身份，并讨论冥想、深度休息、迷幻药、梦境与虚拟现实如何重塑这一盒子。对话从神经可塑性、流状态、意识神经相关性等硬科学延伸至集体意识与人工智能感知伦理。科克博士不仅提供理论，还给出可操作工具，如信念转化练习、身体觉察训练和数字双生类比，帮助提升同理心、韧性与创造力。该节目既是个人成长的指南，也是关于如何共同培育更广阔、更富同情心与更觉察的意识的社会性反思。\n",
     "best_quote_en": "\"We all experience life through a unique perception box, which holds our beliefs, our memories and thus our biases about reality.\"",
     "best_quote_zh": "\"我们都通过一个独特的感知盒子体验生活，它包含我们的信念、记忆，从而形成对现实的偏见。\""
+  },
+  {
+    "id": 152,
+    "title": "Born in the forest: the women giving birth alone in the Kashmiri mountains",
+    "title_zh": "在森林中出生：克什米尔山脉中独自分娩的女性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/nov/14/healthcare-kashmir-mountains-giving-birth-alone-gujjar-bakarwal-pastoralists-maternal-mortality",
+    "tags": [
+      "solve",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "The article exposes the stark reality of nomadic Gujjar women who give birth in the remote Pir Panjal passes of Kashmir, often alone, without medical support, and sometimes die en route. It highlights the disconnect between official maternal mortality statistics—derived from hospital deliveries—and the lived experiences of women who travel 134 km on horseback, endure extreme fatigue, and rely on a single midwife. The narrative underscores systemic failures: promised mobile clinics that never materialize, lack of funding, and the compounded risks of early marriage, malnutrition, and poverty. International parallels are drawn with pastoralist communities in Mongolia, Ethiopia, and Somalia, where mobile health initiatives have shown promise. The piece calls for urgent policy action, data transparency, and culturally sensitive health interventions to bridge the gap between statistics and reality, ensuring that every mother’s journey is documented and protected. Its critical lens invites policymakers, NGOs, and researchers to rethink how maternal health is measured and served in hard‑to‑reach populations.",
+    "summary_zh": "文章揭露克什米尔偏远山脉中，游牧族妇女独自分娩、缺医无药的严峻现实，官方产科数据掩盖了她们的死亡与痛苦。文中指出早婚、营养不良、贫困等多重风险与医疗体系缺失相互交织，呼吁通过移动诊疗与精准数据，填补统计与实际之间的鸿沟，保障每位母亲的安全与尊严。",
+    "best_quote_en": "They shouted at my husband, asking how I had even survived this long",
+    "best_quote_zh": "他们对我丈夫大喊大叫，问我怎么还能活到这一步"
+  },
+  {
+    "id": 153,
+    "title": "Write Like You Talk",
+    "title_zh": "像说话一样写作",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/talk.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "education",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "教育学习",
+      "新手友好"
+    ],
+    "date": "2025-11-16",
+    "summary_en": "The essay champions the power of spoken‑style prose, arguing that writing in the conversational register makes ideas clearer, more engaging, and easier to read. By pointing out that many writers default to formal, syntactically heavy language, the author exposes a subtle but pervasive barrier to reader attention. The core insight is that language complexity often masks meaning, creating a false impression of depth while actually obscuring it. The author offers a practical, two‑step process: first, draft normally; second, read aloud and prune anything that doesn’t feel like a friend’s remark. He even suggests a “second draft” technique—re‑write from the friend’s perspective—to catch more distant prose. The piece is both a critique of academic writing and a gentle call to authenticity. It’s actionable, beginner‑friendly, and reminds us that the best communication is the one that feels like a natural conversation. The lesson is timeless: write as if you’re talking to a friend, and your readers will thank you.",
+    "summary_zh": "作者主张用口语化写作，认为通俗易懂能更好吸引读者。通过批评学术写作的过度复杂，他指出过度严谨往往掩盖真意，误导读者。文章提供两步实用法：先随意起草，再朗读删改，或以朋友口吻重写，以捕捉更自然的语感。作者强调写作应像与朋友聊天，既能保持专业，又不失亲切。该文兼具批判与启示，提醒写作者追求自然对话式表达，让文字更亲切、更易被接受，提升阅读体验与沟通效果。",
+    "best_quote_en": "Informal language is the athletic clothing of ideas.",
+    "best_quote_zh": "非正式语言是思想的运动服。"
+  },
+  {
+    "id": 154,
+    "title": "Support the Movement against AI extinction risk",
+    "title_zh": "支持反对AI灭绝风险运动",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/CjkQvuQpFffxYcJsR/support-the-movement-against-ai-extinction-risk",
+    "tags": [
+      "guide",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-11-16",
+    "summary_en": "The post is a call‑to‑action manifesto for a grassroots movement aimed at preventing the rapid development of super‑intelligent AI that could threaten humanity. It argues that passive persuasion is unlikely to stop a race to build ASI, so it proposes a spectrum of concrete tactics—from building a social‑media network to cyber‑attacking AI firms, to running for public office with an AI‑pause platform. The author stresses the importance of political engagement, framing the movement as a “single‑bottleneck” problem: without votes and referenda, even the most persuasive content will stall. The piece is a blend of strategic planning, ethical warning, and self‑reflection on the feasibility of each approach, acknowledging that many of the suggested actions are high‑risk or infeasible. It invites readers to choose a role that matches their skills, from content creation to policy lobbying, and underscores the urgency of mobilizing before AI capabilities reach a critical threshold. The tone is pragmatic yet urgent, offering a roadmap that is both actionable and aspirational for those concerned about existential risk.",
+    "summary_zh": "这篇文章是一份针对AI灭绝风险的草根运动号召，强调政治参与是阻止超级智能研发的关键。作者列出从社交媒体传播、网络攻击、竞选公开职位等多种行动路径，提醒读者根据自身技能选择角色，并承认许多方案高风险或难以实现。文章兼具战略规划与伦理警示，呼吁在AI能力突破临界点前动员大众，既具可操作性又富有远见。",
+    "best_quote_en": "The single largest bottleneck to growing the entire movement is the lack of political engagement; a simple \"Vote for Mr XYZ\" call‑to‑action is more effective than \"Like/Share/Subscribe.\"",
+    "best_quote_zh": "单一最大瓶颈是缺乏政治参与；‘投票给XYZ先生’的号召比‘点赞/分享/订阅’更有效。"
+  },
+  {
+    "id": 155,
+    "title": "The Mystery of the Political Assassin",
+    "title_zh": "政治刺客的谜团",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-weekend-essay/the-mystery-of-the-political-assassin",
+    "tags": [
+      "analyze",
+      "politics",
+      "medicine",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "医学健康",
+      "争议观点"
+    ],
+    "date": "2025-11-15",
+    "summary_en": "Margaret Talbot’s essay dissects the paradox of political assassination, arguing that the intent behind the act often diverges from its outcome. By juxtaposing Gavrilo Princip’s 1914 spark that unleashed World War I with Yitzhak Rabin’s 1995 murder that effectively ended the Oslo peace process, the piece shows how assassins evolve from isolated zealots to calculated actors embedded in larger movements. Drawing on Simon Ball’s taxonomy, Talbot highlights the new template of rational, motivated, and network‑bound perpetrators, and traces the shift to the “ungrouped” lone‑wolf violence of the 21st century. The essay further critiques state‑sponsored plots, citing CIA manuals that paradoxically rationalize political killing. It then surveys recent U.S. incidents—from Trump attempts to the murder of UnitedHealthcare CEO—to illustrate how motives now blend personal grievance, ideological drift, and online radicalization. Ultimately, the article urges readers to see assassinations not as isolated events but as symptomatic of broader societal fractures and the seductive allure of decisive, albeit destructive, action.",
+    "summary_zh": "塔尔博特以历史与当代案例阐释政治刺杀的悖论：意图与结果常相悖。她将普林西的1914枪击与拉宾的1995暗杀对比，揭示刺客从孤立狂热者演变为具网络背景的精准行动者。引用史密斯·鲍尔的分类，指出现代刺杀已转向“非团体化”的单枪匹马式暴力，并批判国家支持的暗杀手册。随后梳理近年美国刺杀事件，探讨个人仇恨、意识形态漂移与网络极化交织的动机。文章提醒读者，刺杀不只是孤立事件，而是社会裂痕与对决定性破坏行动的诱惑的映照。",
+    "best_quote_en": "Technical success, operational disaster.",
+    "best_quote_zh": "技术成功，操作灾难。"
+  },
+  {
+    "id": 156,
+    "title": "US Airport Mayhem/NewLife Estimator/Remote Locker Pickups",
+    "title_zh": "美国机场混乱 / NewLife 估算器 / 远程储物柜取件",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/us-airport-mayhem-newlife-estimator-remote-locker-pickups/",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "The piece weaves together the chaos of a prolonged U.S. government shutdown that slashes air traffic and rattles travelers, with practical tools for the modern nomad. It spotlights the NewLife moving calculator, which blends AI‑driven cost estimates with linguistic fit to help users gauge the financial upside of relocating across borders. The article also offers a lightweight packing hack that turns potential baggage overload into a strategic advantage—wearing items on the flight and discarding them once you arrive. Finally, it highlights Amazon’s locker pickups as a residency‑free solution for itinerant shoppers. The overall tone is both cautionary and empowering, urging readers to pre‑plan, insure, and leverage technology to stay nimble in an era of uncertainty.\n",
+    "summary_zh": "文章从美国机场因政府停摆导致航班受限的现实困境，到利用NewLife估算器评估跨国搬迁成本，再到轻装旅行与亚马逊储物柜取件的实用技巧，呈现出在全球化与不确定性交织下的旅行者必须具备的灵活性与前瞻性思维。作者通过数据与个人经验相结合，提醒读者提前规划、保险与技术工具的选择，可谓是一份兼具警示与启发的实用指南。",
+    "best_quote_en": "If you’re going to get rid of something in your closet, like a pair of shoes, a shirt, or pants, then wear the item(s) on your next flight or pack them. Then ditch them after you’ve worn them a few times in the destination, lightening your load for the remainder or the return.",
+    "best_quote_zh": "如果你要把衣橱里的某件东西丢掉，比如一双鞋、衬衫或裤子，那么就把它们穿上或打包进下一次飞行。到达目的地后，穿几次再扔掉，既减轻行李负担，也为后续旅行腾出空间。"
   }
 ]
