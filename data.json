@@ -1,123 +1,5 @@
 [
   {
-    "id": 67,
-    "title": "What’s in my NOW? — Aishwarya Goel",
-    "title_zh": "我的现在是什么？ — Aishwarya Goel",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-aishwarya-goel/",
-    "tags": [
-      "update",
-      "design",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "Through a candid snapshot of her daily routines, Aishwarya Goel offers a micro‑case study in how intentional tool selection can shape productivity and well‑being. From a Philips Signe Gradient Floor Lamp that morphs ambience to a DASH Mini Maker griddle that guarantees perfect eggs, she demonstrates that even modest gadgets can yield outsized gains when they align with personal habits. Her digital habits—MyNetDiary’s AI‑powered meal analysis and Bear Blog’s minimalist UX—highlight a growing trend toward data‑driven, low‑friction platforms that reward consistency over complexity. The article’s underlying message is that “excellence is the capacity to take pain,” reframing discomfort as a catalyst for deliberate improvement. While the piece reads more like a curated wishlist than a research report, its practical recommendations and reflective tone make it a valuable resource for founders, creatives, and anyone looking to optimize their “now.”",
-    "summary_zh": "Aishwarya Goel 以日常工具为线索，展示如何通过细致选择提升效率与生活品质。她的灯具、烤盘与数字应用，既实用又富有洞察，提醒我们‘卓越是承受痛苦的能力’，把痛苦视作成长的驱动力。",
-    "best_quote_en": "Excellence is the capacity to take pain. — James Dyson, founder, Dyson.",
-    "best_quote_zh": "卓越是承受痛苦的能力。— 詹姆斯·戴森"
-  },
-  {
-    "id": 68,
-    "title": "Researchers and Founders",
-    "title_zh": "研究人员与创始人",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/researchers-and-founders",
-    "tags": [
-      "inspire",
-      "leadership",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "启发",
-      "领导管理",
-      "深度分析"
-    ],
-    "date": "2020-06-19",
-    "summary_en": "The post contrasts the traits of founders and researchers, uncovering a shared set of habits that drive exceptional performance across both realms. It highlights the rare practice of reflecting on the Hamming question—\"What are the most important problems in your field, and why aren’t you working on them?\"—as a hallmark of top talent. These individuals marry a laser‑focused next‑step mindset with long‑term vision, persistently pursue hard work, and maintain a bias toward action that filters out ineffective pursuits. They thrive on autonomy, resist arbitrary rules, and generate ideas relentlessly, driven by genuine curiosity rather than external validation. The piece invites readers to internalize these habits, suggesting that the same quality set—reflection, focus, persistence, action bias, autonomy, curiosity—transcends the founder‑researcher divide. By framing these traits as actionable insights, the author encourages a broader audience to adopt a more disciplined, future‑oriented approach to problem‑solving, thereby elevating their effectiveness in any field.",
-    "summary_zh": "作者对比创始人与研究者的核心素质，指出顶尖人才的共性：深度反思、聚焦当下与长远、坚持不懈、行动倾向、自治与好奇。文章将这些习惯视为可操作的成长法则，启发读者跨界汲取经验，提升自身问题解决与创新能力。",
-    "best_quote_en": "They have a laser focus on the next step in front of them combined with long‑term vision.",
-    "best_quote_zh": "他们对下一步的专注与长期愿景相结合，远超多数人只拥有其中之一。"
-  },
-  {
-    "id": 69,
-    "title": "UK women in tech: we would like to hear from you",
-    "title_zh": "英国科技行业女性：我们想听听您的声音",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/technology/2025/oct/21/uk-women-in-tech-we-would-like-to-hear-from-you",
-    "tags": [
-      "analyze",
-      "science",
-      "tech-trends",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "技术趋势",
-      "数据驱动"
-    ],
-    "date": "2025-10-21",
-    "summary_en": "The Lovelace Report 2025, in partnership with WeAreTechWomen, shines a stark light on the exodus of women from the UK tech sector—between 40,000 and 60,000 per year, draining £2‑3.5 billion from the economy. The report pinpoints three primary levers of attrition: stalled career progression (25 %), inadequate recognition (17 %), and pay inequity (15 %). These findings not only quantify a talent drain but also expose systemic inequities that erode innovation and growth. By inviting women to share their stories, the Guardian turns data into a participatory dialogue, encouraging policymakers, employers, and peers to act. The piece demonstrates how evidence‑based advocacy can mobilize change, yet it also underscores the need for sustained structural reforms—transparent promotion pathways, equitable pay, and inclusive cultures. For anyone invested in tech’s future, this report is a call to translate numbers into action.",
-    "summary_zh": "《Lovelace 2025 报告》揭示英国科技行业女性每年流失4万至6万，损失2-3.5 亿英镑。主要原因是晋升停滞、认可不足和薪酬不平等。报告通过数据与访谈呼吁行业改革，强调透明晋升、薪酬公平与包容文化的必要性，成为推动多元化与创新的行动指南。",
-    "best_quote_en": "Between 40,000 and 60,000 women leave the UK’s tech sector every year, costing the economy an estimated £2 billion to £3.5 billion annually.",
-    "best_quote_zh": "每年有4万至6万名女性离开英国科技行业，给经济造成约20亿至35亿英镑的损失。"
-  },
-  {
-    "id": 70,
-    "title": "Having Kids",
-    "title_zh": "有孩子",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/kids.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "The essay chronicles the author’s pre‑parental anxieties and the radical shift in perspective that follows the birth of a child. He juxtaposes the stereotype of the dull, responsible parent with the unfiltered, almost chemical, surge of protectiveness that he experiences. By exposing his own selection bias—observing parents only in moments of crisis—he invites readers to question surface judgments about parenthood. The narrative balances the joys of spontaneous, quiet moments with the undeniable loss of flexibility and ambition that children demand. He offers pragmatic “hacks” for preserving productivity, such as framing work goals around what he wants to teach his kids, turning personal ambition into a family mission. The piece ultimately serves as a reflective case study, encouraging parents to reassess their own expectations, confront the trade‑offs of responsibility, and find meaning in the unplanned, chaotic rhythm of family life.",
-    "summary_zh": "作者先述对育儿的恐惧与刻板印象，随后在孩子出生后化学反应般的保护欲爆发，揭示育儿的真实面貌。通过自我偏见的反思，提醒读者勿以偏概全。文章兼顾孩子带来的无常与失去自由，提供将工作目标与育儿愿景结合的实用方法，鼓励父母在责任与自我实现之间寻找平衡与意义。",
-    "best_quote_en": "I suddenly felt protective not just toward our child, but toward all children.",
-    "best_quote_zh": "我突然感到不仅对我们的孩子，而是对所有孩子都充满保护欲。"
-  },
-  {
-    "id": 71,
-    "title": "Digital Entry Europe/Text Scammers/Mumbai’s 2nd Airport",
-    "title_zh": "数字入境欧洲/文本诈骗/孟买第二机场",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/digital-entry-europe-text-scammers-mumbais-2nd-airport/",
-    "tags": [
-      "update",
-      "cybersecurity",
-      "marketing",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "网络安全",
-      "市场营销",
-      "未来预测"
-    ],
-    "date": "2025-10-23",
-    "summary_en": "The newsletter stitches together four disparate yet interlocking stories that illuminate the evolving contours of global mobility, digital trust, and urban infrastructure. First, Europe’s rollout of the Electronic Entry System (EES) promises faster borders and a passport‑free experience, but at the cost of granular surveillance and movement tracking—an uneasy trade‑off between convenience and privacy. Second, the piece on “pig‑butchering” scams exposes a sophisticated cyber‑fraud network that siphoned $15 billion in Bitcoin, underscoring the urgency of cross‑border regulatory cooperation and consumer education. Third, Mumbai’s new Navi Airport offers a pragmatic solution to chronic congestion, hinting at the broader trend of satellite hubs relieving pressure on legacy metros. Finally, the Time Out list of the world’s coolest neighborhoods showcases how local character can be leveraged for tourism and community building. Together, these vignettes invite readers to critically assess how technology, policy, and urban planning shape our lived experience.",
-    "summary_zh": "欧洲EES系统让边境更快，却牺牲隐私；“猪屠宰”诈骗案揭示跨国监管缺口；孟买新机场缓解拥堵；时评最酷街区聚焦地方魅力。三者交织，提醒我们科技与政策共同塑造未来。",
-    "best_quote_en": "Does anyone really fall for those?",
-    "best_quote_zh": "有人真的会被那些骗吗？"
-  },
-  {
     "id": 72,
     "title": "Project Covalence",
     "title_zh": "协同项目",
@@ -2362,5 +2244,121 @@
     "summary_zh": "本研究以国际象棋评级为实验场景，证实即使有精准、持续的客观衡量与反馈，低水平选手仍会高估自身实力，揭示过度自信的普遍性与反馈不足的危害。",
     "best_quote_en": "People remain overconfident in their abilities even when there is a really good scale for measuring their performance that they are familiar with, and even when they get regular feedback about their performance.",
     "best_quote_zh": "人们即使在有非常好的衡量尺度并且经常获得反馈的情况下，仍然保持对自己能力的过度自信。"
+  },
+  {
+    "id": 167,
+    "title": "Untie me! Why big bows are everywhere – feminine, ironic and strangely subversive",
+    "title_zh": "解开我！为什么大蝴蝶结无处不在——女性化、讽刺且奇异的颠覆",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/nov/18/big-bows-style-trend-feminine-ironic-strangely-subversive",
+    "tags": [
+      "guide",
+      "design",
+      "music-arts",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "音乐艺术",
+      "争议观点"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "The article examines the contemporary resurgence of the bow as a fashion staple, tracing its journey from Victorian modesty to a bold, subversive statement in 2025. It juxtaposes celebrity usage—Lily Allen’s gold‑embellished gown, Amanda Seyfried’s Prada‑wrapped look, and Georgia Evans’ pink‑bow protest on the rugby field—with mass‑market retail strategies, noting how brands like Next, M&S, and Dior have capitalized on the trend. The piece argues that bows now function as both a symbol of femininity and a tool for challenging gender norms, offering designers a flexible, non‑sexualized means of expression. By citing fashion historians, curators, and designers, the author contextualizes bows within a broader cultural shift toward embracing “girlishness” as a source of empowerment rather than weakness. The narrative underscores the paradox of a simple accessory becoming a cultural barometer, reflecting societal anxieties, solidarity movements, and the ongoing negotiation of identity in the public sphere.",
+    "summary_zh": "文章探讨蝴蝶结在2025年的时尚复兴，从维多利亚时代的低调到如今的大胆颠覆。它将明星与大众品牌的运用对比，指出蝴蝶结已成为女性化与性别挑战的符号。通过历史学家与设计师的见解，阐释蝴蝶结如何从装饰转变为文化标尺，映射社会焦虑与身份认同的再谈。",
+    "best_quote_en": "They’re a gender signifier but also an erotic signifier – a bow says: untie me!",
+    "best_quote_zh": "它们既是性别符号，也是情色符号——蝴蝶结在说：把我解开！"
+  },
+  {
+    "id": 168,
+    "title": "Why It's Safe for Founders to Be Nice",
+    "title_zh": "为什么创始人可以善良",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/safe.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2025-11-19",
+    "summary_en": "The article dismantles the myth that startup founders must be ruthless to succeed. By framing growth as a curve rather than a flat extraction of revenue, it shows that a higher growth rate can offset a softer revenue model. The author uses a simple 5% versus 6% weekly growth example to illustrate that a founder who is \"un-rapacious\" can not only catch up but surpass a more aggressive competitor within a year. The key insight is that startup success hinges on compounding user value and word‑of‑mouth, not on squeezing every penny. Niceness, therefore, is not a liability; it can be a strategic choice that preserves founder well‑being while still driving exponential growth. This perspective invites founders to consciously balance generosity with growth optimization, turning the traditional narrative of the cutthroat entrepreneur on its head and offering a more humane, data‑driven blueprint for scaling.",
+    "summary_zh": "文章拆解了创始人必须苛刻才能成功的神话，指出增长曲线比单纯抽取收入更重要。通过对比5%与6%每周增长，展示了“善良”创始人可在一年内超越更为贪婪的竞争者。核心在于，创业成功依赖用户价值的复利与口碑，而非掏空每一分钱。善良不再是弱点，而是可持续发展的战略选择。作者鼓励创始人有意识地平衡慷慨与增长，颠覆传统的苛刻创业者叙事，提供更人性化、数据驱动的扩张蓝图。",
+    "best_quote_en": "If you’re so un-rapacious that you only extract half as much from your users as you could. That means two years later you’ll be making $80k a month instead of $160k.",
+    "best_quote_zh": "如果你只提取一半的钱，二年后你每月只赚8万美元，而不是16万美元。"
+  },
+  {
+    "id": 169,
+    "title": "How M.B.S. Won Back Washington",
+    "title_zh": "M.B.S. 如何赢回华盛顿",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/how-saudi-arabia-won-back-washington",
+    "tags": [
+      "learn",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "The article unspools a nuanced narrative of Saudi Crown Prince Mohammed bin Salman’s diplomatic rehabilitation in Washington, revealing a complex interplay of geopolitical calculus, economic interests, and image‑washing. It shows how the Biden administration’s initial distancing—motivated by a post‑COVID green‑energy optimism—was overridden by the shock of Russia’s invasion of Ukraine, which exposed the United States’ continued reliance on Saudi oil and security. The piece argues that Trump’s embrace was largely driven by personal and corporate ties, whereas Biden’s re‑engagement was a pragmatic response to energy volatility and a bid for a trilateral security treaty. The analysis also critiques Saudi sports‑washing, noting that while it may generate revenue, it has not substantially altered American public opinion. Overall, the article invites readers to question the ethics of state‑state alliances that are more transactional than principled, and to consider how power consolidation in Saudi Arabia shapes both domestic policy and regional stability.",
+    "summary_zh": "文章以深度剖析沙特王储穆罕默德·本·萨勒曼赢回华盛顿的过程，揭示了地缘政治、能源利益与形象塑造的错综关系。它指出，拜登初期的脱钩因俄乌冲突被迫逆转，说明美国仍需沙特能源；特朗普的亲沙态度更多源于个人与商业利益；体育洗白虽带来收入，却未改变美方舆论。文章呼吁读者重新审视以交易为主的外交关系，并关注王储集权如何影响国内外政策与地区安全。",
+    "best_quote_en": "I think President Trump, even more baldly in his second term, sees the difference between his own economic interest and the country’s economic interest as, in effect, inseparable.",
+    "best_quote_zh": "我认为特朗普总统，尤其在第二任期中，更直言不讳地认为他自己的经济利益与国家经济利益之间的区别实际上是不可分离的。"
+  },
+  {
+    "id": 170,
+    "title": "The Creative Architect / How to Talk to Girls at Parties",
+    "title_zh": "创意建筑师 / 如何在派对上与女孩交谈",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/the-creative-architect-how-to-talk-to-girls-at-parties/",
+    "tags": [
+      "solve",
+      "design",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-18",
+    "summary_en": "The article juxtaposes two seemingly disparate works—a 1950s psychological study of midcentury architects and a Neil Gaiman comic adaptation—yet both illuminate the human quest for meaning and connection. The architectural study, now finally published, offers a nuanced portrait of creative genius, revealing that self‑expression, aesthetic elegance, and resistance to conformity are the true engines of innovation. It refrains from dispensing a one‑size‑fits‑all recipe, instead presenting a rich, data‑driven case study that invites readers to reflect on their own creative processes. In contrast, Gaiman’s comic captures the awkwardness of social interaction through sharp dialogue and lush illustration, underscoring the universal challenge of bridging the gap between self‑perception and external validation. Together, these pieces challenge the reader to consider how creativity and social skill are cultivated through authenticity, curiosity, and resilience. The piece invites scholars, designers, and creatives alike to question conventional wisdom and to seek deeper, more personal definitions of success and connection.",
+    "summary_zh": "文章将1950年代建筑师心理研究与盖曼漫画并置，探讨创意与人际交往的核心。建筑研究揭示自我表达与反抗规范是创新之源，提供数据驱动的案例研究；漫画则通过尴尬对话与精美画面，呈现人与人之间的真实困境。两者共同鼓励读者以真实性与好奇心重塑创作与社交的定义，启示设计师、学者与创作者重新审视成功与连接的内在动力。",
+    "best_quote_en": "\"What propels creativity is the unfettered expression of the self,\"",
+    "best_quote_zh": "\"推动创造力的是自我无拘束的表达。\""
+  },
+  {
+    "id": 171,
+    "title": "Essentials: Science of Mindsets for Health & Performance | Dr. Alia Crum",
+    "title_zh": "Essentials: Science of Mindsets for Health & Performance | Dr. Alia Crum",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-science-mindsets-health-performance-alia-crum",
+    "tags": [
+      "inspire",
+      "science",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2025-09-04",
+    "summary_en": "Dr. Alia Crum’s episode with Huberman Lab dissects how our core beliefs—about stress, exercise, and food—serve as a psychological placebo that literally rewires bodily responses. By reframing a meal as ‘indulgent’ or exercise as ‘real,’ participants see measurable shifts in satiety hormones and weight‑loss metrics, underscoring the power of mindset as a low‑cost, high‑impact lever. The discussion extends to stress, turning it from a villain into a growth catalyst that boosts both mental resilience and physiological health. The conversation is anchored in rigorous Stanford research, yet distilled into practical, actionable take‑aways for anyone looking to optimize health and performance. It invites listeners to experiment with mindset shifts as a daily tool, bridging the gap between science and everyday life. The episode’s value lies in its clear demonstration that belief can be a therapeutic agent, a concept that challenges conventional treatment paradigms and opens new avenues for self‑regulation.",
+    "summary_zh": "阿莉亚·克鲁姆博士在Huberman实验室的访谈中揭示，关于压力、运动与食物的信念不仅塑造情绪与行为，更能直接改变体内激素与代谢。通过将食物视为“放纵”或运动视为“真实”，研究显示饱腹激素与体重下降指标可显著改善；再将压力重新定义为成长工具，可提升心理韧性与生理健康。她用严谨实验数据说明心态是低成本、高效的自我调节手段，邀请听众把“心态转变”变成日常练习，重新定义健康与表现的可能性。",
+    "best_quote_en": "Our mindsets—for example, what we believe about stress, exercise and the food we eat—shape how we feel, behave and even how our bodies respond.",
+    "best_quote_zh": "我们的心态——例如我们对压力、运动和食物的信念——塑造了我们的感受、行为，甚至身体的反应。"
   }
 ]
