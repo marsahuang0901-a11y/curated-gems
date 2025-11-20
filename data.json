@@ -1,125 +1,5 @@
 [
   {
-    "id": 72,
-    "title": "Project Covalence",
-    "title_zh": "协同项目",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/project-covalence",
-    "tags": [
-      "analyze",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2020-06-16",
-    "summary_en": "Project Covalence emerges as a strategic response to the bottleneck of clinical trials in the COVID‑19 era, offering a platform that streamlines trial design, remote data capture, telemedicine, and adaptive protocols. By partnering with TrialSpark and leveraging Dr. Mark Fishman’s expertise, the initiative targets the operational hurdles that slow drug, vaccine, and diagnostic development—particularly the need to conduct trials outside hospitals, in community or home settings. The platform’s 21 CFR Part 11 compliance, at‑home specimen kits, and shared control arms promise a higher‑leverage, cost‑effective path to scientific breakthroughs. For researchers and industry alike, this shared infrastructure could dramatically reduce time and capital outlay, turning the clinical trial process from a cumbersome, expensive hurdle into a rapid, scalable engine of innovation. The project’s emphasis on coordination, master protocols, and adaptive designs positions it as a model for future pandemic preparedness and a blueprint for accelerating translational research.\n",
-    "summary_zh": "项目协同在COVID‑19时代成为临床试验瓶颈的战略回应，提供平台简化试验设计、远程数据采集、远程医疗和自适应方案。通过与TrialSpark及Mark Fishman博士合作，专注解决药物、疫苗和诊断开发的运营障碍，尤其是将试验转移至社区或家庭环境。该平台符合21 CFR Part 11标准，提供居家样本采集套件和共享对照组，承诺更高杠杆、更低成本的科学突破路径。为研究者和产业界提供共享基础设施，可显著缩短时间和资本投入，将临床试验从繁琐昂贵的障碍转变为快速可扩展的创新引擎。其对协调、主协议和自适应设计的强调，使其成为未来流感预备和加速转化研究的范例。\n",
-    "best_quote_en": "Dramatically improving clinical trials, which are usually time‑consuming and cost tens to hundreds of millions of dollars, is one of the highest‑leverage ways to get out of it faster.",
-    "best_quote_zh": "科学仍然是摆脱 COVID‑19 危机的唯一途径。显著改进临床试验——通常耗时且成本高达数千万至数亿美元——是加速摆脱危机的最高杠杆方式。"
-  },
-  {
-    "id": 73,
-    "title": "Essentials: The Science of Gratitude & How to Build a Gratitude Practice",
-    "title_zh": "基础要点：感恩科学与建立感恩练习",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-science-of-gratitude-practice",
-    "tags": [
-      "guide",
-      "science",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2025-10-23",
-    "summary_en": "Huberman’s “Essentials: The Science of Gratitude” dives deep into the neural circuitry that underpins thankfulness, revealing why the most popular gratitude exercises—simple lists of positives—fall short. By weaving personal stories into the practice, the brain’s reward and social‑connection networks fire more robustly, producing measurable calm, motivation, and even reduced inflammation. The episode not only explains the science but hands readers a step‑by‑step weekly routine that blends emotional reflection with evidence‑based techniques. It bridges neuroscience, psychology, and everyday wellness, offering a tangible framework for anyone looking to harness gratitude as a tool for better mental and physical health. The blend of rigorous research and practical guidance makes this a standout resource for self‑development enthusiasts seeking science‑backed habits.",
-    "summary_zh": "Huberman 的《感恩科学》不仅阐释了感恩背后的神经机制，还揭示了故事式感恩练习对情绪与免疫的双重益处。文章强调，单纯列举感恩清单不足以激活大脑关键区域，而以情境故事为载体的练习能显著提升平静、社交联结与动力，同时降低焦虑与炎症。作者提供了一套循序渐进的每周感恩流程，兼顾心理与生理层面，既实用又基于实验数据。读者可借此构建可持续、深度的感恩日常，进而改善情绪调节、提升睡眠质量与免疫功能。此篇内容对希望用科学方法提升心理健康的读者具有高度参考价值。",
-    "best_quote_en": "Common gratitude practices (like simply listing things you're grateful for) are far less impactful than engaging in story‑based gratitude practices.",
-    "best_quote_zh": "感恩激活特定的大脑区域，提升平静、社交连接和动力，同时减少焦虑和炎症。"
-  },
-  {
-    "id": 74,
-    "title": "News: São Tomé and Príncipe collection published after 13 years",
-    "title_zh": "新闻：圣多美和普林西比书籍13年后出版",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/10/22/news-sao-tome-and-principe-collection-published-after-13-years/",
-    "tags": [
-      "update",
-      "education",
-      "writing-content",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "教育学习",
-      "写作内容",
-      "深度分析"
-    ],
-    "date": "2025-10-22",
-    "summary_en": "This article chronicles the long‑awaited release of Olinda Beja’s short‑story collection, The Shepherd’s House, from São Tomé and Príncipe. 2012’s “year‑of‑reading‑the‑world” quest forced the author to enlist nine volunteers to translate the book into English—a daunting task given the scarcity of translated literature from the tiny island nation. 13 years later, the finished work—edited by Margaret Jull Costa and published by Canadian indie Arquipélago Press—finally hits the shelves.  The piece celebrates the power of storytelling to bridge cultures, highlights the dedication of volunteer translators, and underscores the importance of making diverse voices accessible in the world’s most widely read language.  Readers are invited to see how a collaborative, grassroots effort can transform a once‑unavailable narrative into a global literary asset.",
-    "summary_zh": "这篇报道讲述了圣多美和普林西比短篇小说集《牧羊人之屋》历经13年才问世的过程。最初在2012年作者为读者翻译，九位志愿者齐心协力，终于在加拿大Arquipélago Press出版。文章强调跨文化文学的力量，展示了志愿者精神与翻译艺术的结合，让世界更接近这座小岛的故事。阅读这本书，既是一次文学之旅，也是对人类共同情感的温柔提醒。",
-    "best_quote_en": "every so often, I receive a message asking if the collection of stories I read for São Tomé and Príncipe back in 2012 is available to buy in English. It is now my great joy to be able to answer: Yes, here it is.",
-    "best_quote_zh": "我时不时收到询问，问我2012年为圣多美和普林西比读过的故事集是否有英文版本可购买。如今能回答：是的，已上市。"
-  },
-  {
-    "id": 75,
-    "title": "Another Guardian link to the Keira Knightley film The Woman in Cabin 10 | Brief letters",
-    "title_zh": "卫报链接：Keira Knightley主演电影《客舱10号》",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/media/2025/oct/15/another-guardian-link-to-the-keira-knightley-film-the-woman-in-cabin-10",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "深度分析"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "The brief letter piece from The Guardian weaves a subtle tapestry linking the 2025 thriller *The Woman in Cabin 10* to the legacy of its Guardian journalist progenitor, Norman Shrapnel, and his grandson, Joe Shrapnel, co‑scriptwriter.  The article highlights the intergenerational dialogue between print journalism and cinematic storytelling, underscoring how Norman’s “ironic edge and sharp eye for social detail” not only shaped a generation of Guardian writers but also seeded the narrative voice of a contemporary film.  By situating the film within the broader cultural conversation—alongside other letters on politics, literature, and society—the piece invites readers to consider how media ecosystems evolve, how mentorship and familial influence can ripple across decades, and how a single story can resonate across mediums.  This micro‑analysis offers a valuable case study for media scholars, film students, and cultural commentators, illustrating the porous boundaries between journalism, fiction, and visual narrative.\n",
-    "summary_zh": "这篇简短的信件将2025年的惊悚片《客舱10号》与其卫报记者祖父诺曼·什拉普尔及其孙子乔·什拉普尔共同编剧的遗产联系起来，展示了新闻与电影叙事的跨世代对话。它不仅强调诺曼的讽刺锋芒和对社会细节的敏锐洞察如何塑造一代卫报作家，也体现了这种洞察如何在当代电影中得到延伸。通过与政治、文学和社会等其他信件的交织，文章提醒读者媒体生态如何演化，导师与家族影响如何跨越几十年，以及单一故事如何在多种媒介中产生共鸣。",
-    "best_quote_en": "\"Ironic edge and sharp eye for social detail made him the much-imitated master of a whole generation of Guardian writers.\"",
-    "best_quote_zh": "他的讽刺锋芒和对社会细节的敏锐眼光，使他成为整整一代《卫报》作家的模仿对象。"
-  },
-  {
-    "id": 76,
-    "title": "The Lesson to Unlearn",
-    "title_zh": "The Lesson to Unlearn",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/lesson.html",
-    "tags": [
-      "guide",
-      "education",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "教育学习",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-10-25",
-    "summary_en": "In this reflective essay, the author exposes the paradox that education, designed to foster genuine learning, has instead become a training ground for hacking tests and chasing grades. He argues that the very metrics—grades, standardized tests, and admissions scores—have been co‑opted into proxies for success, leading students to prioritize exam performance over deep understanding. Drawing parallels to startup culture, he shows how founders, conditioned by the same “test‑hacking” mindset, over‑engineer solutions instead of building real products that delight users. By unlearning the habit of gaming metrics, the author suggests we can re‑orient both education and entrepreneurship toward authentic skill development and value creation. His critique invites readers to question the hidden curriculum of success and to reclaim learning as a process of curiosity rather than a scorecard.",
-    "summary_zh": "作者揭示教育被用来教人作弊测试、追分的悖论，指出分数、标准化考试与录取分数已被当作成功的代理，导致学生重视考试而非真正理解。他将此与创业文化对比，说明创始人因同样的“测试作弊”思维过度工程化，而非打造真正满足用户的产品。作者呼吁人们抛弃操纵指标的习惯，重新把学习视为好奇心的过程，真正创造价值。",
-    "best_quote_en": "The most damaging thing you learned in school wasn’t something you learned in any specific class. It was learning to get good grades.",
-    "best_quote_zh": "你在学校学到的最有害的东西并非来自任何特定课程，而是学会了拿好成绩。"
-  },
-  {
     "id": 77,
     "title": "Musings on Reported Cost of Compute (Oct 2025)",
     "title_zh": "关于计算成本报告的思考（2025年10月）",
@@ -2360,5 +2240,119 @@
     "summary_zh": "阿莉亚·克鲁姆博士在Huberman实验室的访谈中揭示，关于压力、运动与食物的信念不仅塑造情绪与行为，更能直接改变体内激素与代谢。通过将食物视为“放纵”或运动视为“真实”，研究显示饱腹激素与体重下降指标可显著改善；再将压力重新定义为成长工具，可提升心理韧性与生理健康。她用严谨实验数据说明心态是低成本、高效的自我调节手段，邀请听众把“心态转变”变成日常练习，重新定义健康与表现的可能性。",
     "best_quote_en": "Our mindsets—for example, what we believe about stress, exercise and the food we eat—shape how we feel, behave and even how our bodies respond.",
     "best_quote_zh": "我们的心态——例如我们对压力、运动和食物的信念——塑造了我们的感受、行为，甚至身体的反应。"
+  },
+  {
+    "id": 172,
+    "title": "Change Your Name",
+    "title_zh": "改变你的名字",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/name.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "The piece opens with the seemingly trivial detail of a startup owning the .com of its own name, and from there it unpacks a subtle link between brand perception and market trust. The author argues that a missing .com isn’t a technical hurdle, but one that signals weakness to potential customers. By dissecting cases such as Stripe and Parse, he shows that naming is a distinct skill, often underestimated by founders. He advises first to confront the emotional attachment to a name, then to actively seek external help or perform a broad domain search to quickly land a viable option. For YC-backed companies, the correlation between holding a .com and valuation is clear, urging new ventures to prioritize domain strategy early. The article blends theory and practice, making it a valuable read for founders looking to sharpen their brand’s first impression.",
+    "summary_zh": "文章以“拥有与公司同名的 .com 域名”为核心，揭示品牌认知与市场信任的微妙关系。作者指出，缺失 .com 并非技术障碍，却会被潜在客户解读为公司实力不足。通过 Stripe、Parse 等案例，强调命名是一门独立艺术，创业者往往低估其重要性。建议先正视对名字的情感依赖，再主动寻求外部帮助或大批域名搜索，快速找到可行方案。对 YC 创业公司而言，拥有 .com 的比例与估值呈正相关，提示新创企业在早期阶段就应关注域名策略。文章兼理论与实操，适合想提升品牌力的创始人。",
+    "best_quote_en": "Having x.com signals strength even if it has no relation to what you do.",
+    "best_quote_zh": "拥有 x.com 即使与业务无关，也能传递实力。"
+  },
+  {
+    "id": 173,
+    "title": "What’s in my NOW? — Molly Harris",
+    "title_zh": "我的现在里有什么？—莫莉·哈里斯",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-molly-harris/",
+    "tags": [
+      "solve",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-11-19",
+    "summary_en": "The piece is a whimsical yet surprisingly practical inventory of the tools that anchor the author’s “now.” From a digital hygrometer that turns humidity into a comfort score, to a $10 fidget slider that channels nervous energy, the physical section reads like a personal ergonomics playbook. The digital arm of the post showcases Inoreader’s intelligence and a subtle critique of its closed‑loop feedback, while Tetr.io is framed as a therapeutic visuospatial exercise for CPTSD, hinting at emerging evidence that puzzle games can mitigate trauma. The invisible layer culminates in a timeless Persian proverb, “This too shall pass,” reminding readers that the same tools that soothe the body also calm the mind. The article blends self‑care, tech‑savvy, and stoic wisdom into a concise guide that invites readers to map their own micro‑comfort rituals. Its strength lies in the actionable details and the gentle reminder that impermanence is the backdrop of every habit.",
+    "summary_zh": "文章以轻松幽默的笔触，列举了作者让“现在”变得舒适的物品与习惯：数字湿度计、$10 的手感滑块、耳道刮痧器、Inoreader 与 Tetr.io。它将技术与自我疗愈交织，暗示拼图游戏能缓解创伤压力，并以“这也会过去”提醒读者所有苦乐皆是短暂。读后不禁反思，真正的舒适是细微仪式与心态的双重调和。",
+    "best_quote_en": "This too shall pass.",
+    "best_quote_zh": "这也会过去。"
+  },
+  {
+    "id": 174,
+    "title": "Productivity",
+    "title_zh": "生产力",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/productivity",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "深度分析"
+    ],
+    "date": "2018-04-10",
+    "summary_en": "The author distills personal experience into a multi‑layered framework for boosting work efficiency. Key insights include: choose high‑impact tasks first, cultivate independent thinking, keep actionable paper lists, block time for deep work, and optimize sleep, exercise, and nutrition for sustained focus. The piece warns against “productivity porn” – chasing metrics for their own sake – and emphasizes that real productivity stems from doing the right things, not just moving faster. Its pragmatic advice is coupled with a human‑centric view, making it useful for anyone juggling busy schedules and seeking a sustainable rhythm.",
+    "summary_zh": "作者从个人经验出发，系统阐述了提升工作效率的多维策略：先挑优先任务、培养独立思考、精细化列清单、合理分配时间、保持身体与心理最佳状态。文章强调，真正的生产力源自做对的事，而非追求表面效率。它既具可操作性，又兼具人文关怀，适合想在繁忙工作中寻找自我节奏的读者。",
+    "best_quote_en": "If you get 10% more done and 1% better every day compared to someone else, the compounded difference is massive.",
+    "best_quote_zh": "如果你每天比别人多完成10%并提高1%，复合差异会变得巨大。"
+  },
+  {
+    "id": 175,
+    "title": "How to Set & Achieve Massive Goals | Alex Honnold",
+    "title_zh": "如何设定并实现宏大目标 | Alex Honnold",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-to-set-and-achieve-massive-goals-alex-honnold",
+    "tags": [
+      "solve",
+      "leadership",
+      "ai-research"
+    ],
+    "tags_zh": [
+      "解决",
+      "领导管理",
+      "AI研究"
+    ],
+    "date": "2025-09-01",
+    "summary_en": "Alex Honnold’s interview is a masterclass in turning audacious ambition into disciplined practice. He argues that the secret to massive goals lies in a paradoxical blend of embracing one’s mortality and celebrating uniqueness—viewing each day as a micro‑challenge that feeds a larger narrative. The conversation moves from psychological motivation to concrete training regimens, risk assessment, and the delicate balance between high‑stakes pursuit and family life. What sets this piece apart is its actionable framework: break the grand vision into daily, measurable tasks; use the concept of “small daily challenges” as a habit‑forming engine; and frame failure as a learning cue rather than a verdict. Honnold’s perspective invites listeners to reframe fear, cultivate a “flow” mindset, and persist through uncertainty. The dialogue’s real‑world examples—from free‑soloing to strength training—ground the theory, making the content both inspirational and practically implementable for anyone aiming to scale personal or professional horizons.",
+    "summary_zh": "阿历克斯·霍诺德的访谈像一门把宏大抱负转化为日常实践的课堂。他强调，设定巨大目标的秘诀在于同时拥抱死亡与独特性——把每一天当作推动宏大叙事的小挑战。对话从心理动机延伸到具体训练、风险评估和高风险追求与家庭生活的平衡。核心在于可执行的框架：把宏大愿景拆解为每日可测量任务，用“小日常挑战”培养习惯，并将失败视为学习而非定罪。霍诺德的视角让听众重新审视恐惧，培养“流动”心态，并在不确定中坚持。结合自由攀岩与力量训练的真实案例，使内容既鼓舞人心又易落地。",
+    "best_quote_en": "Embracing your uniqueness and mortality is the most powerful way to envision and live a fuller, more intentional life.",
+    "best_quote_zh": "拥抱你的独特性和死亡感是设想并过上更充实、更有目的生活的最强大方式。"
+  },
+  {
+    "id": 176,
+    "title": "The 4-Hour Workweek Principles — 13 Mistakes to Avoid, The Art of Mini-Retirements, and Navigating the Dizziness of Freedom (#836)",
+    "title_zh": "4小时工作周原则 — 避免13个错误、迷你退休艺术与自由的眩晕",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/19/the-4-hour-workweek-principles/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-11-19",
+    "summary_en": "Tim Ferriss revisits the timeless core of his 2007 bestseller, the 4‑Hour Workweek, through a podcast episode that feels both nostalgic and fresh. He distills three pivotal chapters—mini‑retirements, the emotional void that follows lifestyle design, and the 13 common pitfalls of the New Rich—into actionable insights for anyone craving freedom without sacrificing purpose. The discussion goes beyond a simple how‑to guide; it interrogates the cultural myth of perpetual hustle, invites listeners to re‑imagine retirement as a series of distributed adventures, and confronts the emotional disorientation that comes with abundance. Ferriss balances humor with hard data, citing real‑world case studies and psychological research to underscore that true freedom requires intentional planning, self‑reflection, and a willingness to confront the dizziness of choice. Listeners leave with a clear playbook for redefining work, travel, and personal fulfillment, plus a critical lens on why many of the book’s promises still hold up today.",
+    "summary_zh": "Tim Ferriss 重新梳理《4小时工作周》核心，聚焦迷你退休、生活设计后的空洞与新富人常犯的13个错误。节目兼具幽默与数据，鼓励听众以分散式冒险取代传统退休，重新审视自由与工作平衡。它既是实用指南，也是对“永无止境奔波”文化的批判，帮助人们在丰盈中保持方向感。",
+    "best_quote_en": "There is more to life than increasing its speed.",
+    "best_quote_zh": "生活不只是加速。"
   }
 ]
