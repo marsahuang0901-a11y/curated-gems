@@ -1,53 +1,5 @@
 [
   {
-    "id": 77,
-    "title": "Musings on Reported Cost of Compute (Oct 2025)",
-    "title_zh": "关于计算成本报告的思考（2025年10月）",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/oPWB7SBn5j6Nw8RSX/musings-on-reported-cost-of-compute-oct-2025",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "深度分析"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "The piece dissects the often opaque economics of 1 GW‑scale AI compute, revealing a layered cost architecture that ranges from $10 bn in pure infrastructure capex to $60 bn for a five‑year cloud contract. By separating building, cooling, networking, GPU hardware, labor, and operating expenses, the author exposes how the same compute footprint can be reported in multiple ways—$10 bn, $30 bn, $45 bn, or $60 bn—depending on the lens. This multiplicity matters for AI firms negotiating long‑term contracts, as they must budget for a $25 bn‑per‑year commitment that can be contingent on future capacity. The analysis also highlights that GPU margin and non‑NVIDIA hardware can shift the cost curve, with TPU contracts offering a roughly 25 % lower per‑GW price. Looking ahead to 2026, the author projects a tenfold jump in both compute and model size, driven by higher HBM density and larger MoE architectures. The post invites readers to rethink cost reporting, contractual risk, and the strategic planning required for next‑generation AI workloads.",
-    "summary_zh": "文章拆解了1 GW AI计算成本的多层结构，从10 亿美元的基础设施资本支出到5年合同的60 亿美元。作者指出，同一计算容量可按不同维度报销，导致成本呈现多重面貌。此多样性对AI公司谈判长期合同时至关重要，需预留约250 亿美元/年、并可能随未来扩容而变动。文章亦揭示GPU利润与非NVIDIA硬件的价格差异，TPU合约可降至约25 %成本。展望2026，作者预测计算与模型规模十倍增长，主要得益于HBM密度提升与更大MoE架构。该分析促使读者重新审视成本报告、合同风险与下一代AI工作负载的战略规划。",
-    "best_quote_en": "Thus 1 GW of compute could get reported as $10bn (infrastructure capex; or alternatively the compute costs for the AI company in a calendar year), as $30bn (compute hardware capex without labor costs), as $45bn (infrastructure plus compute hardware capex), or as $60bn (the total cost of the contract between the AI company and the cloud provider over 5 years).",
-    "best_quote_zh": "因此，1 GW 的计算成本可能被报告为 100 亿美元（基础设施资本支出；或替代为 AI 公司在日历年度的计算成本）、300 亿美元（仅计算硬件资本支出，不含人工成本）、450 亿美元（基础设施加计算硬件资本支出），或 600 亿美元（AI 公司与云服务商五年合同的总成本）。"
-  },
-  {
-    "id": 78,
-    "title": "The Feds Who Kill Blood-Sucking Parasites",
-    "title_zh": "联邦机构消灭吸血寄生虫",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-feds-who-kill-blood-sucking-parasites",
-    "tags": [
-      "analyze",
-      "science",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "The article exposes the hidden, high-stakes battle against sea lampreys—a prehistoric, leech‑like invader that once decimated the Great Lakes’ fishing industry. It chronicles the Great Lakes Fishery Commission’s decade‑long, trans‑border program, detailing the science behind the lampricide T.F.M., the logistical challenges of field treatments, and the political vulnerability of a niche, high‑impact public service. The narrative reveals how federal budget cuts, hiring freezes, and shifting political priorities threaten not only a vital economic sector but also the integrity of a complex ecosystem. It also highlights innovative research—AI‑guided “smart” dams, pheromone traps, and electric fences—showing the adaptive frontier of invasive‑species management. The piece serves as a cautionary tale about the fragility of science‑driven conservation amid fiscal retrenchment, while underscoring the power of evocative storytelling to secure public support for environmental programs. Ultimately, it urges vigilance against resistance development in lampricide and stresses the need for diversified, resilient control strategies.",
-    "summary_zh": "这篇报道揭示了联邦机构如何在极其隐蔽的角落里与海灯蛾——一种古老的寄生生物——作战，防止其摧毁五大湖的渔业。文章阐述了跨国鱼类委员会的长期行动、化学抑制剂的科学原理、现场作业的艰辛以及政治预算削减对这一关键生态工程的冲击。它不仅展示了人工智能、化学诱捕和电网等前沿技术的应用，更提醒我们在财政紧缩的时代，科学驱动的环境治理面临的脆弱性。通过对抗灯蛾抗药性的警示，文章呼吁多元化、可持续的防治策略，强调故事叙述在争取公众支持中的重要作用。",
-    "best_quote_en": "If lampreys become resistant to lampricide, we’re gonna need alternatives.",
-    "best_quote_zh": "如果灯蛾对铬毒剂产生抗药性，我们就需要寻找替代方案。"
-  },
-  {
     "id": 79,
     "title": "Seven-ish Words from My Thought-Language",
     "title_zh": "七个近似词，源自我的思维语言",
@@ -2354,5 +2306,53 @@
     "summary_zh": "Tim Ferriss 重新梳理《4小时工作周》核心，聚焦迷你退休、生活设计后的空洞与新富人常犯的13个错误。节目兼具幽默与数据，鼓励听众以分散式冒险取代传统退休，重新审视自由与工作平衡。它既是实用指南，也是对“永无止境奔波”文化的批判，帮助人们在丰盈中保持方向感。",
     "best_quote_en": "There is more to life than increasing its speed.",
     "best_quote_zh": "生活不只是加速。"
+  },
+  {
+    "id": 177,
+    "title": "Petrolette: women in motorcycle culture – in pictures",
+    "title_zh": "Petrolette：女性摩托车文化摄影展",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/artanddesign/gallery/2025/nov/20/petrolette-women-in-motorcycle-culture-in-pictures",
+    "tags": [
+      "analyze",
+      "society",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "Petrolette is a decade‑long photographic chronicle that brings the diverse world of women motorcyclists into sharp focus. The exhibition showcases not only riding skill and style but also the community spirit that fuels empowerment, friendship, and resilience. Key events such as the female‑only Dream Roll camp and the annual Sheila’s Shakedown illustrate how women and gender‑nonconforming riders create inclusive spaces that dismantle stereotypes. The photographer’s intimate portraits and candid narratives reveal a deep respect for the journey from novice to seasoned rider, reminding us that passion for the road is inseparable from solidarity and mutual support. This project offers a fresh visual lens on gender equality within outdoor culture, functioning as both an art showcase and a testament to a broader social movement. Its layered storytelling invites viewers to reflect on the power of shared experience and the importance of fostering belonging in niche communities.",
+    "summary_zh": "Petrolette 通过十年摄影记录，将女性摩托车文化的多样性与力量呈现给公众。展览不仅展示了骑行者的技术与风格，更强调了社区支持、友谊与赋权。文中提到的“女性摩托车营”与“Sheila’s Shakedown”等活动，展示了跨性别与女性骑手如何通过共享空间打破刻板印象。摄影师对每位骑手的亲密叙述，凸显了对初心与成长的珍视，也提醒我们在热爱运动时不忘包容与团结。该项目为性别平等与户外文化提供了新视角，既是艺术展览，也是社会运动的视觉见证。",
+    "best_quote_en": "\"My ethos is wholeheartedly entrenched in backing women who ride, especially when they are first starting out, because I didn’t have that initially. No matter what motorcycle you ride, whether you’re a beginner or experienced, I’m all about community over competition.\",",
+    "best_quote_zh": "\"我一直把相机带在身边，甚至在高中时就开始拍摄。当我开始拍摄 Petrolette 时，纯粹是想让我骑行的女性看到她们多么棒，并给她们留下一份摄影纪念。我没想到它会发展成现在的规模，也没有打算展出。\""
+  },
+  {
+    "id": 178,
+    "title": "A Clarification",
+    "title_zh": "澄清",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/a-clarification",
+    "tags": [
+      "inspire",
+      "science",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2017-12-16",
+    "summary_en": "Sam Altman’s post is a thoughtful meditation on the delicate balance between free speech and societal progress. He argues that while we must not tolerate bigotry in scientific labs, society must still allow controversial ideas to surface. By reflecting on the historical shift in attitudes toward gay rights, he illustrates how once‑taboo concepts can become mainstream. Altman warns that an overly restrictive environment could stifle innovation, yet he also acknowledges the difficulty of drawing a line between hate speech and legitimate debate. The piece invites readers to consider how future generations will judge today’s norms, from meat consumption to AI ethics, and underscores the importance of fostering open dialogue while actively confronting discrimination. Its core insight is that progress depends on the willingness to challenge orthodoxy, and that a nuanced, context‑sensitive approach to free speech is essential for a just society.",
+    "summary_zh": "这篇澄清文章深入探讨了社会对争议性观点的容忍度与自由言论的必要性。作者强调，进步往往源于对主流观念的挑战，并警示过度禁言可能扼杀创新。通过讨论同性恋权利与未来伦理议题，他提醒我们，历史观念随时代演变，未来对当下的评价亦将被重新审视。文章还指出，若能在保持多元讨论的同时，严厉打击仇恨与歧视，将更有助于构建公正社会。",
+    "best_quote_en": "We need to allow free speech because sometimes society is wrong—we needed people to be able to say \"gay people are ok\" at a time when \"gay people are evil\" was the consensus opinion.",
+    "best_quote_zh": "我们需要允许言论自由，因为有时社会是错误的——我们需要人们能够在‘同性恋者是邪恶的’是共识时说‘同性恋者是可以接受的’。"
   }
 ]
