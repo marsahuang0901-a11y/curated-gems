@@ -1,125 +1,5 @@
 [
   {
-    "id": 82,
-    "title": "Novelty and Heresy",
-    "title_zh": "新奇与异端",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/nov.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "society",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "社会议题",
-      "深度分析"
-    ],
-    "date": "2025-10-27",
-    "summary_en": "The essay argues that true novelty often lurks beneath the surface of widely held, mistaken assumptions.  When an idea challenges a cherished belief, it is labeled heretical and faces hostility—Galileo, Darwin, and countless others have suffered this fate.  The author warns that a culture that pounces on heresy not only stifles dissent but also blocks any idea that indirectly questions the status quo.  Yet this very resistance creates “dead zones” around false premises, and those dead zones become rich mines for new thinking when we deliberately seek heretical angles.  The implication is clear: organizations and societies must learn to tolerate, even celebrate, uncomfortable contradictions, lest they lock themselves into blind consensus.  The critique acknowledges that excessive tolerance can lead to chaos, but the payoff—unexplored, high‑impact ideas—justifies a measured, constructive openness.",
-    "summary_zh": "文章指出，真正的创新往往隐藏在普遍错误假设的阴影下。挑战根深蒂固的信念会被贴上异端标签，导致阻力与压制。作者警示，过度打击异端不仅压制异议，也阻断任何间接质疑现状的想法。相反，这种抵制产生的“死区”正是孕育新思维的肥沃土壤。若组织与社会能容忍甚至拥抱这些不舒适的矛盾，便能解锁被忽视的高影响力创意。",
-    "best_quote_en": "If you discover something new, there's a significant chance you'll be accused of some form of heresy.",
-    "best_quote_zh": "如果你发现了新的事物，很可能会被指控为某种形式的异端。"
-  },
-  {
-    "id": 83,
-    "title": "Gideon Lewis-Kraus on Rebecca West’s “The Crown Versus William Joyce”",
-    "title_zh": "Gideon Lewis-Kraus 评析 Rebecca West 的《王冠诉 William Joyce》",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/takes/gideon-lewis-kraus-on-rebecca-wests-the-crown-versus-william-joyce",
-    "tags": [
-      "analyze",
-      "politics",
-      "psychology",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "心理学",
-      "深度分析"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "Rebecca West’s reportage in *Black Lamb and Grey Falcon* and her Nuremberg dispatches exemplify a daring blend of psychoanalytic detachment and anthropological curiosity that reshaped courtroom journalism into a form of dramatic criticism. Lewis‑Kraus highlights West’s unflinching portrayal of William Joyce—\"Lord Haw‑Haw\"—as a case study in the emergence of parasocial relationships before the age of mass media. West’s prose, described as “flimsy yet coarse,” forces readers to confront the moral ambiguity of a man who, denied political power, turned to propaganda. The essay argues that West’s legacy has been eclipsed by her wit, yet her treatment of Joyce reveals a profound commentary on the societal appetite for charismatic yet destructive figures. In contemporary journalism, West’s method invites a reevaluation of how narrative framing can both illuminate and obfuscate justice, urging writers to balance critical distance with empathetic insight.\n",
-    "summary_zh": "West 的报道把法庭戏剧化，揭示了公众对魅力叛徒的情感需求；她对乔伊的冷嘲热讽，映射了权力被剥夺者的愤怒与人性的扭曲。",
-    "best_quote_en": "\"The courthouse audience’s vexed relationship with Joyce was something new in the history of the world— a prototype of the parasocial.\"",
-    "best_quote_zh": "他是短小的，虽然不太丑，却极其乏味。"
-  },
-  {
-    "id": 84,
-    "title": "Tales from Toddlerhood",
-    "title_zh": "Tales from Toddlerhood",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2025/10/toddler.html",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "writing-content",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "写作内容",
-      "数据驱动"
-    ],
-    "date": "2025-10-24",
-    "summary_en": "In a candid, humor‑laden reflection, the author chronicles the paradoxical world of toddlerhood—where a two‑year‑old can simultaneously be a source of boundless joy and relentless boredom. Drawing from personal anecdotes, he outlines the child’s astonishing linguistic leaps, razor‑sharp impatience, and uncanny ability to turn everyday moments into comic gold. The piece also tackles the social etiquette of sharing toddler videos, the inevitable clash of parenting philosophies, and the emotional toll of a child’s relentless repetition of age. Beyond the laughs, it offers practical, gentle guidance: spend phone‑free time, encourage first‑principles thinking, and trust the child’s natural curiosity. The article blends observational humor with thoughtful parenting advice, making it a relatable guide for anyone navigating the chaotic, yet surprisingly enlightening, early years of parenthood.",
-    "summary_zh": "作者以幽默真诚的笔触，描绘两岁孩子的双面性——既是喜悦源泉，又是无聊之源。通过亲身经历，他揭示孩子惊人的语言学习、急躁与把日常转化为喜剧的天赋。文章讨论了分享育儿视频的礼仪、育儿理念的冲突，以及孩子不断重复年龄所带来的情绪压力。更重要的是，它提供了实用的建议：多花无手机时间、鼓励从第一原理思考、信任孩子的好奇心。幽默与深思兼具，让读者在笑声中获得育儿启示。",
-    "best_quote_en": "You can be simultaneously completely obsessed with and dramatically bored by the same person.",
-    "best_quote_zh": "你可以同时完全着迷又极度无聊。"
-  },
-  {
-    "id": 85,
-    "title": "A Wild Swan / The Creative Cottage",
-    "title_zh": "野天鹅 / 创意小屋",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/a-wild-swan-the-creative-cottage/",
-    "tags": [
-      "inspire",
-      "design",
-      "music-arts",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "音乐艺术",
-      "深度分析"
-    ],
-    "date": "2025-10-21",
-    "summary_en": "Michael Cunningham’s *A Wild Swan and Other Tales* and Steve Gross & Susan Daley’s *The Creative Cottage* form a curious duet of re‑imagination and re‑use. Cunningham, a Pulitzer‑winning novelist, takes familiar fairy‑tales—Andersen, Rumpelstiltskin, the Monkey’s Paw—and turns them on their heads with sardonic, empathetic narration, shifting points of view, and inventive plot twists. The book’s value extends beyond prose; Yuko Shimizu’s hand‑drawn illustrations, drop caps, and embossed cover elevate the volume into a tactile object, marrying classic illustration sensibilities with contemporary minimalism. *The Creative Cottage* showcases 13 small abodes that blend up‑cycled antiques with modern design, offering a visual menu of salvaged materials—from stained‑glass windows to repurposed license plates. Both works celebrate creative agency: one in narrative voice, the other in physical space. Together they invite readers to question conventions, find beauty in the overlooked, and consider how stories and spaces can be re‑crafted with intention and skill.",
-    "summary_zh": "米歇尔·坎宁安的《野天鹅》与史蒂夫·格罗斯、苏珊·达利的《创意小屋》分别在叙事与空间上进行大胆改造。前者以讽刺与同情重塑童话，配合优雅插画，呈现文学与艺术的跨界；后者则展示小空间的再利用与设计美学，启发读者重新思考日常物品与居住环境的潜能。两书共同强调创意的力量与对传统的挑战，鼓励人们在故事与空间中寻找新的可能性。",
-    "best_quote_en": "End of story. ‘Happily ever after’ fell on everyone like a guillotine’s blade.",
-    "best_quote_zh": "在典型的童话集中可能以浓郁色彩、华丽装订和金属装饰为卖点时，《野天鹅》却以简约优雅为特色。"
-  },
-  {
-    "id": 86,
-    "title": "Girl boss or tradwife? An economist on how a workforce built for men has failed women",
-    "title_zh": "女强人还是传统妻子？经济学家谈以男性为中心的职场如何让女性失望",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/money/2025/oct/26/having-it-all-book-women-workforce",
-    "tags": [
-      "solve",
-      "education",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-10-26",
-    "summary_en": "Corinne Low’s new book, Having It All, dissects the gendered architecture of the modern workplace and the home, revealing how a system built for men systematically undermines women’s economic agency.  By coining the term “the squeeze,” Low quantifies the relentless pressure on working mothers to juggle unpaid home production and paid labor, a reality that data shows drives burnout and limits career progression.  She traces historical shifts—from the 1970s divorce law reforms that propelled women into higher education to the contemporary “girl‑boss” narrative that, while encouraging ambition, ignores the persistent expectation that women shoulder domestic labor.  Low’s critique is not merely lamentation; she offers a dual strategy: policy reforms (paid maternity leave, flexible work) and a reframing of personal utility, urging women to craft individualized success metrics rather than conform to binary ideals.  Her analysis bridges economics, sociology, and feminist thought, inviting readers to rethink the very definition of “having it all.”",
-    "summary_zh": "低女士通过数据剖析男性主导的职场与家庭结构，揭示“压缩”现象让女性陷入无休止的工作与家务双重负担。她指出，女强人运动虽鼓励女性拼搏，却忽视了女性仍需承担大部分家务的现实。低主张政策改革与个人价值重塑，让女性能根据自身需求制定成功路径，重新定义“全能”。",
-    "best_quote_en": "The advice of Sandberg and co falls short. It ignores the structural realities that put the onus on women.",
-    "best_quote_zh": "你有24小时，既当Instagram的tradwife又当Sheryl Sandberg是两份全职工作。"
-  },
-  {
     "id": 87,
     "title": "The Bus Ticket Theory of Genius",
     "title_zh": "公交车票理论：天才的秘诀",
@@ -2354,5 +2234,121 @@
     "summary_zh": "研究表明，内在动机是实现目标的关键，而外在动机则作用有限。实验显示，若将行动与乐趣相结合，长期目标更易达成。此发现提醒我们，在制定计划时，应把享受融入行动，而非单靠外部奖励。",
     "best_quote_en": "Intrinsic motivation predicts the actual increase in the number of steps taken, while extrinsic motivation did not.",
     "best_quote_zh": "内在动机预测了实际步数的增加，而外在动机则没有。"
+  },
+  {
+    "id": 182,
+    "title": "Influencers made millions pushing ‘wild’ births – now the Free Birth Society is linked to baby deaths around the world",
+    "title_zh": "影响者通过‘野生’分娩赚取数百万——自由分娩协会与全球婴儿死亡相关联",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/ng-interactive/2025/nov/22/free-birth-society-linked-to-babies-deaths-investigation",
+    "tags": [
+      "analyze",
+      "education",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-11-22",
+    "summary_en": "The Guardian’s investigative piece exposes how a viral free‑birth movement, led by influencer Emilee Saldaya, turned a fringe practice into a multimillion‑dollar enterprise that, in the process, has contributed to preventable infant deaths worldwide. By leveraging podcasts, Instagram and paid courses, the Free Birth Society (FBS) sold the myth that unassisted, “wild” births are safer than hospital delivery, while actively downplaying or dismissing established medical warning signs such as shoulder dystocia, prolonged labor and post‑delivery hemorrhage. The report documents dozens of tragic cases—stillbirths, neonatal deaths, severe maternal hemorrhage—linked to FBS guidance, and reveals a culture of silence and self‑justification that mirrors cult‑like control. The piece not only highlights the dangers of misinformation in maternal health but also underscores the ethical responsibility of online influencers and the need for stronger regulatory oversight of unlicensed midwifery education. Its implications reach beyond individual families, challenging the medical‑industry narrative and calling for a re‑balance of trust between professional care and alternative birthing movements.",
+    "summary_zh": "这篇调查揭露了自由分娩协会如何将一项边缘做法变成数百万美元的业务，并在此过程中导致全球可预防的婴儿死亡。它展示了从播客到社交媒体的影响力如何传播错误信息，并揭示了与母婴健康相关的伦理危机。",
+    "best_quote_en": "Watching this video is like watching a parent sit by the pool while their child is quietly drowning and they do nothing.",
+    "best_quote_zh": "观看这段视频就像看着一个父母坐在池边，孩子在静静淹死，而他们却什么也不做。"
+  },
+  {
+    "id": 183,
+    "title": "What Microsoft Is this the Altair Basic of?",
+    "title_zh": "微软的 Altair Basic 是什么？",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/altair.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-11-23",
+    "summary_en": "The piece revisits Microsoft’s early Altair Basic, revealing how seemingly modest or even mocked startup ideas can hide immense potential. The author argues that founders often act on instinct, sensing a missing future need, yet struggle to articulate why their “ugly duckling” will evolve into a great swan. By framing evaluation with the question, “What Microsoft is this the Altair Basic of?” the article urges investors and founders alike to use case‑study analysis and intuition to spot future‑level growth. It blends philosophical insight with practical guidance, making it a must‑read for anyone who wants to turn a small spark into a giant enterprise. The narrative is both a call to think beyond first impressions and a roadmap for uncovering hidden giants.",
+    "summary_zh": "文章通过回顾微软起步时的 Altair Basic，揭示了看似平凡甚至被嘲笑的创业想法背后隐藏的潜在价值。作者强调，创始人凭直觉捕捉未来缺口，却往往难以言表。通过“这家公司是微软的 Altair Basic 吗？”的提问框架，作者鼓励投资者和创业者用案例分析和直觉评估，辨别潜在的“微软”级增长。文章既是对创业思维的启发，也是对评估方法的实操指南，值得任何想把小点子变成大事业的人反复阅读。",
+    "best_quote_en": "What Microsoft is this the Altair Basic of?",
+    "best_quote_zh": "这家公司是微软的 Altair Basic 吗？"
+  },
+  {
+    "id": 184,
+    "title": "Essentials: Science of Building Strong Social Bonds with Family, Friends & Romantic Partners",
+    "title_zh": "必备：与家人、朋友和恋人建立稳固社交纽带的科学",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-science-building-strong-social-bonds-family-friends-romantic-partners",
+    "tags": [
+      "analyze",
+      "psychology",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "The episode dissects the neurobiological circuitry that governs our yearning for connection—what Huberman terms \"social homeostasis\"—and maps how oxytocin, dopamine, and other neuromodulators orchestrate the ebb and flow of bonding across the lifespan. By framing loneliness as a deficit in the brain’s social appetite, the discussion reframes the familiar feeling of isolation as a measurable, physiological signal that can be modulated through intentional social design. The talk moves beyond abstract theory, offering concrete tools—shared experiences, emotional and cognitive empathy, and even an awareness of introvert‑extrovert dynamics—to deepen intimacy. What is striking is the episode’s synthesis of cutting‑edge research with actionable advice, positioning the science of attachment as a practical manual for improving family, friendship, and romantic relationships. The critical takeaway is that social bonds are not merely emotional niceties; they are neurochemical imperatives that shape stress, health, and longevity, making the science of connection a public‑health priority as much as a personal one.",
+    "summary_zh": "Huberman 将社交需求视为大脑的“社交稳态”，阐释孤独是神经信号缺失，进而提供共体验、情感共情等可操作工具，强调人际纽带既是情感，也是神经化学需求，关乎健康与长寿。",
+    "best_quote_en": "Our drive for a certain amount of social interaction—social homeostasis—explains why we feel lonely, seek connection and navigate social hierarchies.",
+    "best_quote_zh": "我们对一定程度社交互动的需求——社交稳态——解释了为何我们感到孤独、渴求连接并在社会层级中导航。"
+  },
+  {
+    "id": 185,
+    "title": "The Tim Ferriss Show Transcripts: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More (#835)",
+    "title_zh": "The Tim Ferriss Show Transcripts: Ben Patrick (KneesOverToesGuy) — 20分钟锻炼产生惊人效果，从慢性膝痛到篮球扣篮，查尔斯·波利金的教训，下肢防护等（#835）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/13/ben-patrick-kneesovertoesguy-transcript/",
+    "tags": [
+      "solve",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "Ben Patrick, known as KneesOverToesGuy, shares a revolutionary approach to knee rehabilitation that flips conventional wisdom on its head. By embracing full‑range squats and backward sled pulls, he moved from chronic knee pain to a 42‑inch vertical jump and even dunking basketballs. The interview delves into the science behind “knees over toes,” the influence of Charles Poliquin’s “Poliquinism,” and the importance of mobility‑strength synergy. Practical, data‑driven exercises—like the tibialis bar and split squat—are broken down step‑by‑step, offering beginners and seasoned athletes alike actionable guidance. Beyond the workouts, Patrick discusses the entrepreneurial side of fitness: creating American‑made equipment, building a community, and maintaining integrity in a world of quick fixes. The conversation is a blend of evidence‑based training, personal narrative, and business insight, making it a must‑listen for anyone looking to improve joint health, performance, or the way they approach fitness education.",
+    "summary_zh": "本次访谈聚焦Ben Patrick的膝盖康复方法，突破传统理念。通过全程深蹲和倒拉雪橇，他从慢性膝痛走向42英寸垂直跳，甚至扣篮。讨论了“膝盖过脚趾”的科学、Charles Poliquin的“Poliquinism”，以及灵活性与力量的协同。实用数据驱动的练习，如胫骨杆和分腿深蹲，逐步拆解，适合初学者和资深运动员。除此之外，还谈及健身创业、美国制造设备与诚信经营。内容兼具证据、个人故事与商业洞察，是提升关节健康、表现与健身教育的宝贵资源。",
+    "best_quote_en": "I’m just looking to get people to lift their knees over toes.",
+    "best_quote_zh": "我只是想让人们把膝盖抬过脚趾。"
+  },
+  {
+    "id": 186,
+    "title": "Aphantasia Is Not Just One Thing",
+    "title_zh": "无形症并非单一现象",
+    "source": "Psychology Tomorrow (Bence Nanay Ph.D.)",
+    "link": "https://www.psychologytoday.com/us/blog/psychology-tomorrow/202511/aphantasia-is-not-just-one-thing",
+    "tags": [
+      "analyze",
+      "design",
+      "medicine"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "医学健康"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "...",
+    "summary_zh": "",
+    "best_quote_en": "",
+    "best_quote_zh": ""
   }
 ]
