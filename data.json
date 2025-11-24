@@ -1,125 +1,5 @@
 [
   {
-    "id": 87,
-    "title": "The Bus Ticket Theory of Genius",
-    "title_zh": "公交车票理论：天才的秘诀",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/genius.html",
-    "tags": [
-      "solve",
-      "education",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-10-28",
-    "summary_en": "The article reframes genius as a triad—natural ability, determination, and a disinterested obsession. By likening passionate collectors of bus tickets to pioneers like Darwin and Ramanujan, it argues that curiosity alone fuels breakthroughs, acting as both a proxy for talent and a substitute for hard work. The piece challenges conventional wisdom that talent alone suffices, instead proposing that cultivating deep, personal interests can unlock creative pathways that rational planning would miss. It also explores the paradox of risk and reward, suggesting that time‑wasting pursuits may, paradoxically, be essential for discovery. The author extends the theory to education and life choices, urging parents and institutions to nurture curiosity rather than impose narrow curricula. Ultimately, the essay invites readers to reimagine genius as an evolving habit of “intellectual bus‑ticket collecting,” offering a hopeful, actionable framework for fostering innovation.",
-    "summary_zh": "作者将天才拆解为天赋、毅力与无私的执着热情，借公交车票收藏家比拟达尔文、拉马努金，指出好奇心是突破的关键。文章质疑单靠天赋足矣，强调培养深度兴趣可开启理性规划忽视的创新路径。它进一步讨论风险与回报的悖论，认为“浪费”时间的探索或许是发现的必要条件。作者把理论延伸至教育与生活，主张父母与机构应培养好奇心而非强加狭窄课程，倡导“知识公交车票收集”作为激发创新的可操作框架。",
-    "best_quote_en": "The bus ticket theory suggests that the way to do great work is to relax a little.",
-    "best_quote_zh": "公交车票理论表明，做出伟大工作的方式是放松一点。"
-  },
-  {
-    "id": 88,
-    "title": "Mowers",
-    "title_zh": "割草机",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/mowers/",
-    "tags": [
-      "update",
-      "science",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2025-10-27",
-    "summary_en": "This article is a hands‑on guide to a range of lawn‑care tools, from the hybrid DR Trimmer/Mower that combines a rotary blade with a weed‑whacker head to the lightweight Brill Luxus reel mower that offers a sustainable, low‑impact alternative to gas models. It also covers the Cyclone Rake for bulk leaf removal, the Stihl FSE‑60 electric trimmer, and a European‑style scythe that reintroduces ergonomic, manual cutting. The author shares practical tips—engine size, line choice, and blade maintenance—and evaluates each tool’s cost‑benefit, durability, and environmental footprint. By juxtaposing user anecdotes with objective performance data, the piece encourages readers to rethink traditional yard‑maintenance workflows, prioritize longevity and community service, and adopt tools that blend efficiency with user comfort. The insights are actionable, data‑driven, and relevant for anyone looking to optimize their outdoor upkeep while minimizing waste and noise.",
-    "summary_zh": "这篇文章通过对多款割草工具的实测与用户评述，揭示了从混合动力割草机到手摇式割草机、叶片收集器、电动修枝机及欧洲式镰刀的性能与使用体验。作者强调工具的可持续性、人体工学、成本效益与社区服务的重要性，并提供了实用的维护与操作建议。读者可从中获得关于工具选择、维护策略和环保理念的深度洞见，进一步提升庭院管理的效率与乐趣。",
-    "best_quote_en": "In value, it’s one of my best tool purchases ever.",
-    "best_quote_zh": "大多数人看到我仅用轻轻一划就把草或杂草清除时会惊讶。"
-  },
-  {
-    "id": 89,
-    "title": "Idea Generation",
-    "title_zh": "创意生成",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/idea-generation",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2020-05-28",
-    "summary_en": "This note distills a practical playbook for founders who struggle to generate viable startup ideas. It argues that idea fluency is a core founder trait—most successful founders generate a high volume of concepts, not just a single “golden” idea. The author recommends immersing oneself in a future‑focused, low‑filter environment: surrounding yourself with optimistic, creative thinkers who tolerate radical, fragile ideas. By projecting 20 years ahead and spotting tectonic shifts, founders can spot nascent opportunities that incumbents miss. The piece also stresses the importance of intrinsic fit—founder capabilities must align with product and market fit. A key diagnostic test is whether you can articulate why the idea seems bad yet understand its hidden advantage. The insights are actionable, data‑driven, and forward‑looking, offering a clear framework for systematic idea generation that transcends generic brainstorming tips.",
-    "summary_zh": "作者强调创意流量是创始人核心素质，建议沉浸在乐观、无滤镜的未来导向环境中，投射20年后寻找地质性变革，捕捉先机。并强调创始人与产品、市场的匹配度，提出检验点：能否说明为何被视为糟糕却理解其优势。内容实用、数据驱动、前瞻性强，提供系统化的创意生成框架，超越传统头脑风暴。",
-    "best_quote_en": "The best ideas are fragile; most people don’t even start talking about them at all because they sound silly.",
-    "best_quote_zh": "最好的想法是脆弱的；大多数人甚至不开始谈论它们，因为它们听起来很傻。"
-  },
-  {
-    "id": 90,
-    "title": "Improve Your Lymphatic System for Overall Health & Appearance",
-    "title_zh": "提升淋巴系统，改善整体健康与外观",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/improve-lymphatic-system-health-appearance",
-    "tags": [
-      "solve",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-10-27",
-    "summary_en": "The episode demystifies the lymphatic system—our body’s silent waste‑drainage network—by weaving together anatomy, physiology, and actionable lifestyle tweaks. It explains how the lack of a central pump forces us to rely on movement, diaphragmatic breathing, and pressure changes to propel lymph fluid. The host outlines a menu of evidence‑based tools: low‑impact rebounders, swimming, tai chi, targeted facial massage, and sleep positioning that collectively enhance lymph flow, reduce edema, clear brain “fog,” and even support cardiac longevity. By grounding recommendations in peer‑reviewed studies and clinical anecdotes, the content invites listeners to experiment with simple, low‑cost interventions while highlighting the emerging science of the glymphatic system. The discussion offers a clear, step‑by‑step protocol that can be adopted by beginners and refined by health‑savvy enthusiasts alike, making the science accessible and immediately applicable.",
-    "summary_zh": "文章深入阐述淋巴系统的功能与重要性，并提供基于科学的实用方法——从运动、呼吸、压力调节到睡眠姿势，帮助读者主动提升免疫力、减少浮肿、改善面部及全身外观。作者结合临床案例与最新研究，强调无泵泵动机制的关键性，并给出循序渐进的自我调理步骤，既适合初学者，也为健康爱好者提供了可操作的高级策略。",
-    "best_quote_en": "Because your lymphatic system lacks a central pump, it needs the mechanical forces generated by specific types of bodily movement, breathing and pressure to circulate your lymph properly.",
-    "best_quote_zh": "因为淋巴系统缺乏中心泵，它需要特定身体运动、呼吸和压力产生的机械力来有效循环淋巴。"
-  },
-  {
-    "id": 91,
-    "title": "Exclamation marks! Why do women use them three times as much as men?",
-    "title_zh": "感叹号！为什么女性使用它们的频率是男性的三倍？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/society/2025/oct/28/exclamation-marks-why-do-women-use-them-three-times-as-much-as-men",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-28",
-    "summary_en": "The piece unpacks why women reportedly use exclamation marks three times more often than men, framing the practice as both a strategic display of warmth and a potential marker of diminished analytical credibility. Drawing on a forthcoming Journal of Experimental Social Psychology study, the author critiques the research’s implication that women’s exuberant punctuation is a compensatory tactic against societal expectations of coldness. The analysis highlights a broader cultural narrative that equates expressive punctuation with friendliness yet penalizes it with perceptions of lower competence. By juxtaposing anecdotal examples with scholarly claims, the article invites readers to question gendered communication norms and consider how linguistic choices reinforce or challenge power dynamics. Ultimately, it serves as a call for nuanced, context-sensitive research on punctuation, gender, and the subtle ways language shapes authority and belonging.",
-    "summary_zh": "文章探讨女性使用感叹号的频率为何高于男性，并从社会心理学角度解读其对温暖、友好与分析能力的双重影响。作者批评研究结论可能加剧性别刻板印象，并呼吁更细致的沟通研究。此讨论提醒我们，符号选择背后隐藏的文化预期与权力结构，值得在跨文化交流与性别平等议题中深入反思。",
-    "best_quote_en": "It’s the punctuation that can make you seem warmer and more agreeable – but also much more compliant and lacking in analytical thinking.",
-    "best_quote_zh": "它可以让你看起来更温暖、更友好，但也更顺从、缺乏分析思维。"
-  },
-  {
     "id": 92,
     "title": "General and Surprising",
     "title_zh": "",
@@ -2350,5 +2230,125 @@
     "summary_zh": "",
     "best_quote_en": "",
     "best_quote_zh": ""
+  },
+  {
+    "id": 187,
+    "title": "For Trump, “Fostering the Future” Looks a Lot Like the Past",
+    "title_zh": "对特朗普而言，“培育未来”与过去极为相似",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/for-trump-fostering-the-future-looks-a-lot-like-the-past",
+    "tags": [
+      "analyze",
+      "politics",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2025-11-23",
+    "summary_en": "The article dissects President Trump’s “Fostering the Future” executive order, revealing that its stated goal of expanding opportunities for foster‑care youth masks a regressive return to faith‑based exemptions that undermine LGBTQ+ civil rights. By privileging religious organizations’ right to refuse LGBTQ+ affirming placements, the order perpetuates a legacy of discrimination that has plagued the U.S. child‑welfare system for decades. The piece juxtaposes this policy with historical episodes—Catholic orphanages, religious matching in New York, and the 1970s Black‑child placement crisis—to illustrate how religious doctrine has repeatedly overridden statutory protections. It also contrasts Trump’s stance with Biden’s reversal of non‑discrimination waivers, underscoring the political tug‑of‑war over foster‑care governance. The analysis highlights the real‑world impact: LGBTQ+ youth are over‑represented in foster care, face higher rates of abuse, and are denied essential support when they age out. The article calls for a critical re‑evaluation of faith‑based influence in public welfare and urges policymakers to prioritize inclusive, evidence‑based safeguards for vulnerable children.",
+    "summary_zh": "文章剖析特朗普“培育未来”行政令，揭示其表面上为青少年提供机会，却通过宗教豁免削弱 LGBTQ+ 权益，延续多年代的歧视。将历史与政策对比，提醒宗教组织的影响力可能凌驾于法定保护之上。",
+    "best_quote_en": "The executive order will protect the right of these organizations to receive federal funding, even if they work with foster parents who discriminate against queer and trans youth.",
+    "best_quote_zh": "行政令将保护这些组织在接受联邦资助时的权利，即使他们与对 LGBTQ+ 青少年持歧视态度的寄养父母合作。"
+  },
+  {
+    "id": 188,
+    "title": "Feeling Through Art / Revealing read / Airport rides",
+    "title_zh": "感受艺术 / 揭示阅读 / 机场接送",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/feeling-through-art-revealing-read-airport-rides/",
+    "tags": [
+      "guide",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-11-23",
+    "summary_en": "This eclectic roundup showcases practical wisdom and cultural insight across diverse domains. The airport‑ride review highlights a seamless, price‑transparent solution that turns a potentially stressful arrival into a calm transition, underscoring how small logistical details can profoundly affect traveler wellbeing. The animated film on somatic regulation blends art with therapy, offering quick, body‑centered techniques that anyone can use to reclaim calm in overstimulated environments—an elegant reminder that creativity can be a therapeutic tool. The bestseller “I Deliver Parcels in Beijing” provides an unvarnished portrait of China’s gig economy, revealing the resilience of workers amid precarious conditions and prompting reflection on global labor inequities. A world map of influential ideas invites exploration of intellectual heritage, while the personal endorsement of the iPhone 17 Pro illustrates how evolving camera technology democratizes professional photography. Finally, the open‑source file converter Vert exemplifies privacy‑first design in a landscape cluttered with ad‑laden tools. Together, these pieces weave a narrative about everyday solutions, human resilience, and the power of accessible technology.",
+    "summary_zh": "本合集涵盖机场接送的便捷方案、艺术疗愈的自我调节技巧、揭示中国零工经济的真实写照、世界创意地图、iPhone 17 Pro 的摄影优势与 Vert 文件转换器的隐私设计，呈现日常解决方案与人性韧性。",
+    "best_quote_en": "These self‑soothing techniques can be used when engaging with any creative medium or media, helping you to find calm and rootedness even in the busiest, most stressful environments.",
+    "best_quote_zh": "我不知有别的书能像这本书一样，揭示中国从远处看去的“真实”纹理。"
+  },
+  {
+    "id": 189,
+    "title": "E Pur Si Muove",
+    "title_zh": "它仍在运动",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/e-pur-si-muove",
+    "tags": [
+      "solve",
+      "tech-trends",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "技术趋势",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2017-12-14",
+    "summary_en": "In “E Pur Si Muove,” the author uses the Italian phrase “and yet it moves” as a rallying cry to confront the growing suppression of dissent in Silicon Valley. He observes that the Bay Area’s culture has become so risk‑averse that even near‑consensus ideas are treated with suspicion, a trend he contrasts with the comparatively freer debate he experienced in Beijing. The article argues that restricting speech ultimately throttles the very ideas that drive technological breakthroughs, citing historical examples from Newton’s alchemy to modern biotech innovators who have left the region due to hostile reactions. By framing controversy as a necessary ingredient for progress, the author urges entrepreneurs to maintain an open forum where even “wacky” hypotheses can be debated, lest the next paradigm shift be stifled. The piece is a cautionary yet inspiring call to preserve the dialectic that fuels innovation, reminding readers that true breakthroughs often emerge from ideas once dismissed as heretical.",
+    "summary_zh": "在这篇文章中，作者以“E Pur Si Muove”为题，探讨了硅谷对异议的压制如何扼杀创新。作者指出，言论自由与技术突破密切相关，若将异议贴上“异端”标签，创意就会被抑制。通过对比北京与旧金山的文化差异，他提醒创业者在追求突破时，必须保持开放心态，敢于讨论甚至是被视为“荒诞”的想法。文章既警示又鼓舞，呼吁在技术与社会的交叉点上，保持对话与辩论，才能真正推动人类进步。",
+    "best_quote_en": "Restricting speech leads to restricting ideas and therefore restricted innovation—the most successful societies have generally been the most open ones.",
+    "best_quote_zh": "限制言论导致限制思想，进而限制创新——最成功的社会往往是最开放的。"
+  },
+  {
+    "id": 190,
+    "title": "Essentials: Effects of Fasting & Time Restricted Eating on Fat Loss & Health",
+    "title_zh": "要点：禁食与限时进食对减脂与健康的影响",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-effects-of-fasting-and-time-restricted-eating-on-fat-loss-and-health",
+    "tags": [
+      "solve",
+      "health-wellness",
+      "medicine",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "健康养生",
+      "医学健康",
+      "深度分析"
+    ],
+    "date": "2025-08-28",
+    "summary_en": "Huberman Lab’s latest Essentials episode dissects the science behind intermittent fasting and time‑restricted eating (TRE), weaving together metabolic pathways, circadian biology, and practical lifestyle design. The host explains how aligning an eating window with the body’s natural rhythm can amplify fat loss, enhance insulin sensitivity, and even promote cellular repair. Beyond theory, he offers a step‑by‑step framework for tailoring a TRE schedule to individual exercise, sleep, and social rhythms, and cautions on what truly breaks a fast—sugar, caffeine, and certain supplements. The episode also explores adjunctive tools such as salt intake, post‑meal walks, berberine, and metformin, grounding each recommendation in current research. For listeners, the takeaway is a data‑driven, actionable blueprint that turns fasting from a vague fad into a precise, personalized metabolic strategy. The discussion invites curiosity about how subtle timing tweaks can unlock long‑term health benefits, encouraging a deeper exploration of the interplay between nutrition, hormones, and circadian clocks.",
+    "summary_zh": "本期Huberman Lab Essentials以科学视角阐述间歇性禁食与限时进食（TRE），强调将进食窗口与昼夜节律同步，可显著提升代谢效率与脂肪燃烧。节目提供可操作的时间规划框架，兼顾运动、睡眠与社交需求，并讨论何种摄入会破坏禁食。作者还评估盐分、步行、熊果苷与二甲双胍等辅助工具，基于最新研究给出实用建议。整体而言，内容将禁食从流行趋势转化为可量化、个性化的代谢策略，激发听众深入探讨营养与节律之间的微妙互动。",
+    "best_quote_en": "The real power of time‑restricted eating lies not in calorie restriction alone, but in synchronizing our eating window with the body’s own circadian clock, turning metabolism into a finely tuned engine.",
+    "best_quote_zh": "限时进食的真正力量不在于单纯的热量限制，而在于将进食窗口与身体自身的昼夜节律同步，使新陈代谢成为精细调节的发动机。"
+  },
+  {
+    "id": 191,
+    "title": "Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More (#835)",
+    "title_zh": "Ben Patrick（KneesOverToesGuy）——20分钟训练带来惊人效果，从慢性膝痛到扣篮，来自Charles Poliquin的教训，防护下肢，及更多（#835）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/11/ben-patrick-kneesovertoesguy/",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "未来预测"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "Ben Patrick, known as the KneesOverToesGuy, shares how a 20‑minute, low‑impact routine transformed his chronic knee pain into a 42‑inch vertical leap, illustrating that movement science can overturn decades of orthopaedic dogma. Drawing from Charles Poliquin’s deep‑range philosophy, Patrick demonstrates backward sled pulls, ATG split squats, and tibialis strengthening as accessible, high‑yield interventions. The episode blends personal narrative—his mother’s age‑defying sprinting—with evidence‑based principles like the minimum‑effective dose and the 80/20 rule, offering a pragmatic roadmap for athletes and clinicians alike. Beyond technique, Patrick stresses balanced mobility across forward, backward, and vertical planes, challenging the conventional knee‑over‑toe prohibition. Listeners leave with actionable drills, a refreshed mindset, and a renewed belief that pain can be re‑engineered through deliberate, data‑driven movement.",
+    "summary_zh": "Ben Patrick（KneesOverToesGuy）以20分钟低冲击训练，逆转膝痛，跃升42英寸垂直跳，证明运动科学能打破传统骨科禁忌。他结合Charles Poliquin的深层训练理念，示范倒拉雪橇、ATG分腿蹲和胫前肌训练，提供可操作的高效练习。节目将个人故事与最小有效剂量、80/20法则等证据结合，给运动员与临床工作者一条实用路径。Patrick强调前后垂直各向平衡移动，挑战膝盖越过脚尖的禁令，让听众获得可落地动作、数据驱动思维与重新认识疼痛的可能。",
+    "best_quote_en": "Strength is gained in the range it is trained.",
+    "best_quote_zh": "力量是在训练的范围内获得的。"
   }
 ]
