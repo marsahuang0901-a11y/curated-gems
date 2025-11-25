@@ -1,73 +1,5 @@
 [
   {
-    "id": 92,
-    "title": "General and Surprising",
-    "title_zh": "",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/sun.html",
-    "tags": [
-      "guide",
-      "startup-strategy"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略"
-    ],
-    "date": "2025-10-29",
-    "summary_en": "",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
-    "id": 93,
-    "title": "The Sports-Betting Disaster",
-    "title_zh": "体育博彩灾难",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-sports-betting-disaster",
-    "tags": [
-      "analyze",
-      "science",
-      "legal",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "法律法规",
-      "数据驱动"
-    ],
-    "date": "2025-10-28",
-    "summary_en": "The piece dissects how the proliferation of prop bets—tiny, player‑specific wagers—has turned legalized sports gambling into a breeding ground for corruption. By tracing high‑profile cases from Terry Rozier to Malik Beasley, the author exposes the fragile safeguards that leagues rely on, such as integrity monitors and betting‑line surveillance, and argues that these systems are more reactive than preventive. The narrative underscores the paradox: the very profitability that drives leagues to legalize betting also incentivizes sportsbooks to keep prop markets alive, creating a conflict of interest that hampers transparent oversight. The article calls for stricter limits on prop offerings, especially for bench players, and highlights the need for independent monitoring that does not double as a data provider for the betting industry. It ultimately questions whether the “system is working” when scandals keep emerging, urging a re‑evaluation of how sports, betting, and regulation intersect.",
-    "summary_zh": "文章揭示了“prop”投注的爆炸式增长如何将合法化体育博彩变成腐败的温床，指出联盟对诚信监测的依赖并非防御，而是被动反应。作者通过高调案例，批判了利益冲突与监管盲点，呼吁更严格的投注限制与独立监督，以重塑公众对体育公正的信任。",
-    "best_quote_en": "If you’re a transnational criminal organization, you’re probably not placing bets on FanDuel.",
-    "best_quote_zh": "如果你是跨国犯罪组织，你很可能不会在 FanDuel 下单。"
-  },
-  {
-    "id": 94,
-    "title": "Print Workshop / Smart About Sharks",
-    "title_zh": "印刷工作坊 / 关于鲨鱼的智慧",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/print-workshop-smart-about-sharks/",
-    "tags": [
-      "guide",
-      "science",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2025-10-28",
-    "summary_en": "The article juxtaposes two seemingly disparate yet thematically unified books, offering a fresh lens on how hands‑on creativity and scientific curiosity can co‑exist in everyday reading. In the first half, Christine Schmidt’s *Print Workshop* is praised for its “step‑by‑step instructions, project templates, and illustrated project and resource guides” that demystify printmaking for novices while still inspiring seasoned artists to experiment. The second half spotlights Owen Davey’s *Smart About Sharks*, a visually arresting picture book that delivers bite‑sized facts—such as sharks existing 200 million years before dinosaurs—wrapped in a retro encyclopedic design. The review’s core insight is that both works serve as “jump‑off points” for creative and intellectual exploration, whether you’re crafting a home studio or feeding a child’s curiosity. By pairing a tactile craft guide with a science‑infused children’s book, the piece underscores the value of cross‑disciplinary learning and the power of accessible, high‑quality content to spark lifelong wonder.",
-    "summary_zh": "文章将两本看似迥异却同样富有启发性的书籍并列，展示手工创作与科学好奇如何在日常阅读中共舞。首先赞誉Christine Schmidt的《印刷工作坊》——其“逐步说明、项目模板与插图资源”让印刷技术对新人友好，同时激励经验丰富的艺术家大胆实验。随后介绍Owen Davey的《关于鲨鱼的智慧》，以复古百科全书式设计呈现鲨鱼早于恐龙200 万年的惊人事实，配以吸引眼球的纹理布封面。文章核心在于两本书都是“跳板”，无论是搭建家庭工作室还是激发儿童好奇心，都能点燃创造力与求知欲。",
-    "best_quote_en": "With step‑by‑step instructions, project templates, and illustrated project and resource guides, this book serves as both an exhaustive guide for the DIY‑er just starting out in printmaking, as well as a jumping‑off point for artists who need a nudge toward new ideas.",
-    "best_quote_zh": "这本书是为想要开始印刷的DIY者提供详尽指南，也是为需要新灵感的艺术家提供跳板。"
-  },
-  {
     "id": 95,
     "title": "DAVID SENRA: Daniel Ek, Spotify",
     "title_zh": "DAVID SENRA：Daniel Ek，Spotify",
@@ -2350,5 +2282,75 @@
     "summary_zh": "Ben Patrick（KneesOverToesGuy）以20分钟低冲击训练，逆转膝痛，跃升42英寸垂直跳，证明运动科学能打破传统骨科禁忌。他结合Charles Poliquin的深层训练理念，示范倒拉雪橇、ATG分腿蹲和胫前肌训练，提供可操作的高效练习。节目将个人故事与最小有效剂量、80/20法则等证据结合，给运动员与临床工作者一条实用路径。Patrick强调前后垂直各向平衡移动，挑战膝盖越过脚尖的禁令，让听众获得可落地动作、数据驱动思维与重新认识疼痛的可能。",
     "best_quote_en": "Strength is gained in the range it is trained.",
     "best_quote_zh": "力量是在训练的范围内获得的。"
+  },
+  {
+    "id": 192,
+    "title": "Can Trump’s Peace Initiative Stop the Congo’s Thirty-Year War?",
+    "title_zh": "特朗普的和平倡议能否终结刚果的三十年战争？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/12/01/can-trumps-peace-initiative-stop-the-congos-thirty-year-war",
+    "tags": [
+      "update",
+      "politics",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-11-24",
+    "summary_en": "The piece dissects the myth of Trump’s “peace” as a panacea for the D.R.C.’s protracted conflict, exposing the intricate web of tribal, colonial, and geopolitical forces that sustain it. By weaving first‑hand accounts from a Bukumu king, UN medics, militia fighters, and diplomats, Anderson shows how peace talks are more ceremonial than substantive—military presence, resource extraction, and regional rivalries eclipse diplomatic rhetoric. The narrative questions whether any external actor can impose lasting ceasefires when local actors, from the M23 to the Wazalendo, see war as a means to survival and profit. It also highlights the paradox of “neutrality” as survival, the role of U.S. and Qatar as opportunistic mediators, and the enduring legacy of colonial borders that continue to fuel violence. The article invites readers to reconsider simplistic narratives of peace and to grapple with the structural realities that make conflict a perpetual state in eastern Congo.",
+    "summary_zh": "文章揭露特朗普所谓的“和平”并非解药，深入剖析刚果冲突背后的族群、殖民与地缘政治交织。通过王者、医护、武装与外交官的亲身叙述，展示谈判多为仪式，实则军事占领与资源争夺主导。冲突被视为生存与利润的手段，外部力量难以施加持久停火。文章提醒读者反思简化的和平叙事，面对持续冲突的结构性根源。",
+    "best_quote_en": "The only way to survive in this minefield is to stay neutral.",
+    "best_quote_zh": "在这片战场上，唯一的生存之道就是保持中立。"
+  },
+  {
+    "id": 193,
+    "title": "The Merge",
+    "title_zh": "合并",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/the-merge",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2017-12-07",
+    "summary_en": "The article presents a compelling, forward‑looking critique of the so‑called AI singularity, reframing it as a gradual, co‑evolutionary merge between humans and machine intelligence. By arguing that the algorithms shaping our lives are now opaque to any single individual, the author underscores the emergent autonomy of AI systems that optimize in ways beyond human comprehension. This perspective challenges the conventional narrative of a singular, inevitable “singularity” event and instead points to a continuous, invisible transformation that is already unfolding—phones dictating actions, social media dictating emotions, search engines shaping thought. The piece urges global coordination and sober reflection, warning that unchecked progress will lead to superhuman AI, genetic enhancement, and brain‑machine interfaces that redefine humanity’s trajectory. It blends caution with a call to collective responsibility, suggesting that the merge is not merely a technological inevitability but a shared ethical imperative. The argument is rooted in the exponential growth of computing power and the expanding cohort of AI researchers, making the timeline for this convergence far sooner than many anticipate.",
+    "summary_zh": "作者以批判视角重新定义AI“奇点”，将其视为人机共进的渐进融合，强调算法已超出单人理解，正悄无声息地重塑我们的行为与思维。",
+    "best_quote_en": "The algorithms that make all this happen are no longer understood by any one person. They optimize for what their creators tell them to optimize for, but in ways that no human could figure out— they are what today seems like sophisticated AI, and tomorrow will seem like child’s play.",
+    "best_quote_zh": "这些让一切运转的算法已经不再被任何个人所理解。它们按照创造者告诉它们的目标进行优化，但以人类无法推断的方式——今天它们看起来像是复杂的AI，明天可能会显得像孩子的游戏。"
+  },
+  {
+    "id": 194,
+    "title": "Social Interaction Affects Memory",
+    "title_zh": "社交互动影响记忆",
+    "source": "Ulterior Motives (Art Markman Ph.D.)",
+    "link": "https://www.psychologytoday.com/us/blog/ulterior-motives/202509/social-interaction-affects-memory",
+    "tags": [
+      "guide",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-08",
+    "summary_en": "Recent experimental work by Sun et al. (2025) demonstrates that our memory is tuned to social context: dyads that face each other and display a positive affect are encoded more robustly than those facing away or expressing negative emotion. The authors argue that this bias reflects an adaptive heuristic: remembering socially engaged pairs increases the likelihood of encountering them again in a useful setting, thereby reducing future cognitive effort. The study’s design—simple perceptual tasks followed by surprise memory tests—clearly isolates social orientation as the variable of interest, while control trials with inanimate objects confirm that the effect is specific to social stimuli. Importantly, the findings challenge the notion that memory is a passive repository; instead, it actively prioritizes information that is expected to be useful. For researchers, this underscores the importance of incorporating social variables into memory paradigms, and for practitioners, it suggests that fostering positive social cues could enhance learning and recall in educational or workplace contexts.",
+    "summary_zh": "研究显示，面对面、情绪积极的社交对偶更易被记忆，说明记忆偏向于预见未来有价值的社交情境。实验设计严谨，控制非社交刺激，证实此效应特异性。此发现提醒我们，记忆并非被动存储，而是主动筛选可能降低未来认知负荷的信息。对科研者提示需在记忆研究中加入社交变量；对实践者则意味着通过营造积极社交氛围，可提升学习与工作记忆效果。",
+    "best_quote_en": "Memory is not just a mechanism for storing all of the information you encounter. Instead, it helps you to hold onto information that is likely to be useful for reducing effort in the future.",
+    "best_quote_zh": "记忆不仅仅是存储你遇到的所有信息的机制，而是帮助你保留那些可能在未来减少努力的有用信息。"
   }
 ]
