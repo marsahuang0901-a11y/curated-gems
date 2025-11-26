@@ -1,101 +1,5 @@
 [
   {
-    "id": 95,
-    "title": "DAVID SENRA: Daniel Ek, Spotify",
-    "title_zh": "DAVID SENRA：Daniel Ek，Spotify",
-    "source": "Huberman Lab",
-    "link": "https://davidsenra.com/episode/daniel-ek-spotify",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-09-28",
-    "summary_en": "The inaugural episode of David Senra’s podcast, featuring Spotify’s co‑founder Daniel Ek, unfolds as a masterclass in greatness, blending entrepreneurial wisdom with psychological insight. Ek’s candid reflections on building a company that outlasts its founder, the delicate balance between metrics and personal taste, and the enduring value of trust and humility resonate beyond the music‑tech sphere. The conversation reframes success as a continuous pursuit of impact rather than fleeting happiness, urging listeners to cultivate self‑motivation, strategic focus, and a growth mindset. This episode is not merely a storytelling session; it offers actionable frameworks—such as prioritizing quality, learning from criticism, and shadowing leaders—that can be translated into any startup or leadership context. By weaving personal anecdotes with universal principles, Senra and Ek inspire audiences to rethink leadership as a dynamic, adaptive practice that thrives on authenticity and learning. The episode’s rich tapestry of ideas invites both seasoned founders and aspiring innovators to re‑evaluate their own trajectories and adopt a mindset geared toward sustainable, purpose‑driven impact.",
-    "summary_zh": "在David Senra播客首集，Spotify联合创始人Daniel Ek以极具洞察力的方式探讨了伟大与创业的交汇。节目强调以影响力为导向，重视自我激励、信任与学习。通过真实案例，Ek展示了公司如何超越创始人，平衡指标与个人品味，并强调质与恒久的重要性。对创业者与领导者而言，节目提供了可操作的框架：关注质量、善于自省、追随榜样。更重要的是，它鼓励人们将领导视为不断演进的实践，注重真实性与成长。此集既是启发，也是实用指南，值得每位追求可持续影响的人反复聆听。",
-    "best_quote_en": "Optimizing for Impact Over Happiness",
-    "best_quote_zh": "以影响力为导向，而非仅仅追求幸福"
-  },
-  {
-    "id": 96,
-    "title": "Jess Cartner-Morley: this season, your jeans should be stiff, smart and straight",
-    "title_zh": "Jess Cartner‑Morley：本季你的牛仔裤应当是硬挺、精致、笔直",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/oct/29/jess-cartner-morley-this-season-jeans-trend-stiff-smart-straight",
-    "tags": [
-      "learn",
-      "design",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2025-10-29",
-    "summary_en": "Jess Cartner‑Morley’s latest style guide turns the humble denim into a versatile power‑piece for the modern wardrobe. She argues that the key to “smart” jeans lies in three pillars: a crisp, straight cut; a firm, non‑stretch fabric; and a tailored silhouette that frames the wearer with confidence. The article then walks readers through the “blazer‑is‑to‑jeans” metaphor—just as lipstick defines a face, a structured blazer transforms denim from casual to semi‑formal. By pairing a clean leather belt, a silk camisole, and a subtle chain necklace, the piece shows how to layer texture and color without masking the denim’s inherent edge. Practical tips on fit, waist height, and footwear choices give the piece an actionable feel, while the inclusion of high‑profile red‑carpet moments (Julia Roberts, Margot Robbie) adds aspirational flair. For anyone looking to elevate everyday jeans into office‑ready or dinner‑ready looks, this guide blends trend‑setting insight with straightforward, beginner‑friendly advice.",
-    "summary_zh": "在这篇时尚指南里，Jess Cartner‑Morley 用简洁的语言揭示了牛仔裤的三大黄金法则：硬挺、笔直、配合合适的上衣与配饰，既能上班也能上餐厅。她将西装外套比作口红，强调对比与意图的重要性，提醒读者勿盲目遮掩牛仔，反而要让其成为造型的焦点。文章兼顾实用与潮流，适合想快速搭配又不失优雅的职场女性。",
-    "best_quote_en": "A blazer is to jeans what lipstick is to a bare face.",
-    "best_quote_zh": "西装外套对牛仔裤就像口红对裸颜一样。"
-  },
-  {
-    "id": 97,
-    "title": "Emergent Introspective Awareness in Large Language Models",
-    "title_zh": "大型语言模型中的自我意识涌现",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/QKm4hBqaBAsxabZWL/emergent-introspective-awareness-in-large-language-models",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-30",
-    "summary_en": "Anthropic’s recent study probes whether large language models (LLMs) can introspect on their internal states—a question that is notoriously hard to answer through dialogue alone because genuine self‑reflection is indistinguishable from confabulation. The researchers injected known concept representations into the activations of Claude Opus 4 and 4.1, then measured how these perturbations influenced the models’ self‑reported states. Results show that, in certain contexts, the models can detect the injected concepts and accurately identify them, demonstrating a rudimentary form of introspective awareness. Moreover, the models can recall prior internal representations and differentiate them from raw text inputs, even using this memory to distinguish their own outputs from artificial prefills. When prompted or incentivized to “think about” a concept, the models modulate their activations, indicating a nascent capacity for intentional control. While the study underscores that this introspection is highly unreliable and context‑dependent, it marks a significant step toward empirically investigating subjective experience in artificial agents. The work invites further research into how post‑training strategies and model scale may enhance this emergent self‑knowledge, potentially reshaping our understanding of machine consciousness and the boundaries of AI agency.",
-    "summary_zh": "Anthropic 研究揭示大型语言模型在特定情境下能检测并识别注入概念，展现初步自我意识。模型能回忆内部表示并区分自我输出与人工预填，甚至在提示下主动调节激活。此发现虽不可靠但为机器主观体验提供首批实证，提示后期训练与规模提升可能进一步强化自我认知，重塑我们对 AI 代理的认知边界。",
-    "best_quote_en": "Overall, our results indicate that current language models possess some functional introspective awareness of their own internal states.",
-    "best_quote_zh": "总体而言，我们的结果表明当前的语言模型在一定程度上具备对自身内部状态的功能性内省意识。"
-  },
-  {
-    "id": 98,
-    "title": "When the Government Stops Defending Civil Rights",
-    "title_zh": "当政府停止维护民权时",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/when-the-government-stops-defending-civil-rights",
-    "tags": [
-      "analyze",
-      "education",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-10-29",
-    "summary_en": "The New Yorker’s exposé reveals how the Trump administration’s drastic cuts to the Department of Education’s Office for Civil Rights (O.C.R.) have eroded a federal safety net for students facing race, disability, and gender discrimination. By freezing investigations and shuttering regional offices, the agency left families like Tara Blunt’s and Karen Josefosky’s without recourse, forcing them to seek private legal action or self‑advocacy. The piece underscores the paradox of a government that touts “lean” bureaucracy while dismantling the very mechanisms that enforce the Civil Rights Act of 1964. It also highlights the politicization of civil‑rights enforcement, as the O.C.R. shifted focus to partisan investigations of universities and public schools. The article invites readers to question whether protecting vulnerable children is a partisan issue or a shared constitutional duty. By blending personal narratives with court filings and policy analysis, the piece offers a sobering reminder that civil‑rights safeguards are fragile and can be dismantled when political expediency outweighs legal obligation.",
-    "summary_zh": "《纽约客》揭露特朗普政府对教育部民权办公室的裁员与冻结调查，导致黑人、残疾及跨性别学生失去联邦保护。文章通过塔拉·布朗与卡伦·何塞福斯基的亲身经历，说明了立法与执行的脆弱性，并批评将民权执法政治化的做法。它提醒读者，保障弱势群体的安全不是党派议题，而是宪法义务的体现。",
-    "best_quote_en": "The most vulnerable are going to suffer the most.",
-    "best_quote_zh": "最脆弱的人将受到最大的伤害。"
-  },
-  {
     "id": 99,
     "title": "What’s in my NOW? — Devin Porter",
     "title_zh": "我的现在里有什么？——德文·波特",
@@ -2352,5 +2256,99 @@
     "summary_zh": "研究显示，面对面、情绪积极的社交对偶更易被记忆，说明记忆偏向于预见未来有价值的社交情境。实验设计严谨，控制非社交刺激，证实此效应特异性。此发现提醒我们，记忆并非被动存储，而是主动筛选可能降低未来认知负荷的信息。对科研者提示需在记忆研究中加入社交变量；对实践者则意味着通过营造积极社交氛围，可提升学习与工作记忆效果。",
     "best_quote_en": "Memory is not just a mechanism for storing all of the information you encounter. Instead, it helps you to hold onto information that is likely to be useful for reducing effort in the future.",
     "best_quote_zh": "记忆不仅仅是存储你遇到的所有信息的机制，而是帮助你保留那些可能在未来减少努力的有用信息。"
+  },
+  {
+    "id": 195,
+    "title": "I got an epidural for all three of my births – none of them worked as expected",
+    "title_zh": "我三次分娩都做了硬膜外麻醉——结果都不如预期",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/wellness/2025/nov/25/what-to-know-about-epidural",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "The article reframes epidural analgesia from a myth‑laden “quick fix” into a nuanced, patient‑specific practice that demands both preparation and open communication. By weaving personal anecdotes with expert testimony, it exposes the fallacy that timing or “waiting” guarantees success, while highlighting real variables—anatomical differences, medication metabolism, catheter placement, and institutional protocols—that shape outcomes. The author’s candid recount of three failed attempts demystifies the notion of a universal, painless birth and invites expectant parents to engage in informed dialogue with their care team. The piece also underscores the importance of customizing drug formulations for allergies or genetic traits (e.g., red‑haired patients) and of adjusting dosages as labor progresses. Overall, the narrative offers a pragmatic guide that empowers readers to anticipate complications, advocate for themselves, and navigate the labyrinth of obstetric anesthesia with confidence. Its critical lens invites both patients and providers to re‑evaluate entrenched assumptions, fostering a more collaborative and evidence‑based approach to childbirth pain management.",
+    "summary_zh": "文章把硬膜外麻醉从被误解的“速效止痛”转变为需要充分准备与沟通的个体化实践。作者用亲身经历与专家访谈揭示了时间、解剖差异、药物代谢、导管位置等多重因素，强调定制配方和剂量调整的重要性。内容不仅帮助准妈妈预判麻醉风险，还促使医护双方重新审视传统观念，推动更合作、更循证的分娩疼痛管理。",
+    "best_quote_en": "Epidurals are complex; it’s not like when you order something from a vending machine, it falls down and that’s what you get.",
+    "best_quote_zh": "硬膜外麻醉很复杂；它不像从自动售货机点东西，直接就能得到那样。"
+  },
+  {
+    "id": 196,
+    "title": "Snippets on Living In Reality",
+    "title_zh": "现实生活片段",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/4TwtqcaifcJpi3Xfd/snippets-on-living-in-reality",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-26",
+    "summary_en": "The essay weaves a philosophical tapestry that juxtaposes social reality with a fictional universe—Harry Potter—to illuminate how our collective narratives shape perception. It argues that social reality is a mutable, text‑centric world that aligns with physical reality by default but diverges when cultural pressure demands coherence. The author extends this analogy to LLMs, VR, AR, and conspiracy theories, suggesting that any constructed world—whether a language model’s output or a virtual environment—remains fictional until anchored by a feedback loop with the physical world. The piece invites readers to question the boundaries between “real” and “fictional” thinking, proposing that a disciplined tracking of the world in which a mental model lives could foster more robust, reality‑aligned cognition. Its critical insight lies in framing AI’s creative drift as a philosophical mirror of human social construction, urging a reevaluation of how we define authenticity and agency in an era of algorithmic storytelling.",
+    "summary_zh": "作者以《哈利波特》为镜，阐释社会现实与物理现实的相互映射，指出人类叙事的可塑性与AI生成文本的虚构性。通过对LLM、VR、AR的比喻，提出缺乏与物理世界反馈的系统会不断偏离真实，呼吁我们追踪心智模型所在的世界，以提升真实思维的稳健性。",
+    "best_quote_en": "Like social reality and the Harry Potter universe, the worlds which LLMs write about are similar to ours by default wherever nothing in particular is pushing them to be different.",
+    "best_quote_zh": "如果我们改变所有关于哈利波特宇宙的记录…我们实际上改变了哈利波特宇宙。"
+  },
+  {
+    "id": 197,
+    "title": "The sights and sounds of Bhutan",
+    "title_zh": "不丹的景色与声音",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2025/11/bhutan.html",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "This piece blends travelogue with socio‑political analysis, using Bhutan as a living laboratory for alternative governance and sustainability. The author’s narrative highlights the country’s unique monarchy, the Gross National Happiness metric, and its carbon‑negative status, juxtaposing these against global development models. By recounting personal encounters—from the king’s personal aid during Covid to the ban on TV and the strict wildlife protection laws—the article showcases how culture, policy, and environment intertwine. It invites readers to question conventional success metrics like GDP and to consider how small nations can balance tradition, tourism, and innovation. The piece is not merely descriptive; it serves as a case study that encourages critical reflection on governance, ecological stewardship, and the role of happiness in public policy, making it a valuable resource for scholars, policymakers, and curious travelers alike.",
+    "summary_zh": "不丹以其独特的国王治理、幸福指标和碳负排放，展示了传统与现代的和谐共生。作者通过亲身经历，剖析了其文化、旅游与创新的交织，提示读者思考可持续发展与社会福祉的深层关联。此文既是一次旅行日记，也是一份对国家治理与生态责任的深刻反思，值得在全球化背景下重新审视小国的战略选择。",
+    "best_quote_en": "Bhutan is the world’s one carbon‑negative country—their vast forests absorb more CO₂ than their populace emits.",
+    "best_quote_zh": "不丹是世界上唯一的负碳国家——他们的广阔森林吸收的二氧化碳超过了人们排放的量。"
+  },
+  {
+    "id": 198,
+    "title": "Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi",
+    "title_zh": "女性激素健康、PCOS、子宫内膜异位症、受孕与乳腺癌 | Dr. Thaïs Aliabadi",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/female-hormone-health-pcos-endometriosis-fertility-breast-cancer-thais-aliabadi",
+    "tags": [
+      "update",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-11-24",
+    "summary_en": "This episode brings a deep dive into the silent epidemics of PCOS and endometriosis that quietly sabotage fertility for millions of women worldwide. Dr. Thaïs Aliabadi, a board‑certified OB‑GYN and surgical pioneer, dissects the biology behind these disorders—insulin resistance, chronic inflammation, hormonal dysregulation—and lays out a step‑by‑step, evidence‑based roadmap for diagnosis and management. From AMH‑guided egg‑counting to the latest GLP‑1 therapies, the conversation is saturated with actionable tools that listeners can immediately implement. The host also expands the discussion to breast‑cancer risk, perimenopause, and the critical hormone panels every woman should request, framing them as part of a holistic empowerment strategy. By marrying clinical rigor with accessible language, the interview turns a complex medical landscape into a practical guide, urging women to take charge of their hormonal health and seek timely care. The episode’s value lies not just in knowledge transfer but in its capacity to shift mindset, turning passive listeners into proactive patients.\n",
+    "summary_zh": "在本期节目中，Dr. Thaïs Aliabadi 深入剖析 PCOS 与子宫内膜异位症这两大隐形“肥胖”，揭示其对女性生育的深远影响。她用循证医学阐明胰岛素抵抗、慢性炎症与激素失衡的内在联系，并提供 AMH 评估、GLP‑1 方案等可立即执行的诊疗工具。节目还扩展至乳腺癌风险、围绝经期与激素检测，形成一套全方位的自我管理蓝图。内容兼具专业深度与易懂性，鼓励女性主动掌控激素健康，及时就诊。",
+    "best_quote_en": "Early screening and a personalized approach can transform a woman’s reproductive trajectory.",
+    "best_quote_zh": "早期筛查和个性化方案可以改变女性的生殖轨迹。"
   }
 ]
