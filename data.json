@@ -1,53 +1,5 @@
 [
   {
-    "id": 99,
-    "title": "What’s in my NOW? — Devin Porter",
-    "title_zh": "我的现在里有什么？——德文·波特",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-devin-porter/",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "leadership",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "领导管理",
-      "深度分析"
-    ],
-    "date": "2025-10-29",
-    "summary_en": "Devin Porter, a former pro poker player turned life coach, uses the sharp observation skills honed at the tables and strategic thinking from a Fortune 100 firm to help clients untangle personal patterns and chart clear next moves. His post blends practical self‑care tools—candles scented like fictional worlds, a Simpson‑styled family portrait, a daily crossword, and a coaching podcast—with a philosophical lens. The central insight, “Easy decision, hard life. Hard decision, easy life,” frames the entire narrative, urging readers to confront discomfort now for long‑term ease. Porter’s value lies in translating game‑theory tactics into everyday decision‑making, offering readers a mix of actionable habits, case‑study inspiration, and a roadmap for cultivating presence. The piece invites a curious audience of aspiring coaches, business leaders, and self‑improvement seekers to explore how disciplined choices can reshape their future, making the content both a guide and a call to action.",
-    "summary_zh": "德文·波特将扑克桌上的读人技巧与大公司战略思维相结合，帮助人们识别模式并制定下一步行动。文章结合香氛蜡烛、卡通肖像、每日填字和教练播客等实用工具，围绕“轻松决策，艰难人生；艰难决策，轻松人生”这一哲学句子展开，强调当下的艰难选择能为未来带来轻松。内容兼具案例启示、可操作习惯和成长路线，适合想成为教练、企业领袖或自我提升者的读者。",
-    "best_quote_en": "Easy decision, hard life. Hard decision, easy life.",
-    "best_quote_zh": "轻松决策，艰难人生；艰难决策，轻松人生。"
-  },
-  {
-    "id": 100,
-    "title": "Essentials: Using Your Nervous System to Enhance Your Immune System",
-    "title_zh": "使用神经系统提升免疫力的要点",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-nervous-system-immune-system",
-    "tags": [
-      "learn",
-      "medicine",
-      "psychology",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "医学健康",
-      "心理学",
-      "新手友好"
-    ],
-    "date": "2025-09-25",
-    "summary_en": "Huberman Lab’s Essentials episode dissects the intimate dialogue between the nervous and immune systems, revealing how breathing patterns, sleep posture, targeted supplements, and mindset converge to boost immunity. He walks listeners through the three layers of immune defense—innate, mucosal, and adaptive—highlighting how each layer can be nudged by simple, evidence‑based practices. Practical tools such as nasal breathing drills, elevating the feet to aid the glymphatic system, and early‑symptom hyperventilation protocols are paired with nutritional suggestions like spirulina and fermented foods. The episode underscores the powerful role of the vagus nerve and dopamine‑driven mindset in accelerating recovery, making complex physiology accessible to anyone eager to take proactive control of their health. For health enthusiasts, clinicians, or curious beginners, the content blends cutting‑edge research with actionable steps that can be incorporated into daily routines.",
-    "summary_zh": "Huberman Lab 通过阐述免疫与神经系统的互作，揭示呼吸、睡姿、补剂与心态如何共同提升免疫力。内容结合最新研究，提供可操作的呼吸技巧、睡眠姿势与营养建议，帮助听众在日常中主动调节免疫功能，并强调情绪与神经激活对康复的关键影响。作者以通俗易懂的方式将复杂机制拆解，既适合医学爱好者，也适合想提升健康的普通人。",
-    "best_quote_en": "Mindset and nervous system activation can directly influence the body's ability to heal.",
-    "best_quote_zh": "心态和神经系统的激活可以直接影响身体的自愈能力。"
-  },
-  {
     "id": 101,
     "title": "Resampling Conserves Redundancy & Mediation (Approximately) Under the Jensen-Shannon Divergence",
     "title_zh": "重采样在Jensen–Shannon散度下保持冗余与中介（大致）",
@@ -2350,5 +2302,51 @@
     "summary_zh": "在本期节目中，Dr. Thaïs Aliabadi 深入剖析 PCOS 与子宫内膜异位症这两大隐形“肥胖”，揭示其对女性生育的深远影响。她用循证医学阐明胰岛素抵抗、慢性炎症与激素失衡的内在联系，并提供 AMH 评估、GLP‑1 方案等可立即执行的诊疗工具。节目还扩展至乳腺癌风险、围绝经期与激素检测，形成一套全方位的自我管理蓝图。内容兼具专业深度与易懂性，鼓励女性主动掌控激素健康，及时就诊。",
     "best_quote_en": "Early screening and a personalized approach can transform a woman’s reproductive trajectory.",
     "best_quote_zh": "早期筛查和个性化方案可以改变女性的生殖轨迹。"
+  },
+  {
+    "id": 199,
+    "title": "The Ronco Principle",
+    "title_zh": "罗恩科原则",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ronco.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-11-27",
+    "summary_en": "Ron Conway’s story is a masterclass in how benevolence can be a strategic asset in venture capital. The article argues that the modern startup ecosystem’s transparency and rapid change make it impossible to feign kindness; genuine upstanding behavior is rewarded with referrals, trust, and ultimately higher returns. Conway’s success illustrates that the most profitable investors are also the most ethical, a trend that has emerged as the market has become more data‑rich and interconnected. The piece blends anecdote, data‑driven insight, and a forward‑looking perspective, encouraging founders and investors alike to prioritize integrity over short‑term gains. It challenges the myth that ruthless tactics win, showing instead that long‑term influence and network effects hinge on reputation. The analysis invites readers to rethink the role of character in startup funding, suggesting that ethical conduct is not a moral nicety but a competitive advantage that shapes the future of entrepreneurship.",
+    "summary_zh": "罗恩科原则揭示，善良已成为风险投资的战略资产。透明度与快速变革让人无法假装善良，真正的正直赢得信任、推荐和更高回报。文章以案例与数据论证，呼吁创投者把诚信视为竞争优势，重新定义创业生态的未来。",
+    "best_quote_en": "In a sufficiently connected and unpredictable world, you can't seem good without being good.",
+    "best_quote_zh": "在一个高度互联且不可预测的世界里，你无法假装善良而不是真正善良。"
+  },
+  {
+    "id": 200,
+    "title": "How to Simplify Your Life in 2026 — New Tips from Derek Sivers, Seth Godin, and Martha Beck (#837)",
+    "title_zh": "2026年简化生活的秘诀——来自德里克·西弗斯、塞思·高登和玛莎·贝克的新建议（第837集）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/26/how-to-simplify-your-life/",
+    "tags": [
+      "solve",
+      "writing-content",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "写作内容",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-26",
+    "summary_en": "In a brisk, interview‑style episode, Tim Ferriss brings together three thought leaders to dissect the art of simplification. Derek Sivers advocates a first‑principles mindset that strips away default settings, while Seth Godin proposes a handful of hard rules to focus professional effort. Martha Beck underscores the power of a single radical commitment to carve out peace and meaning. The episode offers a trio of actionable frameworks that feel both accessible and deeply resonant. Yet the discussion leans heavily on anecdotal wisdom, leaving empirical grounding thin. The real value lies in the clarity of each perspective and the invitation to experiment with minimalism in 2026. For listeners eager to prune complexity, the episode sparks curiosity and provides a roadmap worth testing in practice.",
+    "summary_zh": "在这集简洁的访谈中，Tim Ferriss邀请了三位思想领袖：德里克·西弗斯提倡从第一原理出发，剔除默认设置；塞思·高登提出几条硬规则，聚焦专业工作；玛莎·贝克强调一次性重大承诺的力量。三套思路既实用又富启发，但缺乏实证支撑。它们提醒我们，简化不是抽象概念，而是可操作的生活策略，值得在2026年尝试。",
+    "best_quote_en": "What are 1-3 decisions that could dramatically simplify my life in 2026?",
+    "best_quote_zh": "有哪些 1-3 个决定能在 2026 年显著简化我的生活？"
   }
 ]
