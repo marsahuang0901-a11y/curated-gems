@@ -1,99 +1,5 @@
 [
   {
-    "id": 101,
-    "title": "Resampling Conserves Redundancy & Mediation (Approximately) Under the Jensen-Shannon Divergence",
-    "title_zh": "重采样在Jensen–Shannon散度下保持冗余与中介（大致）",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/JXsZRDcRX2eoWnSxo/resampling-conserves-redundancy-and-mediation-approximately",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-31",
-    "summary_en": "This paper revisits a previously published claim that resampling latent variables preserves redundancy and introduces a rigorous proof using the Jensen–Shannon (JS) divergence instead of the more common Kullback–Leibler (KL) divergence. By leveraging JS’s metric properties and its interpretation as mutual information, the authors demonstrate that a latent variable defined by conditioning on one of the original redundancy diagrams achieves zero error for one factorization while bounding the other factorizations within a tight function of the original errors. The result is a set of explicit inequalities: ϵΓ₁=0 and ϵΓ₂, ϵΓmed ≤ (2√ϵ₁+√ϵ₂)², offering a more nuanced understanding than the earlier KL-based bound. The work underscores the importance of choosing an appropriate error metric when comparing distributions in latent variable models and suggests that JS may provide a more faithful measure for natural latent structure. Its implications reach beyond theory, guiding practical design of generative models and informing future research on error functions in probabilistic modeling.",
-    "summary_zh": "本文用Jensen–Shannon散度重构了先前关于重采样保持冗余的论证，证明了在该度量下可实现零误差的冗余因子，并给出了对其他因子的紧致上界。作者强调选择合适的误差函数对自然潜在结构的评估至关重要，并指出JS在捕捉分布差异时的优势。此结果不仅提升了理论严谨性，也为生成模型的实际设计提供了可操作的指导，推动未来对潜在变量误差度量的深入研究。",
-    "best_quote_en": "Jensen‑Shannon divergence is equivalent to the mutual information between X, a variable randomly sampled from one of the distributions, and Z, an indicator which determines the distribution X gets sampled from.",
-    "best_quote_zh": "Jensen‑Shannon散度等价于X与Z之间的互信息，其中Z指示X从哪一个分布采样。"
-  },
-  {
-    "id": 102,
-    "title": "The Trump Outrages That Matter Most",
-    "title_zh": "特朗普最重要的愤怒事件",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/the-trump-outrages-that-matter-most",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-10-30",
-    "summary_en": "In a journalistic‑style recap of President Trump’s second‑term excesses, the piece catalogs a litany of policy overreaches—from the East Wing demolition to the politicization of the military—through a mosaic of scholars, former officials, and commentators.  The author frames these acts as a “battle‑damage assessment,” highlighting how Trump’s rhetoric and unilateral decisions erode institutional checks while amplifying intimidation tactics.  By juxtaposing expert testimony with public outrage, the article exposes a pattern of executive overreach that, despite widespread condemnation, persists because of systemic inertia and a lack of decisive counter‑action.  The piece is both a sobering critique and a call to vigilance, urging readers to recognize the subtle erosion of democratic norms and to demand concrete safeguards.  It offers a data‑driven, case‑study approach that blends analytical depth with actionable insight, making it a valuable resource for scholars, policymakers, and engaged citizens alike.",
-    "summary_zh": "文章以记者视角回顾特朗普在第二任期内的极端举措，揭示其对制度、军队与社会的政治化。作者收集学者、官员和评论员的声音，形成一幅关于权力滥用、恐吓与制度崩解的“战损评估”。文章强调，尽管行动已被普遍谴责，缺乏有效制衡导致其持续。作者呼吁公众对“无声的侵蚀”保持警惕，并以案例研究的方式呈现，既具学术深度，又具可操作性。",
-    "best_quote_en": "The most surprising—and it shouldn’t have been—was how well intimidation works.",
-    "best_quote_zh": "最令人惊讶的——而且不该如此——是恐吓的效果如此之好。"
-  },
-  {
-    "id": 103,
-    "title": "Portland Prepares for Invasion",
-    "title_zh": "波特兰为入侵做准备",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/portland-prepares-for-invasion",
-    "tags": [
-      "solve",
-      "politics",
-      "legal",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "法律法规",
-      "争议观点"
-    ],
-    "date": "2025-10-31",
-    "summary_en": "The article paints a vivid picture of Portland’s ICE headquarters as a flashpoint for the Trump administration’s rhetoric and a battleground for protestors and counter‑protestors. Mayor Keith Wilson’s visit exposes the chaotic, unplanned state of the facility—broken HVAC, overflowing dumpsters, and a lack of clear objectives—contrasting sharply with the administration’s portrayal of a “war‑zone.” The piece juxtaposes the administration’s dramatic claims with on‑the‑ground realities, underscoring how media narratives can distort public perception. Interviews with local police, activists, and former federal officers reveal a complex ecosystem of distrust, civil‑rights concerns, and a persistent push for de‑escalation. The article also highlights the broader societal divide, showing how a single block can be inflated into a national crisis. Ultimately, it invites readers to question the legitimacy of federal intervention and to consider the nuanced, often contradictory, realities of protest politics in America today.",
-    "summary_zh": "文章以波特兰ICE总部为核心，揭示特朗普政府的戏剧化言辞与当地抗议者之间的激烈对峙。市长访视暴露设施混乱、缺乏目标，与政府“战区”宣称形成鲜明对比。作者通过多方访谈，呈现局势的复杂性与社会分裂，提醒读者质疑联邦干预的合法性，并关注抗议政治的多重面向。",
-    "best_quote_en": "The characterization of ‘the city is on fire’ or ‘a war zone’ is not accurate.",
-    "best_quote_zh": "‘城市正在燃烧’或‘战区’的描述并不准确。"
-  },
-  {
-    "id": 104,
-    "title": "Cheaper Holiday Flights/Most Powerful Passports/Corporate Good Guys",
-    "title_zh": "更便宜的假日航班/最强护照/企业好人",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/cheaper-holiday-flights-most-powerful-passports-corporate-good-guys/",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "personal-finance",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "个人理财",
-      "数据驱动"
-    ],
-    "date": "2025-10-30",
-    "summary_en": "This concise newsletter stitches together four timely travel insights that blend economics, psychology, and sustainability. First, it highlights a sharp 19‑percent dip in domestic U.S. holiday fares, pinpointing Florida, Dallas, and Cancun as sweet spots—an actionable cue for budget‑savvy travelers. Next, a simple sleep‑tech hack—eye mask, noise‑canceling earbuds, and a mellow playlist—demonstrates how behavioral cues can transform a cramped economy seat into a quick nap, offering a low‑cost productivity boost. The passport ranking segment flips expectations, revealing Singapore, South Korea, and Japan as the most powerful passports and noting the U.S. slipping to 12th place, prompting readers to reassess visa‑free strategies. Finally, the Patagonia case study celebrates responsible fashion, showcasing lifetime guarantees, trade‑in credits, and on‑site repairs that align luxury with sustainability. Together, these snippets serve as a guide for travelers seeking cost savings, comfort, and ethical consumption, while encouraging a broader reflection on how individual choices ripple across global mobility and environmental stewardship.",
-    "summary_zh": "本简报聚合四个旅行洞见：美国假日机票大幅下跌，提供实用省钱节点；睡眠小技巧让经济舱也能快速入睡；护照排名惊现新星，提示签证策略需更新；Patagonia案例凸显可持续时尚，倡导责任消费。整体为旅行者提供省钱、舒适与环保的实用指南。",
-    "best_quote_en": "For the first time since the index started 20 years ago, the U.S. passport dropped out of the top‑10 and now sits at #12.",
-    "best_quote_zh": "我把眼罩戴上，插上降噪耳塞，然后播放我“睡眠专辑”之一。"
-  },
-  {
     "id": 105,
     "title": "Please Fund More Science",
     "title_zh": "请更多资助科学",
@@ -2348,5 +2254,99 @@
     "summary_zh": "在这集简洁的访谈中，Tim Ferriss邀请了三位思想领袖：德里克·西弗斯提倡从第一原理出发，剔除默认设置；塞思·高登提出几条硬规则，聚焦专业工作；玛莎·贝克强调一次性重大承诺的力量。三套思路既实用又富启发，但缺乏实证支撑。它们提醒我们，简化不是抽象概念，而是可操作的生活策略，值得在2026年尝试。",
     "best_quote_en": "What are 1-3 decisions that could dramatically simplify my life in 2026?",
     "best_quote_zh": "有哪些 1-3 个决定能在 2026 年显著简化我的生活？"
+  },
+  {
+    "id": 201,
+    "title": "The 15 US gifts to give the women in your life",
+    "title_zh": "送给你生命中女性的15款美国礼物",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/thefilter-us/2025/nov/27/best-gifts-ideas-for-women",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-11-27",
+    "summary_en": "The Guardian’s gift‑guide article offers a carefully curated list of fifteen U.S. gifts that balance sentiment with practicality for women in various roles—mom, sister, wife, friend. By weaving in personal anecdotes, the piece moves beyond generic “nice‑to‑have” items, instead spotlighting thoughtful choices such as a silk sleep mask that improves sleep quality, a Kindle that nurtures a lifelong reading habit, and a smart speaker that brings convenience to everyday life. The article also taps into experiential insights, citing real users who describe how each item has become indispensable or emotionally meaningful. This blend of product details and human stories turns a simple shopping list into a guide that encourages readers to listen to their loved ones’ unspoken desires and to choose gifts that enhance well‑being and daily comfort. The piece serves as both a practical resource and a reminder that the best gifts combine utility with personal touch.",
+    "summary_zh": "文章通过真实故事与产品细节，精选15款美国礼物，既满足情感需求，又兼顾实用性。它把礼物购物变成一种聆听与关怀的过程，提醒我们最好的礼物是既有用又贴心。",
+    "best_quote_en": "The Kindle’s glare‑free screen, long battery life and lightweight feel will invite her to take it everywhere.",
+    "best_quote_zh": "她的情绪支持水瓶已经见过更好的日子。这个重型的Yeti将成为她旋转中的即时最爱。"
+  },
+  {
+    "id": 202,
+    "title": "Apps for China Travel/Airline Stopovers/Unlimited Budget Flights",
+    "title_zh": "中国旅行/航空中转/无限预算航班的必备应用",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/apps-for-china-travel-airline-stopovers-unlimited-budget-flights/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "writing-content"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "写作内容"
+    ],
+    "date": "2025-11-27",
+    "summary_en": "Traveling to China demands a specialized toolkit—VPNs, eSIMs, and travel apps that survive the Great Firewall. The article catalogs practical solutions: Kevin Kelly’s vetted list of apps, the mixed verdict on Express VPN versus Total VPN, and the convenience of Airalo’s built‑in eSIM. It then pivots to cost‑saving strategies, spotlighting airline stopovers that let travelers stay overnight in hub cities, and the 2023 guide to official stopover programs. A side chapter reminds readers that sustainable hospitality matters; choosing eco‑friendly resorts or even a beekeeping safari can offset food‑chain threats. Finally, the piece highlights Frontier’s GoWild All‑You‑Can‑Fly Pass—an $349 deal that spans 2027, ideal for spontaneous flyers. Together, the post blends actionable travel hacks with broader environmental and economic insights, inviting readers to plan smarter, fly cheaper, and travel responsibly.",
+    "summary_zh": "文章揭示了中国旅行的必备工具：VPN、eSIM与专门的旅行应用，并评估了Express VPN与Total VPN的表现。随后讨论了通过航空中转省钱的策略，并列出官方中转城市。文章还提醒读者关注可持续酒店与蜂蜜旅游，强调生态友好型住宿的重要性。最后介绍了Frontier的GoWild全程飞行通行证，价格低至349美元，覆盖至2027年，适合冲动型旅客。整体兼顾实用技巧与环保与经济视角，鼓励更聪明、更低价、更负责任的旅行。",
+    "best_quote_en": "You can counter this by seeking out hotels that try to aid the environment instead of destroying it.",
+    "best_quote_zh": "你可以通过寻找试图帮助环境而不是破坏环境的酒店来抵消这一点。"
+  },
+  {
+    "id": 203,
+    "title": "American Equity",
+    "title_zh": "美国股权",
+    "source": "Sam Altman's Blog",
+    "link": "https://blog.samaltman.com/american-equity",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2017-11-27",
+    "summary_en": "American Equity proposes a radical yet pragmatic re‑imagining of the nation’s wealth distribution: every adult citizen receives an annual share of the U.S. GDP.  The idea hinges on the belief that aligning individual prosperity with national performance will unleash collective ambition, reduce inequality, and smooth the transition to a post‑automation economy.  By framing the United States as a joint‑stock company, the author argues that a “floor‑with‑no‑ceiling” social contract can replace the current tax‑and‑transfer system, encouraging more inclusive growth while still rewarding innovation.  The proposal is both aspirational and concrete, suggesting modest initial payouts that scale with GDP per capita and calling for a careful design of transferability, borrowing, and policy integration.  Critics might question the feasibility of implementing such a system amid political polarization and administrative complexity, yet the concept invites a broader debate about shared ownership, economic resilience, and the moral economy of the 21st‑century United States.",
+    "summary_zh": "美国股权提出每位成年公民获得GDP份额的大胆方案，旨在将个人繁荣与国家绩效绑定，激发集体创造力，缓解不平等，并顺利过渡到后自动化时代。",
+    "best_quote_en": "If everyone benefits more directly from economic growth, then it will be easier to move faster toward this better world.",
+    "best_quote_zh": "如果每个人能更直接地从经济增长中获益，那么更快迈向更美好的世界就会变得更容易。"
+  },
+  {
+    "id": 204,
+    "title": "Science & Health Benefits of Belief in God & Religion | Dr. David DeSteno",
+    "title_zh": "科学与健康：信仰上帝与宗教的益处 | 迪斯托诺博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/science-and-health-benefits-of-belief-in-god-and-religion-dr-david-desteno",
+    "tags": [
+      "learn",
+      "science",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2025-08-25",
+    "summary_en": "In this episode, Dr. David DeSteno bridges the gap between empirical science and the perennial questions of faith, offering a nuanced view of how religious belief and practice intersect with mental and physical well‑being. He systematically reviews the evidence that ritual, prayer, and gratitude function as powerful psychosocial interventions—reducing stress, fostering honesty and compassion, and shielding individuals from loneliness and despair. The discussion moves beyond the metaphysical debate about God’s existence to the concrete, measurable benefits that organized and informal religious communities provide. Dr. DeSteno also distinguishes healthy faith practices from cultic dynamics, and he contextualizes modern spiritual movements like 12‑step programs and Burning Man within this framework. By weaving rigorous data with experiential anecdotes, the conversation invites listeners to critically assess their own beliefs and to consider how structured rituals can be intentionally incorporated into daily life for holistic health.",
+    "summary_zh": "在本期节目中，德斯托诺博士把科学与信仰的永恒问题结合起来，系统阐述宗教仪式、祈祷与感恩如何显著降低压力、提升诚实与同情，并抵御孤独与绝望。他区分健康的宗教实践与邪教，并将12步与燃烧人等现代精神运动置于同一框架。通过严谨数据与亲身体验的交织，鼓励听众批判性评估自身信仰，并有意识地将仪式性练习融入日常生活，提升整体健康。",
+    "best_quote_en": "Prayer and gratitude can markedly reduce stress, increase honesty and compassion, and buffer against loneliness and despair.",
+    "best_quote_zh": "祈祷与感恩能够显著降低压力，提升诚实与同情，并抵御孤独与绝望。"
   }
 ]
