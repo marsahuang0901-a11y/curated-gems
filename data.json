@@ -1,125 +1,5 @@
 [
   {
-    "id": 105,
-    "title": "Please Fund More Science",
-    "title_zh": "请更多资助科学",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/please-fund-more-science",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2020-03-30",
-    "summary_en": "The post argues that the pandemic has revealed an unprecedented surge in scientific focus and speed, yet funding remains a critical bottleneck. It calls for a shift in private capital and philanthropy toward pandemic‑related research, framing this as both an urgent solution and a moral imperative. The author highlights the triple‑pronged exit strategy—vaccines, treatments, and public health measures—and stresses that the only way to secure a swift, sustainable return to normalcy is to empower scientists with resources and networks. By urging investors to signal intent, the piece taps into a crowd‑sourced opportunity, promising a flood of vetted projects and a concentration of top founders. The tone balances optimism with pragmatism, noting the learning curve is steep but manageable, and that the societal payoff will be transformative. This call to action invites a new generation of funders to become part of a historic pivot, redefining the relationship between science, policy, and the private sector.",
-    "summary_zh": "文章指出，疫情期间科学研究的速度和热情前所未有，但资金仍是主要瓶颈。作者呼吁私营资本和慈善机构将更多资金投向疫情相关研究，强调这是实现疫苗、治疗和公共卫生措施三位一体的关键。通过鼓励投资者表明资助意向，文中暗示将有大量经过筛选的项目涌现，聚集顶尖创始人。文章语气既乐观又务实，指出学习曲线虽陡峭但可管理，社会收益将是变革性的。此举邀请新一代资助者参与历史转折，重新定义科学、政策与私营部门的关系。",
-    "best_quote_en": "Scientists can get us out of this. What they need are money and connections.",
-    "best_quote_zh": "科学家能帮助我们走出困境，他们需要的是资金和人脉。"
-  },
-  {
-    "id": 106,
-    "title": "Book of the month: Bachtyar Ali",
-    "title_zh": "本月书单：巴赫塔尔·阿里",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/10/30/book-of-the-month-bachtyar-ali/",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "society",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "社会议题",
-      "案例研究"
-    ],
-    "date": "2025-10-30",
-    "summary_en": "In this reflective book‑of‑the‑month feature, the author uncovers a Kurdish novel that blends magical realism with raw human truth, challenging Western literary norms. The narrative follows Muzafar, a 43‑year‑old peshmerga freed after 21 years of imprisonment, as he searches for his son and confronts the devastation wrought on his homeland. The prose—translated by Kareem Abdulrahman—shimmers with vivid imagery that grounds fantastical elements in an emotional reality. The story’s core insight is the interdependence of all life, illustrated through stark contrasts between privileged journalists and marginalized street children. By positioning the reader as a refugee aboard a ferry to England, the novel expands its temporal scope, suggesting that individual destinies ripple across time. This piece invites readers to recognize underrepresented voices, reminding us that extraordinary literature can emerge from the most unexpected corners of the world.",
-    "summary_zh": "作者通过这部库尔德小说，揭示了魔幻现实主义与人性真相的交织，挑战西方文学刻板印象。主人公穆扎法尔在获释后寻找失散的儿子，直面家园破坏。翻译生动的意象让奇幻元素扎根于情感现实。故事核心在于生命相互依存，体现了特权与边缘化的对比。作者将读者置为前往英国的难民，扩展时间视角，暗示个人命运的连锁影响。此书提醒我们，非主流声音同样能产生深刻文学价值。",
-    "best_quote_en": "That night by the fire, the journalist spoke about the wealth of agriculture and the yield of livestock, but Saryas spoke about the neglected and forgotten wealth of the thousands of abandoned children who found themselves on the streets from the age of four.",
-    "best_quote_zh": "那一夜，记者谈论农业的财富和牲畜的产量，Saryas却谈论被遗忘的街头儿童的财富。"
-  },
-  {
-    "id": 107,
-    "title": "‘Every time I step outside, the first thing on my mind is my forehead’: the women getting hair transplants",
-    "title_zh": "每次走出门，第一件事是我的额头——女性植发潮",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/oct/25/every-time-i-step-outside-the-first-thing-on-my-mind-is-my-forehead-the-women-getting-hair-transplants",
-    "tags": [
-      "solve",
-      "medicine",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2025-10-25",
-    "summary_en": "Women’s hair transplants are moving from a male‑only procedure to a mainstream cosmetic choice, driven by social media, celebrity endorsements and a growing awareness of the psychological toll of hair loss. The Guardian piece combines statistics, expert commentary and intimate patient stories to reveal a 16.5 % rise in female procedures between 2021‑24, the high costs (up to £10,000), and the uneven safety record of clinics worldwide. It explains the two main techniques—FUT and FUE—highlighting how donor site choice affects scarring and recovery. The narrative also tackles gendered beauty standards, the stigma of “high foreheads,” and the pressure on women to conform to an ideal that often feels unattainable. Finally, it urges readers to vet surgeons, seek dermatological advice first, and recognize that hair loss can signal deeper health issues. The article is a timely, data‑driven guide that balances hope with caution, offering practical insight for anyone considering the procedure.",
-    "summary_zh": "女性植发不再是男性专属，背后是对美学、身份与心理的多重挑战。本文揭示了女性植发的增长趋势、手术技术、成本与安全隐患，并以真实案例剖析社会期望对自尊的影响。它提醒读者，除医学评估外，还需关注心理准备、术后护理与专业资质。面对“高额头”与“稀疏发际”带来的焦虑，文章呼吁行业规范与公众教育，以免被低价诊所误导。",
-    "best_quote_en": "Women are suffering in silence.",
-    "best_quote_zh": "这不是虚荣！"
-  },
-  {
-    "id": 108,
-    "title": "Charisma / Power",
-    "title_zh": "魅力 / 权力",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/pow.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "leadership",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "领导管理",
-      "深度分析"
-    ],
-    "date": "2025-11-02",
-    "summary_en": "The piece tackles a paradox at the intersection of influence and personal magnetism, arguing that powerful figures who lack charisma—whether a politician or a CEO—often become lightning rods for criticism. By citing Hillary Clinton and the archetypal “builder” executive, the author illustrates how the very traits that make a leader effective—focus, technical skill, and strategic vision—can also render them vulnerable to public scrutiny when they lack the social finesse to defuse it. The essay rejects the notion that charisma is a prerequisite for success, instead framing criticism as a potential indicator of a person’s suitability for a role. It invites readers to rethink leadership evaluation: power and competence can coexist with disapproval, and the criticism itself may be a signal that a leader’s hard‑earned expertise is precisely what the organization needs. The argument is subtle, humanistic, and invites a deeper conversation about the qualities we value in leaders.",
-    "summary_zh": "文章探讨权力与魅力的悖论，指出强势却缺乏魅力的人往往成为批评焦点。以希拉里·克林顿和“建造者型CEO”为例，强调专业能力与人际技巧的平衡。作者认为批评可能是适任的信号，鼓励重新评估领导者的价值。",
-    "best_quote_en": "People who are powerful but uncharismatic will tend to be disliked.",
-    "best_quote_zh": "有权力却缺乏魅力的人往往会被人不喜欢。"
-  },
-  {
-    "id": 109,
-    "title": "Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
-    "title_zh": "Essentials: The Biology of Slowing & Reversing Aging | Dr. David Sinclair",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-biology-slowing-reversing-aging-dr-david-sinclair",
-    "tags": [
-      "update",
-      "medicine",
-      "lifestyle",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "医学健康",
-      "生活方式",
-      "深度分析"
-    ],
-    "date": "2025-10-30",
-    "summary_en": "In this Huberman Lab Essentials episode, Dr. David Sinclair unpacks the cellular and molecular choreography that underpins aging, revealing how simple, evidence‑based behaviors—fasting, exercise, and NAD⁺‑boosting compounds—can activate the body’s own longevity circuitry. The discussion moves beyond abstract biology to concrete, actionable strategies, framing aging not as an inevitable decline but as a modifiable process. Sinclair’s emphasis on epigenetics, sirtuins, and autophagy invites listeners to view lifestyle choices as therapeutic levers. The episode’s strength lies in its blend of rigorous science and pragmatic advice, yet it stops short of offering a step‑by‑step protocol, leaving room for individual tailoring. For researchers and health‑enthusiasts alike, the interview underscores the potential of integrating metabolic interventions with personalized medicine, hinting at a future where aging is not merely postponed but actively rewound.",
-    "summary_zh": "在本期Huberman Lab Essentials节目中，David Sinclair博士阐释衰老的细胞与分子机制，揭示禁食、运动及NAD⁺补充可激活天然寿命通路。内容将科学与可操作建议结合，强调生活方式是可调节衰老的关键。对科研者与健康爱好者而言，提示将代谢干预与精准医疗相结合，或许能真正逆转衰老。",
-    "best_quote_en": "\"The discussion highlights how lifestyle choices profoundly influence the aging process and may even slow or reverse key aspects of biological aging.\"",
-    "best_quote_zh": "这段讨论强调了生活方式选择如何深刻影响衰老过程，甚至可能减缓或逆转生物衰老的关键方面。"
-  },
-  {
     "id": 110,
     "title": "The Risk of Discovery",
     "title_zh": "发现的风险",
@@ -2348,5 +2228,125 @@
     "summary_zh": "在本期节目中，德斯托诺博士把科学与信仰的永恒问题结合起来，系统阐述宗教仪式、祈祷与感恩如何显著降低压力、提升诚实与同情，并抵御孤独与绝望。他区分健康的宗教实践与邪教，并将12步与燃烧人等现代精神运动置于同一框架。通过严谨数据与亲身体验的交织，鼓励听众批判性评估自身信仰，并有意识地将仪式性练习融入日常生活，提升整体健康。",
     "best_quote_en": "Prayer and gratitude can markedly reduce stress, increase honesty and compassion, and buffer against loneliness and despair.",
     "best_quote_zh": "祈祷与感恩能够显著降低压力，提升诚实与同情，并抵御孤独与绝望。"
+  },
+  {
+    "id": 205,
+    "title": "What Doesn't Seem Like Work?",
+    "title_zh": "看似不需要工作的事",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/work.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-29",
+    "summary_en": "The essay weaves a personal narrative with a universal heuristic: if a task feels like play to you but is work to others, you’ve found a niche. The author’s father, a mathematician, turns textbook exercises into a reward, illustrating how passion reframes effort. By juxtaposing this anecdote with the author’s own experience of writing papers for friends, the piece demonstrates that divergent tastes can signal professional fit. The insight is practical: self‑reflection on “work‑like” versus “play‑like” tasks can guide career decisions, especially in fields where routine labor is hidden beneath the surface, such as debugging in programming. The narrative invites readers to adopt a detective mindset, hunting for subtle clues in their own preferences. It also subtly critiques the conventional wisdom that hard work is always external, showing that intrinsic enjoyment can be the true compass. The essay’s style is conversational yet analytical, making the concept accessible while encouraging deeper introspection. Overall, it offers a fresh, actionable framework for aligning passion with vocation.",
+    "summary_zh": "作者用父亲的数学家故事和自写论文的经历，提出一个实用的启示：如果某件事对你像游戏，对别人却像工作，那可能就是你的天职。通过“工作‑像”与“玩‑像”的对比，帮助读者自我反思并寻找职业契合点。文章以侦探式思维鼓励寻找细微线索，批判传统把辛勤视为外在的观念，强调内在热情才是真正的指南。",
+    "best_quote_en": "If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for.",
+    "best_quote_zh": "看似不需要工作的事，往往是最适合自己的事。"
+  },
+  {
+    "id": 206,
+    "title": "El Dorado",
+    "title_zh": "黄金之城",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/JhAoRyGxZwnekNnnG/el-dorado",
+    "tags": [
+      "learn",
+      "education",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "教育学习",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-29",
+    "summary_en": "The piece intertwines Buddhist soteriology with a mythic allegory of El Dorado to interrogate the epistemic status of teachers and the authenticity of awakening claims. By insisting that only a stream‑entrant can reliably identify another, the author elevates personal experience over doctrinal authority, echoing a broader epistemic shift toward experiential validation. The parable functions as a diagnostic tool: just as an outsider cannot read the gold‑plated walls of the fabled city, a novice cannot discern a genuine teacher from a self‑proclaimed guru. The author further critiques contemporary “insight” centres and social‑media influencers, exposing a market of performative enlightenment that thrives on ambiguity and performative certainty. The narrative invites readers to question the commodification of spiritual attainment, to seek direct, embodied verification, and to recognise that the path to stream entry is as much about discerning truth as it is about practice. It is a call to move beyond dogmatic instruction toward a lived, relational apprenticeship that honours the transformative nature of awakening.",
+    "summary_zh": "作者把入流比作探访传说中的黄金之城，强调只有亲身体验过的觉者才能辨别真正的老师。通过批判当代“洞察”中心与社媒“觉醒”明星，揭露精神商品化的真相，呼吁读者转向亲身验证与师徒关系，重视实践中的辨识与体验。",
+    "best_quote_en": "If you want to experience stream entry, the best thing you can do is find a good human teacher.",
+    "best_quote_zh": "如果你想体验入流，最好的办法就是找一个好的老师。"
+  },
+  {
+    "id": 207,
+    "title": "What are Putin’s Ultimate Demands for Peace in Ukraine?",
+    "title_zh": "普京对乌克兰和平的最终要求是什么？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/what-are-putins-ultimate-demands-for-peace-in-ukraine",
+    "tags": [
+      "analyze",
+      "politics",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-27",
+    "summary_en": "The article dissects the intricate dance between Moscow’s hardline demands and Kyiv’s security‑centric aspirations, spotlighting the latest peace proposals from both Trump’s Witkoff and Rubio’s teams. It reveals how Putin’s insistence on nullifying Ukraine’s NATO ambitions and the withdrawal from Donbas clashes with Western‑backed guarantees of sovereignty. The piece underscores the fragility of the conflict’s status quo, noting Ukraine’s battlefield shortcomings and the Kremlin’s mounting economic strains from sanctions and declining oil revenues. By weaving insider testimony, leaked recordings, and financial estimates, the analysis offers a nuanced, data‑driven portrait of a war that may hinge on the ability to translate political rhetoric into legally binding, generational guarantees. The article invites readers to consider whether any agreement can reconcile divergent priorities without eroding Ukraine’s autonomy, and how the interplay of leadership, policy shifts, and economic realities shapes the prospects for lasting peace.",
+    "summary_zh": "文章剖析普京对乌克兰和平的终极要求与基辅的安全诉求之间的错综复杂互动。通过对特朗普与鲁比奥团队最新和平方案的细致解读，揭示了普京要求乌克兰放弃北约、撤出顿巴斯与西方对乌克兰主权的安全保障之间的根本冲突。文章强调冲突现状的脆弱性，指出乌军战场劣势、俄方因制裁与油价下跌导致的经济压力。借助内部消息、泄露录音与财务数据，作者呈现了一幅数据驱动、政治与经济交织的战争全景，探讨任何协议是否能在不侵蚀乌克兰自主权的前提下实现长期、法律约束的和平。",
+    "best_quote_en": "He will not be satisfied with anything less than an ironclad, generations‑long resolution to what the source called the “Ukrainian question.”",
+    "best_quote_zh": "他不会满足于任何不够铁石心肠、世代相传的解决方案，正如他所称的‘乌克兰问题’。"
+  },
+  {
+    "id": 208,
+    "title": "What’s in my NOW? — Emma Christley",
+    "title_zh": "我的现在里有什么？—艾玛·克里斯蒂",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-emma-christley/",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2025-11-26",
+    "summary_en": "Emma Christley’s latest series, “What’s in my NOW?”, is a candid exploration of the tools, habits, and cultural touchstones that shape her creative rhythm. She frames the piece as a personal inventory—mechanical keyboards, noise‑cancelling headphones, a disciplined notebook ecosystem—highlighting how physical and digital choices can quiet the mental noise that often stalls writers. The narrative shifts fluidly from the tangible (her chosen hardware) to the intangible (the lessons she draws from the TV series ER), underscoring a broader philosophy: that self‑directed curiosity, rather than external validation, should guide career and life decisions. Her “invisible” section—“Your choices don’t have to make sense to anyone else”—acts as a manifesto, encouraging readers to trust their own compass. The article blends practical advice with reflective storytelling, offering actionable insights for anyone seeking to streamline their creative workflow while maintaining an authentic sense of purpose.",
+    "summary_zh": "艾玛·克里斯蒂在《我的现在里有什么？》中，用个人日常与创作工具的细致描写，探讨如何通过物质与数字选择清除内在噪音，提升写作专注。她把机械键盘、降噪耳机与笔记本系统视为“脑外扩展”，并从《ER》这部剧中提炼生活与职业的启示，强调自我决定的重要性。文章兼具实用技巧与哲学反思，鼓励读者信任自己的选择，构建更高效、真诚的创作路径。",
+    "best_quote_en": "Your choices don’t have to make sense to anyone else.",
+    "best_quote_zh": "你的选择不必让任何人理解。"
+  },
+  {
+    "id": 209,
+    "title": "Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar",
+    "title_zh": "必备：通过调节光照改善睡眠、能量与情绪 | Samer Hattar 博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-timing-light-for-better-sleep-energy-and-mood-dr-samer-hattar",
+    "tags": [
+      "guide",
+      "psychology",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-08-21",
+    "summary_en": "In this concise Huberman Lab Essentials episode, Dr. Samer Hattar—a leading circadian rhythm researcher—unpacks how light is the invisible lever that tunes our mood, sleep, appetite, learning, and mental health. He explains the science behind photoreceptors, the distinction between solar day and our internal clock, and the practical protocols that can realign misaligned rhythms: morning sunlight, dim evening lighting, and regular meal times. The episode also covers jet‑lag hacks, screen‑time limits, and strategies for seasonal depression, all grounded in data and real‑world case studies. The discussion is action‑oriented, offering listeners a step‑by‑step framework to sync light, food, and sleep with biology, thereby boosting focus, energy, and emotional resilience. It’s a blend of expert insight and actionable advice that transforms a complex field into everyday practice, making it a must‑listen for anyone looking to optimize health through simple environmental tweaks.",
+    "summary_zh": "在Huberman实验室的精简版节目中，Samer Hattar博士阐释光如何成为调节情绪、睡眠、食欲与学习的隐形杠杆。他提供科学依据与实用协议——晨光照射、晚间调暗灯光与规律进餐，帮助重置昼夜节律，解决时差、屏幕使用与季节性抑郁等问题。节目以数据驱动、案例为支撑，提供可操作的步骤，帮助听众将光与生物节律同步，提升专注力、能量与情绪韧性。",
+    "best_quote_en": "\"Light powerfully shapes mood, sleep, appetite, learning and overall mental health by aligning—or misaligning—our internal circadian clock.\"",
+    "best_quote_zh": "\"光强烈影响情绪、睡眠、食欲、学习和整体心理健康，通过对齐或错位我们的内部昼夜节律。\""
   }
 ]
