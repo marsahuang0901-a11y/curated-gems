@@ -1,123 +1,5 @@
 [
   {
-    "id": 110,
-    "title": "The Risk of Discovery",
-    "title_zh": "发现的风险",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/disc.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-03",
-    "summary_en": "The short essay on “The Risk of Discovery” invites us to rethink how we view scientific genius. It argues that biographies routinely sanitize mistakes, making the daring choices of figures like Newton appear inevitable rather than perilous. By framing Newton’s work in alchemy, theology, and physics as three simultaneous bets, the author reminds us that breakthrough is a gamble, not a straight line. The piece also draws a subtle parallel to modern entrepreneurship: the unknown payoff of a novel idea forces pioneers to wager on the improbable. This reflection challenges the myth of the infallible scientist and encourages a more honest appraisal of risk in any creative endeavor. The essay’s strength lies in its concise, thought‑provoking narrative and its ability to bridge historical insight with contemporary relevance, making it a valuable read for scholars, innovators, and anyone curious about the hidden cost of discovery.",
-    "summary_zh": "文章以简洁的笔触揭示了科学家被誉为“无误”的谬误，指出牛顿等人的大胆赌注被后人淡化。它将科学研究比作创业的高风险投机，提醒我们突破往往源于敢于赌注。此文不仅解构了历史叙事，也为当代创新者提供了关于风险与回报的深刻思考，值得学者与实践者细细品味。",
-    "best_quote_en": "Newton made three bets. One of them worked. But they were all risky.",
-    "best_quote_zh": "牛顿做了三次赌注，其中一次成功了。但它们都很冒险。"
-  },
-  {
-    "id": 111,
-    "title": "Lack of Social Grace is a Lack of Skill",
-    "title_zh": "缺乏社交礼仪即缺乏技能",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/NnTwbvvsPg5kj3BKq/lack-of-social-grace-is-a-lack-of-skill-1",
-    "tags": [
-      "solve",
-      "education",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2025-11-03",
-    "summary_en": "The essay argues that social grace is not a moral virtue but a learned skill, paralleling technical proficiencies such as programming or music. The author uses personal anecdotes to illustrate how lacking a skill blinds one to its absence, and how practice turns an initially laborious competence into an almost effortless asset. He critiques the notion that honesty and politeness are mutually exclusive, asserting instead that most situations allow a graceful expression of truth once the skill of tact is cultivated. The piece blends philosophical reflection with pragmatic advice, framing social competence as a form of epistemic virtue that can be improved through deliberate practice. It invites readers to reframe social awkwardness as a gap in skill set rather than a character flaw, and to treat politeness with the same systematic approach used in mastering technical disciplines. The underlying implication is that emotional intelligence, like any other skill, can be quantified, taught, and mastered, thereby enhancing both personal relationships and broader societal interactions.",
-    "summary_zh": "作者把社交礼仪当成可学习的技能，而非道德美德，强调通过练习把礼貌变成几乎不费力的本能。文章借个人经历说明，缺乏某项技能会让人对其缺失视而不见；而把礼貌视作可培养的能力，能让真诚与礼貌并存。作者批判了“诚实与礼貌互斥”的说法，指出大多数情境都可用优雅方式表达真相。整篇文章兼具哲学思考与实用建议，呼吁把社交笨拙视为技能缺口，而非性格缺陷，并用系统化的训练方法提升情商，进而改善人际与社会互动。",
-    "best_quote_en": "Once you’ve practiced for a while, grace doesn’t take as much effort as you might think.",
-    "best_quote_zh": "只要练习了一段时间，礼仪的掌握并不像你想象的那样费力。"
-  },
-  {
-    "id": 112,
-    "title": "What Zohran Mamdani’s Bid for Mayor Reveals About Being Muslim in America",
-    "title_zh": "Zohran Mamdani 的竞选揭示了在美国作为穆斯林的意义",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/what-zohran-mamdanis-bid-for-mayor-reveals-about-being-muslim-in-america",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-11-02",
-    "summary_en": "The article dissects how Zohran Mamdani’s 2025 New York mayoral bid exposes the enduring specter of Islamophobia in American politics. It traces a lineage from the 2008 Obama campaign—where religious identity was weaponised—to today’s heated rhetoric that conflates Muslim identity with terrorism. By weaving historical anecdotes, media clips, and Mamdani’s own testimony, the piece illustrates how anti‑Muslim sentiment has evolved from overt accusations of “dual loyalty” to subtler denaturalisation threats and targeted attacks on civic engagement. The narrative underscores that, despite Mamdani’s policy focus on housing and public transit, the campaign’s survival hinges on confronting prejudice rather than policy alone. The article’s data‑driven tone—citing FBI hate‑crime statistics and election‑poll figures—provides a factual backbone, while the case‑study framing offers readers concrete evidence of how systemic bias operates in a major city. Overall, it invites readers to recognise that the politics of identity are not peripheral but central to contemporary governance and civic trust.",
-    "summary_zh": "文章通过扎哈兰·马姆达尼在2025年纽约市长竞选中的经历，揭示了美国政治中持续存在的伊斯兰恐惧症。它将2008年奥巴马竞选时的宗教身份被武器化的情景与今日将穆斯林身份与恐怖主义混为一谈的言论相连。文章通过历史轶事、媒体片段以及马姆达尼的亲身陈述，展示了反穆斯林情绪从“双重忠诚”指控演变为更隐蔽的去国籍化威胁和针对公民参与的攻击。尽管马姆达尼关注住房与公共交通的政策，但竞选的存活取决于对抗偏见，而非单纯的政策。文章以数据驱动的语调提供事实依据，并通过案例研究让读者看到系统性偏见如何在大都市中运作，强调身份政治是当代治理与公民信任的核心。",
-    "best_quote_en": "To be Muslim in New York is to expect indignity.",
-    "best_quote_zh": "成为纽约的穆斯林意味着要预期被侮辱。"
-  },
-  {
-    "id": 113,
-    "title": "Build Your Ideal Physique | Dr. Bret Contreras",
-    "title_zh": "打造理想体型 | 布雷特·康特拉斯博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/build-ideal-physique-bret-contreras",
-    "tags": [
-      "learn",
-      "ai-research",
-      "leadership",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "领导管理",
-      "新手友好"
-    ],
-    "date": "2025-09-22",
-    "summary_en": "In this episode, Dr. Bret Contreras—known as the “glute guy” and a leading authority on strength and hypertrophy—unpacks a science‑backed framework for sculpting a balanced, powerful physique. He walks listeners through the mechanics of progressive overload, periodization, and the critical role of recovery, emphasizing that muscle growth is as much about smart programming as it is about lifting heavier. The discussion is rich with practical details: ideal training frequency, set‑rep schemes, the “Big Six” lifts, and how to target lagging muscle groups without compromising joint health. Contreras also addresses common pitfalls in hip‑thrust execution, gender‑specific adaptations, and how hormonal changes after 40 can be leveraged for continued gains. The episode is a comprehensive guide that blends evidence‑based principles with actionable advice, making it a valuable resource for anyone—from beginners to seasoned athletes—seeking to maximize aesthetics, performance, and longevity.",
-    "summary_zh": "布雷特·康特拉斯博士以科学为支撑，详细阐述渐进式超负荷、周期化与恢复的协同作用，提供从训练频率到“六大动作”的实用方案，帮助男女在任何年龄段实现肌肉增长与身体美学的双重提升。",
-    "best_quote_en": "Progressive overload is the single most powerful driver of muscle growth, but it must be paired with recovery and periodization to avoid injury.",
-    "best_quote_zh": "渐进式超负荷是肌肉增长最强大的驱动力，但必须与恢复和周期化相结合，以避免受伤。"
-  },
-  {
-    "id": 114,
-    "title": "The Tim Ferriss Show Transcripts: Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen (#833)",
-    "title_zh": "The Tim Ferriss Show Transcripts: Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen (#833)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/10/30/jack-canfield-transcript/",
-    "tags": [
-      "learn",
-      "education",
-      "writing-content",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "写作内容",
-      "新手友好"
-    ],
-    "date": "2025-10-30",
-    "summary_en": "Jack Canfield’s long‑form interview on The Tim Ferriss Show unpacks the mechanics behind a $600 million‑plus publishing empire, the psychology of success, and the accidental pathway that turned a humble “Chicken Soup” story into a cultural touchstone. The conversation reveals a pattern of intentional learning: early exposure to diverse mentors, a relentless focus on storytelling, and a willingness to test ideas in real‑world settings. Canfield’s narrative illustrates that success is rarely a single epiphany; it is a series of “sliding‑door” moments, each compounded by disciplined action—training sales teams, leveraging low‑cost insurance, and mastering the rule of five interviews per day. The interview also critiques conventional wisdom about publishing, emphasizing the power of persistence, feedback loops, and the importance of a clear, emotionally resonant title. For listeners, the episode offers a roadmap that blends mindset, strategy, and execution, reminding us that scalable impact emerges from consistent, data‑driven, human‑centric effort.",
-    "summary_zh": "杰克·坎菲尔德在《蒂姆·费里斯秀》中的访谈，剖析了其六亿本书籍成功的背后逻辑与心态。对话强调“滑动门”式机会、故事化营销与持续试错。通过低成本保险、培训销售团队以及每日五次访谈等具体做法，展示了从失败到百万销量的转化路径。它还批判传统出版观念，突出坚持、反馈与情感共鸣标题的重要性，为听众提供可复制的思维与行动框架。",
-    "best_quote_en": "You have to take your shot when you can take your shots.",
-    "best_quote_zh": "你必须在能抓住机会时抓住机会。"
-  },
-  {
     "id": 115,
     "title": "Jess Cartner-Morley on fashion: the number-one rule for coats this winter – make it long",
     "title_zh": "Jess Cartner-Morley谈时尚：今年冬季外套的首要规则——让它更长",
@@ -2348,5 +2230,123 @@
     "summary_zh": "在Huberman实验室的精简版节目中，Samer Hattar博士阐释光如何成为调节情绪、睡眠、食欲与学习的隐形杠杆。他提供科学依据与实用协议——晨光照射、晚间调暗灯光与规律进餐，帮助重置昼夜节律，解决时差、屏幕使用与季节性抑郁等问题。节目以数据驱动、案例为支撑，提供可操作的步骤，帮助听众将光与生物节律同步，提升专注力、能量与情绪韧性。",
     "best_quote_en": "\"Light powerfully shapes mood, sleep, appetite, learning and overall mental health by aligning—or misaligning—our internal circadian clock.\"",
     "best_quote_zh": "\"光强烈影响情绪、睡眠、食欲、学习和整体心理健康，通过对齐或错位我们的内部昼夜节律。\""
+  },
+  {
+    "id": 210,
+    "title": "Book of the month: Alla Gorbunova",
+    "title_zh": "Book of the month: Alla Gorbunova",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/11/28/book-of-the-month-alla-gorbunova/",
+    "tags": [
+      "solve",
+      "education",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2025-11-28",
+    "summary_en": "The review unfolds as a meditation on how the political climate of contemporary Russia shapes the reading experience of Alla Gorbunova’s collection, (Th)ings and (Th)thoughts.  It begins with the author’s own bewildering encounter—an e‑reader that delivers a book with no contextual frame—then escalates into a broader conversation about censorship, state power and the fragile safety of writers in repressive regimes.  Gorbunova’s stories, described as “twisting the art of the fairytale,” weave absurdity with sharp psychological insight, offering a satirical lens on corruption, madness and the human condition.  The piece interrogates the reader’s own anxieties, asking whether the author is protected by a state‑approved status or merely eludes scrutiny through humor.  Ultimately, the article celebrates the resilience of storytelling as a form of quiet defiance, emphasizing that even when narratives are censored, the act of telling remains a vital, subversive act.",
+    "summary_zh": "文章把读书体验与俄国政治氛围相连，探讨了审查与创作者安全的困境。Gorbunova 的短篇以荒诞与心理洞察交织，讽刺腐败与疯狂，体现了叙事在压迫中的韧性与反抗力量。",
+    "best_quote_en": "“Say the unsayable light‑heartedly and maybe it hits its target.”",
+    "best_quote_zh": "说出不可说的轻松地说出来，也许它会命中目标"
+  },
+  {
+    "id": 211,
+    "title": "Don’t filter your dates by age and hobbies, ask them how they shop | Polly Hudson",
+    "title_zh": "不要按年龄和爱好筛选约会对象，问问他们的购物方式 | Polly Hudson",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/nov/30/dates-age-hobbies-deal-breakers",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-11-30",
+    "summary_en": "Polly Hudson’s opinion piece turns the dating playbook on its head by arguing that the most telling filters are not age or hobbies but everyday habits—shopping style, travel punctuality, food‑expiry attitudes, and even movie‑night preferences. Hudson’s argument hinges on the idea that these seemingly trivial details reveal deeper compatibility and predict long‑term friction. The article blends anecdote with a pseudo‑statistical reference to Plenty of Fish, suggesting a cultural shift toward pragmatic, ‘grounded’ conversations on dating apps. While the humor and relatable scenarios make the piece engaging, its logic oversimplifies complex relationship dynamics and risks encouraging shallow judgments. The piece invites readers to rethink dating criteria, but it also raises questions about the validity of using such micro‑behaviours as decisive filters and whether they truly forecast relationship longevity. Overall, Hudson’s essay offers a playful yet provocative lens on modern romance, urging us to look beyond surface metrics and probe the habits that shape shared daily life.",
+    "summary_zh": "Polly Hudson 以日常小事挑戰約會過濾器，主張購物、旅行、食品保質期等習慣能揭示長期相容性。文章雖風趣幽默，卻簡化關係複雜性，提醒我們在追求方便的同時，勿因小事誤判對象。",
+    "best_quote_en": "What’s your Sainsbury’s style?",
+    "best_quote_zh": "你在Sainsbury's的購物方式是什麼？"
+  },
+  {
+    "id": 212,
+    "title": "Don't Talk to Corp Dev",
+    "title_zh": "不要与企业发展部交谈",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/corpdev.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2025-11-30",
+    "summary_en": "The essay cuts through startup jargon with a blunt warning: unless you’re ready to sell, don’t even set up a first meeting with corporate development (Corp Dev). It frames the conversation as a psychological minefield where founders are lured by the promise of a high price, only to be subjected to low‑ball offers, flippant vetoes, and relentless distraction. By using vivid analogies—like a marathon runner’s unwelcome pause—and real‑world anecdotes, the author exposes the tactics that turn a brief touch‑point into a draining, morale‑sapping ordeal. The piece doubles as a playbook: recognize the red flags, keep the dialogue short, and preserve focus on growth. It’s a practical, expert‑insight guide for founders who want to avoid being pulled into a costly, premature M&A process.",
+    "summary_zh": "文章以尖锐的语气揭示企业发展部（Corp Dev）对初创企业的潜在陷阱，强调若非当下确有出售意向，首轮会面即应拒绝。作者借比喻与案例，剖析M&A谈判中被低价诱导、情绪被操纵的心理战，提醒创始人保持理性与战略节奏。文章既是警示，也是行动指南，鼓励创业者在不确定出售时主动拒绝，避免被“低价诱饵”拖入耗时耗精力的过程。",
+    "best_quote_en": "The tactics you encounter in M&A conversations can be like nothing you've experienced in the otherwise comparatively upstanding world of Silicon Valley.",
+    "best_quote_zh": "如果你现在不想卖掉公司，就不要去第一次会议。"
+  },
+  {
+    "id": 213,
+    "title": "Insulin Resistance and Glycemic Index",
+    "title_zh": "胰岛素抵抗与血糖指数",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/ofyphDp67uiSYLywS/insulin-resistance-and-glycemic-index",
+    "tags": [
+      "update",
+      "medicine",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2025-11-30",
+    "summary_en": "This article dissects how modern high‑glycemic foods trigger insulin spikes that lead to receptor desensitization and chronic insulin resistance. By juxtaposing historical diets—rich in low‑GI foods—with today’s processed staples, the author exposes the biochemical cascade from rapid glucose surges to metabolic dysregulation. The piece blends rigorous science with accessible narrative, offering clear signs of insulin resistance, such as post‑meal fatigue and abdominal fat accumulation, and contextualizes the alarming prevalence in contemporary America. It underscores that diet, rather than exercise alone, is the pivotal factor, urging readers to adopt low‑GI foods and mindful eating to restore insulin sensitivity. For health enthusiasts and lay readers alike, the article delivers actionable insights, data‑driven comparisons, and a compelling call to rethink everyday carbohydrate choices.",
+    "summary_zh": "本文深入剖析现代高血糖指数饮食如何触发胰岛素抵抗，揭示胰岛素尖峰与代谢失衡的生物机制。作者以历史对比为框架，指出过去低GI饮食与现代加工食品的根本差异，提醒读者关注食物选择与能量调节。文章既具科学严谨，又以通俗易懂的方式呈现，适合想要理解胰岛素抵抗根源的健康爱好者。通过数据与案例，作者呼吁改变饮食习惯，重视低GI食品，强调饮食与健康的密切关系。",
+    "best_quote_en": "Even worse, repeated insulin spikes cause the insulin receptors to desensitize (downregulate) themselves.",
+    "best_quote_zh": "甚至更糟的是，反复的胰岛素尖峰导致胰岛素受体失敏（下调）自身。"
+  },
+  {
+    "id": 214,
+    "title": "Ukrainian Men Approaching Military Age Are Fleeing in Droves",
+    "title_zh": "乌克兰接近军龄男子大规模逃离",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/ukrainian-men-approaching-military-age-are-fleeing-in-droves",
+    "tags": [
+      "analyze",
+      "science",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "Michael Holtz’s on‑the‑ground narrative reveals a paradox: a state that once barred its young men from leaving is now loosening that ban, sparking an exodus that could reshape Ukraine’s demographic and military calculus. By following Klim Milchenko from Kyiv to Wrocław, Holtz exposes the human calculus behind policy shifts—fear of drone strikes, the weight of draft age, and the allure of survival. The piece juxtaposes hard data—hundreds of thousands of desertion cases, a sharp rise in Ukrainian men arriving in Germany and Poland—with anecdotal evidence of discrimination abroad, illustrating how the policy’s ripple effects extend beyond borders. Holtz questions whether the temporary relief for individuals translates into long‑term strategic gains, citing experts who warn that a shrinking mobilization pool may backfire when the war drags on. The article invites readers to consider the ethics of a state‑controlled exodus, the fragility of morale, and the unintended consequences of short‑term policy relief. It is a nuanced, data‑driven exploration that balances human stories with macro‑political analysis.",
+    "summary_zh": "在迈克尔·霍尔茨的第一手叙述中，乌克兰原本禁止年轻人离境的政策突然放宽，导致大量男性逃离，形成一场人力与政治的双重危机。通过跟随克利姆·米尔切诺科从基辅到弗罗茨维亚，作者揭示了恐惧、征兵年龄与生存欲望交织的个人抉择。文章将数据与案例并置——数十万逃兵、德国与波兰接收乌克兰男性激增，以及在国外遭遇歧视的现实，说明政策的连锁反应超越国界。专家警告，短期的“逃离”可能削弱未来的动员潜力。此文以人文视角与宏观政治分析交织，探讨国家控制的逃离伦理与战争长期后果。",
+    "best_quote_en": "When you have friends who have been killed, when you see how soldiers are living on the front line, when you see how that could be your life, it’s a very scary thing.",
+    "best_quote_zh": "当你有朋友被杀，当你看到前线士兵的生活，当你看到那可能成为你自己的生活时，这是一件非常可怕的事。"
   }
 ]
