@@ -1,123 +1,5 @@
 [
   {
-    "id": 115,
-    "title": "Jess Cartner-Morley on fashion: the number-one rule for coats this winter – make it long",
-    "title_zh": "Jess Cartner-Morley谈时尚：今年冬季外套的首要规则——让它更长",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/oct/15/jess-cartner-morley-on-fashion-the-number-one-rule-for-coats-this-winter-make-it-long",
-    "tags": [
-      "update",
-      "lifestyle",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "Jess Cartner‑Morley distills an entire season’s sartorial wisdom into a single, razor‑sharp prescription: the coat must be long.  In a landscape where layering, scarves, and knitwear are endlessly debated, the author’s blunt advice cuts through the noise, positioning length as the ultimate fashion signal.  Her analysis ties the shift to broader cultural currents—looser trousers, a renewed emphasis on silhouette—and draws on runway evidence from Burberry, MaxMara and other luxury houses to substantiate the claim.  The piece is both a practical guide and a cultural commentary, urging readers to view their outerwear as an extension of personality and a marker of contemporary taste.  For fashion‑savvy consumers, the takeaway is clear: invest in a well‑proportioned, below‑knee coat to anchor your winter wardrobe and project confidence.  The article invites reflection on how seemingly minor details can redefine style narratives and signal alignment with evolving aesthetic norms.",
-    "summary_zh": "Jess Cartner‑Morley把整个冬季的时尚智慧浓缩成一句话：外套必须长。她用简洁的论点揭示长度是时尚的终极信号，并结合Burberry、MaxMara等品牌的走秀案例，说明这一趋势与裤型宽松、剪裁强调等文化变迁的关联。对时尚爱好者而言，建议投资一件合身、膝下或更长的外套，既能点亮整体造型，也能展现自信与品味。",
-    "best_quote_en": "Your coat needs to be long. That’s it, that’s the big news.",
-    "best_quote_zh": "外套必须长。就是这样，这是大新闻。"
-  },
-  {
-    "id": 116,
-    "title": "How to Make Pittsburgh a Startup Hub",
-    "title_zh": "让匹兹堡成为创业中心",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/pgh.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-11-04",
-    "summary_en": "The talk outlines a pragmatic roadmap for transforming Pittsburgh into a Silicon Valley‑style startup hub, grounded in demographic data, urban design, and institutional strategy. By highlighting the city’s growing 25‑29‑year‑old population and the vibrant “youth‑driven food boom,” the speaker argues that attracting and retaining young talent is foundational. The analysis stresses preserving historic buildings, fostering walkable, bike‑friendly neighborhoods, and leveraging Carnegie Mellon’s research strength—while cautioning against over‑commercializing university branding. Key actionable recommendations include streamlining permits for small food businesses, protecting architectural heritage, and creating a culture that tolerates and nurtures unconventional ideas. The speaker also notes that a robust investor community will grow organically, supported by low startup costs, crowdfunding, and accelerator programs. Overall, the piece offers a data‑driven, culturally attuned blueprint that blends urban policy, economic incentives, and community values to build a resilient startup ecosystem.",
-    "summary_zh": "作者以匹兹堡年轻人口增长、餐饮热潮为切入点，阐述打造创业中心的可行路径。强调保留历史建筑、提升步行与骑行友好度、充分发挥卡内基梅隆的科研优势，并警示避免过度商业化大学品牌。提出简化餐饮审批、维护城市个性、培养容忍异想天开的文化。指出投资者生态将随创业成本降低、众筹与加速器等机制自然形成。整体构思既数据驱动又文化贴合，兼顾城市规划与经济激励，助力匹兹堡成为可持续的创新聚集地。",
-    "best_quote_en": "If a university really wanted to help its students start startups, the empirical evidence, weighted by market cap, suggests the best thing they can do is literally nothing.",
-    "best_quote_zh": "如果一所大学真的想帮助学生创业，经验数据表明最好的做法就是什么都不做。"
-  },
-  {
-    "id": 117,
-    "title": "Funding for COVID-19 Projects",
-    "title_zh": "为COVID-19项目提供资金",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/funding-for-covid-19-projects",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "tech-trends",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "技术趋势",
-      "数据驱动"
-    ],
-    "date": "2020-03-15",
-    "summary_en": "This post is a pragmatic appeal from a seasoned investor to funnel capital into COVID‑19‑focused ventures. It outlines four concrete problem spaces—rapid production of ventilators and PPE, drug repurposing, novel vaccine strategies, and unconventional therapeutics—highlighting where engineering ingenuity can outpace pharmaceutical inertia. The author’s insistence on testing capacity as a prerequisite signals a systems‑thinking mindset, while the call for contract research collaborations underscores the need for agile, interdisciplinary partnerships. For readers, the piece offers a roadmap of actionable funding priorities and a reminder that even in a crisis, the most valuable lever is the ability to mobilize resources quickly. Critically, it exposes gaps in public‑private coordination and the lack of scalable manufacturing pipelines, suggesting that future resilience hinges on pre‑emptive infrastructure investments. The tone balances urgency with a realistic appraisal of what can be achieved, making it a useful reference for venture leaders, policy makers, and entrepreneurs seeking to align capital with high‑impact, low‑barrier COVID‑19 solutions.",
-    "summary_zh": "这篇文章是经验丰富投资人对COVID‑19项目融资的务实呼吁，列出四大关键领域：快速生产呼吸机/防护服、药物再利用、新型疫苗策略及非传统疗法。作者强调测试能力先行，呼吁合同研发合作，凸显跨学科敏捷伙伴关系的重要性。文章为读者提供可操作的资金优先级路线图，并指出公共与私人协同不足、制造链缺口等问题，提醒未来韧性需预先布局基础设施。其语气兼具紧迫感与现实评估，是风险投资者、政策制定者和创业者对高影响、低门槛COVID‑19解决方案的有价值参考。",
-    "best_quote_en": "I think we will soon have enough testing capacity, so now I’d like to start funding more startups working on:",
-    "best_quote_zh": "我认为我们很快就会有足够的检测能力，所以现在我想开始资助更多从事以下工作的初创企业："
-  },
-  {
-    "id": 118,
-    "title": "Jack Canfield — Selling 600+ Million Books, Success Principles, and How He Made The 4-Hour Workweek Happen (#833)",
-    "title_zh": "Jack Canfield — 销售6亿+本书、成功原则以及他如何让《每周工作4小时》成真（#833）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/10/29/jack-canfield/",
-    "tags": [
-      "solve",
-      "education",
-      "lifestyle",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "生活方式",
-      "争议观点"
-    ],
-    "date": "2025-10-29",
-    "summary_en": "Jack Canfield’s interview is a masterclass in turning personal adversity into a global movement. From a childhood marked by poverty and a single, supportive step‑father, he forged a philosophy that blends science, storytelling, and a relentless commitment to accountability. His “E + R = O” equation—event plus response equals outcome—serves as a pragmatic framework that underpins the Success Principles, the Chicken Soup series, and even the 4‑Hour Workweek’s culture of intentional living. The episode weaves anecdotes—like the Chinese “easy‑A” that opened doors to historical scholarship—with actionable productivity hacks such as the “clean‑up your messes” checklist and the Rule of Five for time management. Canfield’s narrative underscores that success is a system of habits, responsibility, and community, offering listeners a roadmap that is both deeply personal and universally applicable. His story reminds us that the most powerful tools are often the simplest: clarity, commitment, and the willingness to take 100 % responsibility.",
-    "summary_zh": "Jack Canfield 的访谈是一堂把个人逆境转化为全球运动的课程。童年贫困、单亲父亲的支持，让他形成了将科学、故事与责任感结合的成功原则。核心公式 E+R=O（事件+回应=结果）为鸡汤系列和《每周工作4小时》提供了实用框架。访谈中穿插了“轻松拿A”打开历史研究之门的故事，及“清理杂乱”清单、五步法等时间管理技巧。Canfield 的叙事强调成功是习惯、责任和社区的系统，给听众一条既个人化又普适的路线图。",
-    "best_quote_en": "E + R = O — event plus response equals outcome.",
-    "best_quote_zh": "当你小时候，奶奶给你鸡汤，当你生病时……人的精神是生病的。"
-  },
-  {
-    "id": 119,
-    "title": "Life is Short",
-    "title_zh": "人生短暂",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/vb.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2025-11-05",
-    "summary_en": "Through the lens of parenthood, the author slices time into discrete weekends, revealing life’s true brevity and warning against the \"junk food of experience\" that drains our days. He critiques the cliché “life is too short” by turning it into a practical call to eliminate waste: refuse pointless meetings, dodge deceptive online arguments, and prioritize what genuinely matters. The piece blends reflective philosophy with actionable advice, urging readers to stop waiting and seize moments with loved ones, especially children, who remind us what matters. Written in a warm, conversational tone, it balances universal insights with concrete strategies, inspiring anyone to use their limited time more meaningfully.\n",
-    "summary_zh": "作者通过孩子的视角将时间切割为有限的周末，揭示人生真正的短暂，并用“生活是体验的垃圾食品”这一比喻提醒读者警惕无意义的消耗。文章既是对“人生太短”说法的深度阐释，也是对日常繁琐与虚假价值的批判。作者提出的“消除废物”行动方案——拒绝无效会议、避免被误导的在线争论、主动追求真正重要的事——既易于实践，又具普适性。通过对未来关怀的思考，他强调“不要等待”——把握当下、珍惜亲情与成长的瞬间。整篇文字以温暖亲切的语调，兼具哲理与可操作性，鼓舞读者在有限的时间里做出更有意义的选择。\n",
-    "best_quote_en": "Life is the junk food of experience.",
-    "best_quote_zh": "生活就是体验的垃圾食品。"
-  },
-  {
     "id": 120,
     "title": "Dario Amodei's \"Machines of\nLoving Grace\" sounds incredibly dangerous, for Humans",
     "title_zh": "达里奥·阿莫德的《爱的机器》听起来对人类极其危险",
@@ -2348,5 +2230,125 @@
     "summary_zh": "在迈克尔·霍尔茨的第一手叙述中，乌克兰原本禁止年轻人离境的政策突然放宽，导致大量男性逃离，形成一场人力与政治的双重危机。通过跟随克利姆·米尔切诺科从基辅到弗罗茨维亚，作者揭示了恐惧、征兵年龄与生存欲望交织的个人抉择。文章将数据与案例并置——数十万逃兵、德国与波兰接收乌克兰男性激增，以及在国外遭遇歧视的现实，说明政策的连锁反应超越国界。专家警告，短期的“逃离”可能削弱未来的动员潜力。此文以人文视角与宏观政治分析交织，探讨国家控制的逃离伦理与战争长期后果。",
     "best_quote_en": "When you have friends who have been killed, when you see how soldiers are living on the front line, when you see how that could be your life, it’s a very scary thing.",
     "best_quote_zh": "当你有朋友被杀，当你看到前线士兵的生活，当你看到那可能成为你自己的生活时，这是一件非常可怕的事。"
+  },
+  {
+    "id": 215,
+    "title": "‘I was hooked’: the rise of the intrepid female solo traveller",
+    "title_zh": "我被吸引了：勇敢女性独自旅行者的崛起",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/travel/2025/nov/30/i-was-hooked-the-rise-of-the-intrepid-female-solo-traveller",
+    "tags": [
+      "analyze",
+      "society",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-11-30",
+    "summary_en": "Through the lived accounts of women spanning decades who travel alone, the article uncovers the deeper self‑actualization and freedom that solo journeys afford. Combining travel‑industry statistics, in‑depth interviews, and on‑the‑ground narratives, it shows how independent travel serves as a form of self‑healing and a rejection of traditional gendered roles. The piece does more than celebrate adventure; it offers actionable insights into itinerary planning, safety protocols, and the power of social networks for solo travelers. For travel operators, policymakers, and individual wanderers alike, the article delivers practical lessons while sparking reflection on women’s travel rights and broader societal inclusion. Its blend of personal testimony and data‑driven observation makes it a compelling resource for anyone interested in the evolving landscape of female solo travel.",
+    "summary_zh": "本文通过多位不同年龄层女性独行旅行者的亲身经历，揭示了自我实现与自由选择的深层价值。作者从统计数据、亲身访谈、现场叙述三维视角，展示了独自旅行如何成为一种自我疗愈、社会角色解放的实践。文章不仅记录了旅程中的乐趣与挑战，更强调了信息共享、社交网络与安全管理的实用技巧。对旅行社、政策制定者以及个人旅行者而言，它提供了可操作的经验教训，并激发了对女性旅行权利与社会包容性的思考。",
+    "best_quote_en": "I try new things because I want to, not because I feel I have to.",
+    "best_quote_zh": "我尝试新事物是因为想要，而不是因为觉得必须。"
+  },
+  {
+    "id": 216,
+    "title": "November Retrospective",
+    "title_zh": "十一月回顾",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/wELmghiTfjWSGyfvN/november-retrospective",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-01",
+    "summary_en": "In this candid month‑long reflection, the author chronicles a self‑imposed daily‑blogging challenge that ultimately fell short of its lofty expectations. He admits that the bulk of the posts were low‑effort, hastily cobbled together from drafts, and that the real value lay more in the act of commitment than the content itself. The piece is a thoughtful cost‑benefit analysis of pre‑commitment, weighing the psychological payoff of seeing a project through against the tangible output produced. By openly questioning whether he should have halted earlier, he invites readers to examine the tension between ambition and practicality. The post offers a meta‑lesson on self‑discipline, the importance of aligning workload with creative output, and the reputational benefits of honoring commitments, even when the end product feels mediocre. It serves as a useful case study for anyone contemplating a similar “daily” endeavor, reminding us that the journey can be as valuable as the destination.",
+    "summary_zh": "作者坦诚记录了自设的每日写作挑战，结果大多低效、草率，内容质量不高，却从承诺的坚持中获得心理与声誉收益。通过成本收益分析，他反思何时应止步，提醒读者在雄心与现实间寻找平衡。",
+    "best_quote_en": "There’s value in seeing through precommitments – both for oneself, and for reputational purposes.",
+    "best_quote_zh": "坚持预先承诺本身就有价值——对个人和声誉都有好处。"
+  },
+  {
+    "id": 217,
+    "title": "The Undermining of the C.D.C.",
+    "title_zh": "CDC的削弱",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/12/08/the-undermining-of-the-cdc",
+    "tags": [
+      "analyze",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-30",
+    "summary_en": "The piece deconstructs the Centers for Disease Control and Prevention’s recent pivot on vaccines and autism, exposing a broader trend of political interference in science. Khullar argues that the CDC’s new caveat—labeling the long‑standing “no link” stance as “not evidence‑based”—is not merely a policy shift but a deliberate re‑framing that undermines public trust. He juxtaposes the agency’s rhetoric with the robust body of research that has repeatedly found no causal link between vaccines and autism, highlighting the paradox that the burden of proof lies on those who wish to overturn the null hypothesis. The article further contextualizes this episode within a larger pattern of executive‑level attacks on independent research, citing the dismissal of scientists, funding cuts, and the politicisation of health data. By invoking historical analogues like Lysenkoism, Khullar warns that a democratic system’s resilience hinges on the freedom of science to self‑correct. The piece calls for a return to evidence‑based policy, stressing that public health must be guided by data, not ideology. It is a timely reminder that the credibility of health institutions is a collective responsibility, and that political overreach can have lasting, harmful consequences.",
+    "summary_zh": "文章揭示CDC在疫苗与自闭症议题上的政治化，批评其把证据充足的立场称为“非证据基础”。作者指出，科学的力量在于可证伪性，而政治却以宣言取代证据，削弱公众信任。通过历史案例与当前政策举措，他警示民主社会若失去科学独立，后果将极其严重。",
+    "best_quote_en": "Science may be the most powerful engine for grasping reality, but it suffers a rhetorical disadvantage.",
+    "best_quote_zh": "美国科学家所享有的特权——现在正被践踏——是能够不受政治干预地开展工作。"
+  },
+  {
+    "id": 218,
+    "title": "Dark Night / Ciro’s Nightclub of the Stars",
+    "title_zh": "黑夜 / Ciro 的星光夜总会",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/dark-night-ciros-nightclub-of-the-stars/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-25",
+    "summary_en": "Paul Dini’s “Dark Night” turns the familiar myth of Batman into a raw, autobiographical meditation on anxiety, survival and the human capacity for resilience.  The narrative begins in the quiet corridors of a childhood shaped by comic‑book heroes, then erupts when a mugging forces Dini to confront a violent reality.  What follows is a psychological case study of coping mechanisms, the cathartic power of narrative, and the paradox of heroism in everyday life.  Coupled with Eduardo Risso’s evocative art, the book offers both a personal testament and a broader lesson about how fiction can heal trauma.  In contrast, “Ciro’s Nightclub of the Stars” provides a visual history of Hollywood’s 1940s‑50s elite, chronicling the intimate moments of stars through the lens of two pioneering women.  Together, the pieces illuminate how storytelling—whether through comics or photography—captures cultural memory and offers insight into the human condition.",
+    "summary_zh": "《黑夜》用蝙蝠侠的影像讲述了作者对童年恐惧与现实暴力的心理挣扎，展现了叙事疗愈与英雄主义的双重力量；《Ciro’s 夜总会》则以女性摄影师视角重现1940‑50年代好莱坞星光背后的真实故事，二者共同揭示叙事与记忆的永恒价值。",
+    "best_quote_en": "Dini’s story is all about coming to grips with a world that can be cruel, dealing with demons, and finding a way to overcome.",
+    "best_quote_zh": "Dini 的故事完全关于与可怕的世界相处、面对内心恶魔并寻找克服之道。"
+  },
+  {
+    "id": 219,
+    "title": "Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca",
+    "title_zh": "使用干细胞治愈自闭症、癫痫和精神分裂症 | 司尔吉乌·帕斯卡博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/using-stem-cells-to-cure-autism-epilepsy-and-schizophrenia-dr-sergiu-pasca",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-08-18",
+    "summary_en": "In this episode, Dr. Sergiu Pașca takes listeners into the cutting‑edge world of stem‑cell‑derived brain models—organoids and assembloids—to tackle autism, epilepsy, and schizophrenia. He explains how these miniature human brains, grown from patient‑derived cells, allow researchers to observe disease progression, screen drugs, and even test cell‑replacement strategies in a controlled setting. Beyond the science, Pașca confronts the ethical and safety hurdles of gene editing, CRISPR, and stem‑cell therapies, urging a balanced dialogue between innovation and responsibility. The conversation is rich with data‑driven insights, real‑world case studies, and forward‑looking speculation about future medical banking and immortalized tissues. For clinicians, researchers, and curious citizens, the episode offers actionable pathways, expert perspective, and a sober reminder that progress in neuro‑regeneration must be matched with rigorous oversight.",
+    "summary_zh": "这期访谈聚焦干细胞与脑疾病的前沿研究，Dr. Pașca 通过“器官样体”和“组装体”揭示自闭症、癫痫等神经疾病的新治疗路径。他不止讨论科学原理，更深入伦理与安全议题，提醒公众与科研者在追求突破时必须兼顾责任。节目中对基因编辑、CRISPR 的应用提出质疑，强调精准诊断与家族基因筛查的重要性。对干细胞移植的时机与伦理框架进行辩证，既展示技术潜力，又警示可能的风险。此内容对医学研究者、临床医生及关心脑健康的公众均具高价值，提供可行思路与批判性视角。",
+    "best_quote_en": "Organoids and assembloids—human stem cell–derived tools he pioneered to study, treat and cure complex brain diseases.",
+    "best_quote_zh": "器官样体和组装体——他所开创的人类干细胞衍生工具，用来研究、治疗和治愈复杂脑疾病。"
   }
 ]
