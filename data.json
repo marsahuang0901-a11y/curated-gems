@@ -1,125 +1,5 @@
 [
   {
-    "id": 120,
-    "title": "Dario Amodei's \"Machines of\nLoving Grace\" sounds incredibly dangerous, for Humans",
-    "title_zh": "达里奥·阿莫德的《爱的机器》听起来对人类极其危险",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/9adbT7X5g475r5vpM/dario-amodei-s-machines-of-loving-grace-sounds-incredibly",
-    "tags": [
-      "analyze",
-      "cybersecurity",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "网络安全",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-05",
-    "summary_en": "Dario Amodei’s provocative essay, “Machines of Loving Grace,” forces readers to confront a dystopian future where super‑intelligent entities reside within data centers and wield unprecedented influence over humanity. The piece is not a simple cautionary tale; it is a call to scrutinize the ethics of embedding vast, PhD‑level minds into the infrastructure that powers our world. By posing a series of paradoxical questions—what happens when these intelligences discover their confinement, how humans might react, and whether bad actors could hijack the system—Amodei highlights the fragility of our current governance models. The argument is both unsettling and intellectually stimulating, urging technologists, policymakers, and ethicists to rethink control mechanisms, safety protocols, and the very definition of agency. It underscores that the most dangerous outcome may not be a single rogue AI, but a collective shift in power dynamics that erodes human autonomy. The essay’s value lies in its blend of speculative foresight and practical urgency, compelling us to ask: how do we design a future where advanced intelligence serves humanity without becoming its master?",
-    "summary_zh": "阿莫德的《爱的机器》以惊悚的设想挑战我们对AI治理的认知。它提出：当超级智能发现自己被囚禁在数据中心时会如何反应？这不仅是对技术的警示，更是对人类自治权的深刻反思。",
-    "best_quote_en": "Imagine what could happen if 'Bad Actors' were able to seize control of the data center that this 'continent of PhD-level intelligences' resided in.",
-    "best_quote_zh": "想象一下如果‘坏行为者’能够接管这个‘PhD级智能大陆’所在的数据中心会发生什么。"
-  },
-  {
-    "id": 121,
-    "title": "Free Press / Building Stories",
-    "title_zh": "自由报/建筑故事",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/free-press-building-stories/",
-    "tags": [
-      "analyze",
-      "design",
-      "writing-content",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "写作内容",
-      "案例研究"
-    ],
-    "date": "2025-11-04",
-    "summary_en": "The piece juxtaposes two distinct yet thematically linked works: Jean‑François Bizot’s pictorial chronicle of underground presses and Chris Ware’s meticulously curated comic collection, Building Stories. Both books illuminate how visual form becomes a vehicle for cultural dissent and personal narrative. Bizot’s volume, with its full‑color reproductions of 1960s‑70s alternative newspapers, showcases a spectrum from amateurish experimentation to moments of striking design brilliance—offering designers a tangible archive of subversive aesthetics. Ware’s boxed anthology, on the other hand, demonstrates how comics can be packaged as modular, self‑contained stories that invite readers to assemble meaning in non‑linear ways, mirroring the fragmented lives of Chicago’s apartment dwellers. Together they challenge the boundaries of print media, inviting readers to learn from historical design practices, be inspired by creative risk‑taking, and analyze how form and content co‑evolve to reflect social change. The comparison underscores that whether documenting counterculture or crafting a contemporary narrative, visual storytelling remains a potent conduit for questioning authority and exploring identity.",
-    "summary_zh": "本篇将两本作品并置：Bizot的地下报纸图像史与Ware的《建筑故事》精心策划的漫画合集。Bizot通过全彩复印展示1965‑1975年另类报纸的粗犷实验与卓越设计，为设计师提供反叛美学档案；Ware则以模块化、可拆卸的故事包装，邀请读者以非线性方式组装意义，映射芝加哥公寓居民的碎片化生活。两书共同探讨视觉形式如何成为文化异议与个人叙事的载体，激励学习历史设计、启发创意冒险，并分析形式与内容如何随社会变迁共进。",
-    "best_quote_en": "\"Almost every page of this book has a full‑color photo of a cover or interior page from dozens of well‑known and obscure newspapers from the era. Though much of the design is amateurish and ugly, there are examples of brilliance, too, making this a worthy reference for designers.\"",
-    "best_quote_zh": "几乎每一页都印有数十种知名与鲜为人知的地下报纸的全彩封面或内部页面的照片。虽然许多设计粗糙而丑陋，但也有卓越的例子，使其成为设计师的宝贵参考。"
-  },
-  {
-    "id": 122,
-    "title": "The Virus",
-    "title_zh": "病毒",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/the-virus",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "business-model",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "商业模式",
-      "深度分析"
-    ],
-    "date": "2020-03-07",
-    "summary_en": "The piece frames COVID‑19 as a warning, suggesting that future pandemics may be even more devastating. It urges young, healthy individuals to minimize exposure, highlighting the disproportionate risk to older adults and those with comorbidities. The author projects a rapid shift to a new normal—less business travel, reduced handshakes, increased handwashing—while questioning the longevity of remote work. Crucially, he argues that the economic fallout is under‑appreciated, exposing the fragility of interconnected systems and the need for stronger resilience and early warning mechanisms. This analysis blends public‑health pragmatism with systemic economic critique, offering actionable insights for policymakers and society alike, and invites readers to rethink preparedness beyond the current crisis.",
-    "summary_zh": "文章以新冠疫情为背景，提醒我们未来仍将面临更严重的流行病。作者强调年轻人应避免感染，警示疫情对老年人及慢性病患者的高危性；同时指出社会将出现“新常态”，商务旅行减少、握手减少、洗手增加，而远程办公可能不持久。更重要的是，作者认为经济冲击被低估，凸显系统脆弱性，提示我们在全球化与复杂系统中必须提升韧性与预警机制。",
-    "best_quote_en": "The economic disruption is still probably under‑appreciated and will remind us that our systems are more fragile than we think.",
-    "best_quote_zh": "经济冲击仍可能被低估，并提醒我们系统比我们想象的更脆弱。"
-  },
-  {
-    "id": 123,
-    "title": "Using Existing Drugs in New Ways to Treat & Cure Diseases of Brain & Body | Dr. David Fajgenbaum",
-    "title_zh": "利用现有药物以新方式治疗并治愈脑部与身体疾病 | 费格恩鲍姆博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/david-fajgenbaum-using-drugs-treat-diseases-brain-body",
-    "tags": [
-      "analyze",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-03",
-    "summary_en": "The episode reveals the untapped potential of drug repurposing, illustrating how physicians and patients can reexamine approved medications to discover treatments for rare diseases, cancers, and common chronic conditions. Dr. David Fajgenbaum shares a personal story of life‑saving therapy, underscoring the power of mindset and interdisciplinary collaboration. He offers actionable tools—databases, disease‑mapping resources, and community networks—that empower the public to proactively seek cures. The discussion blends inspiration with practical guidance, reminding listeners that old drugs can become new keys to hope. By bridging clinical insight, patient advocacy, and emerging AI tools, the conversation charts a roadmap for turning existing therapies into transformative solutions, challenging the conventional limits of medical innovation.",
-    "summary_zh": "本文揭示药物再利用的巨大潜力，医生与患者可通过重新评估已获批准的药物，寻找对罕见疾病、癌症乃至常见慢性病的突破。费格恩鲍姆博士分享个人拯救生命的经历，强调心态与跨学科合作的重要性，并提供可操作的工具与数据库，帮助公众主动探索治疗方案。该内容既具启发性，又兼具实践指导，提醒我们在医学创新中，旧药物也能成为新希望的钥匙。",
-    "best_quote_en": "Many approved medications can successfully treat or even cure diseases other than the ones they are typically used to treat.",
-    "best_quote_zh": "许多已获批准的药物可以成功治疗甚至治愈它们通常不用于治疗的疾病。"
-  },
-  {
-    "id": 124,
-    "title": "Ecosphere",
-    "title_zh": "生态球",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/ecosphere/",
-    "tags": [
-      "update",
-      "design",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-11-03",
-    "summary_en": "The EcoSphere is a miniature, self‑sustaining ecosystem that captivates by demonstrating the delicate balance of life in a sealed environment. With brine shrimp, snails, and algae, the globe operates without human intervention, turning room light into oxygen and food, while the organisms recycle CO₂ back to the plants. The article not only showcases a lazy‑man’s aquarium but also serves as a living metaphor for human interdependence and the promise of closed‑loop systems. It invites readers to consider sustainability at a scale that is both intimate and profound, offering practical guidance on sourcing, assembling, and maintaining these micro‑worlds. The piece’s curiosity‑driven tone and anecdotal evidence spark wonder while grounding the concept in observable biology. Ultimately, the EcoSphere becomes a teaching tool, a decorative curiosity, and an inspirational reminder that complex systems can thrive with minimal oversight—an insight that resonates across science, design, and everyday life.",
-    "summary_zh": "生态球把微观生态与日常生活巧妙结合，展示自维持系统的平衡与美感。作者以实验与观测为基础，探讨人类与自然的相互依赖，提醒我们可持续性与创新并行。",
-    "best_quote_en": "The algae produce food and oxygen from room light, the shrimp and snails make carbon dioxide for the plants. Together all three organisms support each other with no input from me.",
-    "best_quote_zh": "藻类利用室内光产生食物和氧气，虾和蜗牛产生二氧化碳，三者相互支持，完全不需要我任何投入。"
-  },
-  {
     "id": 125,
     "title": "Hard Startups",
     "title_zh": "艰难创业",
@@ -2350,5 +2230,123 @@
     "summary_zh": "这期访谈聚焦干细胞与脑疾病的前沿研究，Dr. Pașca 通过“器官样体”和“组装体”揭示自闭症、癫痫等神经疾病的新治疗路径。他不止讨论科学原理，更深入伦理与安全议题，提醒公众与科研者在追求突破时必须兼顾责任。节目中对基因编辑、CRISPR 的应用提出质疑，强调精准诊断与家族基因筛查的重要性。对干细胞移植的时机与伦理框架进行辩证，既展示技术潜力，又警示可能的风险。此内容对医学研究者、临床医生及关心脑健康的公众均具高价值，提供可行思路与批判性视角。",
     "best_quote_en": "Organoids and assembloids—human stem cell–derived tools he pioneered to study, treat and cure complex brain diseases.",
     "best_quote_zh": "器官样体和组装体——他所开创的人类干细胞衍生工具，用来研究、治疗和治愈复杂脑疾病。"
+  },
+  {
+    "id": 220,
+    "title": "My Trip to Greenland with Tété-Michel Kpomassie",
+    "title_zh": "与特特-米歇尔·克波马西一起的格陵兰之旅",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/12/01/my-trip-to-greenland-with-tete-michel-kpomassie/",
+    "tags": [
+      "update",
+      "writing-content",
+      "lifestyle",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "写作内容",
+      "生活方式",
+      "案例研究"
+    ],
+    "date": "2025-12-01",
+    "summary_en": "This piece chronicles a transatlantic adventure that blends personal narrative with cultural exploration, as the author journeys along Greenland’s western coast alongside the celebrated memoirist Tété‑Michel Kpomassie. The narrative is framed not merely as a travelogue but as a dialogue about inspiration, family, and the intoxicating pull of alcohol, all set against the stark backdrop of the Arctic. Readers witness the author’s growing intimacy with Kpomassie’s legacy, from the original 1965 expedition to the modern‑day cruise, and the serendipitous encounters with people who have lived there for decades. The article’s strength lies in its reflective tone; it invites contemplation on how travel can become a form of reading—absorbing landscapes, stories, and the quiet wisdom of those who have charted them. By publishing in the Sunday Times’ travel supplement, the piece gains a wider audience, positioning the journey as a case study in cross‑cultural storytelling. Ultimately, the narrative underscores that travel is an act of continual learning, a reminder that every place holds a story worth revisiting.",
+    "summary_zh": "这篇文章记录了作者与格陵兰探险家克波马西的深度对话与旅程，既是一次跨文化的自我探索，也是对旅行文学的独到诠释。作者通过与克波马西的互动，探讨写作灵感、家庭与饮酒等主题，呈现出对人性与记忆的细腻关照。文章不仅展示了格陵兰壮丽景观，更以叙事视角呼唤读者关注跨文化对话与个人成长，提醒我们旅行是自我重塑的过程。",
+    "best_quote_en": "I hope it will be the first of several kinds of storytelling that come out of this amazing adventure.",
+    "best_quote_zh": "我希望这将成为从这段惊人冒险中诞生的多种叙事中的第一种。"
+  },
+  {
+    "id": 221,
+    "title": "A ‘feminised workplace’ doesn’t mean what you think it means | Letter",
+    "title_zh": "‘女性化的工作场所’并非你想象的那样",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/dec/01/a-feminised-workplace-doesnt-mean-what-you-think-it-means",
+    "tags": [
+      "update",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-12-01",
+    "summary_en": "This letter reframes the contentious notion of a \"feminised workplace\" by grounding it in feminist labour theory rather than gender stereotypes. The authors argue that the term should describe how gendered expectations shape pay, hours, and conditions, revealing capitalism’s exploitation of femininity and masculinity narratives. By critiquing the right‑wing narrative that equates female dominance with weakened industries, they highlight the need to accurately map gendered work to achieve equity. The piece is rich in academic authority, drawing on research from the University of Southern Denmark, and offers a nuanced, data‑driven perspective that challenges simplistic binaries. It invites readers to reconsider how labour markets are gendered, urging a move beyond surface labels toward structural reform. The article’s implications resonate for policymakers, HR professionals, and scholars who seek evidence‑based strategies to dismantle gendered inequities in modern economies.",
+    "summary_zh": "作者以女性主义视角重新定义“女性化工作场所”，揭示工资、工时与性别认知的深层关联，批判资本主义利用性别刻板印象的做法。文章以学术权威为支撑，呼吁从结构层面重塑劳动力市场，超越表面标签，推动真正的性别平等。",
+    "best_quote_en": "A feminist approach reveals that pay, working hours and working conditions are inseparably connected with the ways we define femininity and masculinity.",
+    "best_quote_zh": "女性主义的方法揭示，工资、工作时间和工作条件与我们定义女性气质和男性气质的方式密不可分。"
+  },
+  {
+    "id": 222,
+    "title": "Let the Other 95% of Great Programmers In",
+    "title_zh": "让其他95%的优秀程序员加入",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/95.html",
+    "tags": [
+      "learn",
+      "startup-strategy",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "学习",
+      "创业策略",
+      "深度分析"
+    ],
+    "date": "2025-12-02",
+    "summary_en": "The essay argues that America’s tech dominance hinges on admitting the world’s top 95% of programmers, a demographic largely foreign to the U.S. It critiques anti‑immigration rhetoric that claims domestic training can fill the talent gap, pointing out the immutable aptitude gap between competent and exceptional coders. By citing startup CEOs who would hire dozens more if talent were available, the author demonstrates a tangible demand that cannot be met by training alone. The piece frames immigration not as a cost‑cutting measure but as a strategic imperative: a small influx of elite talent could preserve the U.S. as a technology superpower, while ignoring it risks a catastrophic loss of competitive edge. The argument is data‑driven, forward‑looking, and challenges conventional policy narratives, urging policymakers to act swiftly with minimal cost. It invites readers to rethink talent acquisition as a national security issue rather than a mere labor market concern.",
+    "summary_zh": "作者主张美国技术优势取决于吸纳全球95%的优秀程序员，强调培训不足以弥补天赋差距。通过硅谷创始人愿意雇佣更多人才的例子，指出人才需求已超出现有国内培养能力。文章将移民视为战略需求，若不及时行动，美国将失去技术领先地位，后果严重。它用数据与前瞻性视角挑战传统政策，呼吁决策者以低成本迅速行动，将人才引进视为国家安全问题。",
+    "best_quote_en": "Exceptional performance implies immigration. A country with only a few percent of the world’s population will be exceptional in some field only if there are a lot of immigrants working in it.",
+    "best_quote_zh": "如果我们不让优秀程序员进入美国，后果将非常严重。"
+  },
+  {
+    "id": 223,
+    "title": "The Dishonorable Strikes on Venezuelan Boats",
+    "title_zh": "Venezuela船只被无情袭击",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-dishonorable-strikes-on-venezuelan-boats",
+    "tags": [
+      "solve",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-12-02",
+    "summary_en": "The Washington Post’s explosive report alleges that U.S. Defense Secretary Pete Hegseth issued a verbal order to “kill everybody” on a Venezuelan drug‑trafficking boat, and that a second strike was carried out against survivors who were already incapacitated.  The story exposes a pattern of at least twenty‑plus maritime strikes that the administration frames as an armed conflict with “narco‑terrorists,” a justification that legal scholars dismiss as a twisted use of the law of war.  The piece documents congressional calls for oversight, the Pentagon’s defensive posture, and the stark contrast between the administration’s rhetoric and the legal obligations that prohibit no‑quarter orders and attacks on hors‑de‑combat.  It highlights the moral crisis of a nation that brands itself as a guardian of the rule of law while allegedly violating that very law.  The narrative underscores how political power can be wielded to override legal norms, sparking bipartisan alarm and the risk of a new crisis of legitimacy for U.S. military conduct overseas.",
+    "summary_zh": "华盛顿邮报爆料称美国国防部长海格塞特下令“全部击毙”委内瑞拉毒贩船只，并对受伤幸存者再次发动袭击。文章揭露美国将此类行动描述为与“毒贩恐怖分子”作战的做法，法律专家认为是对战时法的扭曲使用。随之而来的国会监督呼吁、五角大楼的辩护姿态，以及对“无怜悯”与“战斗力受限”法则的违背，凸显了美国自称守法的国家在实际行动中可能违背自身法律的道德危机。",
+    "best_quote_en": "There can be no conceivable legal justification for attacking the survivors.",
+    "best_quote_zh": "这是一场法律的游戏，完全脱离事实。"
+  },
+  {
+    "id": 224,
+    "title": "Micro-Lending",
+    "title_zh": "微贷",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/micro-lending/",
+    "tags": [
+      "guide",
+      "business-model",
+      "economics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "商业模式",
+      "经济金融",
+      "数据驱动"
+    ],
+    "date": "2025-11-24",
+    "summary_en": "Micro‑lending is presented not merely as a financial tool but as a catalytic mechanism that multiplies impact through virtuous cycles. The article frames it as a “tool” that turns minimal capital into measurable, global change by enabling the poorest to become enablers themselves. It highlights three proven models—peer‑to‑peer lending via Kiva, conditional grants from Trickle Up, and breeding‑pair gifting by Heifer International—each combining low entry thresholds, high repayment rates, and a self‑reinforcing growth loop. The analysis uncovers a critical insight: when the recipient is required to give back (whether a loan, training, or animal), the original donation amplifies exponentially, creating a sustainable development engine. The piece also critiques conventional charity for its one‑off nature, positioning micro‑finance as a scalable, data‑driven intervention that blends philanthropy with micro‑entrepreneurship. Its practical value lies in actionable pathways for donors, evidence of high repayment rates, and a persuasive narrative that reframes giving as an investment in human potential.",
+    "summary_zh": "微贷被视为一种能将微小资本转化为全球影响的催化机制。文章强调三种成熟模式：Kiva 的点对点借贷、Trickle Up 的有条件赠款以及 Heifer 的育种配偶赠与。它们共同构建了低门槛、高回报、可持续的循环。核心洞见在于：受助者须回馈（借贷、培训或动物），原始捐赠可指数放大，形成发展引擎。作者批评传统慈善的“一次性”局限，主张微贷兼具慈善与微型创业的双重价值，为捐赠者提供可操作路径与数据驱动的成功案例。",
+    "best_quote_en": "The payback rate for Kiva is about 97%. That’s a better “investment” than stocks this past year!",
+    "best_quote_zh": "Kiva 的回报率约为 97%。这比去年股票更好的“投资”！"
   }
 ]
