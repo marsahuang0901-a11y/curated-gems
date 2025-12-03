@@ -1,125 +1,5 @@
 [
   {
-    "id": 125,
-    "title": "Hard Startups",
-    "title_zh": "艰难创业",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/hard-startups",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "startup-funding",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "创业融资",
-      "未来预测"
-    ],
-    "date": "2020-02-26",
-    "summary_en": "The piece turns a common startup myth on its head: the most successful ventures are often the ones that demand the most resources, time, and coordination.  By framing a \"hard startup\"—one that solves a truly valuable, difficult problem—as a strategic advantage, the author reframes risk as a magnet for talent, funding, and credibility.  The article argues that hard problems attract serious, committed people, and that the scarcity of such talent turns ambition into a signal that investors and partners take seriously.  It stresses long‑term commitment, a clear vision, and realistic milestones—essentially a disciplined, future‑focused playbook that balances ambition with incremental progress.  The piece is both a call to action and a subtle critique of the “quick‑win” mentality that dominates today’s startup culture, urging founders to aim higher and plan for the long game.  Its implications ripple beyond entrepreneurship: it challenges us to rethink how we value effort, risk, and impact in any ambitious endeavor.",
-    "summary_zh": "文章颠覆常见创业观念，认为最成功的往往是最艰难的。它将“硬核创业”视为吸引人才、资金与信任的战略优势，强调长期承诺、清晰愿景与可行里程碑。作者批判快速取胜的思维，呼吁创业者瞄准更高目标、长远规划，重新审视努力、风险与影响的价值。",
-    "best_quote_en": "An easy startup is a headwind; a hard startup is a tailwind.",
-    "best_quote_zh": "轻松的创业是阻力；艰难的创业是助力。"
-  },
-  {
-    "id": 126,
-    "title": "Essentials: How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
-    "title_zh": "Essentials: How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-exercise-strength-gains-hormone-optimization-duncan-french",
-    "tags": [
-      "solve",
-      "health-wellness",
-      "science",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "健康养生",
-      "科学研究",
-      "深度分析"
-    ],
-    "date": "2025-09-18",
-    "summary_en": "In this episode of Huberman Lab Essentials, Dr. Duncan French—a leading performance scientist from the UFC Performance Institute—unpacks the science of how resistance training and acute stress shape hormone profiles, particularly testosterone, and how these changes drive strength and hypertrophy. He walks listeners through a data‑driven 6 × 10 protocol that maximizes anabolic signaling, explains the critical role of rest intervals in metabolic stimulation, and introduces a novel “cold periodization” framework that blends deliberate cold exposure with recovery goals. French also links nutrition periodization to training intensity, showing how carbohydrate timing and exogenous ketones can fine‑tune metabolic flexibility. The episode blends expert insight with actionable tools—heat adaptation via sauna, a 12‑week periodized program, and precise recovery strategies—making it a practical playbook for athletes and fitness enthusiasts seeking to optimize performance through hormonal and metabolic levers. The discussion underscores that strength gains are not just about lifting heavier; they are a systemic interplay of training load, recovery, environment, and diet, all calibrated to hormone dynamics.",
-    "summary_zh": "在Huberman实验室的这期节目中，UFC表现研究所的顶尖专家邓肯·弗朗西斯博士阐释了阻力训练与急性压力如何影响激素水平，尤其是睾酮，并进一步说明了这些变化如何驱动力量与肌肥大。他提供了基于数据的6×10协议、恢复间歇的代谢刺激以及结合冷暴露的“冷周期化”框架，并将营养周期化与训练强度相连，展示碳水化合物时机与外源酮体如何调节代谢灵活性。节目融合了专家洞见与可操作工具——如桑拿热适应、12周周期化计划和精准恢复策略——为想通过激素和代谢杠杆提升表现的运动员和健身爱好者提供实用指南。",
-    "best_quote_en": "Resistance training and acute stress impact hormones and outline specific weight training protocols to increase testosterone to support strength and hypertrophy.",
-    "best_quote_zh": "阻力训练和急性压力影响激素，并概述了特定的举重训练方案，以提高睾酮支持力量和肌肥大。"
-  },
-  {
-    "id": 127,
-    "title": "David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More (#834)",
-    "title_zh": "David Baszucki，Roblox联合创始人——通往1.5亿+日活用户的道路，关键商业决策，酮症疗法提升脑健康，每日例行，Roblox经济学等更多（#834）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/11/04/david-baszucki-roblox/",
-    "tags": [
-      "learn",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-11-05",
-    "summary_en": "In this episode, Tim Ferriss dives into the multifaceted world of David Baszucki, the visionary behind Roblox’s meteoric rise to 150 million daily users. Baszucki’s narrative intertwines entrepreneurial grit with a surprising foray into metabolic health—he shares a personal story where a ketogenic diet dramatically improved his son’s bipolar symptoms, underscoring the therapeutic potential of nutrition for mental illness. The interview also examines the platform’s safety architecture, AI‑driven moderation, and the economics of a creator‑centric ecosystem that now generates over $1 billion in annual revenue. Ferriss frames these insights within broader themes of future work, virtual collaboration, and the inevitable acceleration of technology, offering listeners actionable take‑aways for building resilient, user‑centric products. The episode is a rich blend of business strategy, personal health advocacy, and speculative foresight, making it a valuable resource for founders, designers, and anyone interested in the intersection of tech, health, and community.",
-    "summary_zh": "本期节目聚焦Roblox联合创始人David Baszucki，既有其公司成长到1.5亿日活的商业洞察，也揭示他亲身经历的酮症疗法对精神健康的奇效。节目同时剖析平台安全、AI治理与创作者经济，探讨未来工作与虚拟协作的不可逆趋势，为创业者与设计师提供可落地的启示与前瞻思考。",
-    "best_quote_en": "\"Our son with bipolar tried a ketogenic diet, and literally within three weeks or four weeks, we saw progress that we had never seen with any drug or medication. Mind blown, really, and a miracle.\"",
-    "best_quote_zh": "“我们儿子患有双相情感障碍，尝试酮症饮食后，三到四周内出现了我们从未在任何药物或治疗中见过的进步。真是震撼，简直是奇迹。”"
-  },
-  {
-    "id": 128,
-    "title": "Single mothers in China find a new kind of partner – other single mothers",
-    "title_zh": "中国单亲妈妈发现新型伴侣——彼此",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/nov/07/single-mothers-in-china-find-a-new-kind-of-partner-other-single-mothers",
-    "tags": [
-      "guide",
-      "lifestyle",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "生活方式",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "The Guardian piece uncovers a quiet, grassroots shift in urban China: single mothers are turning to one another for co‑habitation and shared childcare, driven by soaring divorce rates and a cost‑of‑living squeeze that outpaces state welfare. Through Xiaohongshu posts, these women forge informal “house‑mate” networks that blend emotional support, economic pooling, and even joint entrepreneurship. The story spotlights Zhu Danyu and Fei Yuan, who not only share a home but also a start‑up, illustrating how such arrangements can be both a survival strategy and a model of modern, gender‑evolved family life. Yet the narrative also flags legal grey zones, the fragility of ad‑hoc agreements, and the broader societal stigma that still looms over single mothers. The piece invites readers to rethink traditional notions of partnership, community care, and the state’s role in safeguarding vulnerable families. It challenges us to ask: can policy catch up with these emergent support systems, and what lessons might other societies draw from China’s unorthodox “co‑parenting” experiment?",
-    "summary_zh": "在中国城市，离婚率飙升与生活成本上升催生单亲妈妈彼此共住的现象。文章通过社交媒体案例，揭示她们在经济与情感上互助、共创事业，却面临法律空白与社会偏见。它促使人们重新思考伴侣、社区照护与国家角色，探讨如何让政策跟上这种新型共生模式。",
-    "best_quote_en": "Single mothers across all social strata struggle financially, further affected by a lack of state welfare for single parents and a lack of adequate support from kin.",
-    "best_quote_zh": "我们所关心的是孩子是否快乐、健康、学习进步，以及我们的生意是否稳步增长。"
-  },
-  {
-    "id": 129,
-    "title": "Economic Inequality",
-    "title_zh": "经济不平等",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ineq.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "economics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "经济金融",
-      "数据驱动"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "The essay dissects the myth that economic inequality is a monolithic problem, arguing instead that it is a composite of many causes—some harmful, some beneficial. It critiques the pie‑fallacy that assumes the rich merely siphon wealth from the poor, and distinguishes between wealth creation and wealth extraction. By tracing the rise of startup founders and the acceleration of productivity, the author shows that technological progress inevitably amplifies inequality, yet also offers avenues for social mobility. The piece urges a shift from blanket calls to “reduce inequality” toward targeted interventions that address the root injustices—tax loopholes, corrupt practices, and systemic poverty—while acknowledging that eliminating inequality would mean stifling innovation. The argument is nuanced, data‑driven, and forward‑looking, inviting readers to rethink policy goals in light of historical trends and the relentless march of exponential growth.",
-    "summary_zh": "文章拆解经济不平等的“单一”误区，指出其多因性——既有有害的税收漏洞与腐败，也有技术创新带来的财富创造。作者批评“饼图谬误”，强调财富不是简单转移，而是新技术与创业加速导致的正向产出。文章呼吁政策从单纯削减不平等转向精准治理根源不公，既维护创新活力，又兼顾社会公平，提醒我们在面对指数增长时需理性把握。”",
-    "best_quote_en": "\"We may have democracy, or we may have wealth concentrated in the hands of a few, but we can't have both.\"",
-    "best_quote_zh": "\"我们可能拥有民主，也可能拥有财富集中于少数人手中，但我们不能两者兼得。\""
-  },
-  {
     "id": 130,
     "title": "Minimizing Loss ≠ Maximizing Intelligence",
     "title_zh": "最小化损失 ≠ 最大化智能",
@@ -2348,5 +2228,123 @@
     "summary_zh": "微贷被视为一种能将微小资本转化为全球影响的催化机制。文章强调三种成熟模式：Kiva 的点对点借贷、Trickle Up 的有条件赠款以及 Heifer 的育种配偶赠与。它们共同构建了低门槛、高回报、可持续的循环。核心洞见在于：受助者须回馈（借贷、培训或动物），原始捐赠可指数放大，形成发展引擎。作者批评传统慈善的“一次性”局限，主张微贷兼具慈善与微型创业的双重价值，为捐赠者提供可操作路径与数据驱动的成功案例。",
     "best_quote_en": "The payback rate for Kiva is about 97%. That’s a better “investment” than stocks this past year!",
     "best_quote_zh": "Kiva 的回报率约为 97%。这比去年股票更好的“投资”！"
+  },
+  {
+    "id": 225,
+    "title": "How to Be an Expert in a Changing World",
+    "title_zh": "如何在变革世界中成为专家",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ecw.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "This essay argues that expertise is a moving target: what counts as expert knowledge today may become obsolete tomorrow. By treating the world as dynamic, the author proposes a practical framework for investors and innovators alike. First, consciously adopt a belief in constant change and remain open‑minded, avoiding the trap of monotonically increasing confidence. Second, shift focus from ideas to people—invest in earnest, independent thinkers whose curiosity often precedes market validation. Third, treat public commentary as a bet: the more visible you are, the sharper your self‑censorship becomes, pushing you toward rigorous, data‑driven hypotheses. The piece blends personal anecdotes from Y Combinator with philosophical reflections on prediction, offering a roadmap that is both actionable and intellectually honest. It challenges readers to reframe expertise as a skill of anticipation and humility, underscoring the accelerating pace of change that demands continuous learning and strategic risk‑taking.",
+    "summary_zh": "作者认为，专业知识是不断变化的，必须把世界视为动态，保持开放心态。通过关注人而非想法，投资有潜力的创始人；把公开评论视为赌注，促使自我审视。文章兼具个人经历与理论，强调在加速变革时代持续学习与冒险的重要性。",
+    "best_quote_en": "Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.",
+    "best_quote_zh": "与其试图指引自己走向正确的方向，不如承认自己不知道正确方向是什么，而是努力对变化的风向保持高度敏感。"
+  },
+  {
+    "id": 226,
+    "title": "GiveCalc: Open-source tool to calculate the true cost of charitable giving",
+    "title_zh": "GiveCalc：开源工具，计算慈善捐赠的真实成本",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/AEECwALP2jKXQmCAS/givecalc-open-source-tool-to-calculate-the-true-cost-of",
+    "tags": [
+      "update",
+      "ai-research",
+      "data-science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "数据科学",
+      "数据驱动"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "GiveCalc is a sophisticated, free, open‑source calculator that goes beyond the simplistic marginal‑rate approach to charitable deductions. By embedding PolicyEngine’s microsimulation engine, it models the full cascade of interactions between donations, itemized deductions, phase‑outs, AMT, and state‑level tax rules for all 50 US states and UK Gift Aid. The result is a marginal giving discount curve that shows how much tax you actually save per dollar of giving at each donation level. This non‑linear insight empowers donors to time and size their contributions strategically—whether to bunch donations across years or to exploit higher‑rate relief in the UK. The tool is fully validated against NBER’s TAXSIM and the Atlanta Fed’s Policy Rules Database, and its source code is publicly available for scrutiny and contribution. For policy makers, researchers, and high‑net‑worth individuals, GiveCalc turns complex tax legislation into actionable, data‑driven decision support, bridging the gap between theory and practice in philanthropy.",
+    "summary_zh": "GiveCalc 通过 PolicyEngine 微模拟引擎，精准模拟美国各州和英国 Gift Aid 下的捐赠税收影响，输出每美元捐赠的边际税收节省曲线。它揭示了非线性折扣，帮助捐赠者合理安排捐赠时机与额度，甚至实现捐赠叠加。该工具已通过 NBER TAXSIM 与亚特兰大联邦储备政策规则数据库验证，源代码公开，兼具学术严谨与实用可操作性，成为政策制定者、研究者及高净值个人的理想决策助手。",
+    "best_quote_en": "The key output is your marginal giving discount: how much tax you save on your next dollar/pound of giving at any donation level.",
+    "best_quote_zh": "关键输出是您的边际捐赠折扣：在任何捐赠水平下，您下一美元/英镑捐赠所能节省的税额。"
+  },
+  {
+    "id": 227,
+    "title": "The Legal Consequences of Pete Hegseth’s “Kill Them All” Order",
+    "title_zh": "彼特·海格塞斯“全部杀掉”命令的法律后果",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/the-legal-consequences-of-pete-hegseths-kill-them-all-order",
+    "tags": [
+      "analyze",
+      "politics",
+      "legal",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "法律法规",
+      "争议观点"
+    ],
+    "date": "2025-12-01",
+    "summary_en": "The piece dissects the legal fallout of a controversial Defense Secretary order that led to the missile strike on a suspected drug‑smuggling boat in the Caribbean. By weaving expert testimony from a former Navy judge advocate with the U.S. legal framework—customary international law, the law of armed conflict, and domestic statutes—it argues that the strike violated multiple layers of law, potentially amounting to a war crime. The analysis is not merely descriptive; it interrogates the Administration’s shifting rhetoric—from self‑defense to a non‑international armed conflict—and exposes the contradictions between executive authority and congressional oversight. It also contextualizes the episode within the broader history of U.S. military accountability, citing past war‑on‑terror incidents and the legacy of figures like Calley. The piece invites readers to question the legitimacy of executive‑driven force and the mechanisms for civilian oversight, highlighting the tension between national security and the rule of law. In short, it is a call for rigorous investigation and a reminder that legal norms cannot be sidelined by strategic imperatives.",
+    "summary_zh": "文章剖析了海格塞斯下令对加勒比海一艘涉嫌走私船使用导弹的法律后果。通过引入前海军法官的专业见解，作者揭示该行动违背了国际法与国内法的多重约束，可能构成战争罪。文章不仅阐述事实，更批判了政府在自卫与非国际武装冲突之间的言辞矛盾，强调了立法监督的重要性，并与过去的战争罪案例相呼应，提醒公众执法与安全之间的平衡。",
+    "best_quote_en": "This one seems to have been very clearly intentional. I think that is one thing that makes it much different, and on some level worse, because if you’re looking at the use of force in an armed conflict and you have violations, not everything rises to the level of a war crime. This is a war crime.",
+    "best_quote_zh": "这一次似乎是非常明确的有意行为。我认为这使它与众不同，在某种程度上更糟，因为如果你在武装冲突中使用武力并出现违规，所有情况并不都升格为战争罪。 这是一种战争罪。"
+  },
+  {
+    "id": 228,
+    "title": "Pricier Mexican Residency/SteriPEN Ultralight/Expat Issue Discussions",
+    "title_zh": "墨西哥居留费用上涨 / SteriPen 超轻型 / 外籍人士问题讨论",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/pricier-mexican-residency-steripen-ultralight-expat-issue-discussions/",
+    "tags": [
+      "solve",
+      "design",
+      "lifestyle",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "生活方式",
+      "争议观点"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "The article weaves together four seemingly disparate threads—Mexico’s sudden residency fee hike, the practical appeal of the SteriPen UV purifier, the nuanced reality of long‑term nomads, and the candid critiques of senior expatriates—into a coherent portrait of modern migration. The fee doubling, from $301 to $603 for temporary status, exposes a tightening fiscal policy that forces travelers to reassess budgetary priorities. Meanwhile, the SteriPen discussion highlights a low‑tech, high‑value solution that turns questionable tap water into safe hydration, embodying the kind of “pay‑for‑itself” gear that seasoned globetrotters swear by. The podcast segment underscores how nomadic life can actually be cheaper than staying put, but only if one sheds the anchor of fixed housing and cars. Finally, the substack piece serves as a sobering warning that not everyone is cut out for overseas living, and that cultural integration demands more than just a passport. Together, these vignettes challenge readers to rethink policy, gear choices, and the true cost of freedom.",
+    "summary_zh": "文章将墨西哥居留费暴涨、SteriPen 轻便紫外线净化器、长期游牧者的生活成本以及资深外籍人士的尖锐批评交织成一幅现代迁徙的全景图。费率从$301涨至$603，迫使旅行者重新评估预算；SteriPen 则提供低成本高价值的水处理方案；游牧生活虽可能更省钱，却需放弃固定住房与汽车；而资深外籍人士提醒并非人人适合海外生活，文化融入需多于护照。整体上，文章促使读者重新思考政策、装备与自由的真正成本。",
+    "best_quote_en": "Some people really aren’t meant to move abroad.",
+    "best_quote_zh": "有些人真的不适合搬到国外。"
+  },
+  {
+    "id": 229,
+    "title": "Using Red Light to Improve Metabolism & the Harmful Effects of LEDs | Dr. Glen Jeffery",
+    "title_zh": "使用红光改善代谢与LED灯的有害影响 | Dr. Glen Jeffery",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/red-light-to-improve-metabolism-and-harmful-effects-of-led-glen-jeffery",
+    "tags": [
+      "inspire",
+      "medicine",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "医学健康",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-12-01",
+    "summary_en": "Dr. Glen Jeffery, a neuroscience professor at UCL, argues that long‑wavelength red and near‑infrared light penetrates skin and brain, boosting mitochondrial function and thereby improving metabolism, glucose regulation, mood, and vision. He contrasts this with the short‑wavelength blue‑rich LED light that can damage mitochondria, increase oxidative stress, and accelerate aging. Jeffery cites recent studies linking red‑light therapy to reduced blood glucose spikes, improved retinal health, and even neuroprotective effects in Parkinson’s models. The discussion also covers practical applications: using natural sunlight, low‑intensity LED devices, and full‑spectrum bulbs to maintain balanced wavelengths. The piece blends rigorous science with actionable guidance, encouraging readers to evaluate their indoor lighting, adopt red‑light protocols, and consider the long‑term health trade‑offs of LED lighting. It highlights the urgency of re‑examining everyday illumination choices in light of cellular bioenergetics, offering a clear roadmap for individuals and designers alike.",
+    "summary_zh": "Dr. Glen Jeffery 说明长波红光可穿透皮肤、进入脑部，提升线粒体功能，改善代谢、血糖、情绪与视力；相反，短波LED光会损伤线粒体，促氧化应激与衰老。文章结合最新研究，提出可操作的光照方案，提醒人们重新审视室内照明与健康。",
+    "best_quote_en": "Long-wavelength light can pass through clothing and body, enhancing mitochondrial function and thus improving metabolism.",
+    "best_quote_zh": "短波长LED光会损害线粒体健康，导致严重健康危害。"
   }
 ]
