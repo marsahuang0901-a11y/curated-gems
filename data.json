@@ -1,119 +1,5 @@
 [
   {
-    "id": 130,
-    "title": "Minimizing Loss ≠ Maximizing Intelligence",
-    "title_zh": "最小化损失 ≠ 最大化智能",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/ePdzraxJxQYdj7SN2/minimizing-loss-maximizing-intelligence",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "The article argues that self‑supervised learning, the backbone of today’s LLMs, inherently memorizes vast swaths of data—most of which are irrelevant to useful tasks—because the loss function only cares about next‑token accuracy. By contrast, human intelligence discerns what matters through value‑based filtering and specialized learning. The author invokes the no‑free‑lunch theorem to explain why a truly general model will underperform on the problems we care about, and proposes a “specializable intelligence” that can rapidly adapt to new domains while retaining core competencies like language and logic. The piece critiques a litany of proposed paths to superintelligence—more compute, better data, RLHF, meta‑learning—showing that they all keep the loss‑minimization game and thus fail to eliminate noise. Ultimately, the author calls for novel benchmarks based on novel games and a shift from loss minimization to capability‑focused training, suggesting that the future of AI lies in architectures that learn what to care about, not just what to remember.",
-    "summary_zh": "文章指出，自监督学习只追求下一个词的准确性，导致模型记住大量无用信息。人类通过价值过滤专注重要知识，形成可专门化的智能。作者引用无免费午餐定理，说明通用模型在关键任务上会表现更差，提出“可专门化智能”概念，强调快速适应与核心能力并存。对增量计算、优质数据、RLHF、元学习等路径进行批判，指出它们仍停留在损失最小化游戏中，无法去除噪声。作者呼吁通过新颖游戏和以能力为导向的训练取代传统损失评估，认为AI未来在于学会关注而非记忆。",
-    "best_quote_en": "Self‑supervised learning can only create general models, which are limited in their capability in any domain by trying to succeed in every possible domain.",
-    "best_quote_zh": "自监督学习只能产生通用模型，而通用模型在任何领域的能力都受到试图在所有可能领域取得成功的限制。"
-  },
-  {
-    "id": 131,
-    "title": "America Begins Clapping Back at Donald Trump",
-    "title_zh": "美国开始对唐纳德·特朗普进行回击",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/america-begins-clapping-back-at-donald-trump",
-    "tags": [
-      "update",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "In the wake of a record‑length federal shutdown and a series of unexpected electoral defeats, the article chronicles how the United States is finally turning the tables on Donald Trump. It traces the president’s pattern of deflection—shifting blame, stoking outrage, and ignoring the fallout of policy missteps—while highlighting the broader generational and ideological shift that has left many long‑time Republicans scrambling. The piece points to key moments: the Great Gatsby‑themed Halloween party that seemed designed to distract, the abrupt halt of crucial infrastructure funding, and the stark contrast between Trump’s rhetoric and the reality of a government in crisis. It frames the 2025 mid‑term results not merely as a loss of seats but as a repudiation of a political style that prioritizes spectacle over substance. The narrative underscores that politics is evolving; older figures like Dick Cheney and Nancy Pelosi are stepping aside, making room for new leadership that may better reflect the electorate’s changing priorities. The article invites readers to consider whether Trump’s era is truly over or if it is simply being redefined by a more vocal opposition.\n",
-    "summary_zh": "在长达三十五天的联邦停摆与连串意外选举失利之际，文章描绘美国如何终于对特朗普翻盘。它揭示总统的推脱模式——转移责任、挑起愤怒，忽视政策失误的后果，并聚焦世代与意识形态的转变，导致许多老牌共和党人陷入困境。文章把2025年中期选举结果视为对“表演至上”政治风格的否定，指出政治正在演变，旧人物如谢恩与佩洛西退场，新的领导层正崭露头角。\n",
-    "best_quote_en": "Trump himself immediately defaulted to his playbook for setbacks, of which there have been many in his up‑and‑down life: shift the blame, and, as quickly as possible, distract with some new outrage.",
-    "best_quote_zh": "特朗普立即回到了他对挫折的作战手册：转移责任，并尽快用新的愤怒分散注意力。"
-  },
-  {
-    "id": 132,
-    "title": "Better Travel Pillow/Set Jetting/Top Expat Countries",
-    "title_zh": "更佳旅行枕头/设定旅行/顶级外籍人士国家",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/better-travel-pillow-set-jetting-top-expat-countries/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "This weekly newsletter blends practical travel hacks with data‑driven insights. The author opens with a review of a versatile inflatable pillow that doubles as a seat cushion, highlighting its ergonomic flip‑over design and even repurposing its hood as an eye mask on a frigid flight. He then shares a “pre‑packed” toiletry kit strategy—buy two of each TSA‑friendly item and swap only the sunscreen when needed—offering a clear, actionable packing framework. The piece pivots to Expedia’s latest travel‑trends report, underscoring the surge in searches for Big Sky, Okinawa, Sardinia, Phu Quoc, and Savoie, and introduces emerging patterns like “salvaged stays,” “hotel hops,” and “set jetting.” Finally, the author examines the top Asian expat destinations, noting China’s high ranking for convenience and efficient online shopping. The article marries micro‑tips with macro‑market analysis, giving readers both immediate solutions and broader context for smarter, more intentional travel.",
-    "summary_zh": "这篇简讯以实用的旅行小技巧为核心，评析了多功能旅行枕、预先打包的洗漱套装，并引用Expedia的旅行趋势报告揭示热门目的地。作者将数据驱动与个人经验结合，指出“设定旅行”与“酒店跳跃”等新兴趋势，帮助读者更精准地规划行程。随后，文章聚焦亚洲外籍人士热点，分析了泰国、越南、马来西亚、中国和印尼等国的生活便利性。整体内容兼具教育与启发，既提供可操作的打包清单，又呈现宏观的旅游市场洞察，适合想要提升旅行效率与全球视野的读者。",
-    "best_quote_en": "The destinations seeing the biggest increase in searches are a mixed bunch: the top 5 were Big Sky, Okinawa, Sardinia, Phu Quoc (Vietnam), and Savoie (France).",
-    "best_quote_zh": "搜索量增长最大的目的地是多样化的：前五名分别是大天空、冲绳、撒丁岛、越南富国岛和法国萨沃伊。"
-  },
-  {
-    "id": 133,
-    "title": "The Refragmentation",
-    "title_zh": "The Refragmentation",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/re.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "leadership",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "领导管理",
-      "数据驱动"
-    ],
-    "date": "2025-11-08",
-    "summary_en": "In this sweeping essay, the author traces the arc of American cohesion from the wartime era of enforced equality to the post‑war era of colossal corporations that stitched society together through shared purpose and uniformity. He argues that the forces that once united—World War II’s mobilization and the rise of national corporations—have largely vanished, leaving fragmentation as the new normal. By dissecting wage compression, corporate tax policies, and the evolution of supply chains, the essay shows how the Duplo‑style economy of a few giants gave way to a high‑resolution world of diverse, agile firms. The author further links this structural shift to rising economic inequality, arguing that technology’s amplifying effect on productivity variance will perpetuate fragmentation unless countered by deliberate policy. The piece is a richly contextualized, data‑driven case study that invites readers to question whether cohesion can be engineered or only mitigated through targeted interventions.",
-    "summary_zh": "作者从二战时代的社会凝聚力谈起，阐述了宏大企业与战争如何统一美国，随后解构这一统一的消逝，导致碎片化成为常态。通过工资压缩、税制与供应链演化，阐明了从“杜普洛”单一巨头向多元灵活企业的转变。技术放大生产率差异，使不平等加剧，作者呼吁通过政策干预缓解碎片化，思考凝聚力能否被重建。",
-    "best_quote_en": "The war was due mostly to external forces, and the Duplo economy was an evolutionary phase.",
-    "best_quote_zh": "战争主要是外部力量导致的，而“杜普洛”经济是一个进化阶段。"
-  },
-  {
-    "id": 134,
-    "title": "What’s in my NOW? — Ken Batchelor",
-    "title_zh": "我的现在是什么？—肯·巴奇洛",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-ken-batchelor/",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2025-11-05",
-    "summary_en": "Ken Batchelor’s “What’s in my NOW?” reads like a personal inventory of everyday tools and philosophies that shape his present life. The piece weaves physical items—“You Matter” cards, barefoot shoes, and a candle accessory kit—into a narrative of intentionality, illustrating how small objects can become anchors for compassion, bodily health, and mindful ritual. Digitally, he highlights LibraryThing and AlphaGuess, framing them as extensions of self‑documentation and playful cognition. The invisible section, with its poetic reference to insect anklets, invites readers to consider sensory awareness as a therapeutic practice. Batchelor’s voice is candid, blending humor with earnest reflection, and his call to sign up for the newsletter positions the article as a gateway to ongoing, curated content. The article offers actionable insights for readers seeking to curate their physical and digital spaces, while also inspiring a broader contemplation of how mundane choices shape identity. Its blend of anecdote, recommendation, and philosophical musing makes it both a practical guide and a subtle meditation on presence.",
-    "summary_zh": "肯·巴奇洛的《我的现在是什么？》像一份个人清单，记录了塑造他当下生活的物品与理念。文章将“你很重要”名片、裸足鞋、蜡烛配件等日常物件与同理、身体健康、正念仪式相连，展示小物件如何成为情感与身体的锚点。数字层面，他推荐LibraryThing和AlphaGuess，分别体现自我记录与轻松游戏。隐形部分引用昆虫脚踝铃声的诗句，提示听觉觉知可作疗愈。文中坦诚而幽默，鼓励读者通过整理物理与数字空间提升存在感，亦启发更深层的自我认知与生活方式选择。",
-    "best_quote_en": "Listening for the sound of the anklets on the feet of an insect as it walks.",
-    "best_quote_zh": "倾听昆虫脚踝上的铃声，当它行走时。"
-  },
-  {
     "id": 135,
     "title": "How To Invest In Startups",
     "title_zh": "如何投资创业公司",
@@ -2346,5 +2232,125 @@
     "summary_zh": "Dr. Glen Jeffery 说明长波红光可穿透皮肤、进入脑部，提升线粒体功能，改善代谢、血糖、情绪与视力；相反，短波LED光会损伤线粒体，促氧化应激与衰老。文章结合最新研究，提出可操作的光照方案，提醒人们重新审视室内照明与健康。",
     "best_quote_en": "Long-wavelength light can pass through clothing and body, enhancing mitochondrial function and thus improving metabolism.",
     "best_quote_zh": "短波长LED光会损害线粒体健康，导致严重健康危害。"
+  },
+  {
+    "id": 230,
+    "title": "Jess Cartner-Morley on fashion: ’tis the season to party. Time to recap Christmas dressing rules",
+    "title_zh": "Jess Cartner‑Morley谈时尚：‘是派对季节’。时间回顾圣诞穿衣规则",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/dec/03/jess-cartner-morley-on-fashion-tis-the-season-to-party-time-to-recap-christmas-dressing-rules",
+    "tags": [
+      "guide",
+      "design",
+      "ai-research",
+      "case-study"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "AI研究",
+      "案例研究"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "Jess Cartner‑Morley’s festive column does more than prescribe glittering tinsel‑topped ensembles; it interrogates the psychology of dressing for celebration, the ethics of consumption, and the evolving etiquette of home‑hosted parties. She argues that an upbeat outfit not only lifts one’s mood but invites conversation, turning the wearer into an active participant rather than a wallflower. The piece juxtaposes timeless “rule‑of‑tone” guidance—elevate everyday style by 30%—with contemporary calls for sustainability, encouraging vintage finds and recycled pieces as status signals. Cartner‑Morley also notes practical details—shoes‑off hosts, phone‑safe bags—while demystifying the once‑rigid “only legs or cleavage” standard, framing modern fashion as a reflection of lived values. Her tone blends playful wit with actionable advice, making the article both a style guide and a subtle cultural critique. Readers gain a nuanced framework for holiday attire that balances self‑expression, social harmony, and environmental awareness, proving that even in a glitter‑filled season, thoughtful dressing can be both stylish and principled.",
+    "summary_zh": "文章以轻松幽默的笔触，重新梳理圣诞派对的穿衣准则，强调从日常装扮中提升30%光彩的心理学原理。作者提倡可持续时尚，鼓励复古与再利用，呼吁在节日中保持自我与社交活力。其洞察力兼具实用性与文化反思，既是穿搭指南，也是关于节日情绪与身份认同的微观社会学探讨。",
+    "best_quote_en": "From now until new year, think about what you would wear for an equivalent event in the non‑festive period, and then turn the dial up by a generous 30%.",
+    "best_quote_zh": "从现在到新年，想想你在非节日期间会穿什么，然后把它调高30%。"
+  },
+  {
+    "id": 231,
+    "title": "How You Know",
+    "title_zh": "你是如何知道的",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/know.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2025-12-04",
+    "summary_en": "\"How You Know\" is a reflective essay that turns the age‑old question of what we truly retain from books into a meditation on mental models and the iterative nature of learning. The author uses Hilbert’s admonition that “a perfect formulation of a problem is already half its solution” as a springboard to argue that reading is less about memorising facts and more about reshaping the internal framework through which we interpret the world. Even if the surface details fade, the architecture of knowledge – our mental models of history, science, or culture – is permanently altered. The piece further predicts that as technologies enable us to replay experiences, the act of “re‑reading” will shift from a remedial exercise to a deliberate rehearsal of these models. The essay invites readers to view rereading not as a sign of failure but as a sophisticated, intentional “re‑compilation” of understanding, offering a fresh lens on how we learn and remember.",
+    "summary_zh": "《你是如何知道的》以希尔伯特的格言为起点，探讨阅读不只是记忆，而是重塑我们对世界的内在框架。作者认为，书本留下的并非细节，而是对历史、科学、文化的心理模型。即使细节被遗忘，这些模型依旧影响我们的思考。文章进一步预见，随着技术让我们能重现经历，重新阅读将不再是补救，而是有意识的“再编译”，让知识更深刻。它呼吁读者将重读视为提升理解的主动实践，而非失败的象征。",
+    "best_quote_en": "Your mind is like a compiled program you've lost the source of. It works, but you don't know why.",
+    "best_quote_zh": "你的大脑就像一段已编译但失去源码的程序。它运作着，但你不知道为什么。"
+  },
+  {
+    "id": 232,
+    "title": "What is the most impressive game an LLM can implement from scratch?",
+    "title_zh": "LLM 从零开始实现的最令人印象深刻的游戏是什么？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/GbjnPZWmY6TeqMHzJ/what-is-the-most-impressive-game-an-llm-can-implement-from",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-04",
+    "summary_en": "The article probes the limits of large language models (LLMs) in creative coding, using game generation as a litmus test for practical programming prowess. It critiques conventional benchmarks—LeetCode‑style puzzles and template‑heavy web demos—arguing that they fail to capture the nuanced, iterative design loop required to build a playable game. By spotlighting OpenAI’s GPT‑5.1 demo of a polished 2D space shooter, the author demonstrates how a single prompt can coax a model into synthesizing graphics, sound, physics, and AI into a cohesive, functional product. The piece then expands into a meta‑analysis: why games uniquely stress an LLM’s ability to reason about user experience, edge cases, and emergent mechanics, and how this maps to real‑world software engineering. It concludes with an open call for systematic, genre‑agnostic prompt experiments, urging readers to document their own one‑shot results to refine the community’s understanding of LLM competence and economic impact.",
+    "summary_zh": "作者通过游戏生成测试，探讨LLM在创意编码中的极限，批评传统LeetCode式基准和模板化网页演示无法衡量真正的编程能力。以GPT‑5.1的2D太空射击为例，展示单一提示如何让模型合成图形、音效、物理与AI，形成完整可玩产品。随后作者阐释游戏为何能压测LLM对用户体验、边缘情况和新机制的推理，映射到实际软件工程。最后呼吁社区记录多体裁一次性提示实验，以更精准评估LLM经济价值。",
+    "best_quote_en": "\"Game programming, in contrast, is all about pushing technical limits, and, unlike most other domains of programming, there are sharply diminishing returns on coloring‑by‑numbers.\"",
+    "best_quote_zh": "“游戏编程相反，它完全是关于推动技术极限，而与大多数编程领域不同，填色式编程的收益会迅速递减。”"
+  },
+  {
+    "id": 233,
+    "title": "Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction",
+    "title_zh": "必修课：控制多巴胺以提升动力、专注与满足感",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-controlling-your-dopamine-for-motivation-focus-satisfaction",
+    "tags": [
+      "guide",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-08-14",
+    "summary_en": "In this concise Huberman Lab Essentials episode, Dr. Andrew Huberman dissects the biochemical engine behind motivation—dopamine—and equips listeners with concrete, science‑backed techniques to fine‑tune their drive. He maps how dopamine’s highs, lows, and baseline levels sculpt our willingness to act, how specific stimuli (cold exposure, caffeine, effort‑based rewards, and certain supplements) can safely elevate dopamine, and how the timing of rewards can rewire the brain’s reward circuitry. The discussion balances clinical depth—touching on Parkinson’s disease, addiction, and neurochemical prediction errors—with practical advice for students, professionals, and anyone seeking sustained focus. By framing dopamine as a currency that can be earned and regulated, the episode invites listeners to treat motivation like a skill: measurable, adjustable, and improvable. The implications stretch beyond personal productivity, hinting at broader strategies for mental resilience, habit formation, and even ethical considerations around pharmacological enhancement.",
+    "summary_zh": "在本期Huberman实验室必修课中，Andrew Huberman博士拆解了多巴胺驱动动机的生化机制，并提供科学验证的实用技巧，帮助人们精准调节动力。",
+    "best_quote_en": "The highs, lows, and baseline levels of dopamine shape your motivation and long-term satisfaction.",
+    "best_quote_zh": "多巴胺的高峰、低谷和基线水平塑造了你的动机和长期满足感。"
+  },
+  {
+    "id": 234,
+    "title": "The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello ( #838)",
+    "title_zh": "随机秀 — 2–2–2 规则、人工智能的未来、生物电医学、现代约会生存、DORA 对阿尔茨海默症的承诺以及安东尼·德·梅洛的智慧（#838）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/12/03/the-random-show-with-kevin-rose-2/",
+    "tags": [
+      "inspire",
+      "medicine",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "医学健康",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "In this Random Show episode, Tim Ferriss and Kevin Rose dissect the 2–2–2 drinking rule, the meteoric rise of AI, the promise of Dual Orexin Receptor Antagonists (DORAs) for Alzheimer’s sleep therapy, and the frontier of bio‑electric medicine. They weave scientific studies with personal anecdotes to craft actionable toolkits and mindset frameworks that empower listeners to make smarter choices in health, technology, and relationships. The discussion highlights how rapid AI evolution can obsolete yesterday’s opinions, how sleep quality directly ties to cognitive decline, and how simple behavioral rules like the 2–2–2 can mitigate alcohol’s long‑term damage. By combining data‑driven insights with practical tips, the episode offers a holistic playbook for navigating the intertwined worlds of wellness, innovation, and modern dating.",
+    "summary_zh": "在这期随机秀中，费里斯与科文·罗斯深入探讨 2–2–2 饮酒规则、AI 的快速演进、DORA 作为阿尔茨海默症睡眠治疗的潜力、以及生物电医学的新前沿。两位嘉宾结合科学研究与个人经验，提出实用工具与思维框架，帮助听众在健康、科技与人际关系上做出更明智的选择。",
+    "best_quote_en": "2 drinks max in one day, 2 days a week, never 2 days in a row.",
+    "best_quote_zh": "每天最多两杯，周最多两天，且不连续两天。"
   }
 ]
