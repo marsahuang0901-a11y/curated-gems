@@ -1,123 +1,5 @@
 [
   {
-    "id": 135,
-    "title": "How To Invest In Startups",
-    "title_zh": "如何投资创业公司",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/how-to-invest-in-startups",
-    "tags": [
-      "learn",
-      "startup-funding",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业融资",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2020-01-13",
-    "summary_en": "This article demystifies the art of startup investing, presenting a pragmatic framework that balances access, decision-making, and relationship-building. The author argues that the current market is saturated with capital, making it harder to secure attractive deals; thus, the real edge lies in networking, brand building, and deep founder assessment. He introduces a founder‑evaluation rubric based on growth velocity, mission focus, and resilience, emphasizing that early recognition of rapid improvement can signal future greatness. Market sizing is reframed from current volume to long‑term potential, urging investors to target industries with high growth rates and low entry barriers. The piece also stresses the importance of closing deals by being founder‑friendly, decisive, and genuinely helpful, while providing tactical support post‑investment. Overall, the author blends actionable insights with a strategic mindset, urging investors to think like growth architects rather than passive financiers.",
-    "summary_zh": "文章拆解了创业投资的实战技巧，强调在资本泛滥的时代，真正的竞争力来自于人脉、品牌和对创始人的精准评估。作者提出创始人评估模型，关注成长速度、使命感与韧性，并将市场规模视角转向长期潜力。强调成交时的创始人友好、果断与实质帮助，鼓励投资者以成长架构师的身份参与，而非被动资方。",
-    "best_quote_en": "The best companies tend to ride the wave of a new, important, and rapidly growing platform.",
-    "best_quote_zh": "最好的公司往往在新的、重要的、快速增长的平台浪潮中乘风破浪。"
-  },
-  {
-    "id": 136,
-    "title": "Essentials: Erasing Fears & Traumas Using Modern Neuroscience",
-    "title_zh": "Essentials：运用现代神经科学消除恐惧与创伤",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-erasing-fears-traumas-using-modern-neuroscience",
-    "tags": [
-      "learn",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "Huberman's latest Essentials episode demystifies the neural circuitry that underlies fear and trauma, offering a science‑backed roadmap for erasing lingering responses. He explains that successful treatment must extinguish the old fearful pattern and replace it with a new positive association—something beyond mere cognitive reframing. By mapping the amygdala–prefrontal cortex–dopamine loop, he shows how detailed narrative exposure progressively dampens physiological arousal, and why brief, deliberate stressors like cyclic hyperventilation can rewire the threat reflex. The episode also reviews evidence‑based interventions—prolonged exposure, CBT, ketamine, MDMA, oxytocin—and highlights the role of social connection and sleep in accelerating recovery. Practical take‑aways include a five‑minute daily stress routine, specific nutrition and supplementation strategies, and a step‑by‑step protocol for safe exposure. While the science is compelling, the discussion invites critical reflection on ethical boundaries of pharmacological enhancers and the need for personalized protocols. Overall, the episode blends rigorous neuroscience with actionable guidance, making it a valuable resource for clinicians, researchers, and anyone seeking to reclaim emotional resilience.",
-    "summary_zh": "Huberman 在本期 Essentials 里用神经科学拆解恐惧与创伤的机制，提出既要消除旧恐惧回路又要植入新正向联想的完整方案。他详细阐释了杏仁核‑前额叶‑多巴胺环路，并展示叙事曝露如何逐步降低生理激活；短暂的有意识压力（如循环性过度换气）还能重塑威胁反射。节目还评述了延长曝露、CBT、氯胺酮、MDMA、催产素等证据基础疗法，并强调社交、睡眠在加速康复中的作用。实用建议包括每日五分钟压力练习、营养补充方案和安全曝露步骤。科学性强，但也提醒需关注药物伦理与个体化方案。整体上，节目将严谨研究与可操作指南完美结合，是临床、研究与自助者的宝贵资源。",
-    "best_quote_en": "Detailed recounting of traumatic events progressively reduces their physiological impact.",
-    "best_quote_zh": "详细回顾创伤事件可逐步降低其生理影响。"
-  },
-  {
-    "id": 137,
-    "title": "The Tim Ferriss Show Transcripts: David Baszucki, Co-Founder of Roblox — The Path to 150M+ Daily Users, Critical Business Decisions, Ketogenic Therapy for Brain Health, Daily Routines, The Roblox Economy, and More (#834)",
-    "title_zh": "《The Tim Ferriss Show》转录：David Baszucki，Roblox 联合创始人——打造1.5亿+日活用户、关键商业决策、酮症治疗脑健康、日常习惯、Roblox 经济等（#834）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/11/05/david-baszucki-roblox-transcript/",
-    "tags": [
-      "solve",
-      "education",
-      "tech-trends",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "技术趋势",
-      "未来预测"
-    ],
-    "date": "2025-11-06",
-    "summary_en": "In this sprawling episode, Tim Ferriss sits down with David Baszucki, the co‑founder of Roblox, to unpack a remarkable convergence of entrepreneurship, health science, and personal productivity. Baszucki chronicles the meteoric rise of Roblox from a niche physics‑simulation tool to a 120‑million‑user platform, highlighting the pivotal decision to pivot from a subscription‑based model to a fully fledged virtual economy powered by Robux. The conversation then turns to a deeply personal narrative: the family’s battle with bipolar disorder and the unexpected, life‑changing efficacy of a ketogenic diet. Beyond the science, Baszucki shares practical tips for maintaining ketosis, monitoring ketone levels, and integrating the approach into daily routines. The episode also touches on Roblox’s future—procedurally generated worlds, AI‑driven content creation, and the potential of 3D social platforms to replace traditional video calls. Across business strategy, medical insight, and tech foresight, the discussion offers actionable lessons for founders, health enthusiasts, and curious listeners alike.",
-    "summary_zh": "在这场漫长的访谈中，Tim Ferriss 与 Roblox 联合创始人 David Baszucki 对话，交织创业、医学与个人效率。Baszucki 讲述 Roblox 从物理模拟工具跃升至 1.2 亿日活的历程，并阐释关键转折：从订阅模式到完整的虚拟经济。随后分享其家人与双相情感障碍的斗争，以及酮症饮食的奇迹疗效。Baszucki 还提供维持酮症的实用技巧、监测方法，并探讨如何融入日常。节目进一步展望 Roblox 的未来——程序化生成的世界、AI 内容创作与 3D 社交平台可能取代传统视频通话。无论是创业者、健康爱好者还是好奇听众，皆能从中获得可操作的洞见。",
-    "best_quote_en": "Ketogenic therapy was a miracle.",
-    "best_quote_zh": "酮症治疗是一种奇迹。"
-  },
-  {
-    "id": 138,
-    "title": "Party dressing’s most unexpected upgrade: the cocktail T-shirt",
-    "title_zh": "派对穿搭的意外升级：鸡尾酒T恤",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/nov/07/party-dressing-cocktail-t-shirt-cashmere-wool",
-    "tags": [
-      "update",
-      "design",
-      "economics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "经济金融",
-      "未来预测"
-    ],
-    "date": "2025-11-07",
-    "summary_en": "The article spotlights the cocktail T‑shirt as a fashion renaissance that marries the casual comfort of a tee with the sophistication of knitwear. By shifting from cotton to wool and introducing generous cuts and optional embellishments, designers like Prada and &Daughter are redefining what a party shirt can be—warm yet breathable, polished yet effortless. The piece balances hype with practicality, noting the environmental concerns of synthetic blends and the high‑end price point of true cashmere, while highlighting how the trend offers versatility for both office and evening wear. It also underscores the garment’s inclusivity: the stretch of cashmere accommodates diverse body shapes better than traditional T‑shirts. Readers gain actionable styling cues, a critique of luxury fashion’s sustainability, and a glimpse into the evolving language of party apparel, positioning the cocktail T‑shirt as a future‑forward wardrobe staple.",
-    "summary_zh": "这篇文章把鸡尾酒T恤描绘成一次时尚复兴——把休闲T恤的舒适与针织的优雅融合。作者指出，Prada 与 &Daughter 等品牌用羊毛、宽松剪裁和可选装饰，重新定义了派对服装的温度与气质。文中兼顾潮流与实用，讨论合成纤维的环保问题、真羊毛的高价以及该款式的多场合适用性，甚至强调其对不同身形的包容性。读者可获得可落地的搭配建议、对奢侈品可持续性的批判，以及鸡尾酒T恤在未来衣橱中的位置。",
-    "best_quote_en": "The same ease as a T‑shirt but the elegance of a knit.",
-    "best_quote_zh": "她把它描述为 \"像T恤一样轻松，却有针织的优雅\"."
-  },
-  {
-    "id": 139,
-    "title": "The Tim Ferriss Show Transcripts: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive (#832)",
-    "title_zh": "The Tim Ferriss Show Transcripts: The Return of The Lion Tracker — Boyd Varty on The Wild Man Within, Nature’s Hidden Wisdom, and How to Feel Fully Alive (#832)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/10/24/the-return-of-the-lion-tracker-transcript/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "science",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "科学研究",
-      "案例研究"
-    ],
-    "date": "2025-10-25",
-    "summary_en": "In this episode, Boyd Varty—lion tracker, storyteller, and wilderness‑led coach—confronts the restless modern mind by invoking the silent, wordless nature of the wild. He explains how immersion in the natural world forces a shift from the constant need to know toward listening to body‑felt wisdom, allowing one to uncover trauma, purpose, and authenticity. Varty’s anecdotes—from firefighting drills that taught him to slow energy to encounters with lions, leopards, and baboons that reveal the intelligence of animals—illustrate a practical framework: detach from technology, embrace silence, and observe the subtle signals of the environment. Coupled with Tim Ferriss’s focus on actionable habits, the conversation critiques the “always‑on” culture, offering a counter‑culture of stillness, curiosity, and embodied learning. The episode serves not only as a storytelling showcase but as a blueprint for integrating wilderness insights into daily life, urging listeners to reclaim rhythm, reduce cortisol, and find meaning beyond data and schedules.",
-    "summary_zh": "在这场对话中，博伊德·瓦蒂把自然界的沉默与人类内在的动荡对比，揭示了‘自然是无声的环境’的哲学。他强调通过沉默、与野生动物的共振来解锁直觉与情感，进而实现深层自我转化。与托姆·费里斯的对话进一步指出，现代人因持续的技术刺激而失去与自然节奏的同步，导致持续的焦虑。瓦蒂的实践经验—从追踪狮子到在荒野中进行沉默冥想—为听众提供了可操作的路径：放下信息噪音，倾听身体感受，拥抱未知。此访谈不仅是关于狮子追踪的轶事，更是对当代自我提升方法的深刻反思，提示我们在快节奏生活中寻找宁静与本真。",
-    "best_quote_en": "The natural world is a wordless environment.",
-    "best_quote_zh": "自然界是一个无声的环境。"
-  },
-  {
     "id": 140,
     "title": "Jessica Livingston",
     "title_zh": "Jessica Livingston",
@@ -2352,5 +2234,123 @@
     "summary_zh": "在这期随机秀中，费里斯与科文·罗斯深入探讨 2–2–2 饮酒规则、AI 的快速演进、DORA 作为阿尔茨海默症睡眠治疗的潜力、以及生物电医学的新前沿。两位嘉宾结合科学研究与个人经验，提出实用工具与思维框架，帮助听众在健康、科技与人际关系上做出更明智的选择。",
     "best_quote_en": "2 drinks max in one day, 2 days a week, never 2 days in a row.",
     "best_quote_zh": "每天最多两杯，周最多两天，且不连续两天。"
+  },
+  {
+    "id": 235,
+    "title": "Women behind the lens: ‘They waited in a kind of deranged inactivity for the possibility of a visit’",
+    "title_zh": "女性镜头背后：‘她们在一种疯狂的不活跃中等待可能的探视’",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/dec/03/women-venezuela-prison-photography-drugs-family",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-03",
+    "summary_en": "Ana María Arévalo Gosen’s photo essay, “Días Eternos,” lays bare the invisible torment of women locked in Venezuela’s Poli‑Valencia detention centre. By turning an abandoned interrogation office into a makeshift sanctuary, the detainees etched their identities onto sterile walls—names, hearts, defiant slogans—defying a system intent on erasing them. The images capture the raw humanity of women like Daniela, sentenced before her family knew she existed, and Roxana, who turned her addiction‑plagued past into a university degree and a book. Gosen’s work is more than reportage; it is a case study of resistance, a stark illustration of how institutional neglect fuels despair, and a call to action for human‑rights advocacy. The series invites viewers to confront the everyday cruelty of incarceration while celebrating the resilience of those who refuse to disappear. It challenges us to rethink prison reform, gendered justice, and the power of visual storytelling to ignite empathy and policy change.",
+    "summary_zh": "阿玛里亚·阿雷瓦尔·戈森的摄影系列《永恒之日》揭示了委内瑞拉Poli‑Valencia拘留中心女性的无声痛苦。被改造成临时避难所的旧讯问室，囚犯们在墙上刻下姓名、心形和反抗口号，抵抗消除身份的制度。照片中丹尼尔和罗克萨娜的故事——前者在家人不知情的情况下被判刑，后者从毒瘾到大学学位并写书——展示了抵抗与人权倡导的力量。作品不仅是记录，更是对监狱改革、性别正义与视觉叙事激发同理心与政策变革的呼唤。",
+    "best_quote_en": "\"I don’t expect anyone to believe in me because I don’t believe in anyone.\"",
+    "best_quote_zh": "“我不指望有人相信我，因为我不相信任何人。”"
+  },
+  {
+    "id": 236,
+    "title": "Try Training SAEs with RLAIF",
+    "title_zh": "尝试使用 RLAIF 训练 SAE",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/DKAqtetYmjeKZJHPw/try-training-saes-with-rlaif",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-05",
+    "summary_en": "This article proposes a hybrid training objective for Sparse Autoencoders (SAEs) that blends reconstruction loss, sparsity, and a reinforcement learning–style interpretability loss (RLAIF). By back‑propagating a human‑interpretable metric—correlation with concept presence and causal influence—into the SAE directions, the author seeks to combine the unsupervised power of SAEs with the direct interpretability gains of probes. The insight lies in treating interpretability as a differentiable objective, potentially resolving longstanding issues such as feature splitting, meta‑SAEs, and atomicity. The proposal is ambitious: it demands heavy evaluation with large language models and validation corpora, raising scalability concerns. Yet the conceptual leap is clear—if successful, it could democratize interpretable feature learning without costly labeled datasets. The article invites collaboration, signaling a nascent research frontier that merges mechanistic interpretability, RLHF, and unsupervised representation learning. It challenges researchers to rethink loss design, pushing the field toward more human‑aligned representations.",
+    "summary_zh": "作者提出将重建损失、稀疏约束与RLAIF解释性损失相结合，训练Sparse Autoencoder（SAE）。通过对人类可解释性指标进行反向传播，试图让SAE既保持无监督优势，又获得像探针那样的可解释特征。此思路可解决特征拆分、meta‑SAE和原子化等难题，但需大量LM评估，规模化是关键。若可行，将为无标签数据的可解释特征学习打开新途径。文章呼吁合作，标志着机制解释与RLHF交叉的新研究方向。",
+    "best_quote_en": "On top of the reconstruction and sparsity losses, train SAEs with a third loss given by doing RLAIF on how interpretable, simple, and causal features are.",
+    "best_quote_zh": "在重建和稀疏损失之上，再加入第三个损失，即通过 RLAIF 对特征的可解释性、简洁性和因果性进行评估并反向传播。"
+  },
+  {
+    "id": 237,
+    "title": "War Is Peace, the Dozing Don Edition",
+    "title_zh": "战争即和平：沉睡的唐纳德版",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/war-is-peace-the-dozing-don-edition",
+    "tags": [
+      "analyze",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-12-05",
+    "summary_en": "In a scathing, almost satirical exposé, the article unpacks the paradox of Donald Trump’s self‑proclaimed peacemaking while simultaneously launching an undeclared war in the Caribbean. By juxtaposing his triumphant signing ceremony with African leaders against a backdrop of questionable military strikes on alleged drug‑trafficking boats, the piece exposes a pattern of unilateral decision‑making that flouts international norms. The narrative highlights the stark contrast between Trump’s public image—“President of Peace” and “greatest dealmaker” in the eyes of his allies—and the grim realities of extrajudicial violence and political opportunism. The author deftly weaves anecdotal evidence with legal critique, questioning the legitimacy of the strikes and the moral calculus behind pardoning a convicted drug trafficker while threatening another nation’s leader. The article serves as a cautionary tale about the erosion of accountability when a leader’s rhetoric outpaces the rule of law, urging readers to scrutinize the gap between political theater and geopolitical consequence.",
+    "summary_zh": "文章以讽刺的笔触揭露特朗普自称“和平缔造者”却暗中发动无宣战的加勒比海战争的悖论。通过对他与非洲领导人签署和平协议的盛大仪式与对疑似走私船的军事打击进行对照，文章揭示其单边决策背离国际法。作者将轶事与法律批判相结合，质疑打击的合法性，并批评在赦免走私犯的同时威胁他国领导人的双重标准。文章警示，政治表象与法律现实之间的鸿沟正侵蚀问责机制，呼吁读者审视权力与道德的错位。",
+    "best_quote_en": "It’s a trick for Trump to both claim credit for ending wars that are not actually over while initiating new ones that have no legal justification.",
+    "best_quote_zh": "他把自己打造成和平缔造者，却在背后发动无宣战的战争，完全违背了国际法的基本原则。"
+  },
+  {
+    "id": 238,
+    "title": "Free Ski Passes/Free Japan Flights/Posture-fixing Shirt",
+    "title_zh": "免费滑雪通行证/免费日本国内航班/矫正姿势的衬衫",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/free-ski-passes-free-japan-flights-posture-fixing-shirt/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-04",
+    "summary_en": "This brief newsletter packs a punch with practical travel hacks and a quirky product review that together paint a vivid picture of the modern nomad’s toolkit. The Alaska Airlines offer—free lift tickets tied to select resorts—illustrates how airlines can partner with leisure destinations to create added value for passengers, while the limited‑time Japan domestic flight deal demonstrates the power of strategic route structuring for cost‑conscious travelers. On a lighter note, the posture‑fixing polo from Forme offers a tangible, wearable solution to a common ergonomic problem, showcasing how product innovation can intersect with daily comfort. Overall, the piece balances actionable tips with a sense of adventure, encouraging readers to explore cost‑saving strategies and new experiences. It’s a reminder that the best travel hacks often come from unexpected partnerships and thoughtful product design, making the journey as efficient as it is enjoyable.",
+    "summary_zh": "这期简讯以实用的旅行攻略和一款奇妙的姿势衬衫为主线，展示现代流浪者的装备与智慧。阿拉斯加航空赠送滑雪票的合作模式，让航空与休闲目的地联手创造价值；日本国内航班的限时优惠则体现了精明路线规划的魅力。Forme的矫正衬衫则把产品创新与日常舒适相结合，提醒我们旅行的乐趣在于细节与便利。整体上，这篇短文既提供可操作的省钱技巧，又激发探索新体验的热情，强调合作与设计在旅途中的重要性。",
+    "best_quote_en": "If you fly on Alaska Airlines, some ski resorts will give you a free lift ticket.",
+    "best_quote_zh": "如果你乘坐阿拉斯加航空公司，有些滑雪度假村会赠送免费滑雪票。"
+  },
+  {
+    "id": 239,
+    "title": "Essentials: The Science of Making & Breaking Habits",
+    "title_zh": "基础：养成与戒除习惯的科学",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-science-of-making-breaking-habits",
+    "tags": [
+      "update",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-12-04",
+    "summary_en": "In this Huberman Lab Essentials episode, Dr. Huberman dissects the neurobiology of habit formation, revealing that habits are not merely routine actions but neuroplastic pathways that shape identity. He contrasts goal‑based and identity‑based habits, explaining how the former is a short‑term cue–response loop while the latter rewires the limbic system for lasting change. The episode presents two practical frameworks: a rhythm‑aligned system that syncs habits with circadian peaks, and a 21‑day reinforcement cycle that leverages the brain’s natural consolidation windows. He introduces “linchpin” habits—low‑effort anchors that unlock cascades of healthier behaviors—and demonstrates task‑bracketing and visualization as tools to rewire unwanted patterns. The discussion is data‑driven, citing recent studies on limbic friction and habit strength, and it offers a step‑by‑step guide that empowers listeners to design, evaluate, and adjust their personal habit programs. For anyone looking to build resilience or break entrenched habits, the episode blends scientific rigor with actionable strategies, turning abstract neuroscience into a practical playbook.",
+    "summary_zh": "在本期Huberman Lab Essentials中，Huberman博士阐释习惯的神经科学，揭示习惯是塑造身份的可塑性神经通路。他对比目标导向与身份导向习惯，提出节奏同步与21天强化两套系统，并介绍“关键习惯”与任务分段等实用工具。内容基于最新研究，既有数据支撑，又提供可操作的步骤，让听众能把抽象神经学转化为个人习惯改造的实战手册。",
+    "best_quote_en": "Goal-Based vs Identity-Based Habits",
+    "best_quote_zh": "目标导向与身份导向的习惯"
   }
 ]
