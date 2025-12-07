@@ -1,125 +1,5 @@
 [
   {
-    "id": 145,
-    "title": "A Way to Detect Bias",
-    "title_zh": "检测偏见的方法",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/bias.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "startup-funding",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "创业融资",
-      "数据驱动"
-    ],
-    "date": "2025-11-12",
-    "summary_en": "The article unveils a surprisingly simple yet powerful statistical test for uncovering bias in selection processes, even when the selector’s intent is opaque. By comparing the post‑selection performance of different applicant groups—provided the groups are roughly equal in ability and the performance metric is valid—one can infer whether a disadvantaged group had to perform better to be chosen. The author applies this logic to venture‑capital funding, pointing out that a firm’s portfolio can reveal its own selection bias if female‑founded startups outperform male‑founded ones. The piece is both a methodological guide and a cautionary tale: the same data that exposes bias can be misused to justify it. With the proliferation of public performance data, the technique is poised to become a standard audit tool for any organization that claims neutrality. It invites researchers, policymakers, and entrepreneurs to rethink how we interpret success metrics and to hold selection mechanisms accountable.",
-    "summary_zh": "作者提出一种利用后续表现对比检测选拔偏见的方法，强调即便选拔者意图不明，只要群体能力相近且衡量指标有效即可揭示偏见。以风险投资为例，若女性创始人所创企业表现优于男性创始人，即可推断投融资过程中存在性别偏好。文章兼具方法论与警示，提醒数据既能揭露偏见，也可能被利用来为偏见辩护。随着公开表现数据的增多，这一技术有望成为评估组织公平性的标准工具。",
-    "best_quote_en": "If the selection process was biased against some type of applicant? Check whether they outperform the others.",
-    "best_quote_zh": "如果选择过程对某类申请者存在偏见？检查他们是否比其他人表现更好。"
-  },
-  {
-    "id": 146,
-    "title": "Only What’s Necessary / The White Donkey",
-    "title_zh": "Only What’s Necessary / The White Donkey",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/only-whats-necessary-the-white-donkey/",
-    "tags": [
-      "inspire",
-      "design",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-11",
-    "summary_en": "The review juxtaposes two starkly different volumes—Chip Kidd’s meticulously curated compendium of Charles Schulz’s Peanuts ephemera and Maximilian Uriarte’s autobiographical comic on Marine Corps life—highlighting how each treats the concept of “necessity” in its own realm. Kidd’s book is a tactile archive: glossy pages, original sketches, wartime sketchbooks, and rare unfinished strips, all contextualized to reveal the disciplined minimalism that defined Schulz’s art. The narrative underscores that “only what’s necessary” means every line, word, and detail that conveys the characters’ humanity. Uriarte’s work, meanwhile, uses minimalist, color‑washed panels to chart a young Marine’s journey from training to combat and back, confronting hazing, PTSD, and identity crises. The art’s deliberate white space and color palettes mirror psychological shifts, while the story’s raw language forces readers to confront the brutal realities of war. Together, the books celebrate the power of essential storytelling—whether preserving a comic legacy or exposing the soldier’s inner war—reminding us that stripping away excess can reveal profound truth.",
-    "summary_zh": "这篇评述把两本截然不同的书放在同一框架下，既展现了《花生》从创作到商业化的细节，也揭示了军旅生活的内在冲突。Chip Kidd 的《Only What’s Necessary》以精心策划的原稿与史料，重现了查尔斯·舒尔茨的创作哲学——“只保留必要”，让读者在视觉与文本中感受简约背后的丰富情感；而 Maximilian Uriarte 的《The White Donkey》则通过简洁的漫画风格与真实的色彩分层，描绘了从训练到战场再到归乡的心理轨迹，深刻探讨了身份认同、创伤与归属感。两者共同强调了“必要”与“真实”的价值，提醒我们在信息过载的时代，回归本质与真情是最具力量的叙事方式。",
-    "best_quote_en": "The title comes from Schulz himself, who referred to his cartooning style as keeping only what’s necessary.",
-    "best_quote_zh": "只有必要"
-  },
-  {
-    "id": 147,
-    "title": "How To Be Successful",
-    "title_zh": "如何成功",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/how-to-be-successful",
-    "tags": [
-      "solve",
-      "leadership",
-      "startup-strategy",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "领导管理",
-      "创业策略",
-      "案例研究"
-    ],
-    "date": "2019-01-24",
-    "summary_en": "The piece is a distilled playbook from a seasoned founder, weaving 13 aphorisms that span mindset, strategy, and execution. It foregrounds compounding—both as a business engine and a personal growth curve—arguing that success is less about incremental gains and more about exponential levers like network effects, technology, and capital. A recurring motif is self‑belief, framed as a double‑edged sword: it fuels contrarian vision yet must be tempered by critical feedback. The author insists that entrepreneurs must master “sales” not just as transactional persuasion but as evangelism of a vision, and that risk‑taking should be structured as small bets that can scale. The text also underscores the importance of focus, hard work, boldness, and willful persistence, culminating in a call to own value rather than sell time. It is a pragmatic guide that blends anecdote with actionable principles, inviting readers to re‑evaluate their career trajectory through a long‑term, compounding lens.",
-    "summary_zh": "作者用13条洞见，强调复利思维与自信、销售、风险、专注、努力、胆识、意志等要素，构成成功的复合杠杆。它既是实战指南，也是对传统创业思维的挑战，促使读者以长远视角审视自己的成长路径。",
-    "best_quote_en": "Self‑belief is immensely powerful. The most successful people I know believe in themselves almost to the point of delusion.",
-    "best_quote_zh": "自信是极其强大的。我认识的最成功的人几乎把自信做到近乎妄想的程度。"
-  },
-  {
-    "id": 148,
-    "title": "Can Good Learners Judge How Well They Learned?",
-    "title_zh": "能否判断自己学得好？",
-    "source": "Ulterior Motives (Art Markman Ph.D.)",
-    "link": "https://www.psychologytoday.com/us/blog/ulterior-motives/202510/can-good-learners-judge-how-well-they-learned",
-    "tags": [
-      "analyze",
-      "education",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-01",
-    "summary_en": "Recent research overturns a long‑held assumption that the best learners are simply the most accurate at judging what they have mastered. In a 2025 Psychological Science paper, Mengqi Hu and colleagues re‑analyzed dozens of studies that paired item‑level judgments of learning with recall tests. They found a striking pattern: high‑performing learners actually exhibit a negative correlation between their confidence that they have learned an item and their later recall of that item. Yet, when they do feel confident, their judgments are highly predictive of success; when they doubt, they are more likely to be wrong. This paradox suggests that top learners intentionally bias themselves toward pessimism, allocating extra study time to borderline items and thereby sustaining motivation. The study invites educators to explore whether this self‑induced “pessimism” can be taught, potentially turning metacognitive monitoring from a liability into a strategic advantage. The findings also caution against overreliance on judgment‑of‑learning metrics that ignore recall, reshaping how we evaluate learning effectiveness and design study schedules.",
-    "summary_zh": "研究挑战了“最好学习者最准确判断已学”这一传统观点。Hu等人重新分析多项研究，发现高水平学习者在认为自己已学的项目中，其判断与回忆表现呈正相关，但在认为未学时却呈负相关。此“偏向悲观”行为可能帮助他们把更多精力投入到边缘知识，保持动力。该发现提示教育者可探索培养此策略，转化元认知监控为学习优势，并提醒我们在评估学习效果时不能仅依赖判断‑学习指标。",
-    "best_quote_en": "Good learners have a stronger positive relationship between their judgments of learning and recall performance for items they judge they have learned, but a stronger negative relationship when they judge they have not learned an item.",
-    "best_quote_zh": "优秀学习者在认为自己已学的项目中，其学习判断与回忆表现之间的正相关更强，但在认为未学的项目中，其学习判断与回忆表现之间的负相关更强。"
-  },
-  {
-    "id": 149,
-    "title": "Essentials: Breathing for Mental & Physical Health & Performance | Dr. Jack Feldman",
-    "title_zh": "基础：呼吸对心理与身体健康与表现的影响 | 费尔德曼博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-breathing-mental-physical-health-performance-jack-feldman",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-11-13",
-    "summary_en": "This episode dissects the science of breathing, revealing how diaphragmatic mechanics and neural circuits orchestrate respiration and, in turn, shape emotional and cognitive states. Dr. Feldman bridges neurobiology with practical tools—box breathing, active expiration, and magnesium L‑threonate—to empower listeners with evidence‑based techniques for anxiety reduction, emotional resilience, and cognitive longevity. The discussion underscores the bidirectional link between CO₂ dynamics and autonomic regulation, offering a nuanced framework that moves beyond anecdote to mechanistic validation. For practitioners and curious minds alike, the content delivers actionable protocols grounded in peer‑reviewed research, while also hinting at future translational possibilities such as breath‑based interventions for depression and neurodegenerative disease. Ultimately, the episode invites listeners to reframe breathing as a modifiable lever for mental and physical performance, challenging conventional passive views of respiration.",
-    "summary_zh": "在这期节目中，费尔德曼博士用神经生物学的视角阐释呼吸机制与情绪、认知的深度关联。通过箱式呼吸、主动呼气以及镁L-苏氨酸补充等实证方法，节目展示了呼吸调节焦虑、提升情绪韧性和认知寿命的可操作路径。更重要的是，内容将二氧化碳水平与自主神经系统的交互纳入框架，提供从实验验证到临床应用的系统性思考。对想提升身心表现的听众而言，呼吸不再是被动过程，而是可调节的关键杠杆。",
-    "best_quote_en": "Breathing patterns profoundly influence mental states, reducing anxiety and enhancing emotional resilience.",
-    "best_quote_zh": "呼吸模式对情绪状态有深远影响，能够降低焦虑并增强情绪韧性。"
-  },
-  {
     "id": 150,
     "title": "’Tis the season for dubious TV adverts | Letters",
     "title_zh": "‘这季节的电视广告可疑 | 信件",
@@ -2354,5 +2234,135 @@
     "summary_zh": "本期访谈将健康、前沿神经科学与社交挑战交织，探讨 2‑2‑2 饮酒规则、加速 TMS 与 D‑cycloserine 的协同效应、AI 的快速演进以及现代约会的沟通技巧，提供可操作的健康与生活方式洞见。",
     "best_quote_en": "\"The 2-2-2 rule: maximum of two drinks at any given night, never two days in a row, and then two days a week.\"",
     "best_quote_zh": "“2‑2‑2 规则：任何一天最多两杯酒，不能连续两天饮酒，然后每周两天。”"
+  },
+  {
+    "id": 245,
+    "title": "The Fatal Pinch",
+    "title_zh": "致命夹击",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/pinch.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "争议观点"
+    ],
+    "date": "2025-12-07",
+    "summary_en": "The article exposes a brutal reality many founders face: the \"fatal pinch\"—a precarious point where a startup, despite a healthy cash reserve, is hemorrhaging money, stagnant revenue, and a dwindling runway. The author argues that the second funding round often becomes a death sentence because investors demand higher standards, spending escalates, and the company’s trajectory shifts from ambiguous to a default of failure. By naming the phenomenon, founders gain a diagnostic tool that forces them to confront the self‑reinforcing cycle of over‑optimism and fiscal slack. The piece offers a stark, pragmatic playbook: reassess fundraising odds, consider a graceful exit, or aggressively trim expenses—usually by firing staff or cutting salaries—and pivot revenue streams. It stresses the importance of focusing on a single, widely adopted product, or, if survival is paramount, diversifying into consulting‑style work that monetizes expertise. The author’s tone is unapologetically blunt, yet the advice is rooted in real‑world experience and data‑driven reasoning, making it a must‑read for any founder at the brink of collapse.",
+    "summary_zh": "文章揭示创始人常遇的致命夹击：资金充裕却持续亏损、收入停滞、剩余跑道仅几个月。作者指出，第二轮融资往往成了死亡判决，因为投资者标准提高、支出激增、公司前景从模糊转为失败。命名这一现象让创始人能及时诊断自我放任与财务松懈的恶性循环。文中提供实用方案：重新评估融资概率、考虑优雅退出、或通过裁员、降薪来削减成本，并转变营收模式。强调聚焦单一产品或转向咨询式收入，既是生存之道，也是潜在成功之路。作者直言不讳，却以真实案例与数据为依据，值得危机中的创始人深思。",
+    "best_quote_en": "The probability is zero.",
+    "best_quote_zh": "概率为零。"
+  },
+  {
+    "id": 246,
+    "title": "Building a State of Fear in “Extremist”",
+    "title_zh": "在《极端主义》中构建恐惧的国家",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/screening-room/building-a-state-of-fear-in-extremist",
+    "tags": [
+      [
+        "learn",
+        "politics",
+        "case-study"
+      ],
+      [
+        "learn",
+        "politics",
+        "expert-insight"
+      ]
+    ],
+    "tags_zh": [
+      [
+        "学习",
+        "政治",
+        "案例研究"
+      ],
+      [
+        "学习",
+        "政治",
+        "专家洞见"
+      ]
+    ],
+    "date": "2025-12-05",
+    "summary_en": "Alexander Molochnikov’s short film “Extremist” reframes a single, audacious act of protest—relabeling supermarket price tags with anti‑war slogans—in a cinematic meditation on state power, individual agency, and the peril of proximity in authoritarian societies. The narrative follows Sasha Skochilenko, a Russian artist imprisoned for the stunt, and her reluctant accuser, the elderly shopkeeper Galina Baranova, who gradually shifts from bemused observer to hardened enforcer. By situating the two in the same apartment building, Molochnikov underscores how ordinary neighbors can become instruments of state terror, a metaphor that extends beyond the specific case to the broader Russian anti‑war underground. The film also reflects the director’s own exile, the loss of artistic venues, and his struggle to preserve voice under censorship. Beyond its political critique, “Extremist” offers a poignant meditation on freedom: the paradox that those inside a prison may feel freer than those who remain free under surveillance. The piece invites viewers to question the boundaries between dissent and compliance, and to recognize the invisible walls that shape everyday choices.",
+    "summary_zh": "《极端主义》以一场大胆的价格标签抗议为线索，透过主人公萨沙与店主的相邻关系，揭示了俄国权力与个体自由的碰撞。影片在展现监禁与审判的同时，也映射导演因侵略被迫流亡、艺术被删的处境。它以亲密邻里为隐喻，指出普通人也可能成为国家恐惧的工具，呼唤观众审视抗议与顺从的界限，并思考在监视下自由的悖论。",
+    "best_quote_en": "Even though I am behind bars, I am freer than you.",
+    "best_quote_zh": "即使我被关在笼子里，我也比你更自由。"
+  },
+  {
+    "id": 247,
+    "title": "Essentials: Increase Strength & Endurance with Cooling Protocols | Dr. Craig Heller",
+    "title_zh": "精要：使用冷却方案提升力量与耐力 | 克雷格·赫勒博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-increase-strength-endurance-with-cooling-protocols-dr-craig-heller",
+    "tags": [
+      "update",
+      "science",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-08-07",
+    "summary_en": "In this episode, Dr. Craig Heller, a Stanford biology professor, demystifies the science of temperature regulation and its profound impact on athletic performance. He argues that conventional cooling tactics—like neck ice packs—miss the mark because they fail to lower core body temperature. Instead, targeted cooling of glabrous skin—palms, soles, and upper face—creates a rapid heat sink that boosts both short‑term power and long‑term endurance adaptations. The conversation blends physiological mechanisms (vasoconstriction, boundary layer dynamics) with practical tools (CoolMitt, cold towels, strategic grip loosening) to give listeners a playbook for enhancing aerobic and anaerobic workouts. Heller’s insights are data‑driven, yet actionable, offering a clear roadmap for athletes, coaches, and anyone curious about optimizing performance through temperature control. The episode invites listeners to rethink their cooling rituals and adopt evidence‑based practices that translate directly into measurable gains on the field, track, or gym.",
+    "summary_zh": "Dr.赫勒博士阐释冷却科学，指出传统冰敷无效，强调手掌、脚掌、上脸无毛皮肤冷却可显著提升力量与耐力。他结合生理机制与实用工具，为运动员提供循证的温度调控方案，改变传统降温观念，直接提升训练与比赛表现。",
+    "best_quote_en": "Cooling glabrous skin areas—the palms, soles and upper face—efficiently releases body heat and can significantly enhance physical performance and endurance.",
+    "best_quote_zh": "冷却手掌、脚掌和上脸部等无毛皮肤区域能有效释放体热，并显著提升身体性能与耐力。"
+  },
+  {
+    "id": 248,
+    "title": "The Tim Ferriss Show Transcripts: How to Simplify Your Life in 2026 — New Tips from Derek Sivers, Seth Godin, and Martha Beck (#837)",
+    "title_zh": "《The Tim Ferriss Show》文字稿：2026年简化生活的秘诀——来自Derek Sivers、Seth Godin和Martha Beck的新建议（#837）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/11/28/how-to-simplify-your-life-transcript/",
+    "tags": [
+      "guide",
+      "education",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2025-11-29",
+    "summary_en": "In this episode, Tim Ferriss convenes three of his long‑time guests—Derek Sivers, Seth Godin, and Martha Beck—to distill the art of living simply into three concrete decisions. Sivers advocates radical de‑dependency: eliminating subscriptions, coding self‑sufficiently, and building an off‑grid cabin to strip away needless obligations. Godin frames simplicity as disciplined boundaries—clear “who” you serve, strict budgets, decisive yes/no, and avoiding meetings—to create focus and reduce cognitive overload. Beck offers a philosophical compass: follow the body’s sense of joy, let joy dictate actions, and let pain signal retreat. Together, they weave a tapestry that blends pragmatic habits with psychological insight, showing that simplicity is not about comfort but about intentional restraint and mindful purpose. The discussion invites listeners to audit their own dependencies, set hard limits, and realign priorities, offering a roadmap that is actionable, psychologically grounded, and richly inspirational for anyone navigating the clutter of modern life.",
+    "summary_zh": "在这期节目中，Tim Ferriss请来了三位长期嘉宾——Derek Sivers、Seth Godin与Martha Beck，共同拆解“简化生活”的三大决策。Sivers主张彻底去依赖：取消订阅、自己编码、建造离网小屋，以摆脱多余负担。Godin把简化视为严苛界限——明确服务对象、严格预算、坚定说是与否、少开会——以聚焦并减轻认知负荷。Beck则提出情感指南：跟随身体的喜悦感受，喜悦即行动，痛苦即退却。三位嘉宾将务实习惯与心理洞察交织，展示简化并非追求舒适，而是有意约束与深度专注。此讨论鼓励听众审视自身依赖、设定硬性边界、重新排列优先级，提供可操作、心理根植且激励人心的路线图，适合面对现代生活杂乱的任何人。",
+    "best_quote_en": "If it feels like true joy, go toward it.",
+    "best_quote_zh": "当生活被相互依赖的事物纠缠时，它就变得复杂。你在依赖他人，别人也在依赖你。"
+  },
+  {
+    "id": 249,
+    "title": "The Emotional Benefits of Forgiveness",
+    "title_zh": "宽恕的情感益处",
+    "source": "Ulterior Motives (Art Markman Ph.D.)",
+    "link": "https://www.psychologytoday.com/us/blog/ulterior-motives/202508/the-emotional-benefits-of-forgiveness",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-08-27",
+    "summary_en": "The article dissects the nuanced psychological mechanisms by which forgiveness tempers emotional pain, drawing on a 2025 experimental study that tracks memory vividness and emotional intensity in both victims and perpetrators. It reveals that forgiveness primarily dampens the current emotional charge associated with past wrongs, without significantly altering factual recall. This attenuation of affect reduces revenge impulses and avoidance behaviors, thereby easing the psychological burden and fostering relational repair. The research underscores the dual role of forgiveness as both a self‑regulatory strategy and a catalyst for interpersonal healing, offering concrete, data‑driven evidence that supports therapeutic practices. For scholars and clinicians alike, the study invites a re‑evaluation of forgiveness interventions, urging a focus on emotional reappraisal rather than mere memory revision. The findings also hint at broader societal implications: if forgiveness can systematically lower hostility, it may serve as a public‑health lever for conflict mitigation. Overall, the piece bridges empirical rigor with practical relevance, enriching our understanding of how letting go reshapes the mind’s narrative architecture.",
+    "summary_zh": "本文通过2025年实验研究，阐明宽恕如何削弱对过去伤害的情绪强度，进而降低报复冲动与回避行为。研究显示，宽恕并不改变事实记忆，却显著降低情绪负荷，帮助受害者与加害者重建关系。此发现为心理干预提供了数据支持，提示在治疗中应侧重情绪再评估而非单纯记忆修正。宽恕的情感益处不仅有助个人心理健康，也可能成为社会冲突缓解的公共卫生工具。",
+    "best_quote_en": "The biggest impact of forgiveness is that it allows the intensity of the emotions elicited by an event to fade.",
+    "best_quote_zh": "宽恕最大的影响在于它让事件所激发的情绪强度逐渐消退。"
   }
 ]
