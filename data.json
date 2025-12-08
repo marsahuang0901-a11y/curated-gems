@@ -1,123 +1,5 @@
 [
   {
-    "id": 150,
-    "title": "’Tis the season for dubious TV adverts | Letters",
-    "title_zh": "‘这季节的电视广告可疑 | 信件",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/business/2025/nov/14/tis-the-season-for-dubious-tv-adverts",
-    "tags": [
-      "update",
-      "marketing",
-      "writing-content",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "市场营销",
-      "写作内容",
-      "争议观点"
-    ],
-    "date": "2025-11-14",
-    "summary_en": "The Guardian letter offers a razor‑sharp critique of John Lewis’s latest Christmas advert, framing it as a manipulative marketing ploy that turns holiday sentiment into a consumerist trap. By labeling the ad a “shameless attempt to make consumers think they are doing something worthwhile,” the writer exposes a broader trend of corporates exploiting familial and nostalgic imagery to mask profit‑driven motives. The piece also interrogates the gendered portrayal of women as background domestic helpers, raising questions about the perpetuation of stereotypes in mainstream advertising. While the letter is rooted in a specific case, it illuminates the larger cultural moment where advertising increasingly blurs the line between altruism and salesmanship, especially during high‑stakes seasons like Christmas. For readers, the article serves as a call to critically evaluate the emotional narratives we accept, urging a more conscious engagement with media messages that shape consumer behavior and societal norms.",
-    "summary_zh": "这篇《卫报》信件尖锐批评约翰·刘易斯圣诞广告，指出其利用温情叙事掩盖商业目的，揭示广告在节日季的操控性。作者强调广告让消费者误以为在做有意义的事，并批评将女性角色局限为背景家庭形象的刻板印象。文章提醒我们，广告不再是单纯的情感诉求，而是潜在的消费驱动，呼吁读者以更批判的视角审视媒体信息，关注其对社会与消费行为的深远影响。",
-    "best_quote_en": "This ad is a shameless attempt to make consumers think they are doing something worthwhile.",
-    "best_quote_zh": "这广告是一次无耻的尝试，让消费者认为他们正在做些值得的事。"
-  },
-  {
-    "id": 151,
-    "title": "How to Expand Your Consciousness | Dr. Christof Koch",
-    "title_zh": "如何扩展你的意识 | 克里斯托弗·科克博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/expand-consciousness-dr-christof-koch",
-    "tags": [
-      "solve",
-      "science",
-      "health-wellness",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "健康养生",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "In this episode, Dr. Christof Koch—a leading neuroscientist—unpacks the neural architecture of consciousness and offers a practical playbook for expanding it. He explains the concept of the \"perception box,\" a cognitive filter that shapes our identity through beliefs and memories, and shows how meditation, deep rest, psychedelics, dreams, and even virtual reality can reshape that box. The conversation moves fluidly from hard science—neuroplasticity, flow states, and the neural correlates of consciousness—to the philosophical implications of a collective consciousness and the ethics of AI perception. Koch’s insights are not merely academic; he provides concrete tools such as belief‑shifting exercises, body‑awareness practices, and digital twin analogies that listeners can apply to enhance empathy, resilience, and creativity. The episode serves as both a guide for personal growth and a catalyst for broader societal reflection on how we can collectively cultivate a more expansive, compassionate, and mindful consciousness.\n",
-    "summary_zh": "克里斯托弗·科克博士在本期节目中阐释意识的神经基础，并提供实用方法扩展意识。他提出\"感知盒子\"概念，解释信念与记忆如何塑造身份，并讨论冥想、深度休息、迷幻药、梦境与虚拟现实如何重塑这一盒子。对话从神经可塑性、流状态、意识神经相关性等硬科学延伸至集体意识与人工智能感知伦理。科克博士不仅提供理论，还给出可操作工具，如信念转化练习、身体觉察训练和数字双生类比，帮助提升同理心、韧性与创造力。该节目既是个人成长的指南，也是关于如何共同培育更广阔、更富同情心与更觉察的意识的社会性反思。\n",
-    "best_quote_en": "\"We all experience life through a unique perception box, which holds our beliefs, our memories and thus our biases about reality.\"",
-    "best_quote_zh": "\"我们都通过一个独特的感知盒子体验生活，它包含我们的信念、记忆，从而形成对现实的偏见。\""
-  },
-  {
-    "id": 152,
-    "title": "Born in the forest: the women giving birth alone in the Kashmiri mountains",
-    "title_zh": "在森林中出生：克什米尔山脉中独自分娩的女性",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/nov/14/healthcare-kashmir-mountains-giving-birth-alone-gujjar-bakarwal-pastoralists-maternal-mortality",
-    "tags": [
-      "solve",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-14",
-    "summary_en": "The article exposes the stark reality of nomadic Gujjar women who give birth in the remote Pir Panjal passes of Kashmir, often alone, without medical support, and sometimes die en route. It highlights the disconnect between official maternal mortality statistics—derived from hospital deliveries—and the lived experiences of women who travel 134 km on horseback, endure extreme fatigue, and rely on a single midwife. The narrative underscores systemic failures: promised mobile clinics that never materialize, lack of funding, and the compounded risks of early marriage, malnutrition, and poverty. International parallels are drawn with pastoralist communities in Mongolia, Ethiopia, and Somalia, where mobile health initiatives have shown promise. The piece calls for urgent policy action, data transparency, and culturally sensitive health interventions to bridge the gap between statistics and reality, ensuring that every mother’s journey is documented and protected. Its critical lens invites policymakers, NGOs, and researchers to rethink how maternal health is measured and served in hard‑to‑reach populations.",
-    "summary_zh": "文章揭露克什米尔偏远山脉中，游牧族妇女独自分娩、缺医无药的严峻现实，官方产科数据掩盖了她们的死亡与痛苦。文中指出早婚、营养不良、贫困等多重风险与医疗体系缺失相互交织，呼吁通过移动诊疗与精准数据，填补统计与实际之间的鸿沟，保障每位母亲的安全与尊严。",
-    "best_quote_en": "They shouted at my husband, asking how I had even survived this long",
-    "best_quote_zh": "他们对我丈夫大喊大叫，问我怎么还能活到这一步"
-  },
-  {
-    "id": 153,
-    "title": "Write Like You Talk",
-    "title_zh": "像说话一样写作",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/talk.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "education",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "教育学习",
-      "新手友好"
-    ],
-    "date": "2025-11-16",
-    "summary_en": "The essay champions the power of spoken‑style prose, arguing that writing in the conversational register makes ideas clearer, more engaging, and easier to read. By pointing out that many writers default to formal, syntactically heavy language, the author exposes a subtle but pervasive barrier to reader attention. The core insight is that language complexity often masks meaning, creating a false impression of depth while actually obscuring it. The author offers a practical, two‑step process: first, draft normally; second, read aloud and prune anything that doesn’t feel like a friend’s remark. He even suggests a “second draft” technique—re‑write from the friend’s perspective—to catch more distant prose. The piece is both a critique of academic writing and a gentle call to authenticity. It’s actionable, beginner‑friendly, and reminds us that the best communication is the one that feels like a natural conversation. The lesson is timeless: write as if you’re talking to a friend, and your readers will thank you.",
-    "summary_zh": "作者主张用口语化写作，认为通俗易懂能更好吸引读者。通过批评学术写作的过度复杂，他指出过度严谨往往掩盖真意，误导读者。文章提供两步实用法：先随意起草，再朗读删改，或以朋友口吻重写，以捕捉更自然的语感。作者强调写作应像与朋友聊天，既能保持专业，又不失亲切。该文兼具批判与启示，提醒写作者追求自然对话式表达，让文字更亲切、更易被接受，提升阅读体验与沟通效果。",
-    "best_quote_en": "Informal language is the athletic clothing of ideas.",
-    "best_quote_zh": "非正式语言是思想的运动服。"
-  },
-  {
-    "id": 154,
-    "title": "Support the Movement against AI extinction risk",
-    "title_zh": "支持反对AI灭绝风险运动",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/CjkQvuQpFffxYcJsR/support-the-movement-against-ai-extinction-risk",
-    "tags": [
-      "guide",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-11-16",
-    "summary_en": "The post is a call‑to‑action manifesto for a grassroots movement aimed at preventing the rapid development of super‑intelligent AI that could threaten humanity. It argues that passive persuasion is unlikely to stop a race to build ASI, so it proposes a spectrum of concrete tactics—from building a social‑media network to cyber‑attacking AI firms, to running for public office with an AI‑pause platform. The author stresses the importance of political engagement, framing the movement as a “single‑bottleneck” problem: without votes and referenda, even the most persuasive content will stall. The piece is a blend of strategic planning, ethical warning, and self‑reflection on the feasibility of each approach, acknowledging that many of the suggested actions are high‑risk or infeasible. It invites readers to choose a role that matches their skills, from content creation to policy lobbying, and underscores the urgency of mobilizing before AI capabilities reach a critical threshold. The tone is pragmatic yet urgent, offering a roadmap that is both actionable and aspirational for those concerned about existential risk.",
-    "summary_zh": "这篇文章是一份针对AI灭绝风险的草根运动号召，强调政治参与是阻止超级智能研发的关键。作者列出从社交媒体传播、网络攻击、竞选公开职位等多种行动路径，提醒读者根据自身技能选择角色，并承认许多方案高风险或难以实现。文章兼具战略规划与伦理警示，呼吁在AI能力突破临界点前动员大众，既具可操作性又富有远见。",
-    "best_quote_en": "The single largest bottleneck to growing the entire movement is the lack of political engagement; a simple \"Vote for Mr XYZ\" call‑to‑action is more effective than \"Like/Share/Subscribe.\"",
-    "best_quote_zh": "单一最大瓶颈是缺乏政治参与；‘投票给XYZ先生’的号召比‘点赞/分享/订阅’更有效。"
-  },
-  {
     "id": 155,
     "title": "The Mystery of the Political Assassin",
     "title_zh": "政治刺客的谜团",
@@ -2364,5 +2246,123 @@
     "summary_zh": "本文通过2025年实验研究，阐明宽恕如何削弱对过去伤害的情绪强度，进而降低报复冲动与回避行为。研究显示，宽恕并不改变事实记忆，却显著降低情绪负荷，帮助受害者与加害者重建关系。此发现为心理干预提供了数据支持，提示在治疗中应侧重情绪再评估而非单纯记忆修正。宽恕的情感益处不仅有助个人心理健康，也可能成为社会冲突缓解的公共卫生工具。",
     "best_quote_en": "The biggest impact of forgiveness is that it allows the intensity of the emotions elicited by an event to fade.",
     "best_quote_zh": "宽恕最大的影响在于它让事件所激发的情绪强度逐渐消退。"
+  },
+  {
+    "id": 250,
+    "title": "Mean People Fail",
+    "title_zh": "Mean People Fail",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/mean.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2025-12-08",
+    "summary_en": "In a candid reflection on startup culture, the author argues that meanness inversely correlates with success. Drawing from personal observations and historical patterns, he suggests that mean founders lack the strategic foresight and empathy needed to attract top talent and foster innovation. Meanness, he claims, is a form of short‑sightedness that prioritizes immediate tactical wins over long‑term value creation. The piece contrasts zero‑sum, resource‑control games of the past—where ruthlessness could pay off—with the modern, collaborative, idea‑driven economy that rewards benevolence and purpose. By highlighting how benevolent founders are often the most resilient and visionary, the author invites readers to rethink the role of character in leadership. His insights are actionable for founders, investors, and managers who seek to build sustainable, people‑centric organizations in a future where collaboration trumps aggression.",
+    "summary_zh": "作者在创业文化中指出，卑劣与成功呈负相关。卑劣削弱了战略视野与同理心，导致难以吸引顶尖人才。过去零和竞争或许重视侵略，但如今的创新生态更青睐仁慈与使命感。通过对比历史与现代，他提醒领导者，善意与远见是打造可持续团队的关键。",
+    "best_quote_en": "If you want to build great things, it helps to be driven by a spirit of benevolence.",
+    "best_quote_zh": "如果你想做伟大的事，受仁慈精神驱动会有所帮助。"
+  },
+  {
+    "id": 251,
+    "title": "I said hello and greeted 1,000 people at 5am this morning",
+    "title_zh": "我在凌晨5点向1000人问好并打招呼",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/2aiJphdjJaaBs6SJy/i-said-hello-and-greeted-1-000-people-at-5am-this-morning",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2025-12-08",
+    "summary_en": "At a marathon’s dawn, a volunteer’s simple act of greeting 1,000 runners becomes a study in human connection. The narrator, initially reluctant, learns that a warm “HELLO!” can reset tired, anxious athletes, turning strangers into allies. By calculating an optimal distance from the bus and observing four distinct reactions—genuine smiles, thank‑ups, polite nods, and exuberant cheers—he uncovers a micro‑psychology of first‑hand motivation. The anecdote extends beyond the race: the same smile brightens encounters in cafés and restaurants, suggesting that a brief, sincere greeting can ripple through a day. The story invites readers to consider the power of presence, the cost of missed opportunities, and the simple design of human touch. It blends humor with insight, offering a practical reminder that small gestures can shift moods, build community, and remind us that even a “golden retriever” spirit can be contagious.",
+    "summary_zh": "在清晨的马拉松现场，作者用一句“HELLO”唤醒了千名跑者，展示了微笑的力量。通过观察四种反应，他发现真诚问候能缓解疲惫、激发热情，并在日常生活中产生连锁效应。故事兼具幽默与洞见，提醒我们即使是短暂的问候也能改变心情，凝聚社区，传递正能量。",
+    "best_quote_en": "If you weren’t here, I’d be excitedly greeting no one and look like a crazy person. So thanks for coming out!",
+    "best_quote_zh": "如果你不在，我会兴奋地向无人问候，显得像个疯子。谢谢你来了！"
+  },
+  {
+    "id": 252,
+    "title": "Katy Waldman on Mary McCarthy’s “One Touch of Nature”",
+    "title_zh": "Katy Waldman谈Mary McCarthy的《One Touch of Nature》",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/takes/katy-waldman-on-mary-mccarthys-one-touch-of-nature",
+    "tags": [
+      "inspire",
+      "society",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2025-12-07",
+    "summary_en": "Katy Waldman’s reflection on Mary McCarthy’s essay \"One Touch of Nature\" is a meta‑literary meditation that probes the disappearance of authentic nature imagery in contemporary fiction. McCarthy’s sprawling riff—spanning classicism, Romanticism, modernism, and cross‑cultural references—demonstrates a sharp, almost forensic eye for how authors have historically anchored the natural world to the human psyche. Waldman highlights McCarthy’s claim that the novel has drifted toward social commentary, leaving nature as a mere backdrop. The essay’s most striking insight is the assertion that technology has become the “No. 1 opponent of human society,” rendering nature “no longer the human home.” In a 2025 context where AI and digital ecosystems dominate, this observation feels prescient, urging readers to reconsider the ecological cost of our narrative priorities. The piece is simultaneously a literary critique, a cultural critique, and a cautionary note, inviting scholars, writers, and tech‑savvy readers to interrogate how our stories shape—and are shaped by—our relationship with the natural world.",
+    "summary_zh": "Katy Waldman对Mary McCarthy《一触自然》的回顾，既是文学批评，也是社会批评。文章指出，小说已从描绘自然转向社会议题，技术成了人类社会的首要对手，自然不再是人类的家园。此见解在2025年尤为贴切，提醒我们在数字化与AI的浪潮中，重新审视叙事与生态的关系。",
+    "best_quote_en": "\"Nature, she writes, is no longer the human home—thanks to technology, which has become the No. 1 opponent of human society.\"",
+    "best_quote_zh": "“自然不再是人类的家园——因为技术已成为人类社会的首要对手。”"
+  },
+  {
+    "id": 253,
+    "title": "More Gifts",
+    "title_zh": "更多礼物",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/more-gifts/",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-12-07",
+    "summary_en": "The piece offers a curated, hands‑on guide to thoughtful gifting, blending practical DIY ideas with ready‑made treasures. Each section opens with a tangible example—laser‑engraved rolling pins that imprint family patterns on dough, a library card’s surprisingly wide range of free cultural access, or a quiet rock tumbler that turns a hobby into a gift‑worthy experience. The author’s tone is conversational yet informative, providing links and price points that help readers gauge feasibility. The recurring theme is empowerment: readers are invited to personalize, repurpose, or simply discover inexpensive ways to give meaning. The article’s structure—short, focused paragraphs paired with vivid product descriptions—makes it highly scannable, ideal for busy shoppers or gift‑seeking parents. By combining actionable tips, real‑world examples, and a touch of self‑care, the piece invites readers to reimagine the act of gifting as a creative, budget‑friendly adventure.",
+    "summary_zh": "本文以实用、亲手打造的方式，呈现多样化礼物创意。每个部分都以具体产品为例，从激光刻字的擀面杖、图书馆卡的免费文化体验，到安静的岩石抛光机，展示了低成本却意义非凡的礼物选择。作者以轻松对话的语气，配合价格与购买链接，帮助读者快速评估可行性。文章结构简洁、易读，适合忙碌的购物者或寻找创意礼物的家长。通过行动性建议、真实案例与自我关怀的结合，鼓励读者将送礼视为一次富有创意且经济实惠的旅程。",
+    "best_quote_en": "Beyond books, it can give you free access to museums, zoos, gardens, events, streaming services, and more.",
+    "best_quote_zh": "除了书籍，它还能让你免费进入博物馆、动物园、花园、活动、流媒体服务等等。"
+  },
+  {
+    "id": 254,
+    "title": "Monitoring Performance Slows the Perception of Progress",
+    "title_zh": "监测绩效会减缓进展感知",
+    "source": "Ulterior Motives (Art Markman Ph.D.)",
+    "link": "https://www.psychologytoday.com/us/blog/ulterior-motives/202506/monitoring-performance-slows-the-perception-of-progress",
+    "tags": [
+      "analyze",
+      "science",
+      "leadership",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "领导管理",
+      "数据驱动"
+    ],
+    "date": "2025-06-24",
+    "summary_en": "The 2025 study by Vaz, Mata, and Critcher uncovers the “monitoring frequency effect,” a counterintuitive bias where more frequent observation of performance paradoxically lowers perceived progress. By simulating managerial oversight of factory workers, participants judged employees observed weekly as less productive than those monitored less often, even when output was identical. The research extends to disease progression and investment evaluation, revealing that individuals and organizations often underestimate progress when they obsessively track metrics. The article argues that this bias stems from a failure to adjust for the time differential between observation intervals, leading to distorted small versus large changes. The implications are profound: performance reviews, hiring decisions, and health monitoring can be skewed unless objective, time‑normalized tools are employed. Practitioners are urged to adopt data‑driven dashboards and statistical frameworks that correct for observation frequency, thereby aligning judgments with true cumulative progress. This insight challenges the adage “a watched pot never boils,” urging a shift from intuition to calibrated measurement.",
+    "summary_zh": "研究表明，频繁监测绩效往往导致人们低估进展，因未能纠正观察间隔的时间差。对管理评估、招聘和健康监测都有深远影响，提示需采用时间归一化工具以客观衡量真实进度。",
+    "best_quote_en": "Observations taken more frequently lead to lower assessments of progress compared to those taken infrequently.",
+    "best_quote_zh": "更频繁的观察会导致对进展的评估下降，而较少的观察则相反。"
   }
 ]
