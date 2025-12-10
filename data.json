@@ -1,123 +1,5 @@
 [
   {
-    "id": 155,
-    "title": "The Mystery of the Political Assassin",
-    "title_zh": "政治刺客的谜团",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-weekend-essay/the-mystery-of-the-political-assassin",
-    "tags": [
-      "analyze",
-      "politics",
-      "medicine",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "医学健康",
-      "争议观点"
-    ],
-    "date": "2025-11-15",
-    "summary_en": "Margaret Talbot’s essay dissects the paradox of political assassination, arguing that the intent behind the act often diverges from its outcome. By juxtaposing Gavrilo Princip’s 1914 spark that unleashed World War I with Yitzhak Rabin’s 1995 murder that effectively ended the Oslo peace process, the piece shows how assassins evolve from isolated zealots to calculated actors embedded in larger movements. Drawing on Simon Ball’s taxonomy, Talbot highlights the new template of rational, motivated, and network‑bound perpetrators, and traces the shift to the “ungrouped” lone‑wolf violence of the 21st century. The essay further critiques state‑sponsored plots, citing CIA manuals that paradoxically rationalize political killing. It then surveys recent U.S. incidents—from Trump attempts to the murder of UnitedHealthcare CEO—to illustrate how motives now blend personal grievance, ideological drift, and online radicalization. Ultimately, the article urges readers to see assassinations not as isolated events but as symptomatic of broader societal fractures and the seductive allure of decisive, albeit destructive, action.",
-    "summary_zh": "塔尔博特以历史与当代案例阐释政治刺杀的悖论：意图与结果常相悖。她将普林西的1914枪击与拉宾的1995暗杀对比，揭示刺客从孤立狂热者演变为具网络背景的精准行动者。引用史密斯·鲍尔的分类，指出现代刺杀已转向“非团体化”的单枪匹马式暴力，并批判国家支持的暗杀手册。随后梳理近年美国刺杀事件，探讨个人仇恨、意识形态漂移与网络极化交织的动机。文章提醒读者，刺杀不只是孤立事件，而是社会裂痕与对决定性破坏行动的诱惑的映照。",
-    "best_quote_en": "Technical success, operational disaster.",
-    "best_quote_zh": "技术成功，操作灾难。"
-  },
-  {
-    "id": 156,
-    "title": "US Airport Mayhem/NewLife Estimator/Remote Locker Pickups",
-    "title_zh": "美国机场混乱 / NewLife 估算器 / 远程储物柜取件",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/us-airport-mayhem-newlife-estimator-remote-locker-pickups/",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-11-13",
-    "summary_en": "The piece weaves together the chaos of a prolonged U.S. government shutdown that slashes air traffic and rattles travelers, with practical tools for the modern nomad. It spotlights the NewLife moving calculator, which blends AI‑driven cost estimates with linguistic fit to help users gauge the financial upside of relocating across borders. The article also offers a lightweight packing hack that turns potential baggage overload into a strategic advantage—wearing items on the flight and discarding them once you arrive. Finally, it highlights Amazon’s locker pickups as a residency‑free solution for itinerant shoppers. The overall tone is both cautionary and empowering, urging readers to pre‑plan, insure, and leverage technology to stay nimble in an era of uncertainty.\n",
-    "summary_zh": "文章从美国机场因政府停摆导致航班受限的现实困境，到利用NewLife估算器评估跨国搬迁成本，再到轻装旅行与亚马逊储物柜取件的实用技巧，呈现出在全球化与不确定性交织下的旅行者必须具备的灵活性与前瞻性思维。作者通过数据与个人经验相结合，提醒读者提前规划、保险与技术工具的选择，可谓是一份兼具警示与启发的实用指南。",
-    "best_quote_en": "If you’re going to get rid of something in your closet, like a pair of shoes, a shirt, or pants, then wear the item(s) on your next flight or pack them. Then ditch them after you’ve worn them a few times in the destination, lightening your load for the remainder or the return.",
-    "best_quote_zh": "如果你要把衣橱里的某件东西丢掉，比如一双鞋、衬衫或裤子，那么就把它们穿上或打包进下一次飞行。到达目的地后，穿几次再扔掉，既减轻行李负担，也为后续旅行腾出空间。"
-  },
-  {
-    "id": 157,
-    "title": "Default Alive or Default Dead?",
-    "title_zh": "默认存活还是默认死亡？",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/aord.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-11-17",
-    "summary_en": "David H. Karp’s essay reframes startup health as a binary of “default alive” versus “default dead,” urging founders to ask this question early. By quantifying runway, growth, and profitability, the author shows that many founders are unaware of their true trajectory. The “fatal pinch” – a state of slow growth coupled with high burn – emerges when teams over‑hire in pursuit of scaling, often before product‑market fit is solidified. Karp argues that investors can’t be treated as a safety net; instead, founders should treat fundraising as Plan A and always have a Plan B that specifies concrete actions to survive without capital. The piece also critiques the VC tendency to push rapid hiring, pointing to Airbnb’s deliberate lean launch as a counter‑example. Overall, the essay blends data‑driven insight with practical advice, offering a framework for founders to diagnose risk, avoid over‑expansion, and align growth with product appeal.",
-    "summary_zh": "作者将创业公司生死简化为“默认存活”与“默认死亡”，强调早期评估资金、增长与盈利。过度招聘导致的“致命收缩”是许多公司走向失败的关键。文章指出，投资不能视为保险，而应制定计划A与计划B。以Airbnb的慢启动为例，说明稳健扩张优于盲目扩张。整体提供数据驱动、可操作的框架，帮助创始人识别风险、避免盲目扩张，并让增长与产品契合。",
-    "best_quote_en": "Hiring too fast is by far the biggest killer of startups that raise money.",
-    "best_quote_zh": "过度招聘是融资创业公司最致命的杀手。"
-  },
-  {
-    "id": 158,
-    "title": "Mixed Feelings on Social Munchkinry",
-    "title_zh": "社会小子化的混合情绪",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/zxdjt2tLnxvGhW9Fd/mixed-feelings-on-social-munchkinry",
-    "tags": [
-      "analyze",
-      "science",
-      "psychology",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "心理学",
-      "争议观点"
-    ],
-    "date": "2025-11-17",
-    "summary_en": "The essay wrestles with the idea of “social munchkinry,” borrowing a tabletop‑gaming term to describe the intentional optimization of social norms. By mapping the mechanics of rule‑breaking and strategic play onto everyday interactions, the author illuminates both the seductive power and the ethical pitfalls of this mindset. The piece is rich in concrete case studies—from skipping small talk to rapid feedback loops at Bridgewater—illustrating how the same tactics that generate efficiency in games can foster intimacy or alienation in real life. It challenges readers to question whether the pursuit of optimal outcomes in social contexts is inherently exploitative or simply a new form of social experimentation. The author’s ambivalence, framed by a nuanced exploration of positive and negative examples, invites a deeper reflection on the limits of rational optimization when human relationships are at stake. This thoughtful, exploratory analysis serves as both a cautionary tale and a call to reimagine how we can responsibly harness game‑like strategies for richer, more intentional connections.",
-    "summary_zh": "作者借桌游术语“munchkinry”探讨在社交中的规则优化，既展现效率与亲密，也揭示潜在操纵。通过跳过寒暄、快速反馈等案例，作者提出理性优化与人际关系的边界，呼吁在追求最佳结果时兼顾伦理与情感。",
-    "best_quote_en": "I want to get clearer and faster information about what I'm doing wrong and where I can improve. Why not munchkin and optimize for that?",
-    "best_quote_zh": "我想要更清晰、更快的反馈，知道自己做错了什么，哪里可以改进。为什么不把它当作小子化来优化呢？"
-  },
-  {
-    "id": 159,
-    "title": "Colors of Asia / book.sv / Compression bags",
-    "title_zh": "亚洲的颜色 / book.sv / 压缩袋",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/colors-of-asia-book-sv-compression-bags/",
-    "tags": [
-      "analyze",
-      "design",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-16",
-    "summary_en": "The post is a vibrant mosaic of practical travel wisdom, creative publishing, and psychological resilience, all wrapped in a light‑hearted tone. It opens with the author’s new book, “Colors of Asia,” a playful, color‑driven visual tour that deliberately eschews geography for mood. The narrative foregrounds the book’s artisanal appeal—144 pages, limited to 1,000 copies, priced at $35—positioning it as a collector’s item for travel lovers, photographers, and designers. The second section showcases a minimalist packing hack: compression bags that replace bulky cubes, proving that efficient space management can be both cheap and reusable. Subsequent snippets highlight a recommendation engine (book.sv) that surfaces personalized reads, an essential‑apps guide for independent travelers in China, and a psychological ACT‑based strategy for handling everyday annoyances. Together, these vignettes underscore a philosophy of mindful consumption, intentional design, and emotional self‑regulation, offering readers actionable insights across creative, logistical, and mental domains.",
-    "summary_zh": "这篇文章以轻松幽默的笔调，串联了创意出版、旅行技巧和心理韧性三大主题。作者介绍了限量版、色彩驱动的《亚洲的颜色》书籍，强调其艺术性与收藏价值；随后分享了压缩袋取代传统打包立方的实用技巧；再介绍了书籍推荐引擎、在中国旅行必备应用，以及 ACT 心理疗法的日常烦恼应对方法。整体呈现一种注重体验、简约实用与情绪自我调节的生活哲学，给读者提供跨领域的可操作洞见。",
-    "best_quote_en": "Notice what you’re feeling in your body (tight stomach, racing heart). Name it: “I’m frustrated.” Ask yourself: “Will my reaction serve me later on or help me live the way I want to live?”",
-    "best_quote_zh": "我不想最大化这本书的可能利润；相反，我想服务我的 1,000 名忠实粉丝。"
-  },
-  {
     "id": 160,
     "title": "Reinforcement Learning Progress",
     "title_zh": "强化学习进展",
@@ -2364,5 +2246,125 @@
     "summary_zh": "研究表明，频繁监测绩效往往导致人们低估进展，因未能纠正观察间隔的时间差。对管理评估、招聘和健康监测都有深远影响，提示需采用时间归一化工具以客观衡量真实进度。",
     "best_quote_en": "Observations taken more frequently lead to lower assessments of progress compared to those taken infrequently.",
     "best_quote_zh": "更频繁的观察会导致对进展的评估下降，而较少的观察则相反。"
+  },
+  {
+    "id": 255,
+    "title": "‘Performance is inherently vulnerable’: Kristen Stewart says acting is ‘unmasculine’",
+    "title_zh": "“表演本质上是脆弱的”：克里斯汀·斯图尔特称表演‘不够男性化’",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/film/2025/dec/08/kristen-stewart-method-acting-masculinity-vulnerable",
+    "tags": [
+      "update",
+      "music-arts",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "音乐艺术",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-12-08",
+    "summary_en": "Kristen Stewart’s recent NY Times interview sparked a sharp debate about gendered perceptions of acting. She argues that performance is “inherently vulnerable” and “unmasculine,” suggesting that male actors’ embrace of “method” techniques compensates for an industry that rewards stoicism. Stewart’s critique extends to the cultural double‑standard that labels female actors as “crazy” when they exhibit the same intensity, exposing a persistent bias that equates vulnerability with weakness. The piece is a call to re‑evaluate what constitutes craft in film: is emotional depth a virtue or a liability? By foregrounding her own experience, Stewart invites a broader conversation about how Hollywood’s gender norms shape the craft, the career trajectories of women, and the very definition of professionalism. Her commentary underscores the need for a more inclusive framework that values authenticity over conformity, challenging the industry to move beyond the gendered performance dichotomy that has long constrained artistic expression.",
+    "summary_zh": "克里斯汀·斯图尔特在纽约时报访谈中指出，表演本质上脆弱且不够男性化，批评行业对男性方法派的崇拜与对女性情感表达的偏见。她呼吁重新审视表演艺术的价值观，强调真实性比刻板的男性化更重要，推动影视行业摆脱长期的性别刻板印象。",
+    "best_quote_en": "“Performance is inherently vulnerable and therefore quite embarrassing and unmasculine.”",
+    "best_quote_zh": "“表演本质上是脆弱的，因此相当尴尬且不够男性化。”"
+  },
+  {
+    "id": 256,
+    "title": "Before the Startup",
+    "title_zh": "创业之前",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/before.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-12-10",
+    "summary_en": "Sam Altman’s lecture notes unfold a paradoxical roadmap for aspiring founders: trust the right instincts, obsess over users, shun the “game‑playing” tactics that work in academia and big‑corp, and accept that a startup will consume your life. He argues that the most valuable expertise is not startup mechanics but deep knowledge of the problem space, and that the best ideas surface unconsciously when you’re engaged in genuinely interesting work. Instead of chasing a curriculum of entrepreneurship, Altman urges students to learn powerful skills, nurture curiosity, and let side projects evolve into ventures. The piece is both a cautionary tale about the illusion of control and a practical playbook for turning curiosity into a viable company.\n\nThe essay’s core insight is that “the way to get startup ideas is not to try to think of startup ideas.” It invites founders to abandon the pursuit of a tidy formula and instead cultivate a mindset that naturally produces opportunities, while reminding them that the journey will be all‑consuming and that timing matters—starting in college is rarely optimal.\n\nAltman’s voice blends data‑driven observation with anecdotal wisdom, making the text a compelling guide for anyone who wants to know whether they should start a company now or later, and how to prepare for that decision.",
+    "summary_zh": "文章以Sam Altman的课堂经验为基础，揭示创业的五大反直觉真相：先听导师、重视用户、拒绝游戏化、全情投入、与生俱来的好奇心。作者强调，创业不是学术训练，而是对兴趣的追随与现实的试错。对青年创业者而言，最佳策略是先在大学中深耕专业、培养兴趣，再以副项目的形式孵化创意，而非一味追求融资。此文既具启发性，又提供可操作的路径，值得反复阅读与实践。",
+    "best_quote_en": "The way to get startup ideas is not to try to think of startup ideas.",
+    "best_quote_zh": "获得创业想法的方式不是去主动思考创业想法。"
+  },
+  {
+    "id": 257,
+    "title": "The funding conversation we left unfinished",
+    "title_zh": "The funding conversation we left unfinished",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/JtFnkoSmJ7b6Tj3TK/the-funding-conversation-we-left-unfinished",
+    "tags": [
+      "guide",
+      "ai-research",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2025-12-10",
+    "summary_en": "The article dissects a pivotal moment in the AI‑funding ecosystem, where the looming liquidity event at Anthropic has ignited a cascade of speculation and introspection among effective altruists and industry insiders. It juxtaposes the exuberant “easy money” narrative with the troubling rise of opportunistic actors—career‑optimizers, resume‑paddlers, and grant‑cheaters—who exploit generous funding streams. By recalling the 2022 FTX collapse and the subsequent surge in EA grant‑seeking behavior, the piece underscores a recurring tension: abundant capital can erode altruistic values, fostering a culture of showy spending and “vulture” opportunism. The author calls for a recalibration of the EA movement’s focus toward maximizing the impact per dollar, rather than chasing prestige or status. This analysis offers a sobering reminder that financial abundance, without disciplined stewardship, can derail collective intent and invites readers to rethink how we allocate resources to create lasting good.",
+    "summary_zh": "文章剖析AI融资生态中Anthropic即将上市的浪潮，探讨大量资金如何激发有效利他主义者与行业内部的“鳄鱼”行为。它提醒我们：丰厚资金若无纪律，易导致价值偏移，需重新聚焦每元投入的最大效益。",
+    "best_quote_en": "The message is out. There’s easy money to be had. And the vultures are coming.",
+    "best_quote_zh": "如果你想让人们抛弃对作弊系统的犹豫，有一个比大多数成人年收入更大的奖赏。"
+  },
+  {
+    "id": 258,
+    "title": "If You Quit Social Media, Will You Read More Books?",
+    "title_zh": "如果你戒掉社交媒体，你会读更多书吗？",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/if-you-quit-social-media-will-you-read-more-books",
+    "tags": [
+      "inspire",
+      "society",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-12-09",
+    "summary_en": "Jay Caspian Kang’s column interrogates the myth that quitting social media automatically unlocks deeper reading. He chronicles a personal experiment—deleting X, Instagram, TikTok—and finds that while his book draft met its deadline, the anticipated surge in book consumption never materialized. The piece then broadens into a cultural critique, juxtaposing the internet’s hyper‑optimized, bite‑sized content against the slow, contemplative nature of books. Kang cites research from the National Literacy Trust and the National Endowment for the Arts, noting a sharp decline in daily reading among both children and adults. He juxtaposes this with the paradox that the web can both funnel us into echo chambers and expose us to niche titles via communities like BookTok. The author ultimately questions whether digital platforms can replace the communal, deliberative experience of book clubs, and whether the “smart” reading facilitated online truly constitutes an improvement in literacy. The article ends with a provocative reflection on how AI and social media might homogenize discourse, urging readers to resist pure optimization and preserve the human touch in writing.",
+    "summary_zh": "金赛普·康在专栏里质疑戒掉社交媒体必然能让人多读书的迷思。他先记录删掉X、Instagram、TikTok后的书稿按时完成，却未见阅读量激增。随后，他把视角扩展到文化层面，比较网络碎片化内容与书籍慢节奏的深度。引用全国读写信托与美国艺术基金会的数据，指出儿童与成人每日阅读率急剧下滑。康进一步探讨网络既能让人陷入回声室，又能通过BookTok等社群发现小众书目，形成“更聪明”的阅读模式。文章最终思考数字平台是否能取代书友会的共同讨论，以及这种“智能”阅读是否真正提升素养，并警示AI与社媒可能导致话语同质化，呼吁保留写作的人性。",
+    "best_quote_en": "I, controversially, am pro-social media.",
+    "best_quote_zh": "我，具有争议地，支持社交媒体。"
+  },
+  {
+    "id": 259,
+    "title": "Chihuly on Fire / Cursed Pirate Girl",
+    "title_zh": "Chihuly on Fire / Cursed Pirate Girl",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/chihuly-on-fire-cursed-pirate-girl/",
+    "tags": [
+      "solve",
+      "design",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-09",
+    "summary_en": "Chihuly on Fire reframes Dale Chihuly’s oeuvre from a formalist catalog into a chromatic manifesto, arguing that the artist’s pivot to color in 1981—embodied in the Macchia series—redefined glass as a political medium. The review underscores how Chihuly’s studio, with fire‑proof suits and fire‑evolving vessels, marries spectacle and aesthetic risk, challenging the craft‑arts hierarchy that prized subdued elegance. By foregrounding color over shape, Chihuly disrupts the “good table manners” expectation and asserts glass as a vehicle for bold commentary. The accompanying graphic‑novel review, Cursed Pirate Girl, celebrates intricate line work and narrative pacing, positioning the book as a case study in visual storytelling. Together, the two works illuminate how material innovation and illustrative mastery can inspire, educate, and provoke, offering readers a dual lens on contemporary art and graphic narrative.",
+    "summary_zh": "《Chihuly on Fire》将戴尔·奇胡利的作品从形态叙事转向色彩宣言，强调其1981年Macchia系列的色彩革命如何将玻璃艺术从工艺范畴推向政治表达。评述中提到，奇胡利的团队在防火服装下操作熔融玻璃，既展示了视觉震撼，也挑战了传统工艺的“礼貌”标准，表明色彩是其最有力的合作伙伴。与此同时，《Cursed Pirate Girl》以细腻线条和节奏感为核心，成为视觉叙事的案例研究。两本书共同展示了材质创新与插画精湛如何激发、教育并引发思考。",
+    "best_quote_en": "For that, color rather than form has been his most capable collaborator.",
+    "best_quote_zh": "对他来说，色彩而非形态才是他最有能力的合作伙伴。"
   }
 ]
