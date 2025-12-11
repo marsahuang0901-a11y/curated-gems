@@ -1,119 +1,5 @@
 [
   {
-    "id": 160,
-    "title": "Reinforcement Learning Progress",
-    "title_zh": "强化学习进展",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/reinforcement-learning-progress",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2018-06-25",
-    "summary_en": "OpenAI’s latest triumph—five agents mastering Dota with PPO—marks a watershed moment for deep reinforcement learning. By eschewing human‑play data and relying solely on self‑play, the agents achieved 90‑95% win rates against semi‑pro players, underscoring the power of scale and well‑crafted reward functions. The work demonstrates that, given a high‑fidelity simulation and ample compute, RL can tackle complex, real‑world‑like decision problems that resist hand‑coded solutions. It also signals a shift toward more generalizable AI, where the learning algorithm itself discovers strategies rather than being hand‑tuned. For researchers and practitioners, the paper offers a blueprint: design a realistic environment, define clear rewards, and let massive compute drive exploration. Yet the reliance on computational brute force raises questions about efficiency, transferability, and the ethical use of such resources. Overall, the study is a bold stride toward general intelligence, but it also reminds us that the path forward will demand both technical ingenuity and thoughtful resource stewardship.",
-    "summary_zh": "OpenAI 的最新成果——五名代理使用 PPO 在 Dota 中击败半职业选手——标志着深度强化学习的里程碑。通过自我对弈而非人类数据，代理以 90‑95% 的胜率证明了规模与奖励设计的力量。此举表明，只要拥有逼真的模拟环境和足够的计算，RL 能解决复杂的决策问题，推动通用 AI 的发展。然而，过度依赖计算资源也引发效率与伦理讨论。此研究既是技术突破，也是对未来资源与方法的深刻提醒。",
-    "best_quote_en": "This is a big deal because it shows that deep reinforcement learning can solve extremely hard problems whenever you can throw enough computing scale and a really good simulated environment that captures the problem you’re solving.",
-    "best_quote_zh": "这是一件大事，因为它表明深度强化学习能够解决极其困难的问题，只要你有足够的计算规模和一个真正好的模拟环境来捕捉你正在解决的问题。"
-  },
-  {
-    "id": 161,
-    "title": "Essentials: Food & Supplements for Brain Health & Cognitive Performance",
-    "title_zh": "大脑健康与认知表现的必备食物与补充剂",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-food-supplements-brain-health-cognitive-performance",
-    "tags": [
-      "guide",
-      "medicine",
-      "psychology"
-    ],
-    "tags_zh": [
-      "指导",
-      "医学健康",
-      "心理学"
-    ],
-    "date": "2025-09-11",
-    "summary_en": "In this episode, Huberman distills the science behind brain‑boosting nutrients into a practical guide for everyday use. He explains how omega‑3 fatty acids fortify neuronal membranes, while phosphatidylserine and choline support neurotransmitter synthesis and focus. Creatine, often associated with muscle performance, is shown to enhance working memory and learning speed. Anthocyanins, the pigments in berries, provide antioxidant protection for neural circuits, and glutamine helps curb sugar cravings that can undermine cognitive clarity. Beyond the biochemistry, Huberman explores the gut‑brain axis, demonstrating how taste perception and learned food associations drive cravings and dietary choices. He offers actionable behavioral tools—such as unpairing artificial sweeteners and re‑training satiety signals—to rewire these preferences toward nutrient‑dense foods. The episode balances rigorous evidence with clear dosage recommendations, making it a valuable resource for anyone looking to optimize brain health through diet, without resorting to fad supplements.",
-    "summary_zh": "Huberman在本期节目中将脑部营养科学拆解为日常可用的实用指南。他阐释欧米伽‑3脂肪酸如何强化神经元膜，磷脂酰丝氨酸与胆碱如何支持神经递质合成与专注；肌酸提升工作记忆与学习速度；花青素提供抗氧化保护；谷氨酰胺帮助抑制糖分渴求。节目还探讨肠脑轴，说明味觉与习得的食物关联如何驱动渴望，并提供可操作的行为工具，帮助重塑饮食偏好。内容兼具严谨证据与剂量建议，是想通过饮食提升认知的读者的宝贵资源。",
-    "best_quote_en": "Taste perception, gut‑brain signaling, and learned associations shape what foods we prefer and crave.",
-    "best_quote_zh": "味觉感知、肠脑信号以及学习的关联共同塑造我们偏好和渴求的食物。"
-  },
-  {
-    "id": 162,
-    "title": "The Darkest Thread in the Epstein E-mails",
-    "title_zh": "艾普森邮件中的最黑暗线索",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-darkest-thread-in-the-epstein-e-mails",
-    "tags": [
-      "update",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-11-17",
-    "summary_en": "The article dives into the newly released trove of Jeffrey Epstein’s emails, exposing a tangled web of political intrigue, celebrity entanglements, and unsettling reverence for the disgraced financier.  Amid the flood of documents, the most striking revelation is how Donald Trump—though largely absent—occupies a negative space that the emails exploit for political leverage.  The narrative underscores the fragile balance between power, accountability, and the public’s right to know, as lawmakers wrestle with whether to force disclosure of remaining files.  By juxtaposing candid, often crude exchanges with high‑profile figures against the backdrop of the victims’ haunting pleas, the piece invites readers to question the moral compromises of elite networks.  It also highlights the danger of politicizing a criminal case, as pundits and former officials weaponize the narrative for partisan gain.  Ultimately, the story is a cautionary tale about how unchecked influence can distort justice, reminding us that transparency must outpace political expediency to protect the vulnerable.",
-    "summary_zh": "文章剖析了新公布的艾普森邮件，揭示了政治权谋、名流纠葛与对这位臭名昭著人物的盲目信任之间的错综复杂。  通过将粗俗的私信与受害者痛苦的呼声并置，作者让读者重新审视精英网络中的道德妥协与司法失衡。  同时，它警示我们，政治化刑事案件会让真相被派系利用，透明度必须胜过政治计谋，才能真正保护弱势群体。",
-    "best_quote_en": "The darkest thread, meanwhile, is the obsequious reverence for Epstein.",
-    "best_quote_zh": "我十四岁"
-  },
-  {
-    "id": 163,
-    "title": "Coral",
-    "title_zh": "珊瑚",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/coral/",
-    "tags": [
-      "guide",
-      "science",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2025-11-17",
-    "summary_en": "The piece invites readers into the dazzling, bewildering world of coral reefs, blending personal narrative with practical guidance. A snorkeler’s first‑hand encounter with alien‑like organisms sparks a quest for knowledge, leading to a curated list of field guides—Peterson’s introductory volume and Humann’s three‑color, taxonomically rigorous companions. These works serve not only divers and biologists but also the passionate home reefers who recreate miniature ecosystems. The author underscores the importance of species identification, light regimes, and ecological balance in artificial reefs, offering a bridge between hobbyist practice and scientific understanding. Coupled with a PBS/National Science Foundation series that systematically explores animal phyla, the article becomes a portal to taxonomy, ecology, and the broader wonder of marine life. It encourages readers to engage with both the wild and the cultivated, highlighting how meticulous documentation and hands‑on experimentation deepen our appreciation of biodiversity.",
-    "summary_zh": "作者以潜水者的亲身经历为起点，带领读者走进珊瑚礁的神秘与多样。通过推荐的实用识别手册与PBS系列，揭示了系统分类与生态平衡的关键。更重要的是，文章将海洋生物学与家庭水族箱的实践相结合，鼓励读者在探索与培养中加深对海洋多样性的认识。",
-    "best_quote_en": "Because home reef enthusiasts are so attuned to the life cycles of their captives, I learned more about marine life from here than any other source.",
-    "best_quote_zh": "因为家庭珊瑚爱好者如此关注他们的捕获物的生命周期，我从这里学到的关于海洋生命的知识比任何其他来源都多。"
-  },
-  {
-    "id": 164,
-    "title": "US Digital Currency",
-    "title_zh": "美国数字货币",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/us-digital-currency",
-    "tags": [
-      "solve",
-      "economics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "经济金融",
-      "数据驱动"
-    ],
-    "date": "2018-05-10",
-    "summary_en": "The piece argues that cryptocurrency’s survival is inevitable, yet the dominant, truly functional token may yet be born—perhaps from the U.S. itself.  By envisioning a “US Digital Currency” (USDC) that the government could declare a second legal tender, the author sketches a hybrid model that marries state‑level fiscal control with blockchain’s distributed autonomy.  The proposal hinges on clever incentives: a one‑time airdrop of two coins per citizen, one immediately liquid and one locked for a decade, coupled with a tax‑on‑chain mechanism that could streamline compliance.  It is a bold, future‑focused thought experiment that questions whether a sovereign‑backed token can solve the pseudo‑anonymity, usability, and taxability gaps that plague existing crypto ecosystems.  While the idea is speculative, it sparks a valuable dialogue about how public policy might harness decentralised technology without surrendering monetary sovereignty.",
-    "summary_zh": "作者认为加密货币不可避免，但真正主导的币种可能尚未出现。他提出美国可发行“USDC”，成为第二法定货币，兼顾政府税收与区块链自治。通过一次性发放两枚硬币（即时可售与锁定十年）并嵌入税务机制，探索如何解决现有加密体系的匿名性、实用性和税务难题。此设想既具前瞻性，又促发关于国家如何利用去中心化技术而不失货币主权的讨论。",
-    "best_quote_en": "I think the first superpower government to do something like this will have an enviable position in the future of the world, and some power over a worldwide currency.",
-    "best_quote_zh": "我认为第一个采取此类行动的超级大国将拥有在世界未来中令人羡慕的位置，并拥有对全球货币的一定控制力。"
-  },
-  {
     "id": 165,
     "title": "Transform Your Metabolic Health & Longevity by Knowing Your Unique Biology | Dr. Michael Snyder",
     "title_zh": "通过了解你独特的生物学，改变你的代谢健康与长寿 | Dr. Michael Snyder",
@@ -2366,5 +2252,125 @@
     "summary_zh": "《Chihuly on Fire》将戴尔·奇胡利的作品从形态叙事转向色彩宣言，强调其1981年Macchia系列的色彩革命如何将玻璃艺术从工艺范畴推向政治表达。评述中提到，奇胡利的团队在防火服装下操作熔融玻璃，既展示了视觉震撼，也挑战了传统工艺的“礼貌”标准，表明色彩是其最有力的合作伙伴。与此同时，《Cursed Pirate Girl》以细腻线条和节奏感为核心，成为视觉叙事的案例研究。两本书共同展示了材质创新与插画精湛如何激发、教育并引发思考。",
     "best_quote_en": "For that, color rather than form has been his most capable collaborator.",
     "best_quote_zh": "对他来说，色彩而非形态才是他最有能力的合作伙伴。"
+  },
+  {
+    "id": 260,
+    "title": "Warning system to spot poor care at NHS England maternity wards",
+    "title_zh": "英国NHS产科病房发现护理不足的预警系统",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2025/dec/08/warning-system-to-spot-poor-care-at-nhs-england-maternity-wards",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-12-08",
+    "summary_en": "The NHS England’s Maternity Outcomes Signal System (MOSS) represents a pioneering shift from reactive to proactive safety monitoring in maternity care. By applying real‑time statistical thresholds—95 % confidence for routine alerts and 99 % for urgent flags—the system flags wards where deaths or serious neonatal injuries occur at twice the expected rate. This data‑driven approach, inspired by the 2022 East Kent investigation, forces ward leaders to conduct rapid safety reviews and board‑level sign‑offs, thereby embedding accountability at every tier. The rollout to all 119 NHS maternity units signals a national commitment to learning from past scandals (Shrewsbury, Leeds, Nottingham) and preventing repeat failures. For clinicians and policymakers, MOSS offers a concrete, actionable framework that turns raw outcome data into tangible quality‑improvement cycles, underscoring the power of evidence‑based governance in safeguarding mothers and babies.",
+    "summary_zh": "MOSS系统将实时统计与质量治理结合，按95%与99%阈值及时警报产科病房的高风险，促使管理层快速评估并上报。它以东肯特调查为契机，推动全英119家产科单位实现数据驱动的安全监测，避免过去的悲剧重演。",
+    "best_quote_en": "Moss was a sophisticated early warning system that will sound the alarm when patterns emerge that need urgent attention.",
+    "best_quote_zh": "Moss 是一套复杂的早期预警系统，它将在出现需要紧急关注的模式时发出警报。"
+  },
+  {
+    "id": 261,
+    "title": "How to Raise Money",
+    "title_zh": "如何筹集资金",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/fr.html",
+    "tags": [
+      "solve",
+      "startup-funding",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业融资",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-12-11",
+    "summary_en": "The essay distills Y Combinator’s seasoned wisdom into a practical playbook for phase‑2 fundraising, the stage where most startups seek a few hundred thousand to several million to accelerate growth. It frames fundraising as a dual‑natured challenge—both a heavy lift and a puzzle—emphasizing that the hard part is convincing investors, while the rest can be systematized. Founders are urged to impose strict constraints, treat every investor as a “no” until a clear, written commitment arrives, and to prioritize prospects by expected value rather than serial meetings. The author warns against the seductive trap of chasing high valuations, over‑raising, and letting investors dictate terms, and instead recommends a greedy, parallel‑search strategy that accepts the first viable offer. Key take‑aways include: stay in fundraising mode only when actively raising, keep other founders insulated, limit dilution to 25 % in phase‑2, and view the process as a means to profitability, not a destination. The piece blends hard‑ball tactics with psychological insight, offering a disciplined, data‑driven framework that balances speed, focus, and partnership quality.",
+    "summary_zh": "文章把 YC 的经验浓缩成阶段二融资的实战指南，强调融资既是沉重负担又是拼图。核心思路是：先设定严格约束，视每位投资者为“否”直至书面承诺；按预期价值并行筛选，避免追高估值与过度筹资；只在真正融资时全力投入，其他创始人保持专注；二期融资股权不超过 25%，把融资视为实现盈利的手段，而非终点。整体提出速度、专注与合作质量并重的纪律化、数据驱动策略。",
+    "best_quote_en": "Fundraising is not what will make you successful. It's just a means to an end.",
+    "best_quote_zh": "融资不是决定你成功的因素，它只是实现目标的手段。"
+  },
+  {
+    "id": 262,
+    "title": "Master the Creative Process | Twyla Tharp",
+    "title_zh": "掌握创意过程 | Twyla Tharp",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/master-the-creative-process-twyla-tharp",
+    "tags": [
+      "guide",
+      "design",
+      "ai-research",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "AI研究",
+      "深度分析"
+    ],
+    "date": "2025-12-08",
+    "summary_en": "Twyla Tharp’s episode distills the art of choreography into a disciplined, almost scientific routine that anyone can adopt. She argues that creative success is not an act of spontaneous inspiration but the result of a structured “spine” of daily habits: defining a core message, interrogating audience expectations, confronting criticism, and continually raising standards. Her insights weave together practical tools—like ritualized movement, deliberate rehearsal schedules, and the metaphorical “box” of focused practice—with deeper psychological lessons about self‑perception, the power of a chosen name, and the interplay of competition and intrinsic reward. The talk invites listeners to treat creativity as a craft that can be honed through intentional practice, making it both inspirational and actionable. For artists, entrepreneurs, or anyone seeking to turn vision into reality, Tharp’s framework offers a roadmap that blends artistry with discipline, turning abstract ideas into tangible, repeatable outcomes.",
+    "summary_zh": "Twyla Tharp用舞蹈家的严谨日常诠释创意过程，指出成功源于有序的“脊柱”——核心信息、受众思考、批评面对与标准提升。她把创意视作可锻炼的工艺，提供仪式化训练与心理洞见，帮助人们将抽象愿景转化为可复制成果。",
+    "best_quote_en": "Your hard work, competition mindset, and even the name you choose shape what you believe you can achieve.",
+    "best_quote_zh": "你的辛勤工作、竞争心态，甚至你选择的名字，都塑造了你认为自己能实现的可能。"
+  },
+  {
+    "id": 263,
+    "title": "The Tim Ferriss Show Transcripts: Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star (#839)",
+    "title_zh": "《The Tim Ferriss Show 访谈记录：李飞飞博士，AI的“教母”——勇敢提问、文明技术与寻找北极星（#839）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/12/10/dr-fei-fei-li-the-godmother-of-ai-transcript/",
+    "tags": [
+      "inspire",
+      "science",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-12-10",
+    "summary_en": "Dr. Fei‑Fei Li’s interview with Tim Ferriss is a masterclass in the human side of AI, weaving her personal immigrant journey, the birth of ImageNet, and the emerging field of spatial intelligence. She argues that AI is a civilizational technology, reshaping economics, culture, and education, yet warns that Silicon Valley’s focus on growth eclipses the human‑centric dialogue needed for responsible deployment. Her narrative highlights the critical role of mentors—her father’s curiosity, her high‑school teacher Bob Sabella—and the power of big data, GPUs, and neural networks that converged to launch modern AI. Li also projects the underappreciated importance of spatial intelligence for robotics, entertainment, and therapy, and urges future generations to value learning how to learn over specific degrees. The conversation blends historical context, actionable insights, and a hopeful vision for a future where AI amplifies human agency rather than replaces it.",
+    "summary_zh": "李飞飞博士在与Tim Ferriss的访谈中，阐述AI是文明技术，既推动经济文化，也需关注人本。她回顾ImageNet诞生，强调导师与大数据、GPU、神经网络的融合，并指出空间智能在机器人、娱乐与疗法中的潜力。她鼓励未来世代重视学习本身，强调AI应放大人类能动性而非取代。",
+    "best_quote_en": "AI is a civilizational technology.",
+    "best_quote_zh": "人工智能是一种文明技术。"
+  },
+  {
+    "id": 264,
+    "title": "How Your Values Affect What You Share on Social Media",
+    "title_zh": "价值观如何影响你在社交媒体上的分享",
+    "source": "Ulterior Motives (Art Markman Ph.D.)",
+    "link": "https://www.psychologytoday.com/us/blog/ulterior-motives/202506/how-your-values-affect-what-you-share-on-social-media",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-06-11",
+    "summary_en": "The 2025 study by Abdurahman and colleagues uncovers a striking psychological mechanism that underlies the spread of misinformation on social media: value congruence. By framing posts to echo individualizing or binding moral values—care and equality versus loyalty and authority—the researchers found that people are far more inclined to share content that aligns with their own ideological palette. This effect is especially pronounced for false narratives, suggesting that emotional resonance can override analytical scrutiny. Importantly, the lab findings held up in a large‑scale Twitter analysis, where liberal users engaged more with individualizing frames and conservatives with binding ones. The work not only maps how values fuel viral misinformation but also highlights a blind spot for platform moderators: content that feels personally validating is less likely to be questioned, even when it is inaccurate. For scholars and practitioners, this points to the need for value‑aware content moderation and media literacy that explicitly addresses the emotional pull of aligned messaging.",
+    "summary_zh": "研究显示，价值一致性能显著推动社交媒体上的信息传播，尤其是错误信息。若帖子与用户的价值观（个人化或绑定）相符，分享意愿显著提高。实验结果在Twitter数据中得到验证，揭示了价值共鸣能削弱用户的批判性思考。此发现提醒平台和媒体教育者，内容审核与识读策略需兼顾情感共振，才能有效遏制误导性内容的扩散。",
+    "best_quote_en": "People feel good about posts that mesh with their deeply‑held values. That good feeling may drive a sense that other people would benefit from seeing the post as well.",
+    "best_quote_zh": "人们对与自己深层价值观相符的帖子会产生愉悦感，这种好感可能促使他们认为他人也会从中受益。"
   }
 ]
