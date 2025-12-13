@@ -1,121 +1,5 @@
 [
   {
-    "id": 170,
-    "title": "The Creative Architect / How to Talk to Girls at Parties",
-    "title_zh": "创意建筑师 / 如何在派对上与女孩交谈",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/the-creative-architect-how-to-talk-to-girls-at-parties/",
-    "tags": [
-      "solve",
-      "design",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-18",
-    "summary_en": "The article juxtaposes two seemingly disparate works—a 1950s psychological study of midcentury architects and a Neil Gaiman comic adaptation—yet both illuminate the human quest for meaning and connection. The architectural study, now finally published, offers a nuanced portrait of creative genius, revealing that self‑expression, aesthetic elegance, and resistance to conformity are the true engines of innovation. It refrains from dispensing a one‑size‑fits‑all recipe, instead presenting a rich, data‑driven case study that invites readers to reflect on their own creative processes. In contrast, Gaiman’s comic captures the awkwardness of social interaction through sharp dialogue and lush illustration, underscoring the universal challenge of bridging the gap between self‑perception and external validation. Together, these pieces challenge the reader to consider how creativity and social skill are cultivated through authenticity, curiosity, and resilience. The piece invites scholars, designers, and creatives alike to question conventional wisdom and to seek deeper, more personal definitions of success and connection.",
-    "summary_zh": "文章将1950年代建筑师心理研究与盖曼漫画并置，探讨创意与人际交往的核心。建筑研究揭示自我表达与反抗规范是创新之源，提供数据驱动的案例研究；漫画则通过尴尬对话与精美画面，呈现人与人之间的真实困境。两者共同鼓励读者以真实性与好奇心重塑创作与社交的定义，启示设计师、学者与创作者重新审视成功与连接的内在动力。",
-    "best_quote_en": "\"What propels creativity is the unfettered expression of the self,\"",
-    "best_quote_zh": "\"推动创造力的是自我无拘束的表达。\""
-  },
-  {
-    "id": 171,
-    "title": "Essentials: Science of Mindsets for Health & Performance | Dr. Alia Crum",
-    "title_zh": "Essentials: Science of Mindsets for Health & Performance | Dr. Alia Crum",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-science-mindsets-health-performance-alia-crum",
-    "tags": [
-      "inspire",
-      "science",
-      "health-wellness",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "健康养生",
-      "数据驱动"
-    ],
-    "date": "2025-09-04",
-    "summary_en": "Dr. Alia Crum’s episode with Huberman Lab dissects how our core beliefs—about stress, exercise, and food—serve as a psychological placebo that literally rewires bodily responses. By reframing a meal as ‘indulgent’ or exercise as ‘real,’ participants see measurable shifts in satiety hormones and weight‑loss metrics, underscoring the power of mindset as a low‑cost, high‑impact lever. The discussion extends to stress, turning it from a villain into a growth catalyst that boosts both mental resilience and physiological health. The conversation is anchored in rigorous Stanford research, yet distilled into practical, actionable take‑aways for anyone looking to optimize health and performance. It invites listeners to experiment with mindset shifts as a daily tool, bridging the gap between science and everyday life. The episode’s value lies in its clear demonstration that belief can be a therapeutic agent, a concept that challenges conventional treatment paradigms and opens new avenues for self‑regulation.",
-    "summary_zh": "阿莉亚·克鲁姆博士在Huberman实验室的访谈中揭示，关于压力、运动与食物的信念不仅塑造情绪与行为，更能直接改变体内激素与代谢。通过将食物视为“放纵”或运动视为“真实”，研究显示饱腹激素与体重下降指标可显著改善；再将压力重新定义为成长工具，可提升心理韧性与生理健康。她用严谨实验数据说明心态是低成本、高效的自我调节手段，邀请听众把“心态转变”变成日常练习，重新定义健康与表现的可能性。",
-    "best_quote_en": "Our mindsets—for example, what we believe about stress, exercise and the food we eat—shape how we feel, behave and even how our bodies respond.",
-    "best_quote_zh": "我们的心态——例如我们对压力、运动和食物的信念——塑造了我们的感受、行为，甚至身体的反应。"
-  },
-  {
-    "id": 172,
-    "title": "Change Your Name",
-    "title_zh": "改变你的名字",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/name.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-11-20",
-    "summary_en": "The piece opens with the seemingly trivial detail of a startup owning the .com of its own name, and from there it unpacks a subtle link between brand perception and market trust. The author argues that a missing .com isn’t a technical hurdle, but one that signals weakness to potential customers. By dissecting cases such as Stripe and Parse, he shows that naming is a distinct skill, often underestimated by founders. He advises first to confront the emotional attachment to a name, then to actively seek external help or perform a broad domain search to quickly land a viable option. For YC-backed companies, the correlation between holding a .com and valuation is clear, urging new ventures to prioritize domain strategy early. The article blends theory and practice, making it a valuable read for founders looking to sharpen their brand’s first impression.",
-    "summary_zh": "文章以“拥有与公司同名的 .com 域名”为核心，揭示品牌认知与市场信任的微妙关系。作者指出，缺失 .com 并非技术障碍，却会被潜在客户解读为公司实力不足。通过 Stripe、Parse 等案例，强调命名是一门独立艺术，创业者往往低估其重要性。建议先正视对名字的情感依赖，再主动寻求外部帮助或大批域名搜索，快速找到可行方案。对 YC 创业公司而言，拥有 .com 的比例与估值呈正相关，提示新创企业在早期阶段就应关注域名策略。文章兼理论与实操，适合想提升品牌力的创始人。",
-    "best_quote_en": "Having x.com signals strength even if it has no relation to what you do.",
-    "best_quote_zh": "拥有 x.com 即使与业务无关，也能传递实力。"
-  },
-  {
-    "id": 173,
-    "title": "What’s in my NOW? — Molly Harris",
-    "title_zh": "我的现在里有什么？—莫莉·哈里斯",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-molly-harris/",
-    "tags": [
-      "solve",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-11-19",
-    "summary_en": "The piece is a whimsical yet surprisingly practical inventory of the tools that anchor the author’s “now.” From a digital hygrometer that turns humidity into a comfort score, to a $10 fidget slider that channels nervous energy, the physical section reads like a personal ergonomics playbook. The digital arm of the post showcases Inoreader’s intelligence and a subtle critique of its closed‑loop feedback, while Tetr.io is framed as a therapeutic visuospatial exercise for CPTSD, hinting at emerging evidence that puzzle games can mitigate trauma. The invisible layer culminates in a timeless Persian proverb, “This too shall pass,” reminding readers that the same tools that soothe the body also calm the mind. The article blends self‑care, tech‑savvy, and stoic wisdom into a concise guide that invites readers to map their own micro‑comfort rituals. Its strength lies in the actionable details and the gentle reminder that impermanence is the backdrop of every habit.",
-    "summary_zh": "文章以轻松幽默的笔触，列举了作者让“现在”变得舒适的物品与习惯：数字湿度计、$10 的手感滑块、耳道刮痧器、Inoreader 与 Tetr.io。它将技术与自我疗愈交织，暗示拼图游戏能缓解创伤压力，并以“这也会过去”提醒读者所有苦乐皆是短暂。读后不禁反思，真正的舒适是细微仪式与心态的双重调和。",
-    "best_quote_en": "This too shall pass.",
-    "best_quote_zh": "这也会过去。"
-  },
-  {
-    "id": 174,
-    "title": "Productivity",
-    "title_zh": "生产力",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/productivity",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "深度分析"
-    ],
-    "date": "2018-04-10",
-    "summary_en": "The author distills personal experience into a multi‑layered framework for boosting work efficiency. Key insights include: choose high‑impact tasks first, cultivate independent thinking, keep actionable paper lists, block time for deep work, and optimize sleep, exercise, and nutrition for sustained focus. The piece warns against “productivity porn” – chasing metrics for their own sake – and emphasizes that real productivity stems from doing the right things, not just moving faster. Its pragmatic advice is coupled with a human‑centric view, making it useful for anyone juggling busy schedules and seeking a sustainable rhythm.",
-    "summary_zh": "作者从个人经验出发，系统阐述了提升工作效率的多维策略：先挑优先任务、培养独立思考、精细化列清单、合理分配时间、保持身体与心理最佳状态。文章强调，真正的生产力源自做对的事，而非追求表面效率。它既具可操作性，又兼具人文关怀，适合想在繁忙工作中寻找自我节奏的读者。",
-    "best_quote_en": "If you get 10% more done and 1% better every day compared to someone else, the compounded difference is massive.",
-    "best_quote_zh": "如果你每天比别人多完成10%并提高1%，复合差异会变得巨大。"
-  },
-  {
     "id": 175,
     "title": "How to Set & Achieve Massive Goals | Alex Honnold",
     "title_zh": "如何设定并实现宏大目标 | Alex Honnold",
@@ -2376,5 +2260,123 @@
     "summary_zh": "在Huberman实验室的《要点》节目中，斯坦福微生物学教授约翰·索恩伯格博士阐述肠道微生物群对身心健康的深远影响。他指出现代西方饮食、抗生素和加工食品会削弱微生物多样性，引发炎症和疾病。节目从理论到实践，提供基于证据的干预：益生元、发酵食品、间歇性禁食和谨慎用药。索恩伯格强调肠道是可“重塑”的生态系统，可通过饮食与生活方式优化。此节目兼具科学严谨与可操作性，是想通过滋养微生物提升健康的必听之选。",
     "best_quote_en": "The gut microbiome is not a static backdrop but a dynamic ecosystem that we can 'reprogram' through diet and lifestyle.",
     "best_quote_zh": "肠道微生物群不是静态背景，而是可通过饮食和生活方式“重塑”的动态生态系统。"
+  },
+  {
+    "id": 270,
+    "title": "Exposed: the business linked to baby deaths across the world – The Latest",
+    "title_zh": "曝光：与全球婴儿死亡相关的业务——最新报道",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/news/audio/2025/dec/12/exposed-the-business-linked-to-baby-deaths-across-the-world-the-latest",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-12-12",
+    "summary_en": "The Guardian’s latest investigative series, presented by Lucy Hough and Lucy Osborne, pulls back the curtain on the Free Birth Society—a fringe movement that champions unassisted childbirth and has, according to a year‑long inquiry, become a deadly business. By dissecting a web of podcasts, social media hype, and the rhetoric of ‘natural’ birth, the reporters expose how hopeful mothers were radicalised into abandoning midwives and doctors, resulting in tragic infant loss. The piece is not merely a cautionary tale; it offers a data‑driven analysis of the society’s growth metrics, financial flows, and the psychological mechanisms that convert idealism into risk. It raises urgent questions about regulatory oversight, the ethics of health‑related content marketing, and the responsibility of platforms that amplify potentially harmful narratives. For health professionals, policymakers, and parents, the story underscores the need for transparent, evidence‑based guidance and a critical eye toward the intersection of wellness culture and commercial interests. It challenges readers to reconsider what ‘free’ really means when lives hang in the balance.",
+    "summary_zh": "这篇《卫报》调查揭露了“自由分娩协会”如何把“无助产”变成致命生意。记者通过对播客、社交媒体与“自然分娩”话语的剖析，展示了理想主义如何被商业化、监管缺失所放大，导致婴儿死亡。文章不仅呈现数据与财务流向，还探讨心理机制与平台责任，提醒医护、政策制定者与家长关注健康信息的真实性与安全性。它促使人们重新思考“自由”背后隐藏的风险与伦理，呼吁更透明、循证的指导与监管。",
+    "best_quote_en": "A year‑long investigation into the Free Birth Society reveals how mothers lost children after being radicalised by uplifting podcast tales of births without midwives or doctors.",
+    "best_quote_zh": "一年长时间的调查揭露了自由分娩协会，显示母亲在被鼓舞人心的播客故事所激进化后，放弃助产士或医生，导致婴儿死亡。"
+  },
+  {
+    "id": 271,
+    "title": "How to Convince Investors",
+    "title_zh": "如何说服投资者",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/convince.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "未来预测"
+    ],
+    "date": "2025-12-13",
+    "summary_en": "The essay reframes fundraising as a confidence‑building exercise rather than a sales pitch.  Its core insight is that founders must first convince themselves of the intrinsic worth of their venture—its market potential, founder credibility, and a realistic path to scale—before they can credibly communicate that to investors.  By treating the startup as a “good bet” rather than a guaranteed success, the author demystifies the power‑law reality of venture returns and shows how founders can craft a concise, data‑driven narrative that aligns with investors’ binary win‑or‑lose heuristics.  The piece is practical: it lists concrete steps—understand TAM, identify a “why now” trend, and articulate a plausible market hop sequence—and warns against common cognitive traps like over‑confidence, mis‑representing traction, or the “ten‑page paper” mindset.  Its tone is reflective yet actionable, urging founders to pause, introspect, and only then launch a pitch that is both truthful and compelling.",
+    "summary_zh": "文章把融资比作先自信再说服的过程。核心观点是，创始人先要确信自己的创业有价值——市场潜力、团队实力、可行路径，再把这份确信转化为简洁、数据驱动的故事。作者阐释了风险投资的幂律分布，解释了创始人如何在“能赢”与“可能赢”之间打分，并给出可操作的步骤：把握 TAM、识别“为何此刻”、规划市场跃迁。它警示过度自信、虚假进度和十页论文心态，鼓励创始人先自省，再向投资人展示真实且有说服力的愿景。",
+    "best_quote_en": "If you’re not convinced that your startup is worth investing in, don’t try to raise money.",
+    "best_quote_zh": "如果你不确信自己的创业值得投资，就不要去筹资。"
+  },
+  {
+    "id": 272,
+    "title": "Gar’s Tips & Tools – Issue #207",
+    "title_zh": "Gar的技巧与工具 - 第207期",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/gars-tips-tools-issue-207/",
+    "tags": [
+      "guide",
+      "science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-12-12",
+    "summary_en": "Gar’s Issue #207 offers a rich tapestry of practical knowledge, blending gift‑worthy tool recommendations, hands‑on tutorials, and thoughtful reflections on organization and history. The curated list of ten standout tools—from the Olight iMini flashlight to the DeWalt oscillating tool—serves both as a present‑guide and a celebration of craftsmanship. The JB Weld segment distills a masterful philosophy: meticulous preparation, proper surface texture, and gentle curing are the keys to a durable bond—an insight that elevates everyday repair work. Peter Brown’s 3D‑printed tool showcase demonstrates how design ingenuity can solve real‑world problems, such as the hex‑key handle that simplifies torque application. The “History of the Allen Hex Key” video reminds readers that even the most mundane tools carry deep stories of safety, standardization, and cultural impact. Finally, the newsletter’s organizational vignette underscores the value of regular re‑evaluation, turning clutter into efficient workflow. Together, these elements form a holistic guide that inspires, educates, and empowers makers, hobbyists, and everyday users alike.",
+    "summary_zh": "本期 Gar 的技巧与工具融合了实用工具推荐、精细教程与组织思考，涵盖从 Olight iMini 手电到 DeWalt 振动工具的礼物清单；JB Weld 的精髓是准备与表面处理；Peter Brown 的 3D 打印工具展示了解决实际问题的设计；Allen 六角扳手的历史提醒我们日常工具背后的安全与标准化；组织技巧强调定期评估的重要性。整体上为创客与爱好者提供灵感与实操指南。",
+    "best_quote_en": "Preparation is everything. Sand until you’ve got some adequate tooth, clean with acetone, mix on something non‑absorbent…",
+    "best_quote_zh": "准备工作是最重要的。砂磨到有足够的齿纹，用丙酮清洁，混合时使用非吸收性表面…"
+  },
+  {
+    "id": 273,
+    "title": "How to Control Your Cortisol & Overcome Burnout",
+    "title_zh": "如何控制皮质醇并克服倦怠",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/how-to-control-your-cortisol-overcome-burnout",
+    "tags": [
+      "solve",
+      "health-wellness",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "健康养生",
+      "数据驱动"
+    ],
+    "date": "2025-08-04",
+    "summary_en": "Cortisol is the body’s primary stress hormone, yet its rhythm is often misunderstood as merely “high.” In this episode, the host dissects how to fine‑tune cortisol through evidence‑based behavioral, nutritional, and supplement protocols that boost daytime energy, focus, mood, and sleep quality. Rather than bluntly suppressing the hormone, the key is restoring its natural circadian pattern—a shift that can transform health and performance. The discussion is grounded in real‑world data and offers actionable steps for high‑pressure professionals, those battling burnout, or anyone seeking to optimize hormonal balance. By marrying physiology with practical guidance, the episode provides a clear, implementable self‑management roadmap that turns scientific insight into tangible results.",
+    "summary_zh": "皮质醇是人体压力反应的核心荷尔蒙，但其节律失调往往被误解为“过高”。本期节目通过科学实验数据，拆解如何在日常生活中精准调控皮质醇，提升能量、专注与睡眠。作者强调，真正的突破不在于单纯抑制，而是恢复自然节律。对从事高压工作、面临倦怠的人群而言，这套基于行为、营养与补剂的方案既具可操作性，又兼具前瞻性。内容将生理学与实用指南巧妙结合，为读者提供了一条可落地的自我管理路径。",
+    "best_quote_en": "Getting your cortisol rhythm right can be transformative for your health and performance.",
+    "best_quote_zh": "让你的皮质醇节律正确，可以为你的健康和表现带来变革。"
+  },
+  {
+    "id": 274,
+    "title": "Dr. Fei-Fei Li, The Godmother of AI — Asking Audacious Questions, Civilizational Technology, and Finding Your North Star (#839)",
+    "title_zh": "费菲·李博士，人工智能的教母——大胆提问，文明技术，寻找北极星（#839）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/12/09/dr-fei-fei-li-the-godmother-of-ai/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-09",
+    "summary_en": "In this episode, Tim Ferriss sits down with Dr. Fei‑Fei Li, the trailblazing AI pioneer who co‑founded the Human‑Centered AI Institute and now leads World Labs. Li’s narrative threads her early life in Chengdu, her physics‑driven curiosity, and the serendipitous birth of ImageNet to paint a portrait of AI as a civilizational technology—one that reshapes GDP, culture, and politics. She challenges the single‑genius myth, insisting that progress is a collective, non‑linear lineage. The conversation pivots to spatial intelligence, positioning it as the next frontier beyond language models, and illustrates this through World Labs’ work in robotics, education, and mental‑health therapies. Li’s core message is people‑centric: AI must serve human agency, and the North Star for innovators is a clear, people‑first purpose. The episode blends historical context, practical insights, and a forward‑looking roadmap, making it a compelling guide for researchers, entrepreneurs, and anyone interested in the societal impact of AI.",
+    "summary_zh": "在本期节目中，Tim Ferriss 与人工智能先驱费菲·李博士对话，探讨她从成都成长为AI领袖的轨迹。李博士以ImageNet的诞生为起点，阐述AI是文明技术，影响经济、文化与政治。她批判单一天才论，强调进步是集体、非线性演进。节目聚焦空间智能，提出它是超越语言模型的下一个前沿，并通过World Labs在机器人、教育和心理治疗中的案例来说明。核心信息是：AI必须以人为中心，创新者的北极星是清晰的人本目标。此对话兼具历史视角、实用洞见与前瞻路线图，适合研究者、创业者及关注AI社会影响的听众。",
+    "best_quote_en": "\"Really, at the end of the day, people are at the heart of everything. People made AI, people will be using AI, people will be impacted by AI, and people should have a say in AI.\"",
+    "best_quote_zh": "“真正重要的是，最终，人是所有事物的核心。人们造了人工智能，使用人工智能，受到影响，人们应该对人工智能发声。”"
   }
 ]
