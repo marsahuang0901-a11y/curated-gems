@@ -1,123 +1,5 @@
 [
   {
-    "id": 180,
-    "title": "My 2025 Holiday Gift Guide: 11 Gifts to Make Your Holidays Extra Fun, Relaxing, and Delicious",
-    "title_zh": "",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/11/21/2025-holiday-gift-guide/",
-    "tags": [
-      "guide",
-      "writing-content",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "指导",
-      "写作内容",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2025-11-21",
-    "summary_en": "Tim Ferriss’s 2025 holiday gift guide is a practical, personality‑driven compendium that blends personal experience, exclusive deals, and a touch of storytelling to help readers navigate the cluttered gift market. Each of the eleven picks—ranging from literary treasures and fitness tools to sleep tech and wellness supplements—is introduced with a brief narrative that highlights why Ferriss values it, how it fits into his own routine, and what makes it a standout present. The guide’s strength lies in its actionable nature: every recommendation is paired with a direct link, a discount code, or a contextual anecdote that turns a generic suggestion into a ready‑to‑buy, problem‑solving solution. By weaving in personal anecdotes, product‑specific insights, and a generous dose of humor, Ferriss turns the gift‑shopping chore into an engaging, low‑effort experience that invites readers to replicate his curated choices for friends, family, or themselves.",
-    "summary_zh": "泰姆·费里斯的 2025 年礼物指南以实用、个性化的方式，结合亲身体验和独家折扣，帮助读者在礼物市场中快速定位。每件精选礼物都配有购买链接和优惠码，内容既有实用建议又不失幽默，让购物变得轻松愉快。",
-    "best_quote_en": "The Pod 5 Ultra automatically tracks your sleep time, sleep stages, HRV, and heart rate.",
-    "best_quote_zh": "Pod 5 Ultra 自动跟踪您的睡眠时间、睡眠阶段、HRV 和心率。"
-  },
-  {
-    "id": 181,
-    "title": "How Does Your Motivation Affect the Achievement of Goals?",
-    "title_zh": "动机如何影响目标实现？",
-    "source": "Ulterior Motives (Art Markman Ph.D.)",
-    "link": "https://www.psychologytoday.com/us/blog/ulterior-motives/202509/how-does-your-motivation-affect-the-achievement-of-goals",
-    "tags": [
-      "learn",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-12",
-    "summary_en": "Recent research by Woolley, Giurge, and Fishbach illuminates a persistent paradox: we set ambitious goals more often than we achieve them, and the reason we choose a goal is rarely the driving force behind our success. The studies dissected extrinsic motivation—the value of the outcome—and intrinsic motivation—the enjoyment of the activity itself. Across four experiments involving Americans and Chinese participants, intrinsic motivation consistently emerged as the predictor of both engagement and completion, while extrinsic motivation showed little influence. Even when participants were nudged toward a health app, framing it as a game (intrinsic) led to more product searches than framing it as a useful tool (extrinsic). These findings suggest that sustainable progress hinges on aligning long‑term benefits with personal enjoyment, rather than relying on external rewards. For anyone setting resolutions or performance targets, the takeaway is clear: embed the fun into the action, and the outcome will follow.\n",
-    "summary_zh": "研究表明，内在动机是实现目标的关键，而外在动机则作用有限。实验显示，若将行动与乐趣相结合，长期目标更易达成。此发现提醒我们，在制定计划时，应把享受融入行动，而非单靠外部奖励。",
-    "best_quote_en": "Intrinsic motivation predicts the actual increase in the number of steps taken, while extrinsic motivation did not.",
-    "best_quote_zh": "内在动机预测了实际步数的增加，而外在动机则没有。"
-  },
-  {
-    "id": 182,
-    "title": "Influencers made millions pushing ‘wild’ births – now the Free Birth Society is linked to baby deaths around the world",
-    "title_zh": "影响者通过‘野生’分娩赚取数百万——自由分娩协会与全球婴儿死亡相关联",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/ng-interactive/2025/nov/22/free-birth-society-linked-to-babies-deaths-investigation",
-    "tags": [
-      "analyze",
-      "education",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-11-22",
-    "summary_en": "The Guardian’s investigative piece exposes how a viral free‑birth movement, led by influencer Emilee Saldaya, turned a fringe practice into a multimillion‑dollar enterprise that, in the process, has contributed to preventable infant deaths worldwide. By leveraging podcasts, Instagram and paid courses, the Free Birth Society (FBS) sold the myth that unassisted, “wild” births are safer than hospital delivery, while actively downplaying or dismissing established medical warning signs such as shoulder dystocia, prolonged labor and post‑delivery hemorrhage. The report documents dozens of tragic cases—stillbirths, neonatal deaths, severe maternal hemorrhage—linked to FBS guidance, and reveals a culture of silence and self‑justification that mirrors cult‑like control. The piece not only highlights the dangers of misinformation in maternal health but also underscores the ethical responsibility of online influencers and the need for stronger regulatory oversight of unlicensed midwifery education. Its implications reach beyond individual families, challenging the medical‑industry narrative and calling for a re‑balance of trust between professional care and alternative birthing movements.",
-    "summary_zh": "这篇调查揭露了自由分娩协会如何将一项边缘做法变成数百万美元的业务，并在此过程中导致全球可预防的婴儿死亡。它展示了从播客到社交媒体的影响力如何传播错误信息，并揭示了与母婴健康相关的伦理危机。",
-    "best_quote_en": "Watching this video is like watching a parent sit by the pool while their child is quietly drowning and they do nothing.",
-    "best_quote_zh": "观看这段视频就像看着一个父母坐在池边，孩子在静静淹死，而他们却什么也不做。"
-  },
-  {
-    "id": 183,
-    "title": "What Microsoft Is this the Altair Basic of?",
-    "title_zh": "微软的 Altair Basic 是什么？",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/altair.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-11-23",
-    "summary_en": "The piece revisits Microsoft’s early Altair Basic, revealing how seemingly modest or even mocked startup ideas can hide immense potential. The author argues that founders often act on instinct, sensing a missing future need, yet struggle to articulate why their “ugly duckling” will evolve into a great swan. By framing evaluation with the question, “What Microsoft is this the Altair Basic of?” the article urges investors and founders alike to use case‑study analysis and intuition to spot future‑level growth. It blends philosophical insight with practical guidance, making it a must‑read for anyone who wants to turn a small spark into a giant enterprise. The narrative is both a call to think beyond first impressions and a roadmap for uncovering hidden giants.",
-    "summary_zh": "文章通过回顾微软起步时的 Altair Basic，揭示了看似平凡甚至被嘲笑的创业想法背后隐藏的潜在价值。作者强调，创始人凭直觉捕捉未来缺口，却往往难以言表。通过“这家公司是微软的 Altair Basic 吗？”的提问框架，作者鼓励投资者和创业者用案例分析和直觉评估，辨别潜在的“微软”级增长。文章既是对创业思维的启发，也是对评估方法的实操指南，值得任何想把小点子变成大事业的人反复阅读。",
-    "best_quote_en": "What Microsoft is this the Altair Basic of?",
-    "best_quote_zh": "这家公司是微软的 Altair Basic 吗？"
-  },
-  {
-    "id": 184,
-    "title": "Essentials: Science of Building Strong Social Bonds with Family, Friends & Romantic Partners",
-    "title_zh": "必备：与家人、朋友和恋人建立稳固社交纽带的科学",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-science-building-strong-social-bonds-family-friends-romantic-partners",
-    "tags": [
-      "analyze",
-      "psychology",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "心理学",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-20",
-    "summary_en": "The episode dissects the neurobiological circuitry that governs our yearning for connection—what Huberman terms \"social homeostasis\"—and maps how oxytocin, dopamine, and other neuromodulators orchestrate the ebb and flow of bonding across the lifespan. By framing loneliness as a deficit in the brain’s social appetite, the discussion reframes the familiar feeling of isolation as a measurable, physiological signal that can be modulated through intentional social design. The talk moves beyond abstract theory, offering concrete tools—shared experiences, emotional and cognitive empathy, and even an awareness of introvert‑extrovert dynamics—to deepen intimacy. What is striking is the episode’s synthesis of cutting‑edge research with actionable advice, positioning the science of attachment as a practical manual for improving family, friendship, and romantic relationships. The critical takeaway is that social bonds are not merely emotional niceties; they are neurochemical imperatives that shape stress, health, and longevity, making the science of connection a public‑health priority as much as a personal one.",
-    "summary_zh": "Huberman 将社交需求视为大脑的“社交稳态”，阐释孤独是神经信号缺失，进而提供共体验、情感共情等可操作工具，强调人际纽带既是情感，也是神经化学需求，关乎健康与长寿。",
-    "best_quote_en": "Our drive for a certain amount of social interaction—social homeostasis—explains why we feel lonely, seek connection and navigate social hierarchies.",
-    "best_quote_zh": "我们对一定程度社交互动的需求——社交稳态——解释了为何我们感到孤独、渴求连接并在社会层级中导航。"
-  },
-  {
     "id": 185,
     "title": "The Tim Ferriss Show Transcripts: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More (#835)",
     "title_zh": "The Tim Ferriss Show Transcripts: Ben Patrick (KneesOverToesGuy) — 20分钟锻炼产生惊人效果，从慢性膝痛到篮球扣篮，查尔斯·波利金的教训，下肢防护等（#835）",
@@ -2392,5 +2274,123 @@
     "summary_zh": "文章先说明电影院与流媒体的竞争，随后介绍Screen X通过延伸视野吸引观众。作者指出AI可从主画面生成侧墙投影，降低成本，但观众的感知适应会让侧墙内容在电影结束时显得分散与烦人。文章对技术与体验的平衡评估，探讨Screen X是否能重新点燃观众到院线的兴趣。",
     "best_quote_en": "The dominant audience reaction is that while all this can be riveting for a couple of seconds, by the end of the movie, it tends to be distracting and somewhat annoying.",
     "best_quote_zh": "观众的主要反应是，虽然这在短暂的几秒钟内可能非常吸引人，但到电影结束时，它往往会变得分散且有点烦人。"
+  },
+  {
+    "id": 280,
+    "title": "Do Things that Don't Scale",
+    "title_zh": "做那些无法扩展的事",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ds.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "案例研究"
+    ],
+    "date": "2025-12-15",
+    "summary_en": "Y Combinator’s famous mantra, \"Do Things that Don’t Scale,\" is a practical playbook for fledgling founders who often assume growth will arrive on its own. The essay dismantles the myth that a great product automatically attracts users, instead arguing that the real engine of early traction is relentless, manual outreach—recruiting users one by one, delighting them personally, and iterating from that intimate feedback. Case studies of Stripe, Airbnb, and Facebook illustrate how founders who took the time to hand‑install the first customers and obsess over their experience built momentum that later scaled. The author also warns against over‑reliance on big launches or partnerships, highlighting that the most successful startups were built on hard work, curiosity, and an acute sense of early customer needs. The piece is both a strategic guide and a reminder that the most valuable early actions are often the most unscalable ones.",
+    "summary_zh": "YC 的口号“做那些无法扩展的事”揭示了初创公司成长的真相：不是产品天生就会吸粉，而是需要手工招募、亲自服务、快速迭代。作者以 Stripe、Airbnb、Facebook 等案例说明，初期手动获取用户、提供极致体验能产生连锁反应，随后才实现规模化。文章警示大规模发布与合作往往无效，真正的动力来自勤奋、好奇与对早期客户需求的敏锐把握，提醒创始人最有价值的行动往往是最不易扩展的。",
+    "best_quote_en": "You have to do sales yourself initially.",
+    "best_quote_zh": "你必须在最初阶段自己做销售。"
+  },
+  {
+    "id": 281,
+    "title": "When bits of optimization imply bits of modeling: the Touchette-Lloyd theorem",
+    "title_zh": "当优化的比特暗示建模的比特：Touchette‑Lloyd 定理",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/6aqPCfp3wCk6CKW5J/when-bits-of-optimization-imply-bits-of-modeling-the",
+    "tags": [
+      "learn",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-15",
+    "summary_en": "The Touchette‑Lloyd theorem formalises a subtle but powerful intuition about intelligent control: any gain in entropy reduction beyond what a blind, observation‑free controller can achieve must be paid for by acquiring mutual information about the world. By modelling the environment as a random variable X that evolves to Y under an action A, the theorem bounds the extra entropy reduction ΔH by the mutual information I(X;A). This bridges two pillars of agent theory—entropy minimisation and world‑modeling—showing that optimisation is not a free lunch: it demands information. The post unpacks the theorem pedagogically, contrasts blind and sighted policies with Bayes‑net illustrations, and walks through concrete 5‑bit string examples that make the bound tangible. It also clarifies the limits: mutual information alone does not guarantee better performance if the dynamics are insensitive to the action. For researchers in control theory, AI, and cognitive science, the result offers a quantitative selection principle that can guide the design of adaptive controllers and illuminate the information‑theoretic underpinnings of learning.",
+    "summary_zh": "Touchette‑Lloyd 定理揭示，任何超越盲目控制的熵降低都必须以获取对环境的互信息为代价。通过把环境建模为随机变量 X 与 Y 的演化，定理把额外熵降低量 ΔH 与 I(X;A) 关联，说明优化并非无代价。文章用 Bayes‑网对比盲目与有观察的策略，并通过 5 位字符串实验直观演示定理，讨论互信息不足时性能受限的情形，为控制理论与人工智能研究提供了量化的选择原则。",
+    "best_quote_en": "If a policy achieves an entropy reduction greater than any blind policy could, then the size of that additional entropy reduction is bounded by the mutual information the policy has with the environment.",
+    "best_quote_zh": "若一个策略实现的熵降低超过任何盲策略所能实现的，额外的熵降低量被该策略与环境之间的互信息所限制。"
+  },
+  {
+    "id": 282,
+    "title": "In the Wake of Australia’s Hanukkah Beach Massacre",
+    "title_zh": "澳大利亚哈努卡海滩大屠杀的余波",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/in-the-wake-of-australias-hanukkah-beach-massacre",
+    "tags": [
+      "analyze",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-12-15",
+    "summary_en": "The interview with Michael Visontay offers a sobering lens on how a single act of anti‑Jewish violence—Bondi Beach’s 2025 massacre—has amplified pre‑existing tensions in Australia’s Jewish community. Visontay traces the community’s Holocaust‑survivor roots, noting how that legacy fuels heightened vigilance against antisemitism. He explains that the October 7 Hamas attacks triggered a surge in anti‑Israeli sentiment, leading to public marches, incendiary language, and even state‑sponsored terror allegations. The piece argues that criticism of Israel is often weaponised, conflating Zionism with anti‑Jewish bias, which blurs legitimate debate from hate. Visontay also critiques the Australian government’s response, suggesting that balancing support for Palestinians with protecting Jews has been uneven, creating a perception of insufficient protection. The article blends expert insight with concrete case studies, underscoring the fragility of minority safety in a polarized climate and the urgent need for nuanced, evidence‑based policy.",
+    "summary_zh": "采访揭示澳洲哈努卡海滩屠杀后，犹太社群因历史创伤与当前冲突而陷入恐惧。受二战幸存者遗传的警觉与对以色列的批评被武器化，导致犹太人被误认为敌人。政府在支持巴勒斯坦与保障犹太人安全之间的平衡被质疑，缺乏强有力的保护措施。文章以专家视角结合案例，警示在极化环境中少数群体的脆弱性，并呼吁以数据驱动的细致政策。",
+    "best_quote_en": "It’s become almost impossible to separate the arguments of legitimate criticism from the toxic messaging.",
+    "best_quote_zh": "几乎不可能把合法批评与有毒信息区分开来。"
+  },
+  {
+    "id": 283,
+    "title": "MyTaxReceipt / Digital passport / 2025 photo dump",
+    "title_zh": "MyTaxReceipt / 数字护照 / 2025 照片合集",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/mytaxreceipt-digital-passport-2025-photo-dump/",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-14",
+    "summary_en": "The post stitches together a mosaic of contemporary digital conveniences and cultural snapshots, offering readers a practical toolkit and a reflective lens. It opens with MyTaxReceipt, a web app that demystifies federal spending by turning raw tax data into a personalized receipt—an eye‑opening illustration of fiscal transparency that invites civic engagement. The next section shows how Apple’s Wallet can host a digital U.S. passport, streamlining TSA clearance while still respecting the need for a physical passport abroad. A brief tour of TIME’s and BBC’s 2025 photo archives juxtaposes human‑scale crises with awe‑inspiring space imagery, reminding us that our cultural narrative and cosmic perspective are inseparable. The author then pivots to K‑drama recommendations, framing them as a cultural bridge for newcomers. Practical tips for Gmail purchase labels and a creative craft‑paper hack round out the piece, emphasizing productivity and DIY ingenuity. Together, the article blends actionable guidance with thought‑provoking content, encouraging readers to engage with both the mechanics of daily life and the broader narratives that shape it.",
+    "summary_zh": "本文将税务透明、数字护照、年度影像、韩剧推荐、邮件管理与创意工艺巧妙交织，既提供实用操作指南，又唤醒对社会与宇宙双重视角的思考，激发读者主动参与并重新审视日常与宏观故事的关系。",
+    "best_quote_en": "It’s eye‑opening to see actual dollar amounts.",
+    "best_quote_zh": "看到实际的美元数额令人耳目一新。"
+  },
+  {
+    "id": 284,
+    "title": "Male vs. Female Brain Differences & How They Arise From Genes & Hormones | Dr. Nirao Shah",
+    "title_zh": "男性与女性大脑差异及其由基因与激素产生的机制 | Dr. Nirao Shah",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/male-vs-female-brain-differences-how-they-arise-from-genes-hormones-dr-nirao-shah",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-07-28",
+    "summary_en": "Dr. Nirao Shah’s interview delves into the biological underpinnings of sex differences in the brain, weaving genetics, hormone dynamics, and developmental timing into a cohesive narrative. He explains how the SRY gene and androgen exposure sculpt male neural architecture, while estrogen shapes female circuits, and how these processes unfold from fetal stages through puberty, menstrual cycles, menopause, and aging. The discussion extends to the implications for behavior, cognition, and health, highlighting the nuanced interplay between biology and gender identity. Importantly, Shah critiques the oversimplification of nature versus nurture, advocating for a data‑driven, interdisciplinary perspective that incorporates endocrinology, neurobiology, and social science. The conversation underscores the relevance of hormone therapies on brain circuits governing mating, parenting, and bonding, offering actionable insights for clinicians and researchers alike. Ultimately, the episode challenges listeners to rethink gendered biology as a spectrum shaped by both genetic programming and hormonal modulation, inviting deeper inquiry into personalized medicine and gender‑affirming care.",
+    "summary_zh": "在这期访谈中，Nirao博士系统阐释了基因与激素如何在胎儿期至老年期塑造男女大脑差异。他指出SRY基因与雄激素决定男性神经结构，雌激素则影响女性回路，并强调自然与养育并非对立，而是交织共生。对行为、认知及健康的影响被细致剖析，尤其是激素治疗对交配、育儿与社会纽带的脑回路作用，为临床与科研提供了可操作的见解。该讨论促使我们重新审视性别生物学的光谱，凸显个体化医学与性别肯定治疗的前景。",
+    "best_quote_en": "Hormones, Nature vs Nurture",
+    "best_quote_zh": "激素、自然与养育"
   }
 ]
