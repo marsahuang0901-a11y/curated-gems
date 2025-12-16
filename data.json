@@ -1,123 +1,5 @@
 [
   {
-    "id": 185,
-    "title": "The Tim Ferriss Show Transcripts: Ben Patrick (KneesOverToesGuy) — 20-Minute Workouts That Produce Wild Results, From Chronic Knee Pain to Dunking Basketballs, Lessons from Charles Poliquin, Bulletproofing the Lower Body, and More (#835)",
-    "title_zh": "The Tim Ferriss Show Transcripts: Ben Patrick (KneesOverToesGuy) — 20分钟锻炼产生惊人效果，从慢性膝痛到篮球扣篮，查尔斯·波利金的教训，下肢防护等（#835）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/11/13/ben-patrick-kneesovertoesguy-transcript/",
-    "tags": [
-      "solve",
-      "education",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-13",
-    "summary_en": "Ben Patrick, known as KneesOverToesGuy, shares a revolutionary approach to knee rehabilitation that flips conventional wisdom on its head. By embracing full‑range squats and backward sled pulls, he moved from chronic knee pain to a 42‑inch vertical jump and even dunking basketballs. The interview delves into the science behind “knees over toes,” the influence of Charles Poliquin’s “Poliquinism,” and the importance of mobility‑strength synergy. Practical, data‑driven exercises—like the tibialis bar and split squat—are broken down step‑by‑step, offering beginners and seasoned athletes alike actionable guidance. Beyond the workouts, Patrick discusses the entrepreneurial side of fitness: creating American‑made equipment, building a community, and maintaining integrity in a world of quick fixes. The conversation is a blend of evidence‑based training, personal narrative, and business insight, making it a must‑listen for anyone looking to improve joint health, performance, or the way they approach fitness education.",
-    "summary_zh": "本次访谈聚焦Ben Patrick的膝盖康复方法，突破传统理念。通过全程深蹲和倒拉雪橇，他从慢性膝痛走向42英寸垂直跳，甚至扣篮。讨论了“膝盖过脚趾”的科学、Charles Poliquin的“Poliquinism”，以及灵活性与力量的协同。实用数据驱动的练习，如胫骨杆和分腿深蹲，逐步拆解，适合初学者和资深运动员。除此之外，还谈及健身创业、美国制造设备与诚信经营。内容兼具证据、个人故事与商业洞察，是提升关节健康、表现与健身教育的宝贵资源。",
-    "best_quote_en": "I’m just looking to get people to lift their knees over toes.",
-    "best_quote_zh": "我只是想让人们把膝盖抬过脚趾。"
-  },
-  {
-    "id": 186,
-    "title": "Aphantasia Is Not Just One Thing",
-    "title_zh": "无形症并非单一现象",
-    "source": "Psychology Tomorrow (Bence Nanay Ph.D.)",
-    "link": "https://www.psychologytoday.com/us/blog/psychology-tomorrow/202511/aphantasia-is-not-just-one-thing",
-    "tags": [
-      "analyze",
-      "design",
-      "medicine"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "医学健康"
-    ],
-    "date": "2025-11-05",
-    "summary_en": "...",
-    "summary_zh": "",
-    "best_quote_en": "",
-    "best_quote_zh": ""
-  },
-  {
-    "id": 187,
-    "title": "For Trump, “Fostering the Future” Looks a Lot Like the Past",
-    "title_zh": "对特朗普而言，“培育未来”与过去极为相似",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/for-trump-fostering-the-future-looks-a-lot-like-the-past",
-    "tags": [
-      "analyze",
-      "politics",
-      "legal",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "法律法规",
-      "数据驱动"
-    ],
-    "date": "2025-11-23",
-    "summary_en": "The article dissects President Trump’s “Fostering the Future” executive order, revealing that its stated goal of expanding opportunities for foster‑care youth masks a regressive return to faith‑based exemptions that undermine LGBTQ+ civil rights. By privileging religious organizations’ right to refuse LGBTQ+ affirming placements, the order perpetuates a legacy of discrimination that has plagued the U.S. child‑welfare system for decades. The piece juxtaposes this policy with historical episodes—Catholic orphanages, religious matching in New York, and the 1970s Black‑child placement crisis—to illustrate how religious doctrine has repeatedly overridden statutory protections. It also contrasts Trump’s stance with Biden’s reversal of non‑discrimination waivers, underscoring the political tug‑of‑war over foster‑care governance. The analysis highlights the real‑world impact: LGBTQ+ youth are over‑represented in foster care, face higher rates of abuse, and are denied essential support when they age out. The article calls for a critical re‑evaluation of faith‑based influence in public welfare and urges policymakers to prioritize inclusive, evidence‑based safeguards for vulnerable children.",
-    "summary_zh": "文章剖析特朗普“培育未来”行政令，揭示其表面上为青少年提供机会，却通过宗教豁免削弱 LGBTQ+ 权益，延续多年代的歧视。将历史与政策对比，提醒宗教组织的影响力可能凌驾于法定保护之上。",
-    "best_quote_en": "The executive order will protect the right of these organizations to receive federal funding, even if they work with foster parents who discriminate against queer and trans youth.",
-    "best_quote_zh": "行政令将保护这些组织在接受联邦资助时的权利，即使他们与对 LGBTQ+ 青少年持歧视态度的寄养父母合作。"
-  },
-  {
-    "id": 188,
-    "title": "Feeling Through Art / Revealing read / Airport rides",
-    "title_zh": "感受艺术 / 揭示阅读 / 机场接送",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/feeling-through-art-revealing-read-airport-rides/",
-    "tags": [
-      "guide",
-      "science",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2025-11-23",
-    "summary_en": "This eclectic roundup showcases practical wisdom and cultural insight across diverse domains. The airport‑ride review highlights a seamless, price‑transparent solution that turns a potentially stressful arrival into a calm transition, underscoring how small logistical details can profoundly affect traveler wellbeing. The animated film on somatic regulation blends art with therapy, offering quick, body‑centered techniques that anyone can use to reclaim calm in overstimulated environments—an elegant reminder that creativity can be a therapeutic tool. The bestseller “I Deliver Parcels in Beijing” provides an unvarnished portrait of China’s gig economy, revealing the resilience of workers amid precarious conditions and prompting reflection on global labor inequities. A world map of influential ideas invites exploration of intellectual heritage, while the personal endorsement of the iPhone 17 Pro illustrates how evolving camera technology democratizes professional photography. Finally, the open‑source file converter Vert exemplifies privacy‑first design in a landscape cluttered with ad‑laden tools. Together, these pieces weave a narrative about everyday solutions, human resilience, and the power of accessible technology.",
-    "summary_zh": "本合集涵盖机场接送的便捷方案、艺术疗愈的自我调节技巧、揭示中国零工经济的真实写照、世界创意地图、iPhone 17 Pro 的摄影优势与 Vert 文件转换器的隐私设计，呈现日常解决方案与人性韧性。",
-    "best_quote_en": "These self‑soothing techniques can be used when engaging with any creative medium or media, helping you to find calm and rootedness even in the busiest, most stressful environments.",
-    "best_quote_zh": "我不知有别的书能像这本书一样，揭示中国从远处看去的“真实”纹理。"
-  },
-  {
-    "id": 189,
-    "title": "E Pur Si Muove",
-    "title_zh": "它仍在运动",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/e-pur-si-muove",
-    "tags": [
-      "solve",
-      "tech-trends",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "技术趋势",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2017-12-14",
-    "summary_en": "In “E Pur Si Muove,” the author uses the Italian phrase “and yet it moves” as a rallying cry to confront the growing suppression of dissent in Silicon Valley. He observes that the Bay Area’s culture has become so risk‑averse that even near‑consensus ideas are treated with suspicion, a trend he contrasts with the comparatively freer debate he experienced in Beijing. The article argues that restricting speech ultimately throttles the very ideas that drive technological breakthroughs, citing historical examples from Newton’s alchemy to modern biotech innovators who have left the region due to hostile reactions. By framing controversy as a necessary ingredient for progress, the author urges entrepreneurs to maintain an open forum where even “wacky” hypotheses can be debated, lest the next paradigm shift be stifled. The piece is a cautionary yet inspiring call to preserve the dialectic that fuels innovation, reminding readers that true breakthroughs often emerge from ideas once dismissed as heretical.",
-    "summary_zh": "在这篇文章中，作者以“E Pur Si Muove”为题，探讨了硅谷对异议的压制如何扼杀创新。作者指出，言论自由与技术突破密切相关，若将异议贴上“异端”标签，创意就会被抑制。通过对比北京与旧金山的文化差异，他提醒创业者在追求突破时，必须保持开放心态，敢于讨论甚至是被视为“荒诞”的想法。文章既警示又鼓舞，呼吁在技术与社会的交叉点上，保持对话与辩论，才能真正推动人类进步。",
-    "best_quote_en": "Restricting speech leads to restricting ideas and therefore restricted innovation—the most successful societies have generally been the most open ones.",
-    "best_quote_zh": "限制言论导致限制思想，进而限制创新——最成功的社会往往是最开放的。"
-  },
-  {
     "id": 190,
     "title": "Essentials: Effects of Fasting & Time Restricted Eating on Fat Loss & Health",
     "title_zh": "要点：禁食与限时进食对减脂与健康的影响",
@@ -2392,5 +2274,125 @@
     "summary_zh": "在这期访谈中，Nirao博士系统阐释了基因与激素如何在胎儿期至老年期塑造男女大脑差异。他指出SRY基因与雄激素决定男性神经结构，雌激素则影响女性回路，并强调自然与养育并非对立，而是交织共生。对行为、认知及健康的影响被细致剖析，尤其是激素治疗对交配、育儿与社会纽带的脑回路作用，为临床与科研提供了可操作的见解。该讨论促使我们重新审视性别生物学的光谱，凸显个体化医学与性别肯定治疗的前景。",
     "best_quote_en": "Hormones, Nature vs Nurture",
     "best_quote_zh": "激素、自然与养育"
+  },
+  {
+    "id": 285,
+    "title": "Startup Investing Trends",
+    "title_zh": "Startup Investing Trends",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/invtrend.html",
+    "tags": [
+      "guide",
+      "startup-funding",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业融资",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-12-16",
+    "summary_en": "Drawing on Y Combinator’s latest cohort data, the piece argues that two forces—cheaper startup creation and a growing startup culture—will reshape venture capital. The author projects that founders will hold more equity and control, which paradoxically could boost returns for sharp investors because more high‑quality companies will emerge. He warns that Series A rounds are drifting toward higher valuations and dilution, a misalignment that can hurt both founders and VCs. The key insight is that founders’ pain points—slow decision‑making and excessive dilution—signal untapped investment opportunities. By acting quickly and offering terms that match a startup’s real needs, early‑stage investors can capture the next wave of “big hits.” The essay blends data, trend analysis, and practical advice, urging VCs to adapt models and to view founders as customers whose unmet demands point to profitable niches.",
+    "summary_zh": "文章从 Y Combinator 的投资数据出发，探讨创业成本降低与创业数量激增的双重驱动，预测未来 VC 业务将向更早期、快速决策的模式转变。作者强调，创始人是投资者的客户，关注创始人痛点可发现高价值机会，提醒 VCs 在 Series A 阶段保持灵活，避免过度稀释。",
+    "best_quote_en": "Founders are your customers, and the things they complain about are unsatisfied demand.",
+    "best_quote_zh": "创始人是你的客户，他们抱怨的事就是未满足的需求。"
+  },
+  {
+    "id": 286,
+    "title": "Why do LLMs so often say \"It's not a X, it's an X\"?",
+    "title_zh": "为什么LLM常说“这不是X，而是X”？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/RzPXywNbsRCss3Swy/why-do-llms-so-often-say-it-s-not-a-x-it-s-an-x",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-16",
+    "summary_en": "The brief exchange probes a surprisingly common linguistic pattern in large‑language‑model (LLM) outputs: “It’s not a X, it’s an X.”  The answer attributes this phrasing to human mimicry—LLMs echo the way people clarify distinctions to avoid conflating two concepts.  This insight underscores the role of training data: conversational corpora are replete with such qualifiers, and the model learns to reproduce them as a default strategy for disambiguation.  Beyond a surface quirk, the pattern reveals how LLMs operationalize contextual clarity, essentially re‑encoding a human communicative habit.  For practitioners, it hints that prompt phrasing can influence the model’s propensity to surface these qualifiers, offering a lever for steering output style.  Academically, it invites further study into how LLMs internalize and generalize pragmatic markers, informing both interpretability research and the design of more naturalistic dialogue systems.",
+    "summary_zh": "这段简短对话揭示了LLM输出中常见的“不是X，而是X”模式，归因于对人类澄清区别的模仿。它说明训练语料中此类限定词丰富，模型将其视为默认的消歧策略。对开发者而言，提示设计可调节此倾向；对学术界，它提示LLM如何内化语用标记，值得进一步研究。",
+    "best_quote_en": "It’s not an LLM thing; it’s a thing one does to make distinctions clear, when the other person might otherwise conflate two distinct entities, clusters, or topics.",
+    "best_quote_zh": "这不是LLM的特性，而是人们为了清晰地区分两者，避免混淆不同实体、群体或主题而采取的做法。"
+  },
+  {
+    "id": 287,
+    "title": "Want to Talk to Zohran Mamdani? Get in Line",
+    "title_zh": "想与佐兰·马姆达尼交谈？排队等候",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/want-to-talk-to-zohran-mamdani-get-in-line",
+    "tags": [
+      "guide",
+      "leadership",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "领导管理",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-12-15",
+    "summary_en": "The article chronicles Mayor‑elect Zohran Mam Mandi’s ambitious “The Mayor Is Listening” event, a 12‑hour, one‑on‑one public engagement staged at the Museum of the Moving Image.  It reads like a performance‑art manifesto, echoing Marina Abramović’s silent presence while simultaneously showcasing the performative demands of modern politics.  Mam Mandi’s choice of venue, the tight three‑minute windows, and the curated mix of activists, community leaders, and ordinary New Yorkers reveal a strategic attempt to blur the line between campaign theatrics and genuine governance.  The piece offers a rich case study of how a candidate translates political messaging into tangible, time‑boxed encounters, and it probes the limits of such a format—self‑selection bias, time pressure, and the emotional toll on both public and the mayor.  It invites readers to question whether performance can be a viable tool for policy communication and what it means for accountability when the mayor is literally “in the room” with constituents.",
+    "summary_zh": "文章记录了市长候选人佐兰·马姆达尼在“市长在倾听”活动中的表现艺术与政治交织，揭示了短时公共对话的实验与挑战。",
+    "best_quote_en": "It cannot be that the only New Yorker you see is the reflection of yourself in the tinted window of that car.",
+    "best_quote_zh": "他不能只看到那辆车的遮光窗里自己的倒影，成为唯一的纽约人。"
+  },
+  {
+    "id": 288,
+    "title": "Anatomy",
+    "title_zh": "解剖",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/anatomy/",
+    "tags": [
+      "guide",
+      "science",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-12-15",
+    "summary_en": "The article is a curated tour of anatomy resources that balances scholarly depth with practical accessibility. It opens with a reverent nod to Frank Netter’s Atlas, lauding its artistic precision yet noting its lack of explanatory text—an observation that underscores the perennial tension between visual mastery and didactic clarity. The piece then pivots to Tom Myers’ Anatomy Trains, a bold attempt to reconceptualize musculoskeletal anatomy through the lens of myofascial meridians. Myers’ work exemplifies interdisciplinary synthesis, drawing from Feldenkrais, Rolf, and Buckminster Fuller to weave a structural network that parallels circulatory and nervous systems. The author’s critique of the book’s intimidating title highlights a broader challenge: how to make cutting‑edge science approachable without diluting rigor. Finally, the article showcases tactile learning tools—body replicas and skeleton models—that transform abstract anatomy into embodied experience. Together, these elements illuminate how visual, textual, and kinesthetic modalities can converge to deepen both professional practice and personal curiosity.",
+    "summary_zh": "文章以精美的解剖资源为线索，既赞扬弗兰克·内特的图谱，又批评其缺乏说明；随后探讨汤姆·迈尔斯的筋膜经络理论，展示跨学科融合的力量。作者对书名的批评提醒我们，如何在严谨与易懂之间取得平衡。最后，实物模型让抽象解剖变得触手可及，凸显视觉、文字与动感三位一体的学习价值。",
+    "best_quote_en": "Humans are not assembled out of parts like a car or a computer.",
+    "best_quote_zh": "人类不是像汽车或电脑一样由零件组装而成。‘身体是机器’是一种有用的隐喻，但像任何诗意的修辞一样，它并不能说明全部的故事。"
+  },
+  {
+    "id": 289,
+    "title": "Extreme Weather Can Increase Social Media Use",
+    "title_zh": "极端天气可增加社交媒体使用",
+    "source": "Ulterior Motives (Art Markman Ph.D.)",
+    "link": "https://www.psychologytoday.com/us/blog/ulterior-motives/202503/extreme-weather-can-increase-social-media-use",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-03-19",
+    "summary_en": "The article uncovers a striking 35‑percent spike in Facebook and X posts during extreme weather, especially cold, snowy or icy days, drawing on a 2025 Psychological Science study that mined over 3 billion posts from 300,000 users. Beyond weather‑related content, users also increased non‑weather posts, indicating a broader shift toward online engagement when outdoor activity is constrained. The researchers dissected posting patterns at a granular 4‑km block level, revealing that the effect surpasses even high‑profile events like the Boston Marathon or New Year’s Eve. The piece highlights the habitual pull of social media and urges mindful substitution with direct human interaction or offline hobbies. It offers data‑driven, actionable insights for psychologists, marketers, and everyday users seeking to understand and mitigate weather‑driven digital overuse.",
+    "summary_zh": "研究显示，极端天气可导致社交媒体使用量激增35%，并非仅限天气话题，用户在恶劣天气下更倾向于在线互动。文章揭示了这一现象的心理机制，并提醒人们在天气不佳时主动寻找离线社交或休闲方式，以减少对屏幕的依赖。",
+    "best_quote_en": "Social media use has become a fallback on days when it is more difficult to get outside and engage in other activities.",
+    "best_quote_zh": "社交媒体的使用已成为在恶劣天气下无法外出并参与其他活动的替代品。"
   }
 ]
