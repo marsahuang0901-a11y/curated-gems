@@ -1,123 +1,5 @@
 [
   {
-    "id": 193,
-    "title": "The Merge",
-    "title_zh": "合并",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/the-merge",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2017-12-07",
-    "summary_en": "The article presents a compelling, forward‑looking critique of the so‑called AI singularity, reframing it as a gradual, co‑evolutionary merge between humans and machine intelligence. By arguing that the algorithms shaping our lives are now opaque to any single individual, the author underscores the emergent autonomy of AI systems that optimize in ways beyond human comprehension. This perspective challenges the conventional narrative of a singular, inevitable “singularity” event and instead points to a continuous, invisible transformation that is already unfolding—phones dictating actions, social media dictating emotions, search engines shaping thought. The piece urges global coordination and sober reflection, warning that unchecked progress will lead to superhuman AI, genetic enhancement, and brain‑machine interfaces that redefine humanity’s trajectory. It blends caution with a call to collective responsibility, suggesting that the merge is not merely a technological inevitability but a shared ethical imperative. The argument is rooted in the exponential growth of computing power and the expanding cohort of AI researchers, making the timeline for this convergence far sooner than many anticipate.",
-    "summary_zh": "作者以批判视角重新定义AI“奇点”，将其视为人机共进的渐进融合，强调算法已超出单人理解，正悄无声息地重塑我们的行为与思维。",
-    "best_quote_en": "The algorithms that make all this happen are no longer understood by any one person. They optimize for what their creators tell them to optimize for, but in ways that no human could figure out— they are what today seems like sophisticated AI, and tomorrow will seem like child’s play.",
-    "best_quote_zh": "这些让一切运转的算法已经不再被任何个人所理解。它们按照创造者告诉它们的目标进行优化，但以人类无法推断的方式——今天它们看起来像是复杂的AI，明天可能会显得像孩子的游戏。"
-  },
-  {
-    "id": 194,
-    "title": "Social Interaction Affects Memory",
-    "title_zh": "社交互动影响记忆",
-    "source": "Ulterior Motives (Art Markman Ph.D.)",
-    "link": "https://www.psychologytoday.com/us/blog/ulterior-motives/202509/social-interaction-affects-memory",
-    "tags": [
-      "guide",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-08",
-    "summary_en": "Recent experimental work by Sun et al. (2025) demonstrates that our memory is tuned to social context: dyads that face each other and display a positive affect are encoded more robustly than those facing away or expressing negative emotion. The authors argue that this bias reflects an adaptive heuristic: remembering socially engaged pairs increases the likelihood of encountering them again in a useful setting, thereby reducing future cognitive effort. The study’s design—simple perceptual tasks followed by surprise memory tests—clearly isolates social orientation as the variable of interest, while control trials with inanimate objects confirm that the effect is specific to social stimuli. Importantly, the findings challenge the notion that memory is a passive repository; instead, it actively prioritizes information that is expected to be useful. For researchers, this underscores the importance of incorporating social variables into memory paradigms, and for practitioners, it suggests that fostering positive social cues could enhance learning and recall in educational or workplace contexts.",
-    "summary_zh": "研究显示，面对面、情绪积极的社交对偶更易被记忆，说明记忆偏向于预见未来有价值的社交情境。实验设计严谨，控制非社交刺激，证实此效应特异性。此发现提醒我们，记忆并非被动存储，而是主动筛选可能降低未来认知负荷的信息。对科研者提示需在记忆研究中加入社交变量；对实践者则意味着通过营造积极社交氛围，可提升学习与工作记忆效果。",
-    "best_quote_en": "Memory is not just a mechanism for storing all of the information you encounter. Instead, it helps you to hold onto information that is likely to be useful for reducing effort in the future.",
-    "best_quote_zh": "记忆不仅仅是存储你遇到的所有信息的机制，而是帮助你保留那些可能在未来减少努力的有用信息。"
-  },
-  {
-    "id": 195,
-    "title": "I got an epidural for all three of my births – none of them worked as expected",
-    "title_zh": "我三次分娩都做了硬膜外麻醉——结果都不如预期",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/wellness/2025/nov/25/what-to-know-about-epidural",
-    "tags": [
-      "analyze",
-      "medicine",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-25",
-    "summary_en": "The article reframes epidural analgesia from a myth‑laden “quick fix” into a nuanced, patient‑specific practice that demands both preparation and open communication. By weaving personal anecdotes with expert testimony, it exposes the fallacy that timing or “waiting” guarantees success, while highlighting real variables—anatomical differences, medication metabolism, catheter placement, and institutional protocols—that shape outcomes. The author’s candid recount of three failed attempts demystifies the notion of a universal, painless birth and invites expectant parents to engage in informed dialogue with their care team. The piece also underscores the importance of customizing drug formulations for allergies or genetic traits (e.g., red‑haired patients) and of adjusting dosages as labor progresses. Overall, the narrative offers a pragmatic guide that empowers readers to anticipate complications, advocate for themselves, and navigate the labyrinth of obstetric anesthesia with confidence. Its critical lens invites both patients and providers to re‑evaluate entrenched assumptions, fostering a more collaborative and evidence‑based approach to childbirth pain management.",
-    "summary_zh": "文章把硬膜外麻醉从被误解的“速效止痛”转变为需要充分准备与沟通的个体化实践。作者用亲身经历与专家访谈揭示了时间、解剖差异、药物代谢、导管位置等多重因素，强调定制配方和剂量调整的重要性。内容不仅帮助准妈妈预判麻醉风险，还促使医护双方重新审视传统观念，推动更合作、更循证的分娩疼痛管理。",
-    "best_quote_en": "Epidurals are complex; it’s not like when you order something from a vending machine, it falls down and that’s what you get.",
-    "best_quote_zh": "硬膜外麻醉很复杂；它不像从自动售货机点东西，直接就能得到那样。"
-  },
-  {
-    "id": 196,
-    "title": "Snippets on Living In Reality",
-    "title_zh": "现实生活片段",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/4TwtqcaifcJpi3Xfd/snippets-on-living-in-reality",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-26",
-    "summary_en": "The essay weaves a philosophical tapestry that juxtaposes social reality with a fictional universe—Harry Potter—to illuminate how our collective narratives shape perception. It argues that social reality is a mutable, text‑centric world that aligns with physical reality by default but diverges when cultural pressure demands coherence. The author extends this analogy to LLMs, VR, AR, and conspiracy theories, suggesting that any constructed world—whether a language model’s output or a virtual environment—remains fictional until anchored by a feedback loop with the physical world. The piece invites readers to question the boundaries between “real” and “fictional” thinking, proposing that a disciplined tracking of the world in which a mental model lives could foster more robust, reality‑aligned cognition. Its critical insight lies in framing AI’s creative drift as a philosophical mirror of human social construction, urging a reevaluation of how we define authenticity and agency in an era of algorithmic storytelling.",
-    "summary_zh": "作者以《哈利波特》为镜，阐释社会现实与物理现实的相互映射，指出人类叙事的可塑性与AI生成文本的虚构性。通过对LLM、VR、AR的比喻，提出缺乏与物理世界反馈的系统会不断偏离真实，呼吁我们追踪心智模型所在的世界，以提升真实思维的稳健性。",
-    "best_quote_en": "Like social reality and the Harry Potter universe, the worlds which LLMs write about are similar to ours by default wherever nothing in particular is pushing them to be different.",
-    "best_quote_zh": "如果我们改变所有关于哈利波特宇宙的记录…我们实际上改变了哈利波特宇宙。"
-  },
-  {
-    "id": 197,
-    "title": "The sights and sounds of Bhutan",
-    "title_zh": "不丹的景色与声音",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2025/11/bhutan.html",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "writing-content",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "写作内容",
-      "数据驱动"
-    ],
-    "date": "2025-11-25",
-    "summary_en": "This piece blends travelogue with socio‑political analysis, using Bhutan as a living laboratory for alternative governance and sustainability. The author’s narrative highlights the country’s unique monarchy, the Gross National Happiness metric, and its carbon‑negative status, juxtaposing these against global development models. By recounting personal encounters—from the king’s personal aid during Covid to the ban on TV and the strict wildlife protection laws—the article showcases how culture, policy, and environment intertwine. It invites readers to question conventional success metrics like GDP and to consider how small nations can balance tradition, tourism, and innovation. The piece is not merely descriptive; it serves as a case study that encourages critical reflection on governance, ecological stewardship, and the role of happiness in public policy, making it a valuable resource for scholars, policymakers, and curious travelers alike.",
-    "summary_zh": "不丹以其独特的国王治理、幸福指标和碳负排放，展示了传统与现代的和谐共生。作者通过亲身经历，剖析了其文化、旅游与创新的交织，提示读者思考可持续发展与社会福祉的深层关联。此文既是一次旅行日记，也是一份对国家治理与生态责任的深刻反思，值得在全球化背景下重新审视小国的战略选择。",
-    "best_quote_en": "Bhutan is the world’s one carbon‑negative country—their vast forests absorb more CO₂ than their populace emits.",
-    "best_quote_zh": "不丹是世界上唯一的负碳国家——他们的广阔森林吸收的二氧化碳超过了人们排放的量。"
-  },
-  {
     "id": 198,
     "title": "Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi",
     "title_zh": "女性激素健康、PCOS、子宫内膜异位症、受孕与乳腺癌 | Dr. Thaïs Aliabadi",
@@ -2392,5 +2274,123 @@
     "summary_zh": "这篇研究揭示猫咪睡姿的非随机偏向——左侧睡眠占据两三分之二。作者通过分析数千段YouTube视频，提出左侧睡眠可让猫右视野不受遮挡，右脑更敏锐地捕捉威胁。研究既说明了动物行为的深层神经机制，也展示了新型数据采集与公民科学的潜力。未来研究将进一步探讨性格、环境与视觉方向对这一偏好是否有影响，为猫咪认知与进化提供更完整的视角。",
     "best_quote_en": "Cats try to fall asleep in a way that minimizes the possibility of being attacked when they can't defend themselves.",
     "best_quote_zh": "猫试图以最小化在无法防御时被攻击的可能性的方式入睡。"
+  },
+  {
+    "id": 293,
+    "title": "‘Pretty birds and silly moos’: the women behind the Sex Discrimination Act",
+    "title_zh": "‘漂亮的鸟儿与傻瓜的哞声’：性别歧视法背后的女性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/dec/18/pretty-birds-and-silly-moos-the-women-behind-the-sex-discrimination-act",
+    "tags": [
+      "guide",
+      "politics",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "政治时事",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "The article unspools a half‑century of feminist militancy that culminated in the 1975 Sex Discrimination Act, spotlighting the oft‑forgotten Women in Media coalition and its daring tactics—from staging a faux‑women’s parliament to launching a women‑rights candidate in the 1974 election.  It foregrounds the tension between radical WLM demands and pragmatic parliamentary compromise, illustrating how persistence, data‑driven lobbying, and strategic media manipulation can translate social outrage into law.  The piece critiques the caricatured legacy of second‑wave feminism, arguing that the movement’s nuanced, intersectional struggles are eclipsed by simplistic “man‑hating” narratives.  It underscores that legal victories are only the first step; enforcement mechanisms, like the Equal Opportunities Commission, must evolve to close loopholes.  Ultimately, the narrative invites contemporary activists to learn from the coalition’s blend of grassroots pressure and political savvy, reminding us that systemic change requires both moral conviction and tactical ingenuity.",
+    "summary_zh": "文章回顾了二十世纪七十年代女性运动如何通过Women in Media等组织，运用媒体与政治手段推动《性别歧视法》通过。它批判了对第二波女权主义的刻板化解读，强调法律只是起点，真正的改变需要持续的执法与制度创新。",
+    "best_quote_en": "\"We were dealing with an enormous social injustice and an extremely resistant patriarchy or power structure that didn’t want to change. We really did set out to change our society and to make life better for our daughters but it’s a fight you have to keep winning.\"",
+    "best_quote_zh": "我们正在处理一个巨大的社会不公，极其顽固的父权或权力结构不想改变。我们确实设定了改变社会的目标，让我们的女儿生活更好，但这是一场你必须继续赢得的斗争。"
+  },
+  {
+    "id": 294,
+    "title": "How to Get Startup Ideas",
+    "title_zh": "如何获取创业点子",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/startupideas.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "The essay reframes startup ideation from a creative exercise into a disciplined observation of unmet needs, arguing that the best ideas arise when founders are immersed in the future of a rapidly evolving field and actively notice gaps in current solutions. It stresses that founders should focus on problems they personally experience, because that guarantees the problem exists, and then seek a niche where users urgently want a solution—often a narrow, deep market that can later expand. The author critiques the common “think up ideas” mindset, labeling such ideas as “sitcom” and warning that they rarely solve real problems. Instead, he proposes an organic method: become a future‑oriented, technically capable observer, and let the “missing” problems surface. He also offers pragmatic recipes for when one must generate ideas on demand, such as asking what one would pay for, leveraging personal pain points, and looking at dying industries. The piece blends personal anecdotes, YC experience, and a call to cultivate a mindset that turns curiosity into viable startups, emphasizing that preparation and observation trump quick hacks.",
+    "summary_zh": "作者把创业点子视为未来观察与实际痛点的产物，强调先关注自身真实问题，再寻找急需解决的细分市场。批判“想法即点子”做法，提倡成为未来导向、技术敏感的观察者，让缺口自然浮现。并给出在缺乏灵感时的实用技巧，如自问可付费需求、利用个人痛点、关注衰退行业。整体论点是：准备与观察胜过速成，真正的创业点子源自对未来的感知与对痛点的敏锐捕捉。",
+    "best_quote_en": "The best way to discover startup ideas is to become the sort of person who has them and then build whatever interests you.",
+    "best_quote_zh": "发现创业点子最好的方式是成为那种会有点子的人，然后去构建自己感兴趣的东西。"
+  },
+  {
+    "id": 295,
+    "title": "A basic case for donating to the Berkeley Genomics Project",
+    "title_zh": "A basic case for donating to the Berkeley Genomics Project",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/oi822i9n5yaebmnhM/a-basic-case-for-donating-to-the-berkeley-genomics-project",
+    "tags": [
+      "guide",
+      "society",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "指导",
+      "社会议题",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "The Berkeley Genomics Project (BGP) positions itself at the intersection of reproductive genetics and human intelligence amplification, arguing that accelerated reprogenetics can dramatically reduce disease risk and, more provocatively, serve as a bulwark against existential AI risk. The appeal is framed as both a scientific frontier and a philanthropic opportunity: a one‑year‑old field‑building team invites donations to fund summits, safety standards, and research. The narrative leans heavily on the “human‑intelligence‑amplification” hook, citing the project’s book *Methods for Strong Human Germline Engineering* and a promise to produce case studies and whitepapers. Critics might point to the team’s lack of biological expertise and regulatory hurdles, yet the piece counters by emphasizing the neglected nature of the technology and the potential societal benefit. For readers, the post is a call to action that blends urgent risk mitigation with long‑term human progress, prompting reflection on how charitable funding can accelerate high‑stakes science while navigating ethical and public‑perception challenges.",
+    "summary_zh": "伯克利基因组项目把再生遗传学与人类智力放大挂钩，声称加速该技术可显著降低疾病风险并抵御人工智能存在风险。作者强调团队虽小但已具一年实践经验，邀请捐赠支持峰会、标准制定与研究。文章在技术前景与伦理辩论之间游走，提醒读者慈善资金如何推动高风险科学，既是机会也是挑战。",
+    "best_quote_en": "Human intelligence amplification is a top way to decrease existential risk from AI.",
+    "best_quote_zh": "再生遗传学是减少人工智能存在风险的首要途径。"
+  },
+  {
+    "id": 296,
+    "title": "What’s in my NOW? — Kevin Kortum",
+    "title_zh": "我的现在里有什么？——Kevin Kortum",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/whats-in-my-now-kevin-kortum/",
+    "tags": [
+      "guide",
+      "lifestyle",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "生活方式",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "Kevin Kortum’s “What’s in my NOW?” reads like a curated inventory of the tools that anchor his creative and professional life. He pairs the tactile certainty of a Pilot Vanishing Point fountain pen and a DeLonghi espresso machine with the digital fluidity of Kinopio mind‑mapping and YNAB budgeting. The post is less about marketing gadgets and more about the rituals that keep a freelance consultant from feeling scattered in a hyper‑connected world. By highlighting both physical and invisible habits—coffee rituals, skin care, and a mantra of kindness—he offers a blueprint for balancing productivity with self‑care. The article is anecdotal but rich in actionable advice, inviting readers to experiment with their own “now” and to treat tools as extensions of intention rather than distractions.",
+    "summary_zh": "作者通过列举日常工具，展示了如何在数字化时代保持专注与创造力。无论是手写笔、咖啡机，还是Kinopio与YNAB，都是他组织思维与预算的关键。文章强调自我关怀与善意的重要性，提醒我们在忙碌中保持理智。",
+    "best_quote_en": "Be kind, stay sane.",
+    "best_quote_zh": "保持善良，保持理智。"
+  },
+  {
+    "id": 297,
+    "title": "The Tim Ferriss Show Transcripts: Bill Gurley (#840)",
+    "title_zh": "The Tim Ferriss Show Transcripts: Bill Gurley (#840)",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/12/17/bill-gurley-running-down-a-dream-transcript/",
+    "tags": [
+      "inspire",
+      "economics",
+      "legal",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "经济金融",
+      "法律法规",
+      "未来预测"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "Bill Gurley, a veteran VC at Benchmark, opens up about the AI‑era investment landscape, the inevitable bubble‑wealth dynamic, and the peril of SPVs that blur the line between angel and institutional capital. He critiques the regulatory capture of the US market, argues for a more open‑source approach to accelerate innovation, and warns that the tech ecosystem’s success hinges on “pure competition.” Beyond finance, Gurley shares his book‑building philosophy, urging listeners to become the most AI‑enabled version of themselves to safeguard careers. He contrasts the hyper‑competitive provincial races in China with Silicon Valley’s state‑level experiments, offering a cross‑cultural lens on talent, infrastructure, and policy. The episode blends hard‑edge market analysis with life‑lesson storytelling—Bob Dylan, Jerry Seinfeld, and MrBeast—to inspire entrepreneurs to pursue passion, learn relentlessly, and take calculated risks.",
+    "summary_zh": "比尔·古尔利在节目中剖析AI时代的投资泡沫与SPV的风险，批评美国监管捕捉，提倡开放源代码以加速创新，并强调纯竞争是成功关键。他结合中国省际竞争与硅谷州级实验，给出跨文化视角，鼓励创业者以热情学习、敢于冒险，打造最AI化的自己。",
+    "best_quote_en": "The best way to protect against any risk of your career being obfuscated or eliminated from AI is to be the most AI‑enabled version of yourself you can possibly be.",
+    "best_quote_zh": "保护自己免受 AI 让职业被模糊或消失的风险的最佳方式是成为你能成为的最 AI 化的自己。"
   }
 ]
