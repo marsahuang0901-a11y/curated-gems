@@ -1,119 +1,5 @@
 [
   {
-    "id": 198,
-    "title": "Female Hormone Health, PCOS, Endometriosis, Fertility & Breast Cancer | Dr. Thaïs Aliabadi",
-    "title_zh": "女性激素健康、PCOS、子宫内膜异位症、受孕与乳腺癌 | Dr. Thaïs Aliabadi",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/female-hormone-health-pcos-endometriosis-fertility-breast-cancer-thais-aliabadi",
-    "tags": [
-      "update",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-11-24",
-    "summary_en": "This episode brings a deep dive into the silent epidemics of PCOS and endometriosis that quietly sabotage fertility for millions of women worldwide. Dr. Thaïs Aliabadi, a board‑certified OB‑GYN and surgical pioneer, dissects the biology behind these disorders—insulin resistance, chronic inflammation, hormonal dysregulation—and lays out a step‑by‑step, evidence‑based roadmap for diagnosis and management. From AMH‑guided egg‑counting to the latest GLP‑1 therapies, the conversation is saturated with actionable tools that listeners can immediately implement. The host also expands the discussion to breast‑cancer risk, perimenopause, and the critical hormone panels every woman should request, framing them as part of a holistic empowerment strategy. By marrying clinical rigor with accessible language, the interview turns a complex medical landscape into a practical guide, urging women to take charge of their hormonal health and seek timely care. The episode’s value lies not just in knowledge transfer but in its capacity to shift mindset, turning passive listeners into proactive patients.\n",
-    "summary_zh": "在本期节目中，Dr. Thaïs Aliabadi 深入剖析 PCOS 与子宫内膜异位症这两大隐形“肥胖”，揭示其对女性生育的深远影响。她用循证医学阐明胰岛素抵抗、慢性炎症与激素失衡的内在联系，并提供 AMH 评估、GLP‑1 方案等可立即执行的诊疗工具。节目还扩展至乳腺癌风险、围绝经期与激素检测，形成一套全方位的自我管理蓝图。内容兼具专业深度与易懂性，鼓励女性主动掌控激素健康，及时就诊。",
-    "best_quote_en": "Early screening and a personalized approach can transform a woman’s reproductive trajectory.",
-    "best_quote_zh": "早期筛查和个性化方案可以改变女性的生殖轨迹。"
-  },
-  {
-    "id": 199,
-    "title": "The Ronco Principle",
-    "title_zh": "罗恩科原则",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ronco.html",
-    "tags": [
-      "analyze",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-11-27",
-    "summary_en": "Ron Conway’s story is a masterclass in how benevolence can be a strategic asset in venture capital. The article argues that the modern startup ecosystem’s transparency and rapid change make it impossible to feign kindness; genuine upstanding behavior is rewarded with referrals, trust, and ultimately higher returns. Conway’s success illustrates that the most profitable investors are also the most ethical, a trend that has emerged as the market has become more data‑rich and interconnected. The piece blends anecdote, data‑driven insight, and a forward‑looking perspective, encouraging founders and investors alike to prioritize integrity over short‑term gains. It challenges the myth that ruthless tactics win, showing instead that long‑term influence and network effects hinge on reputation. The analysis invites readers to rethink the role of character in startup funding, suggesting that ethical conduct is not a moral nicety but a competitive advantage that shapes the future of entrepreneurship.",
-    "summary_zh": "罗恩科原则揭示，善良已成为风险投资的战略资产。透明度与快速变革让人无法假装善良，真正的正直赢得信任、推荐和更高回报。文章以案例与数据论证，呼吁创投者把诚信视为竞争优势，重新定义创业生态的未来。",
-    "best_quote_en": "In a sufficiently connected and unpredictable world, you can't seem good without being good.",
-    "best_quote_zh": "在一个高度互联且不可预测的世界里，你无法假装善良而不是真正善良。"
-  },
-  {
-    "id": 200,
-    "title": "How to Simplify Your Life in 2026 — New Tips from Derek Sivers, Seth Godin, and Martha Beck (#837)",
-    "title_zh": "2026年简化生活的秘诀——来自德里克·西弗斯、塞思·高登和玛莎·贝克的新建议（第837集）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/11/26/how-to-simplify-your-life/",
-    "tags": [
-      "solve",
-      "writing-content",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "写作内容",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-26",
-    "summary_en": "In a brisk, interview‑style episode, Tim Ferriss brings together three thought leaders to dissect the art of simplification. Derek Sivers advocates a first‑principles mindset that strips away default settings, while Seth Godin proposes a handful of hard rules to focus professional effort. Martha Beck underscores the power of a single radical commitment to carve out peace and meaning. The episode offers a trio of actionable frameworks that feel both accessible and deeply resonant. Yet the discussion leans heavily on anecdotal wisdom, leaving empirical grounding thin. The real value lies in the clarity of each perspective and the invitation to experiment with minimalism in 2026. For listeners eager to prune complexity, the episode sparks curiosity and provides a roadmap worth testing in practice.",
-    "summary_zh": "在这集简洁的访谈中，Tim Ferriss邀请了三位思想领袖：德里克·西弗斯提倡从第一原理出发，剔除默认设置；塞思·高登提出几条硬规则，聚焦专业工作；玛莎·贝克强调一次性重大承诺的力量。三套思路既实用又富启发，但缺乏实证支撑。它们提醒我们，简化不是抽象概念，而是可操作的生活策略，值得在2026年尝试。",
-    "best_quote_en": "What are 1-3 decisions that could dramatically simplify my life in 2026?",
-    "best_quote_zh": "有哪些 1-3 个决定能在 2026 年显著简化我的生活？"
-  },
-  {
-    "id": 201,
-    "title": "The 15 US gifts to give the women in your life",
-    "title_zh": "送给你生命中女性的15款美国礼物",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/thefilter-us/2025/nov/27/best-gifts-ideas-for-women",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2025-11-27",
-    "summary_en": "The Guardian’s gift‑guide article offers a carefully curated list of fifteen U.S. gifts that balance sentiment with practicality for women in various roles—mom, sister, wife, friend. By weaving in personal anecdotes, the piece moves beyond generic “nice‑to‑have” items, instead spotlighting thoughtful choices such as a silk sleep mask that improves sleep quality, a Kindle that nurtures a lifelong reading habit, and a smart speaker that brings convenience to everyday life. The article also taps into experiential insights, citing real users who describe how each item has become indispensable or emotionally meaningful. This blend of product details and human stories turns a simple shopping list into a guide that encourages readers to listen to their loved ones’ unspoken desires and to choose gifts that enhance well‑being and daily comfort. The piece serves as both a practical resource and a reminder that the best gifts combine utility with personal touch.",
-    "summary_zh": "文章通过真实故事与产品细节，精选15款美国礼物，既满足情感需求，又兼顾实用性。它把礼物购物变成一种聆听与关怀的过程，提醒我们最好的礼物是既有用又贴心。",
-    "best_quote_en": "The Kindle’s glare‑free screen, long battery life and lightweight feel will invite her to take it everywhere.",
-    "best_quote_zh": "她的情绪支持水瓶已经见过更好的日子。这个重型的Yeti将成为她旋转中的即时最爱。"
-  },
-  {
-    "id": 202,
-    "title": "Apps for China Travel/Airline Stopovers/Unlimited Budget Flights",
-    "title_zh": "中国旅行/航空中转/无限预算航班的必备应用",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/apps-for-china-travel-airline-stopovers-unlimited-budget-flights/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "writing-content"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "写作内容"
-    ],
-    "date": "2025-11-27",
-    "summary_en": "Traveling to China demands a specialized toolkit—VPNs, eSIMs, and travel apps that survive the Great Firewall. The article catalogs practical solutions: Kevin Kelly’s vetted list of apps, the mixed verdict on Express VPN versus Total VPN, and the convenience of Airalo’s built‑in eSIM. It then pivots to cost‑saving strategies, spotlighting airline stopovers that let travelers stay overnight in hub cities, and the 2023 guide to official stopover programs. A side chapter reminds readers that sustainable hospitality matters; choosing eco‑friendly resorts or even a beekeeping safari can offset food‑chain threats. Finally, the piece highlights Frontier’s GoWild All‑You‑Can‑Fly Pass—an $349 deal that spans 2027, ideal for spontaneous flyers. Together, the post blends actionable travel hacks with broader environmental and economic insights, inviting readers to plan smarter, fly cheaper, and travel responsibly.",
-    "summary_zh": "文章揭示了中国旅行的必备工具：VPN、eSIM与专门的旅行应用，并评估了Express VPN与Total VPN的表现。随后讨论了通过航空中转省钱的策略，并列出官方中转城市。文章还提醒读者关注可持续酒店与蜂蜜旅游，强调生态友好型住宿的重要性。最后介绍了Frontier的GoWild全程飞行通行证，价格低至349美元，覆盖至2027年，适合冲动型旅客。整体兼顾实用技巧与环保与经济视角，鼓励更聪明、更低价、更负责任的旅行。",
-    "best_quote_en": "You can counter this by seeking out hotels that try to aid the environment instead of destroying it.",
-    "best_quote_zh": "你可以通过寻找试图帮助环境而不是破坏环境的酒店来抵消这一点。"
-  },
-  {
     "id": 203,
     "title": "American Equity",
     "title_zh": "美国股权",
@@ -2392,5 +2278,121 @@
     "summary_zh": "比尔·古尔利在节目中剖析AI时代的投资泡沫与SPV的风险，批评美国监管捕捉，提倡开放源代码以加速创新，并强调纯竞争是成功关键。他结合中国省际竞争与硅谷州级实验，给出跨文化视角，鼓励创业者以热情学习、敢于冒险，打造最AI化的自己。",
     "best_quote_en": "The best way to protect against any risk of your career being obfuscated or eliminated from AI is to be the most AI‑enabled version of yourself you can possibly be.",
     "best_quote_zh": "保护自己免受 AI 让职业被模糊或消失的风险的最佳方式是成为你能成为的最 AI 化的自己。"
+  },
+  {
+    "id": 298,
+    "title": "Free incomprehension workshop taster",
+    "title_zh": "免费体验不理解工作坊",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/12/17/free-incomprehension-workshop-taster/",
+    "tags": [
+      "guide",
+      "education",
+      "writing-content",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "教育学习",
+      "写作内容",
+      "新手友好"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "The post announces a free, virtual “incomprehension” workshop, a playful, inclusive session that invites participants to embrace the gaps in their knowledge as a route to deeper reading and world‑building. The concept, drawn from the author’s new book Relearning to Read: Adventures in Not‑Knowing, reframes the reader’s relationship with unfamiliar texts, turning confusion into a fertile space for curiosity, empathy, and critical thinking. By offering a one‑hour taste‑session with a renowned blogger and translator, the author lowers the entry barrier for readers of all ages and invites a global audience to experiment with a novel pedagogical approach. The post’s tone is warm and inclusive, emphasizing accessibility (“free from the comfort of your own home”) and community (“curious readers everywhere”). This event is a concrete, actionable experiment that can inform educators, book clubs, and independent readers alike, and it signals a broader shift toward learning strategies that celebrate uncertainty rather than fear of it. The post invites reflection on how reading can become a collaborative, exploratory practice, and it provides a clear call‑to‑action with a registration link.",
+    "summary_zh": "这篇文章宣传一场免费、线上“不理解”工作坊，邀请全球读者通过拥抱知识空白来深化阅读与世界观。作者借新书《重新学习阅读：不懂的冒险》中的概念，将困惑转化为好奇与批判思维的土壤。内容温暖、包容，强调“从家中免费体验”，降低参与门槛。对教育工作者、读书会和独立读者都是可操作的实验，呼应了将不确定性视为学习机会的教育趋势。",
+    "best_quote_en": "If you haven’t heard of the incomprehension workshop, it’s the basis of my new book, Relearning to Read: Adventures in Not‑knowing.",
+    "best_quote_zh": "如果你还没有听说过不理解工作坊，它是我的新书《重新学习阅读：不懂的冒险》的基础。"
+  },
+  {
+    "id": 299,
+    "title": "UN distances itself from International Women’s Day website winning corporate partnerships",
+    "title_zh": "联合国与国际妇女节网站划清界限，后者赢得企业合作",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/dec/18/international-womens-day-website-owned-london-pr-firm-not-linked-to-un",
+    "tags": [
+      "update",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "The piece exposes a growing rift between the United Nations and the commercial powerhouse behind the International Women’s Day (IWD) website. While the UN’s official IWD page issues themes and colors that are globally vetted, the London‑based marketing firm IWD Support Ltd has been quietly selling themed merchandise, creating corporate partnerships, and even lending its own slogans to major brands such as Sainsbury’s and Barclays. The article highlights how the site’s opaque ownership and the absence of any charitable contribution record have led to confusion—many institutions mistakenly adopted the site’s themes as if they were UN‑approved. This blurring of authority raises questions about brand integrity, the commodification of social movements, and the responsibilities of NGOs when they collaborate with for‑profit entities. For readers, the story is a cautionary tale about the need for clear provenance and the risks of marketing fatigue when a movement’s narrative is hijacked for profit.\n",
+    "summary_zh": "文章揭露联合国与国际妇女节网站的分歧：后者由营销公司运营，出售主题商品并与大型品牌合作，误导公众以为其主题为UN官方。此举凸显品牌诚信危机与社会运动商业化风险，提醒公众需辨别来源并警惕营销疲劳。",
+    "best_quote_en": "Your inquiry provides an important opportunity to clarify that UN Women and the United Nations are not affiliated with the website referenced.",
+    "best_quote_zh": "您的查询为澄清联合国妇女署与所提网站无关联提供了重要机会。"
+  },
+  {
+    "id": 300,
+    "title": "The Hardware Renaissance",
+    "title_zh": "硬件复兴",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/hw.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-12-19",
+    "summary_en": "The article frames the recent surge in hardware startups as a renaissance, arguing that Y Combinator’s early, broad focus lets it spot trends before most others. It dissects the technological enablers—better motors, ubiquitous wireless, affordable prototyping tools, and a shift in retail—and shows how these reduce the traditional barriers that once made hardware a high‑risk, high‑cost venture. The author challenges the long‑standing bias against hardware, noting that investors’ opinions are a trailing indicator and that founders who build hardware are already proving the future. The piece blends data‑driven observation with practical advice: don’t fear funding bias, apply to YC, and treat hardware as an opportunity rather than a liability. It invites readers to re‑evaluate the software‑first narrative and to see hardware as a viable, rapidly growing path for innovation.",
+    "summary_zh": "硬件复兴正被 Y Combinator 视为未来的热潮。作者分析硬件创业的技术驱动、融资偏见与市场机遇，强调创始人对未来的洞察力胜过投资者。文章既是行动指南，也是对硬件创新的鼓舞，让创业者敢于跨越传统壁垒。 这份洞察提醒我们，硬件与软件的边界正在模糊，创新者的视野与执行力决定成功。",
+    "best_quote_en": "Investors' opinions are a trailing indicator. The best founders are better at seeing the future than the best investors, because the best founders are making it.",
+    "best_quote_zh": "投资者的意见只是滞后指标。最好的创始人比最好的投资者更能看到未来，因为最好的创始人在创造未来。"
+  },
+  {
+    "id": 301,
+    "title": "Wuckles!",
+    "title_zh": "Wuckles！",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/XJNYqBfD3d7QhKoqk/wuckles-1",
+    "tags": [
+      "analyze",
+      "psychology",
+      "lifestyle",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "心理学",
+      "生活方式",
+      "深度分析"
+    ],
+    "date": "2025-12-19",
+    "summary_en": "The piece is a playful yet surprisingly insightful exploration of a newly minted linguistic artefact—\"Wuckles\"—that fills a perceived gap in the spectrum of epistemic emotions. By framing it as a blend of surprise, confusion, and a hint of delight, the author not only coin a term but also articulate a nuanced emotional state that standard reactions (e.g., \"huh\" or \"wow\") fail to capture. The article cleverly navigates between the absurd and the reflective, using vivid anecdotes (from dwarves in suits to corporate bureaucracy) to illustrate how \"Wuckles\" can be both pleasant and unpleasant. It invites readers to rethink how we label internal states, encouraging a richer emotional vocabulary that is both expressive and useful in everyday interactions. The writer’s meta‑commentary on the word’s etymology and cultural resonance underscores the creative potential of language to shape perception and communication.",
+    "summary_zh": "这篇文章以诙谐的方式创造了“Wuckles”这一新词，填补了认知情绪中“惊讶+困惑+好奇”的空白。作者通过荒诞与现实交织的例子，展示其在日常交流中的实用与趣味，提醒我们语言的创造力能深刻影响情感表达与认知。",
+    "best_quote_en": "Wuckles has had some staying power that fuckles and huckles have not, because I think it actually articulated an important void in the mix of epistemic-emotions.",
+    "best_quote_zh": "‘Wuckles’之所以比‘fuckles’和‘huckles’更持久，是因为它实际上填补了认知情绪混合中的重要空白。"
+  },
+  {
+    "id": 302,
+    "title": "Merry Christmas, America! The Checks Are in the Mail!",
+    "title_zh": "圣诞快乐，美国！支票已在邮件中！",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/merry-christmas-america-the-checks-are-in-the-mail",
+    "tags": [
+      "update",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-12-19",
+    "summary_en": "The piece is a sharp, satirical deconstruction of Donald Trump’s Christmas address, framed through the lens of a former White House insider. It juxtaposes the president’s bombastic, exclamation‑laden rhetoric with the absurdity of an 18‑minute monologue that offers little substance beyond a “no‑strings‑attached” bonus for 1.4 million service members. The writer exposes how the promised checks were siphoned from a congressional housing fund, revealing a pattern of fiscal opportunism. The narrative also peels back the veneer of Trump’s public persona by spotlighting Chief of Staff Susie Wiles, whose candid revelations in Vanity Fair paint her as a reluctant accomplice rather than an enforcer of truth. By weaving humor, insider anecdotes, and hard‑fact analysis, the article forces readers to confront the dissonance between Trump’s televised promises and the political reality that underpins them. It challenges the audience to question the authenticity of political messaging and the role of staff who quietly uphold it, making the piece not just commentary but a call for critical scrutiny in contemporary politics.",
+    "summary_zh": "文章以讽刺视角拆解特朗普圣诞演讲，揭露其空洞承诺与财政欺诈。作者指出“支票”来自国会住房基金，显示政治交易的隐秘性。通过首席幕僚Susie Wiles的坦言，呈现内阁内部对真相的妥协。幽默与内幕相结合，促使读者质疑政治话语的真实性，呼吁对当代政治的批判性审视。",
+    "best_quote_en": "The point is that it’s Trump’s unreality that governs Susie Wiles now; whatever her vestigial connection to the truth, it’s the President’s truth‑challenged world whose trains she has tasked herself with making run on time.",
+    "best_quote_zh": "关键在于，特朗普的非现实统治着Susie Wiles；无论她与真相的残余联系如何，都是总统那被挑战的真相世界，她的任务就是让这些列车按时运行。"
   }
 ]
