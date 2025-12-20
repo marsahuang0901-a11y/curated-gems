@@ -1,125 +1,5 @@
 [
   {
-    "id": 203,
-    "title": "American Equity",
-    "title_zh": "美国股权",
-    "source": "Sam Altman's Blog",
-    "link": "https://blog.samaltman.com/american-equity",
-    "tags": [
-      "solve",
-      "science",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2017-11-27",
-    "summary_en": "American Equity proposes a radical yet pragmatic re‑imagining of the nation’s wealth distribution: every adult citizen receives an annual share of the U.S. GDP.  The idea hinges on the belief that aligning individual prosperity with national performance will unleash collective ambition, reduce inequality, and smooth the transition to a post‑automation economy.  By framing the United States as a joint‑stock company, the author argues that a “floor‑with‑no‑ceiling” social contract can replace the current tax‑and‑transfer system, encouraging more inclusive growth while still rewarding innovation.  The proposal is both aspirational and concrete, suggesting modest initial payouts that scale with GDP per capita and calling for a careful design of transferability, borrowing, and policy integration.  Critics might question the feasibility of implementing such a system amid political polarization and administrative complexity, yet the concept invites a broader debate about shared ownership, economic resilience, and the moral economy of the 21st‑century United States.",
-    "summary_zh": "美国股权提出每位成年公民获得GDP份额的大胆方案，旨在将个人繁荣与国家绩效绑定，激发集体创造力，缓解不平等，并顺利过渡到后自动化时代。",
-    "best_quote_en": "If everyone benefits more directly from economic growth, then it will be easier to move faster toward this better world.",
-    "best_quote_zh": "如果每个人能更直接地从经济增长中获益，那么更快迈向更美好的世界就会变得更容易。"
-  },
-  {
-    "id": 204,
-    "title": "Science & Health Benefits of Belief in God & Religion | Dr. David DeSteno",
-    "title_zh": "科学与健康：信仰上帝与宗教的益处 | 迪斯托诺博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/science-and-health-benefits-of-belief-in-god-and-religion-dr-david-desteno",
-    "tags": [
-      "learn",
-      "science",
-      "health-wellness",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "健康养生",
-      "数据驱动"
-    ],
-    "date": "2025-08-25",
-    "summary_en": "In this episode, Dr. David DeSteno bridges the gap between empirical science and the perennial questions of faith, offering a nuanced view of how religious belief and practice intersect with mental and physical well‑being. He systematically reviews the evidence that ritual, prayer, and gratitude function as powerful psychosocial interventions—reducing stress, fostering honesty and compassion, and shielding individuals from loneliness and despair. The discussion moves beyond the metaphysical debate about God’s existence to the concrete, measurable benefits that organized and informal religious communities provide. Dr. DeSteno also distinguishes healthy faith practices from cultic dynamics, and he contextualizes modern spiritual movements like 12‑step programs and Burning Man within this framework. By weaving rigorous data with experiential anecdotes, the conversation invites listeners to critically assess their own beliefs and to consider how structured rituals can be intentionally incorporated into daily life for holistic health.",
-    "summary_zh": "在本期节目中，德斯托诺博士把科学与信仰的永恒问题结合起来，系统阐述宗教仪式、祈祷与感恩如何显著降低压力、提升诚实与同情，并抵御孤独与绝望。他区分健康的宗教实践与邪教，并将12步与燃烧人等现代精神运动置于同一框架。通过严谨数据与亲身体验的交织，鼓励听众批判性评估自身信仰，并有意识地将仪式性练习融入日常生活，提升整体健康。",
-    "best_quote_en": "Prayer and gratitude can markedly reduce stress, increase honesty and compassion, and buffer against loneliness and despair.",
-    "best_quote_zh": "祈祷与感恩能够显著降低压力，提升诚实与同情，并抵御孤独与绝望。"
-  },
-  {
-    "id": 205,
-    "title": "What Doesn't Seem Like Work?",
-    "title_zh": "看似不需要工作的事",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/work.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-29",
-    "summary_en": "The essay weaves a personal narrative with a universal heuristic: if a task feels like play to you but is work to others, you’ve found a niche. The author’s father, a mathematician, turns textbook exercises into a reward, illustrating how passion reframes effort. By juxtaposing this anecdote with the author’s own experience of writing papers for friends, the piece demonstrates that divergent tastes can signal professional fit. The insight is practical: self‑reflection on “work‑like” versus “play‑like” tasks can guide career decisions, especially in fields where routine labor is hidden beneath the surface, such as debugging in programming. The narrative invites readers to adopt a detective mindset, hunting for subtle clues in their own preferences. It also subtly critiques the conventional wisdom that hard work is always external, showing that intrinsic enjoyment can be the true compass. The essay’s style is conversational yet analytical, making the concept accessible while encouraging deeper introspection. Overall, it offers a fresh, actionable framework for aligning passion with vocation.",
-    "summary_zh": "作者用父亲的数学家故事和自写论文的经历，提出一个实用的启示：如果某件事对你像游戏，对别人却像工作，那可能就是你的天职。通过“工作‑像”与“玩‑像”的对比，帮助读者自我反思并寻找职业契合点。文章以侦探式思维鼓励寻找细微线索，批判传统把辛勤视为外在的观念，强调内在热情才是真正的指南。",
-    "best_quote_en": "If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for.",
-    "best_quote_zh": "看似不需要工作的事，往往是最适合自己的事。"
-  },
-  {
-    "id": 206,
-    "title": "El Dorado",
-    "title_zh": "黄金之城",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/JhAoRyGxZwnekNnnG/el-dorado",
-    "tags": [
-      "learn",
-      "education",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "教育学习",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-29",
-    "summary_en": "The piece intertwines Buddhist soteriology with a mythic allegory of El Dorado to interrogate the epistemic status of teachers and the authenticity of awakening claims. By insisting that only a stream‑entrant can reliably identify another, the author elevates personal experience over doctrinal authority, echoing a broader epistemic shift toward experiential validation. The parable functions as a diagnostic tool: just as an outsider cannot read the gold‑plated walls of the fabled city, a novice cannot discern a genuine teacher from a self‑proclaimed guru. The author further critiques contemporary “insight” centres and social‑media influencers, exposing a market of performative enlightenment that thrives on ambiguity and performative certainty. The narrative invites readers to question the commodification of spiritual attainment, to seek direct, embodied verification, and to recognise that the path to stream entry is as much about discerning truth as it is about practice. It is a call to move beyond dogmatic instruction toward a lived, relational apprenticeship that honours the transformative nature of awakening.",
-    "summary_zh": "作者把入流比作探访传说中的黄金之城，强调只有亲身体验过的觉者才能辨别真正的老师。通过批判当代“洞察”中心与社媒“觉醒”明星，揭露精神商品化的真相，呼吁读者转向亲身验证与师徒关系，重视实践中的辨识与体验。",
-    "best_quote_en": "If you want to experience stream entry, the best thing you can do is find a good human teacher.",
-    "best_quote_zh": "如果你想体验入流，最好的办法就是找一个好的老师。"
-  },
-  {
-    "id": 207,
-    "title": "What are Putin’s Ultimate Demands for Peace in Ukraine?",
-    "title_zh": "普京对乌克兰和平的最终要求是什么？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/what-are-putins-ultimate-demands-for-peace-in-ukraine",
-    "tags": [
-      "analyze",
-      "politics",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-27",
-    "summary_en": "The article dissects the intricate dance between Moscow’s hardline demands and Kyiv’s security‑centric aspirations, spotlighting the latest peace proposals from both Trump’s Witkoff and Rubio’s teams. It reveals how Putin’s insistence on nullifying Ukraine’s NATO ambitions and the withdrawal from Donbas clashes with Western‑backed guarantees of sovereignty. The piece underscores the fragility of the conflict’s status quo, noting Ukraine’s battlefield shortcomings and the Kremlin’s mounting economic strains from sanctions and declining oil revenues. By weaving insider testimony, leaked recordings, and financial estimates, the analysis offers a nuanced, data‑driven portrait of a war that may hinge on the ability to translate political rhetoric into legally binding, generational guarantees. The article invites readers to consider whether any agreement can reconcile divergent priorities without eroding Ukraine’s autonomy, and how the interplay of leadership, policy shifts, and economic realities shapes the prospects for lasting peace.",
-    "summary_zh": "文章剖析普京对乌克兰和平的终极要求与基辅的安全诉求之间的错综复杂互动。通过对特朗普与鲁比奥团队最新和平方案的细致解读，揭示了普京要求乌克兰放弃北约、撤出顿巴斯与西方对乌克兰主权的安全保障之间的根本冲突。文章强调冲突现状的脆弱性，指出乌军战场劣势、俄方因制裁与油价下跌导致的经济压力。借助内部消息、泄露录音与财务数据，作者呈现了一幅数据驱动、政治与经济交织的战争全景，探讨任何协议是否能在不侵蚀乌克兰自主权的前提下实现长期、法律约束的和平。",
-    "best_quote_en": "He will not be satisfied with anything less than an ironclad, generations‑long resolution to what the source called the “Ukrainian question.”",
-    "best_quote_zh": "他不会满足于任何不够铁石心肠、世代相传的解决方案，正如他所称的‘乌克兰问题’。"
-  },
-  {
     "id": 208,
     "title": "What’s in my NOW? — Emma Christley",
     "title_zh": "我的现在里有什么？—艾玛·克里斯蒂",
@@ -2394,5 +2274,125 @@
     "summary_zh": "文章以讽刺视角拆解特朗普圣诞演讲，揭露其空洞承诺与财政欺诈。作者指出“支票”来自国会住房基金，显示政治交易的隐秘性。通过首席幕僚Susie Wiles的坦言，呈现内阁内部对真相的妥协。幽默与内幕相结合，促使读者质疑政治话语的真实性，呼吁对当代政治的批判性审视。",
     "best_quote_en": "The point is that it’s Trump’s unreality that governs Susie Wiles now; whatever her vestigial connection to the truth, it’s the President’s truth‑challenged world whose trains she has tasked herself with making run on time.",
     "best_quote_zh": "关键在于，特朗普的非现实统治着Susie Wiles；无论她与真相的残余联系如何，都是总统那被挑战的真相世界，她的任务就是让这些列车按时运行。"
+  },
+  {
+    "id": 303,
+    "title": "Shackled, alone and scared: the grim reality for women forced to give birth in prison",
+    "title_zh": "被锁链束缚、孤独恐惧：被迫在监狱分娩的女性残酷现实",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/dec/18/shackled-alone-pregnant-women-forced-birth-prison",
+    "tags": [
+      "update",
+      "society",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "The piece exposes a harrowing global trend: pregnant women in custody are routinely denied basic prenatal care, subjected to shackling, and forced to give birth in cells—often alone—leading to miscarriages, infant deaths, and obstetric violence. Drawing on stark cases from El Salvador, Cambodia, Zambia, the UK, and the US, the article highlights how the UN’s Bangkok Rules—calling for non‑custodial sentences and gender‑responsive care—are routinely ignored. It also documents grassroots responses: activists like Pamela Winn and Nora Calandra have leveraged personal trauma to lobby for bans on shackling and to push for alternative sentencing. The narrative underscores that the issue is not marginal but systemic, tied to over‑incarceration, poverty, and gender bias. It calls for community‑based solutions, data‑driven advocacy, and a shift from punitive to rehabilitative policies—an urgent call that blends human‑rights critique with actionable policy prescriptions.",
+    "summary_zh": "文章揭露全球范围内孕妇在监狱中被剥夺基本产前护理、被锁链束缚、独自分娩的残酷现实，导致流产、婴儿死亡与产科暴力。它引用了萨尔瓦多、柬埔寨、赞比亚、英国和美国的案例，批评联合国曼谷规则被忽视。文中还记录了激进分子如Pamela Winn和Nora Calandra的个人经历如何促成法律改革，呼吁社区方案、数据驱动的倡导与从惩罚转向康复的政策转变，强调此问题与贫困、性别偏见及过度监禁密切相关。",
+    "best_quote_en": "\"Prison is not a good environment for women, let alone someone who is pregnant,\" says Sabrina Mahtani.",
+    "best_quote_zh": "\"监狱对女性来说并不是一个好的环境，更别说怀孕的女性了，\" Sabrina Mahtani 说。"
+  },
+  {
+    "id": 304,
+    "title": "Startup = Growth",
+    "title_zh": "创业 = 成长",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/growth.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2025-12-20",
+    "summary_en": "The essay reframes the startup myth as a single metric: rapid growth.  By insisting that every decision be judged against a weekly growth target, the author turns the nebulous act of founding into an optimization problem that is both measurable and actionable.  He uses concrete data—Y Combinator’s 5‑10 % weekly growth range, revenue‑to‑active‑user ratios, and the exponential payoff curve—to show why founders, VCs, and acquirers all chase the same thing: a company that can scale fast.  The piece also critiques the “startup” label, arguing that most firms labelled as such never reach the growth threshold and that the market’s focus on the high‑risk, high‑reward end distorts perception.  For anyone considering a tech‑driven venture, the essay is both a practical playbook and a cautionary tale about the seductive power of growth as a compass.",
+    "summary_zh": "文章以“成长即创业”为核心，阐释了快速增长是衡量创业公司的唯一尺度。作者通过数据与案例，揭示了增长率的测量、优化与资金投入之间的关系，并批判性地审视了创业生态的高风险与高回报。对于想在硅谷或任何技术驱动行业创业的人来说，这是一份既理论又实操的指南，强调以增长率为导航，做出所有决策。",
+    "best_quote_en": "Growth is the compass that makes almost every decision you face.",
+    "best_quote_zh": "成长是让你做出几乎所有决策的罗盘。"
+  },
+  {
+    "id": 305,
+    "title": "Show LW: Alignment Scry",
+    "title_zh": "",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/mB2knzKYcrZkTssYQ/show-lw-alignment-scry-1",
+    "tags": [
+      "guide",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-20",
+    "summary_en": "Show LW: Alignment Scry introduces a hybrid search engine that blends SQL with vector embeddings across diverse knowledge bases—LessWrong, arXiv, HackerNews, and community archives. The author demonstrates how users can issue expressive queries like “find the four most distant high‑karma posts” or “retrieve Eliezer’s most influential post,” leveraging GPT‑powered agents to translate natural language into SQL+vector operations. The system’s novelty lies in its “product‑as‑prompt” UX: developers can describe API endpoints in prompts, turning the platform into a copilot‑driven research assistant. Practical value is amplified by the alerting feature—continuous SQL triggers that email when results change, essentially a “Google Alerts on steroids.” The project also highlights infrastructure pragmatism: Hetzner servers enable a 400 GB index on a modest budget, showcasing how affordable hardware can accelerate knowledge‑intelligence pipelines. The author invites feedback and hints at a forthcoming Mac app, positioning the tool as both a research playground and a potential VC‑grade scouting aid for neurodivergent builders.",
+    "summary_zh": "Show LW：Alignment Scry 将 SQL 与向量嵌入结合，覆盖 LessWrong、arXiv、HackerNews 等平台，支持自然语言查询并由 GPT 代理转换。其“产品即提示”UX 让 API 通过提示描述，形成协同研究助手。系统提供持续 SQL 触发报警，类似“Google Alerts 加速版”，并在 Hetzner 服务器上构建 400 GB 索引，低成本实现大规模知识检索。作者期待反馈，并计划发布 Mac App，既是实验工具，也是 VC 级别的 neurodivergent 建设者挖掘平台。",
+    "best_quote_en": "Structured Query Language is a real OG, embeddings and arbitrary vector composition takes it to the next level.",
+    "best_quote_zh": "结构化查询语言是一个真正的 OG，嵌入和任意向量组合将其提升到一个新的层次。"
+  },
+  {
+    "id": 306,
+    "title": "Essentials: How to Set & Achieve Goals",
+    "title_zh": "Essentials: 如何设定并实现目标",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-how-to-set-and-achieve-goals",
+    "tags": [
+      "solve",
+      "science",
+      "psychology",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "心理学",
+      "数据驱动"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "This episode from Huberman Lab distills neuroscience into practical goal‑setting tools. Dr. Huberman explains how dopamine, visual attention, and reward prediction error shape motivation, and how visualizing success or failure can tip the balance toward sustained effort. He introduces a concise “space‑time bridging” protocol that trains long‑range, goal‑directed behavior, and provides actionable checklists—weekly goal assessments, difficulty‑level calibration, and visual focus drills. The content is both data‑driven and psychologically grounded, offering a clear roadmap for anyone wanting to move from intention to achievement. By marrying scientific insight with step‑by‑step guidance, the episode empowers listeners to design goals that feel both challenging and attainable, and to monitor progress in a way that keeps dopamine spikes aligned with effort. The practical takeaways—visualize failure, set difficulty tiers, and bridge space‑time gaps—are immediately deployable, making this a valuable resource for students, professionals, and entrepreneurs alike.",
+    "summary_zh": "本期Huberman实验室以神经科学为基础，提供设定并实现目标的实用工具。它阐述多巴胺、视觉注意力与奖励预测误差如何驱动动机，并讨论视觉化成功或失败对目标追求的影响。节目提出“时空桥接”协议，训练长期目标导向行为，并提供可操作的检查清单：每周评估、难度校准与视觉焦点练习。内容兼具数据驱动与心理学洞见，帮助听众从意图走向成就。",
+    "best_quote_en": "I explain how to use science‑based tools to better set and achieve goals.",
+    "best_quote_zh": "我解释如何使用基于科学的工具来更好地设定和实现目标。"
+  },
+  {
+    "id": 307,
+    "title": "Bill Gurley — Investing in the AI Era, 10 Days in China, and Important Life Lessons from Bob Dylan, Jerry Seinfeld, MrBeast, and More (#840)",
+    "title_zh": "比尔·古尔利——在 AI 时代的投资、在中国的十天以及从鲍勃·迪伦、杰瑞·赛因菲尔德、MrBeast 等人那里得到的重要人生教训（#840）",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/12/17/bill-gurley-running-down-a-dream/",
+    "tags": [
+      "update",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "Bill Gurley’s latest conversation with Tim Ferriss is a whirlwind tour of the AI‑driven future, a deep dive into China’s tech ecosystem, and a masterclass in personal fulfillment. He argues that regardless of profession, “playing with AI” is the only way to future‑proof a career, a stance that blends practical investment wisdom with a philosophical call to continuous learning. The episode juxtaposes anecdotes from Dylan, Seinfeld, and MrBeast to illustrate the power of curiosity, the importance of self‑education, and the value of trust in a competitive landscape. Gurley’s discussion on open‑source strategy as a defensive moat challenges conventional startup thinking, while his China field trip offers a rare, ground‑level view of policy, manufacturing, and cultural nuance that most investors miss. The dialogue is dense with actionable take‑aways—regarding SPV structures, AI‑enabled productivity, and the need to align preparation with opportunity—making it a must‑listen for founders, investors, and anyone navigating the intersection of technology and ambition.",
+    "summary_zh": "比尔·古尔利在本期对谈中以 AI 为核心，结合中国十天实地考察和鲍勃·迪伦、杰瑞·赛因菲尔德、MrBeast 等人的生活经验，阐释持续学习、信任与机会交汇的成功法则。他批判性讨论开源作为防御性策略，揭示 SPV 结构与 AI 赋能的实战路径，既有理论深度也有可落地操作，适合创业者、投资人和技术从业者共同汲取。",
+    "best_quote_en": "\"I don’t care what field you’re in, you should be playing with this stuff. It has the potential to impact your role in your career, and the best way to protect against any risk of your career being obfuscated or eliminated from AI is to be the most AI‑enabled version of yourself you can possibly be.\"",
+    "best_quote_zh": "“我不在乎你从事哪个领域，你应该玩转 AI。它有可能影响你在职业中的角色，抵御 AI 让你职业被模糊或消失的最佳方式是让自己成为最具 AI 能力的版本。”"
   }
 ]
