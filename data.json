@@ -1,123 +1,5 @@
 [
   {
-    "id": 208,
-    "title": "What’s in my NOW? — Emma Christley",
-    "title_zh": "我的现在里有什么？—艾玛·克里斯蒂",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-emma-christley/",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2025-11-26",
-    "summary_en": "Emma Christley’s latest series, “What’s in my NOW?”, is a candid exploration of the tools, habits, and cultural touchstones that shape her creative rhythm. She frames the piece as a personal inventory—mechanical keyboards, noise‑cancelling headphones, a disciplined notebook ecosystem—highlighting how physical and digital choices can quiet the mental noise that often stalls writers. The narrative shifts fluidly from the tangible (her chosen hardware) to the intangible (the lessons she draws from the TV series ER), underscoring a broader philosophy: that self‑directed curiosity, rather than external validation, should guide career and life decisions. Her “invisible” section—“Your choices don’t have to make sense to anyone else”—acts as a manifesto, encouraging readers to trust their own compass. The article blends practical advice with reflective storytelling, offering actionable insights for anyone seeking to streamline their creative workflow while maintaining an authentic sense of purpose.",
-    "summary_zh": "艾玛·克里斯蒂在《我的现在里有什么？》中，用个人日常与创作工具的细致描写，探讨如何通过物质与数字选择清除内在噪音，提升写作专注。她把机械键盘、降噪耳机与笔记本系统视为“脑外扩展”，并从《ER》这部剧中提炼生活与职业的启示，强调自我决定的重要性。文章兼具实用技巧与哲学反思，鼓励读者信任自己的选择，构建更高效、真诚的创作路径。",
-    "best_quote_en": "Your choices don’t have to make sense to anyone else.",
-    "best_quote_zh": "你的选择不必让任何人理解。"
-  },
-  {
-    "id": 209,
-    "title": "Essentials: Timing Light for Better Sleep, Energy & Mood | Dr. Samer Hattar",
-    "title_zh": "必备：通过调节光照改善睡眠、能量与情绪 | Samer Hattar 博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-timing-light-for-better-sleep-energy-and-mood-dr-samer-hattar",
-    "tags": [
-      "guide",
-      "psychology",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "心理学",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-08-21",
-    "summary_en": "In this concise Huberman Lab Essentials episode, Dr. Samer Hattar—a leading circadian rhythm researcher—unpacks how light is the invisible lever that tunes our mood, sleep, appetite, learning, and mental health. He explains the science behind photoreceptors, the distinction between solar day and our internal clock, and the practical protocols that can realign misaligned rhythms: morning sunlight, dim evening lighting, and regular meal times. The episode also covers jet‑lag hacks, screen‑time limits, and strategies for seasonal depression, all grounded in data and real‑world case studies. The discussion is action‑oriented, offering listeners a step‑by‑step framework to sync light, food, and sleep with biology, thereby boosting focus, energy, and emotional resilience. It’s a blend of expert insight and actionable advice that transforms a complex field into everyday practice, making it a must‑listen for anyone looking to optimize health through simple environmental tweaks.",
-    "summary_zh": "在Huberman实验室的精简版节目中，Samer Hattar博士阐释光如何成为调节情绪、睡眠、食欲与学习的隐形杠杆。他提供科学依据与实用协议——晨光照射、晚间调暗灯光与规律进餐，帮助重置昼夜节律，解决时差、屏幕使用与季节性抑郁等问题。节目以数据驱动、案例为支撑，提供可操作的步骤，帮助听众将光与生物节律同步，提升专注力、能量与情绪韧性。",
-    "best_quote_en": "\"Light powerfully shapes mood, sleep, appetite, learning and overall mental health by aligning—or misaligning—our internal circadian clock.\"",
-    "best_quote_zh": "\"光强烈影响情绪、睡眠、食欲、学习和整体心理健康，通过对齐或错位我们的内部昼夜节律。\""
-  },
-  {
-    "id": 210,
-    "title": "Book of the month: Alla Gorbunova",
-    "title_zh": "Book of the month: Alla Gorbunova",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/11/28/book-of-the-month-alla-gorbunova/",
-    "tags": [
-      "solve",
-      "education",
-      "writing-content",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "写作内容",
-      "案例研究"
-    ],
-    "date": "2025-11-28",
-    "summary_en": "The review unfolds as a meditation on how the political climate of contemporary Russia shapes the reading experience of Alla Gorbunova’s collection, (Th)ings and (Th)thoughts.  It begins with the author’s own bewildering encounter—an e‑reader that delivers a book with no contextual frame—then escalates into a broader conversation about censorship, state power and the fragile safety of writers in repressive regimes.  Gorbunova’s stories, described as “twisting the art of the fairytale,” weave absurdity with sharp psychological insight, offering a satirical lens on corruption, madness and the human condition.  The piece interrogates the reader’s own anxieties, asking whether the author is protected by a state‑approved status or merely eludes scrutiny through humor.  Ultimately, the article celebrates the resilience of storytelling as a form of quiet defiance, emphasizing that even when narratives are censored, the act of telling remains a vital, subversive act.",
-    "summary_zh": "文章把读书体验与俄国政治氛围相连，探讨了审查与创作者安全的困境。Gorbunova 的短篇以荒诞与心理洞察交织，讽刺腐败与疯狂，体现了叙事在压迫中的韧性与反抗力量。",
-    "best_quote_en": "“Say the unsayable light‑heartedly and maybe it hits its target.”",
-    "best_quote_zh": "说出不可说的轻松地说出来，也许它会命中目标"
-  },
-  {
-    "id": 211,
-    "title": "Don’t filter your dates by age and hobbies, ask them how they shop | Polly Hudson",
-    "title_zh": "不要按年龄和爱好筛选约会对象，问问他们的购物方式 | Polly Hudson",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/commentisfree/2025/nov/30/dates-age-hobbies-deal-breakers",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究",
-      "争议观点"
-    ],
-    "date": "2025-11-30",
-    "summary_en": "Polly Hudson’s opinion piece turns the dating playbook on its head by arguing that the most telling filters are not age or hobbies but everyday habits—shopping style, travel punctuality, food‑expiry attitudes, and even movie‑night preferences. Hudson’s argument hinges on the idea that these seemingly trivial details reveal deeper compatibility and predict long‑term friction. The article blends anecdote with a pseudo‑statistical reference to Plenty of Fish, suggesting a cultural shift toward pragmatic, ‘grounded’ conversations on dating apps. While the humor and relatable scenarios make the piece engaging, its logic oversimplifies complex relationship dynamics and risks encouraging shallow judgments. The piece invites readers to rethink dating criteria, but it also raises questions about the validity of using such micro‑behaviours as decisive filters and whether they truly forecast relationship longevity. Overall, Hudson’s essay offers a playful yet provocative lens on modern romance, urging us to look beyond surface metrics and probe the habits that shape shared daily life.",
-    "summary_zh": "Polly Hudson 以日常小事挑戰約會過濾器，主張購物、旅行、食品保質期等習慣能揭示長期相容性。文章雖風趣幽默，卻簡化關係複雜性，提醒我們在追求方便的同時，勿因小事誤判對象。",
-    "best_quote_en": "What’s your Sainsbury’s style?",
-    "best_quote_zh": "你在Sainsbury's的購物方式是什麼？"
-  },
-  {
-    "id": 212,
-    "title": "Don't Talk to Corp Dev",
-    "title_zh": "不要与企业发展部交谈",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/corpdev.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2025-11-30",
-    "summary_en": "The essay cuts through startup jargon with a blunt warning: unless you’re ready to sell, don’t even set up a first meeting with corporate development (Corp Dev). It frames the conversation as a psychological minefield where founders are lured by the promise of a high price, only to be subjected to low‑ball offers, flippant vetoes, and relentless distraction. By using vivid analogies—like a marathon runner’s unwelcome pause—and real‑world anecdotes, the author exposes the tactics that turn a brief touch‑point into a draining, morale‑sapping ordeal. The piece doubles as a playbook: recognize the red flags, keep the dialogue short, and preserve focus on growth. It’s a practical, expert‑insight guide for founders who want to avoid being pulled into a costly, premature M&A process.",
-    "summary_zh": "文章以尖锐的语气揭示企业发展部（Corp Dev）对初创企业的潜在陷阱，强调若非当下确有出售意向，首轮会面即应拒绝。作者借比喻与案例，剖析M&A谈判中被低价诱导、情绪被操纵的心理战，提醒创始人保持理性与战略节奏。文章既是警示，也是行动指南，鼓励创业者在不确定出售时主动拒绝，避免被“低价诱饵”拖入耗时耗精力的过程。",
-    "best_quote_en": "The tactics you encounter in M&A conversations can be like nothing you've experienced in the otherwise comparatively upstanding world of Silicon Valley.",
-    "best_quote_zh": "如果你现在不想卖掉公司，就不要去第一次会议。"
-  },
-  {
     "id": 213,
     "title": "Insulin Resistance and Glycemic Index",
     "title_zh": "胰岛素抵抗与血糖指数",
@@ -2394,5 +2276,123 @@
     "summary_zh": "比尔·古尔利在本期对谈中以 AI 为核心，结合中国十天实地考察和鲍勃·迪伦、杰瑞·赛因菲尔德、MrBeast 等人的生活经验，阐释持续学习、信任与机会交汇的成功法则。他批判性讨论开源作为防御性策略，揭示 SPV 结构与 AI 赋能的实战路径，既有理论深度也有可落地操作，适合创业者、投资人和技术从业者共同汲取。",
     "best_quote_en": "\"I don’t care what field you’re in, you should be playing with this stuff. It has the potential to impact your role in your career, and the best way to protect against any risk of your career being obfuscated or eliminated from AI is to be the most AI‑enabled version of yourself you can possibly be.\"",
     "best_quote_zh": "“我不在乎你从事哪个领域，你应该玩转 AI。它有可能影响你在职业中的角色，抵御 AI 让你职业被模糊或消失的最佳方式是让自己成为最具 AI 能力的版本。”"
+  },
+  {
+    "id": 308,
+    "title": "Jess Cartner-Morley on fashion: my top tips for gifting clothes this Christmas",
+    "title_zh": "Jess Cartner-Morley谈时尚：圣诞送衣服的十大贴士",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/dec/17/jess-cartner-morley-top-tips-gifting-clothes-christmas",
+    "tags": [
+      "guide",
+      "ai-research",
+      "lifestyle",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "生活方式",
+      "新手友好"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "Jess Cartner‑Morley’s gift‑guidance piece turns the perennial holiday dilemma of clothing into a manageable, almost algorithmic exercise. She argues that the key to success lies in the distinction between a person’s style and taste, and that the safest approach is to select items that mirror what the recipient already wears—slightly altered versions that avoid the risk of ill‑fit or ill‑timed fashion. Her advice is pragmatic: stick to categories that require minimal fitting, such as socks, ties, jumpers, jewellery, and tights, and avoid the “funny” gifts that often come across as thoughtless. By focusing on functional, everyday wear and adding a personal touch like monogramming, the gift feels both thoughtful and practical. Her tone is conversational yet authoritative, making the article a quick, actionable read for anyone looking to navigate the tricky terrain of fashion gifting without spending hours in a shop. The piece is a useful reminder that the best gifts are those that respect the recipient’s taste, fit their lifestyle, and leave a lasting impression.",
+    "summary_zh": "Jess Cartner‑Morley用简明的逻辑拆解圣诞送衣物的难题：先辨别收礼者的风格与品味，再挑选与其已有穿搭相似、略有变体的单品。她强调避免“搞笑”礼物，提倡实用、日常的服饰如袜子、领带、毛衣、珠宝和紧身裤，并用个性化的绣字提升礼物价值。文章语气亲切却权威，给人一种快速、可操作的指南感，提醒我们最好的礼物是既尊重对方品味，又适合其生活方式，且能留下深刻印象。",
+    "best_quote_en": "Do not buy anything for someone else because you think it’s funny.",
+    "best_quote_zh": "不要因为觉得好笑而为别人买礼物。"
+  },
+  {
+    "id": 309,
+    "title": "Black Swan Farming",
+    "title_zh": "黑天鹅养殖",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/swan.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "startup-funding",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "创业融资",
+      "数据驱动"
+    ],
+    "date": "2025-12-21",
+    "summary_en": "Y Combinator’s memo distills a paradox at the heart of startup investing: the only meaningful returns come from a handful of outsized winners, yet the most promising ideas often masquerade as failures. The author reveals how conventional metrics—like fundraising success—are misleading, and how risk tolerance must be amplified tenfold to uncover the rare 1000‑fold outliers. By framing the decision as a Venn diagram of \"seems like a bad idea\" versus \"is a good idea,\" the piece invites investors to ignore surface intuition and focus on the latent potential for massive impact. The narrative balances data‑driven insights with a candid admission that even seasoned VCs struggle to internalize extreme variation, offering a sober reminder that the art of picking winners is as much a psychological discipline as a financial one. This analysis is both a practical guide for venture practitioners and a philosophical reflection on how to navigate uncertainty when the stakes are measured in billions.",
+    "summary_zh": "YC 的文章揭示创业投资的悖论：真正的收益来自少数大赢家，但最有前景的想法往往看似失败。作者指出传统指标如融资成功并不可靠，必须将风险容忍度提升十倍，才能捕捉到千倍回报的稀缺赢家。通过将决策视为“看似坏点子”与“真正好点子”的韦恩图，文章鼓励投资者忽视表面直觉，关注潜在大规模影响的隐含价值。它既是实践指南，也是对在极端不确定性中做出选择的心理学反思。",
+    "best_quote_en": "The best startup ideas seem at first like bad ideas.",
+    "best_quote_zh": "最好的创业想法起初看起来像坏点子。"
+  },
+  {
+    "id": 310,
+    "title": "Alignment Pretraining: AI Discourse Causes Self-Fulfilling (Mis)alignment",
+    "title_zh": "对齐预训练：AI 语篇导致自我实现的（误）对齐",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/TcfyGD2aKdZ7Rt3hk/alignment-pretraining-ai-discourse-causes-self-fulfilling",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-21",
+    "summary_en": "This study pioneers a controlled exploration of how the content fed during LLM pre‑training shapes alignment priors, revealing a self‑fulfilling loop: exposure to negative AI discourse inflates misalignment, while curated positive narratives drastically reduce it. The authors constructed 4,200 scenario‑based evaluations and synthesized over a million synthetic documents to up‑sample aligned or misaligned AI talk. Their experiments show that filtering or even mild augmentation can lower misalignment from 41 % to a mere 4 %, and that these effects persist through standard post‑training fine‑tuning and survive benign tampering—an empirical demonstration of alignment elasticity. The work challenges the prevailing assumption that post‑training alone can sculpt safety, suggesting instead that pre‑training should be treated as a foundational safety intervention. Future research directions include scaling laws, RL‑HF integration, and richer persona‑level alignment priors, underscoring the need for a holistic safety pipeline.",
+    "summary_zh": "本研究首次系统验证了LLM预训练内容如何塑造对齐先验，揭示了自我实现的循环：负面AI语篇会提升误对齐，而精心策划的正面叙事则能将误对齐率从41%降至仅4%。作者构建了4,200个情景评测，并合成了超过百万条对齐/误对齐的文档。实验表明，过滤或轻度增补即可显著降低误对齐，并且这种效果在标准后训练和温和微调后仍能保留，证明了对齐弹性。研究挑战了仅靠后训练可塑安全的主流假设，提出预训练应被视为基础安全干预。后续工作需探讨规模化、RL‑HF整合以及更丰富的人格对齐先验，强调构建整体安全管线的重要性。",
+    "best_quote_en": "This provides the first empirical evidence of alignment elasticity occurring with realistic alignment data.",
+    "best_quote_zh": "这首次提供了在现实对齐数据中出现对齐弹性的经验证据。"
+  },
+  {
+    "id": 311,
+    "title": "Functional Traveler Gifts/Tougher Italian Passport/Cheaper Streaming Options",
+    "title_zh": "实用旅行礼物/更严格的意大利护照/更便宜的流媒体选项",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/functional-traveler-gifts-tougher-italian-passport-cheaper-streaming-options/",
+    "tags": [
+      "guide",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-12-18",
+    "summary_en": "The post is a practical, multi‑facet guide that blends everyday travel hacks with geopolitical and wellness insights. It begins by curating a concise list of lightweight, problem‑solving gifts that real frequent flyers actually use—an antidote to the seasonal gift‑bomb of fluff. The passport section reveals the tightening of Italian citizenship rules, highlighting the need for lineage proof, language proficiency, and a three‑year residency—information that is both timely and crucial for dual‑nationality seekers. The streaming subsection turns price‑arbitrage into a strategic tool, showing how regional plans can shave 20‑40 % off subscription costs, a tactic that savvy travelers can employ worldwide. Finally, the health claim cites an eight‑year cohort study linking sustained walking to lower cardiovascular risk, grounding a lifestyle recommendation in solid epidemiology. Together, the article offers actionable knowledge, a blend of policy, economics, and science, and invites readers to re‑evaluate how they travel, live, and stay entertained while abroad.",
+    "summary_zh": "这篇文章把实用旅行礼物、意大利护照新规、海外流媒体省钱技巧与步行健康研究巧妙结合，既有政策解读，也有经济实惠方案，更以数据支持健康建议，鼓励读者用更智慧、更省钱的方式出行与生活。",
+    "best_quote_en": "People who walked in longer stretches had a lower risk of heart problems than those who walked in short bursts.",
+    "best_quote_zh": "长时间步行的人比短暂间歇步行的人心脏病风险更低。"
+  },
+  {
+    "id": 312,
+    "title": "Counteracting the Effects of Misinformation",
+    "title_zh": "对抗错误信息的影响",
+    "source": "Ulterior Motives (Art Markman Ph.D.)",
+    "link": "https://www.psychologytoday.com/us/blog/ulterior-motives/202503/counteracting-the-effects-of-misinformation",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-03-14",
+    "summary_en": "Recent experimental work by Granados Samayoa and Albarracín uncovers a surprisingly counterintuitive antidote to misinformation: ‘bypassing.’ Rather than merely debunking false claims, the strategy supplies a new, true fact that steers attitudes toward a desired outcome. The authors argue that misinformation persists because people often postpone judgment until they are prompted to form an opinion; during that window, they retrieve stored facts. A direct correction forces them to recall both the falsehood and its refutation, a cognitively heavy process that often fails. By contrast, bypassing offers a fresh, positive datum that can be more readily integrated when the attitude is finally formed. Across multiple headline‑based studies, bypassing consistently produced more favorable evaluations than classic correction, except when participants were immediately asked to judge. The paper suggests a hybrid approach—combining debunking with strategic positive framing—might yield even stronger effects. For practitioners in public health, policy, and media literacy, the findings underscore the importance of context‑rich, attitude‑shaping messaging over blunt truth‑telling.",
+    "summary_zh": "本文揭示了‘绕过’策略在对抗错误信息中的潜力，指出与传统纠正相比，提供正面替代事实更能改变人们的态度。研究表明，当信息被记忆时，直接否认往往无效，而让受众在形成观点时检索新的积极信息，则能显著提升认知效果。作者提醒，结合纠正与绕过可能更为有效，提示我们在信息传播与公共教育中，应重视情境化、情感化的事实呈现，而非单纯的真相否定。",
+    "best_quote_en": "In bypassing, you provide someone exposed to misinformation another (true) piece of information that pushes their attitude in the desired direction.",
+    "best_quote_zh": "在“绕过”策略中，你向接触到错误信息的人提供另一条真实信息，使其态度朝着期望的方向倾斜。"
   }
 ]
