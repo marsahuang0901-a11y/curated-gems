@@ -1,125 +1,5 @@
 [
   {
-    "id": 213,
-    "title": "Insulin Resistance and Glycemic Index",
-    "title_zh": "胰岛素抵抗与血糖指数",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/ofyphDp67uiSYLywS/insulin-resistance-and-glycemic-index",
-    "tags": [
-      "update",
-      "medicine",
-      "design",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "动态",
-      "医学健康",
-      "设计创意",
-      "深度分析"
-    ],
-    "date": "2025-11-30",
-    "summary_en": "This article dissects how modern high‑glycemic foods trigger insulin spikes that lead to receptor desensitization and chronic insulin resistance. By juxtaposing historical diets—rich in low‑GI foods—with today’s processed staples, the author exposes the biochemical cascade from rapid glucose surges to metabolic dysregulation. The piece blends rigorous science with accessible narrative, offering clear signs of insulin resistance, such as post‑meal fatigue and abdominal fat accumulation, and contextualizes the alarming prevalence in contemporary America. It underscores that diet, rather than exercise alone, is the pivotal factor, urging readers to adopt low‑GI foods and mindful eating to restore insulin sensitivity. For health enthusiasts and lay readers alike, the article delivers actionable insights, data‑driven comparisons, and a compelling call to rethink everyday carbohydrate choices.",
-    "summary_zh": "本文深入剖析现代高血糖指数饮食如何触发胰岛素抵抗，揭示胰岛素尖峰与代谢失衡的生物机制。作者以历史对比为框架，指出过去低GI饮食与现代加工食品的根本差异，提醒读者关注食物选择与能量调节。文章既具科学严谨，又以通俗易懂的方式呈现，适合想要理解胰岛素抵抗根源的健康爱好者。通过数据与案例，作者呼吁改变饮食习惯，重视低GI食品，强调饮食与健康的密切关系。",
-    "best_quote_en": "Even worse, repeated insulin spikes cause the insulin receptors to desensitize (downregulate) themselves.",
-    "best_quote_zh": "甚至更糟的是，反复的胰岛素尖峰导致胰岛素受体失敏（下调）自身。"
-  },
-  {
-    "id": 214,
-    "title": "Ukrainian Men Approaching Military Age Are Fleeing in Droves",
-    "title_zh": "乌克兰接近军龄男子大规模逃离",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/ukrainian-men-approaching-military-age-are-fleeing-in-droves",
-    "tags": [
-      "analyze",
-      "science",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-11-25",
-    "summary_en": "Michael Holtz’s on‑the‑ground narrative reveals a paradox: a state that once barred its young men from leaving is now loosening that ban, sparking an exodus that could reshape Ukraine’s demographic and military calculus. By following Klim Milchenko from Kyiv to Wrocław, Holtz exposes the human calculus behind policy shifts—fear of drone strikes, the weight of draft age, and the allure of survival. The piece juxtaposes hard data—hundreds of thousands of desertion cases, a sharp rise in Ukrainian men arriving in Germany and Poland—with anecdotal evidence of discrimination abroad, illustrating how the policy’s ripple effects extend beyond borders. Holtz questions whether the temporary relief for individuals translates into long‑term strategic gains, citing experts who warn that a shrinking mobilization pool may backfire when the war drags on. The article invites readers to consider the ethics of a state‑controlled exodus, the fragility of morale, and the unintended consequences of short‑term policy relief. It is a nuanced, data‑driven exploration that balances human stories with macro‑political analysis.",
-    "summary_zh": "在迈克尔·霍尔茨的第一手叙述中，乌克兰原本禁止年轻人离境的政策突然放宽，导致大量男性逃离，形成一场人力与政治的双重危机。通过跟随克利姆·米尔切诺科从基辅到弗罗茨维亚，作者揭示了恐惧、征兵年龄与生存欲望交织的个人抉择。文章将数据与案例并置——数十万逃兵、德国与波兰接收乌克兰男性激增，以及在国外遭遇歧视的现实，说明政策的连锁反应超越国界。专家警告，短期的“逃离”可能削弱未来的动员潜力。此文以人文视角与宏观政治分析交织，探讨国家控制的逃离伦理与战争长期后果。",
-    "best_quote_en": "When you have friends who have been killed, when you see how soldiers are living on the front line, when you see how that could be your life, it’s a very scary thing.",
-    "best_quote_zh": "当你有朋友被杀，当你看到前线士兵的生活，当你看到那可能成为你自己的生活时，这是一件非常可怕的事。"
-  },
-  {
-    "id": 215,
-    "title": "‘I was hooked’: the rise of the intrepid female solo traveller",
-    "title_zh": "我被吸引了：勇敢女性独自旅行者的崛起",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/travel/2025/nov/30/i-was-hooked-the-rise-of-the-intrepid-female-solo-traveller",
-    "tags": [
-      "analyze",
-      "society",
-      "lifestyle",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "生活方式",
-      "数据驱动"
-    ],
-    "date": "2025-11-30",
-    "summary_en": "Through the lived accounts of women spanning decades who travel alone, the article uncovers the deeper self‑actualization and freedom that solo journeys afford. Combining travel‑industry statistics, in‑depth interviews, and on‑the‑ground narratives, it shows how independent travel serves as a form of self‑healing and a rejection of traditional gendered roles. The piece does more than celebrate adventure; it offers actionable insights into itinerary planning, safety protocols, and the power of social networks for solo travelers. For travel operators, policymakers, and individual wanderers alike, the article delivers practical lessons while sparking reflection on women’s travel rights and broader societal inclusion. Its blend of personal testimony and data‑driven observation makes it a compelling resource for anyone interested in the evolving landscape of female solo travel.",
-    "summary_zh": "本文通过多位不同年龄层女性独行旅行者的亲身经历，揭示了自我实现与自由选择的深层价值。作者从统计数据、亲身访谈、现场叙述三维视角，展示了独自旅行如何成为一种自我疗愈、社会角色解放的实践。文章不仅记录了旅程中的乐趣与挑战，更强调了信息共享、社交网络与安全管理的实用技巧。对旅行社、政策制定者以及个人旅行者而言，它提供了可操作的经验教训，并激发了对女性旅行权利与社会包容性的思考。",
-    "best_quote_en": "I try new things because I want to, not because I feel I have to.",
-    "best_quote_zh": "我尝试新事物是因为想要，而不是因为觉得必须。"
-  },
-  {
-    "id": 216,
-    "title": "November Retrospective",
-    "title_zh": "十一月回顾",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/wELmghiTfjWSGyfvN/november-retrospective",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-01",
-    "summary_en": "In this candid month‑long reflection, the author chronicles a self‑imposed daily‑blogging challenge that ultimately fell short of its lofty expectations. He admits that the bulk of the posts were low‑effort, hastily cobbled together from drafts, and that the real value lay more in the act of commitment than the content itself. The piece is a thoughtful cost‑benefit analysis of pre‑commitment, weighing the psychological payoff of seeing a project through against the tangible output produced. By openly questioning whether he should have halted earlier, he invites readers to examine the tension between ambition and practicality. The post offers a meta‑lesson on self‑discipline, the importance of aligning workload with creative output, and the reputational benefits of honoring commitments, even when the end product feels mediocre. It serves as a useful case study for anyone contemplating a similar “daily” endeavor, reminding us that the journey can be as valuable as the destination.",
-    "summary_zh": "作者坦诚记录了自设的每日写作挑战，结果大多低效、草率，内容质量不高，却从承诺的坚持中获得心理与声誉收益。通过成本收益分析，他反思何时应止步，提醒读者在雄心与现实间寻找平衡。",
-    "best_quote_en": "There’s value in seeing through precommitments – both for oneself, and for reputational purposes.",
-    "best_quote_zh": "坚持预先承诺本身就有价值——对个人和声誉都有好处。"
-  },
-  {
-    "id": 217,
-    "title": "The Undermining of the C.D.C.",
-    "title_zh": "CDC的削弱",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/12/08/the-undermining-of-the-cdc",
-    "tags": [
-      "analyze",
-      "politics",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-30",
-    "summary_en": "The piece deconstructs the Centers for Disease Control and Prevention’s recent pivot on vaccines and autism, exposing a broader trend of political interference in science. Khullar argues that the CDC’s new caveat—labeling the long‑standing “no link” stance as “not evidence‑based”—is not merely a policy shift but a deliberate re‑framing that undermines public trust. He juxtaposes the agency’s rhetoric with the robust body of research that has repeatedly found no causal link between vaccines and autism, highlighting the paradox that the burden of proof lies on those who wish to overturn the null hypothesis. The article further contextualizes this episode within a larger pattern of executive‑level attacks on independent research, citing the dismissal of scientists, funding cuts, and the politicisation of health data. By invoking historical analogues like Lysenkoism, Khullar warns that a democratic system’s resilience hinges on the freedom of science to self‑correct. The piece calls for a return to evidence‑based policy, stressing that public health must be guided by data, not ideology. It is a timely reminder that the credibility of health institutions is a collective responsibility, and that political overreach can have lasting, harmful consequences.",
-    "summary_zh": "文章揭示CDC在疫苗与自闭症议题上的政治化，批评其把证据充足的立场称为“非证据基础”。作者指出，科学的力量在于可证伪性，而政治却以宣言取代证据，削弱公众信任。通过历史案例与当前政策举措，他警示民主社会若失去科学独立，后果将极其严重。",
-    "best_quote_en": "Science may be the most powerful engine for grasping reality, but it suffers a rhetorical disadvantage.",
-    "best_quote_zh": "美国科学家所享有的特权——现在正被践踏——是能够不受政治干预地开展工作。"
-  },
-  {
     "id": 218,
     "title": "Dark Night / Ciro’s Nightclub of the Stars",
     "title_zh": "黑夜 / Ciro 的星光夜总会",
@@ -2394,5 +2274,125 @@
     "summary_zh": "本文揭示了‘绕过’策略在对抗错误信息中的潜力，指出与传统纠正相比，提供正面替代事实更能改变人们的态度。研究表明，当信息被记忆时，直接否认往往无效，而让受众在形成观点时检索新的积极信息，则能显著提升认知效果。作者提醒，结合纠正与绕过可能更为有效，提示我们在信息传播与公共教育中，应重视情境化、情感化的事实呈现，而非单纯的真相否定。",
     "best_quote_en": "In bypassing, you provide someone exposed to misinformation another (true) piece of information that pushes their attitude in the desired direction.",
     "best_quote_zh": "在“绕过”策略中，你向接触到错误信息的人提供另一条真实信息，使其态度朝着期望的方向倾斜。"
+  },
+  {
+    "id": 313,
+    "title": "Best of 2025: Don’t call it morning sickness: ‘At times in my pregnancy I wondered if this was death coming for me’ – podcast",
+    "title_zh": "2025年度精选：别称之为晨吐：‘怀孕期间，我时常怀疑这是否是死亡降临’ – 播客",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/news/audio/2025/dec/17/best-of-2025-dont-call-it-morning-sickness-at-times-in-my-pregnancy-i-wondered-if-this-was-death-coming-for-me-podcast",
+    "tags": [
+      "learn",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-12-17",
+    "summary_en": "The Guardian’s audio long‑read unpacks the harrowing reality of hyperemesis gravidarum—once called the ‘pernicious vomiting of pregnancy’—and how contemporary medicine finally offers relief. The piece follows a mother’s raw testimony, interweaving historical context, medical breakthroughs, and a call to re‑name the condition to reduce stigma. It highlights the shift from a purely medical framing to a holistic, patient‑centered approach, underscoring the importance of listening to lived experience. For clinicians and advocates alike, the podcast is a clarion call to refine diagnostic criteria, improve access to anti‑emetic therapies, and broaden public awareness. It also serves as a cautionary reminder that the language we use can either empower or silence those in distress. The narrative’s depth and data‑driven insights make it a valuable resource for anyone seeking to understand the intersection of obstetric care, gendered health narratives, and systemic change.",
+    "summary_zh": "该播客深度剖析妊娠剧吐的痛苦现实，揭示从‘恶性呕吐’到现代医学突破的转变。通过孕妇亲身经历与历史背景交织，强调语言与诊疗模式的变革，提醒医护与公众关注患者声音与系统性改变。",
+    "best_quote_en": "At times in my pregnancy I wondered if this was death coming for me.",
+    "best_quote_zh": "有时在怀孕期间，我怀疑这是否是死亡降临。"
+  },
+  {
+    "id": 314,
+    "title": "Update: 5 months of Retatrutide",
+    "title_zh": "更新：Retatrutide 5 个月的使用情况",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/ig4mq74GEoyTFju8t/update-5-months-of-retatrutide",
+    "tags": [
+      "update",
+      "medicine",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "In this concise post, the author chronicles a five‑month personal experiment with the peptide retatrutide, highlighting how dosage tweaks and timing adjustments helped maintain weight stability while pivoting focus from weight loss to strength training. After reaching a target BMI, he reduced the dose to a quarter weekly, shifted injections to the morning, and diluted the solution, which collectively mitigated swelling and injection‑site redness. The narrative underscores that while the drug may not directly influence willpower, its side‑effect profile can be managed with simple procedural changes. The account offers actionable insights for peers navigating peptide therapy: lower doses, consistent injection technique, and timing can preserve benefits while minimizing discomfort. It also serves as a cautionary case study, reminding readers that physiological responses—such as appetite rebound—require thoughtful dose titration and lifestyle alignment. The post invites reflection on self‑experimentation, data‑driven adjustments, and the balance between medical ambition and practical well‑being.",
+    "summary_zh": "作者在这篇简短更新中分享了五个月的 Retatrutide 试验经验，重点阐述了剂量调整和注射时间改变如何帮助维持体重稳定并转向增肌训练。降至四分之一剂量、改为早晨注射并稀释溶液，显著减少了肿胀和注射部位红肿。作者指出，药物本身并未直接影响意志力，但通过简单的操作改进可有效管理副作用。此案例为同样尝试肽类疗法的读者提供可操作建议：低剂量、规律注射、合适时机，可在降低不适的同时保持效果。它既是自我实验的启示，也是对剂量与生活方式相匹配的警示，提醒人们在追求医学突破时不忘实际可行性。",
+    "best_quote_en": "Diluting the drug better, only taking it once a week, and taking it in the morning seems to help with swelling.",
+    "best_quote_zh": "我仍然不认为它对意志力有直接影响，虽然不被零食分心是有用的。"
+  },
+  {
+    "id": 315,
+    "title": "Lawrence Wright on A. J. Liebling’s “The Great State”",
+    "title_zh": "Lawrence Wright on A. J. Liebling’s “The Great State”",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/takes/lawrence-wright-on-a-j-lieblings-the-great-state",
+    "tags": [
+      "analyze",
+      "politics",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2025-12-21",
+    "summary_en": "Lawrence Wright’s reflection on A. J. Liebling’s profile of Louisiana Governor Earl Long illuminates how incisive journalism can transform a caricature into a complex political portrait. Wright recounts Liebling’s journey from dismissing Long as a “Peckerwood Caligula” to recognizing him as a pragmatic civil‑rights advocate operating within a racially hostile legislature. The piece foregrounds Liebling’s deft blend of humor, narrative detail, and moral insight—an approach that not only captivated readers but also shaped Wright’s own path toward journalism and Tulane University. The article underscores the enduring power of contextual reporting: by listening to the governor’s rhetoric, Liebling uncovered a progressive message hidden beneath a veneer of buffoonery. Wright’s analysis invites contemporary journalists to probe beyond surface impressions, reminding us that the press’s real authority lies in its willingness to own and interrogate the stories it covers.",
+    "summary_zh": "莱昂纳德·赖特对 A.J. 里尔伯格描绘路易斯安那州长埃尔·朗的回顾，展示了尖锐报道如何把戏谑转化为深度政治画像。文章强调记者需超越表面，深入挖掘真相，保持对公共话语的所有权与批判性。",
+    "best_quote_en": "Freedom of the press is guaranteed only to those who own one.",
+    "best_quote_zh": "新闻自由只保障给那些拥有报纸的人。"
+  },
+  {
+    "id": 316,
+    "title": "52 Surprising Things / Watchable American history / See yourself as a verb",
+    "title_zh": "52件惊人之事 / 可观看的美国历史 / 把自己视为动词",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/52-surprising-things-watchable-american-history-see-yourself-as-a-verb/",
+    "tags": [
+      "inspire",
+      "society",
+      "lifestyle",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "生活方式",
+      "深度分析"
+    ],
+    "date": "2025-12-21",
+    "summary_en": "Tom Whitwell’s annual “52 Surprising Things” list is a micro‑curriculum that turns fleeting curiosities into bite‑size lessons. From Marchetti’s Constant – the paradox that faster travel expands the distance we cover – to the humble Casio F91W watch that has been faked to perfection, the article juxtaposes historical insight, practical trivia, and social observation. The accompanying segments broaden the scope: a call to watch Ken Burns’ Civil War and American Revolution series as civic literacy, an existential essay that reframes identity as a verb, a pragmatic tip for sharpening Airbnb knives, and a curated directory of Wikipedia oddities. Together, they form a mosaic of learning, inspiration, and actionable hacks that encourage readers to question assumptions, enrich cultural knowledge, and improve everyday life. The curated quotes reinforce this ethos, reminding us that data, opportunity, and simplicity are the real drivers of progress.",
+    "summary_zh": "托姆·惠特威尔的“52件惊人之事”像微型课程，将好奇心转化为短篇课程；从马尔凯蒂常数到伪造的 Casio 手表，展现历史与实用知识。随附的《肯·伯恩的美国历史》系列、关于把自我视为动词的存在主义散文、携带刀具磨刀器的实用技巧以及奇趣维基百科目录，构成了学习、启发与可操作建议的拼图，鼓励读者质疑假设、扩展文化视野、改善日常生活。精选名言提醒我们：数据、机会与简化才是进步的真正驱动力。",
+    "best_quote_en": "Without data, you’re just another person with an opinion. — W. Edwards Deming",
+    "best_quote_zh": "没有数据，你只不过是另一个有意见的人。——W. Edwards Deming"
+  },
+  {
+    "id": 317,
+    "title": "Improve Energy & Longevity by Optimizing Mitochondria | Dr. Martin Picard",
+    "title_zh": "通过优化线粒体提升能量与寿命 | Dr. Martin Picard",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/improve-energy-longevity-by-optimizing-mitochondria-martin-picard",
+    "tags": [
+      "analyze",
+      "health-wellness",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "健康养生",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-15",
+    "summary_en": "Dr. Martin Picard’s episode delves into the often‑overlooked role of mitochondria as the body’s bio‑electric powerhouses that translate lifestyle, mindset, and relationships into cellular energy. He argues that every behavior—from exercise and nutrition to meditation and purpose—acts like a charge on these organelles, shaping vitality, resilience, and even the pace of aging. By linking empirical studies on inflammation, oxidative stress, and mitochondrial biogenesis with practical tools—such as targeted breathing, sleep hygiene, and nutraceuticals like SS31—Picard offers a holistic, science‑backed framework that turns abstract biology into actionable daily habits. The episode’s strength lies in its integrative lens: it frames hair greying as reversible cellular stress, reframes fatigue as a mis‑regulated energy budget, and positions aging as a modifiable, rather than inevitable, process. For readers, the take‑away is a clear, data‑driven playbook that empowers them to re‑engineer their own biology through intentional, evidence‑based choices.",
+    "summary_zh": "在这期节目中，马丁·皮卡德博士将线粒体描绘成连接心理与身体能量的关键桥梁。他指出，运动、营养、睡眠与正念等生活方式像给细胞充电，直接影响活力与衰老。通过整合炎症、氧化应激与线粒体生物发生的研究，提出可操作的工具——呼吸练习、睡眠管理、SS31等营养素——让科学变成日常可落地的习惯。节目把灰发、疲劳等常见问题视为可逆的细胞压力，重新定义衰老为可调节的过程，给听众一份数据驱动、可实践的生物学行动指南。",
+    "best_quote_en": "\"Your mitochondria don’t just ‘make energy’; they translate what you do—your mindset and your relationships—into the energy you experience as vitality or lack thereof.\"",
+    "best_quote_zh": "“你的线粒体不仅仅是‘产生能量’；它们将你的行动——你的心态和人际关系——转化为你感受到的活力或缺乏活力的能量。”"
   }
 ]
