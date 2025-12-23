@@ -1,123 +1,5 @@
 [
   {
-    "id": 218,
-    "title": "Dark Night / Ciro’s Nightclub of the Stars",
-    "title_zh": "黑夜 / Ciro 的星光夜总会",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/dark-night-ciros-nightclub-of-the-stars/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-11-25",
-    "summary_en": "Paul Dini’s “Dark Night” turns the familiar myth of Batman into a raw, autobiographical meditation on anxiety, survival and the human capacity for resilience.  The narrative begins in the quiet corridors of a childhood shaped by comic‑book heroes, then erupts when a mugging forces Dini to confront a violent reality.  What follows is a psychological case study of coping mechanisms, the cathartic power of narrative, and the paradox of heroism in everyday life.  Coupled with Eduardo Risso’s evocative art, the book offers both a personal testament and a broader lesson about how fiction can heal trauma.  In contrast, “Ciro’s Nightclub of the Stars” provides a visual history of Hollywood’s 1940s‑50s elite, chronicling the intimate moments of stars through the lens of two pioneering women.  Together, the pieces illuminate how storytelling—whether through comics or photography—captures cultural memory and offers insight into the human condition.",
-    "summary_zh": "《黑夜》用蝙蝠侠的影像讲述了作者对童年恐惧与现实暴力的心理挣扎，展现了叙事疗愈与英雄主义的双重力量；《Ciro’s 夜总会》则以女性摄影师视角重现1940‑50年代好莱坞星光背后的真实故事，二者共同揭示叙事与记忆的永恒价值。",
-    "best_quote_en": "Dini’s story is all about coming to grips with a world that can be cruel, dealing with demons, and finding a way to overcome.",
-    "best_quote_zh": "Dini 的故事完全关于与可怕的世界相处、面对内心恶魔并寻找克服之道。"
-  },
-  {
-    "id": 219,
-    "title": "Using Stem Cells to Cure Autism, Epilepsy & Schizophrenia | Dr. Sergiu Pașca",
-    "title_zh": "使用干细胞治愈自闭症、癫痫和精神分裂症 | 司尔吉乌·帕斯卡博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/using-stem-cells-to-cure-autism-epilepsy-and-schizophrenia-dr-sergiu-pasca",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-08-18",
-    "summary_en": "In this episode, Dr. Sergiu Pașca takes listeners into the cutting‑edge world of stem‑cell‑derived brain models—organoids and assembloids—to tackle autism, epilepsy, and schizophrenia. He explains how these miniature human brains, grown from patient‑derived cells, allow researchers to observe disease progression, screen drugs, and even test cell‑replacement strategies in a controlled setting. Beyond the science, Pașca confronts the ethical and safety hurdles of gene editing, CRISPR, and stem‑cell therapies, urging a balanced dialogue between innovation and responsibility. The conversation is rich with data‑driven insights, real‑world case studies, and forward‑looking speculation about future medical banking and immortalized tissues. For clinicians, researchers, and curious citizens, the episode offers actionable pathways, expert perspective, and a sober reminder that progress in neuro‑regeneration must be matched with rigorous oversight.",
-    "summary_zh": "这期访谈聚焦干细胞与脑疾病的前沿研究，Dr. Pașca 通过“器官样体”和“组装体”揭示自闭症、癫痫等神经疾病的新治疗路径。他不止讨论科学原理，更深入伦理与安全议题，提醒公众与科研者在追求突破时必须兼顾责任。节目中对基因编辑、CRISPR 的应用提出质疑，强调精准诊断与家族基因筛查的重要性。对干细胞移植的时机与伦理框架进行辩证，既展示技术潜力，又警示可能的风险。此内容对医学研究者、临床医生及关心脑健康的公众均具高价值，提供可行思路与批判性视角。",
-    "best_quote_en": "Organoids and assembloids—human stem cell–derived tools he pioneered to study, treat and cure complex brain diseases.",
-    "best_quote_zh": "器官样体和组装体——他所开创的人类干细胞衍生工具，用来研究、治疗和治愈复杂脑疾病。"
-  },
-  {
-    "id": 220,
-    "title": "My Trip to Greenland with Tété-Michel Kpomassie",
-    "title_zh": "与特特-米歇尔·克波马西一起的格陵兰之旅",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/12/01/my-trip-to-greenland-with-tete-michel-kpomassie/",
-    "tags": [
-      "update",
-      "writing-content",
-      "lifestyle",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "写作内容",
-      "生活方式",
-      "案例研究"
-    ],
-    "date": "2025-12-01",
-    "summary_en": "This piece chronicles a transatlantic adventure that blends personal narrative with cultural exploration, as the author journeys along Greenland’s western coast alongside the celebrated memoirist Tété‑Michel Kpomassie. The narrative is framed not merely as a travelogue but as a dialogue about inspiration, family, and the intoxicating pull of alcohol, all set against the stark backdrop of the Arctic. Readers witness the author’s growing intimacy with Kpomassie’s legacy, from the original 1965 expedition to the modern‑day cruise, and the serendipitous encounters with people who have lived there for decades. The article’s strength lies in its reflective tone; it invites contemplation on how travel can become a form of reading—absorbing landscapes, stories, and the quiet wisdom of those who have charted them. By publishing in the Sunday Times’ travel supplement, the piece gains a wider audience, positioning the journey as a case study in cross‑cultural storytelling. Ultimately, the narrative underscores that travel is an act of continual learning, a reminder that every place holds a story worth revisiting.",
-    "summary_zh": "这篇文章记录了作者与格陵兰探险家克波马西的深度对话与旅程，既是一次跨文化的自我探索，也是对旅行文学的独到诠释。作者通过与克波马西的互动，探讨写作灵感、家庭与饮酒等主题，呈现出对人性与记忆的细腻关照。文章不仅展示了格陵兰壮丽景观，更以叙事视角呼唤读者关注跨文化对话与个人成长，提醒我们旅行是自我重塑的过程。",
-    "best_quote_en": "I hope it will be the first of several kinds of storytelling that come out of this amazing adventure.",
-    "best_quote_zh": "我希望这将成为从这段惊人冒险中诞生的多种叙事中的第一种。"
-  },
-  {
-    "id": 221,
-    "title": "A ‘feminised workplace’ doesn’t mean what you think it means | Letter",
-    "title_zh": "‘女性化的工作场所’并非你想象的那样",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/world/2025/dec/01/a-feminised-workplace-doesnt-mean-what-you-think-it-means",
-    "tags": [
-      "update",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-12-01",
-    "summary_en": "This letter reframes the contentious notion of a \"feminised workplace\" by grounding it in feminist labour theory rather than gender stereotypes. The authors argue that the term should describe how gendered expectations shape pay, hours, and conditions, revealing capitalism’s exploitation of femininity and masculinity narratives. By critiquing the right‑wing narrative that equates female dominance with weakened industries, they highlight the need to accurately map gendered work to achieve equity. The piece is rich in academic authority, drawing on research from the University of Southern Denmark, and offers a nuanced, data‑driven perspective that challenges simplistic binaries. It invites readers to reconsider how labour markets are gendered, urging a move beyond surface labels toward structural reform. The article’s implications resonate for policymakers, HR professionals, and scholars who seek evidence‑based strategies to dismantle gendered inequities in modern economies.",
-    "summary_zh": "作者以女性主义视角重新定义“女性化工作场所”，揭示工资、工时与性别认知的深层关联，批判资本主义利用性别刻板印象的做法。文章以学术权威为支撑，呼吁从结构层面重塑劳动力市场，超越表面标签，推动真正的性别平等。",
-    "best_quote_en": "A feminist approach reveals that pay, working hours and working conditions are inseparably connected with the ways we define femininity and masculinity.",
-    "best_quote_zh": "女性主义的方法揭示，工资、工作时间和工作条件与我们定义女性气质和男性气质的方式密不可分。"
-  },
-  {
-    "id": 222,
-    "title": "Let the Other 95% of Great Programmers In",
-    "title_zh": "让其他95%的优秀程序员加入",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/95.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2025-12-02",
-    "summary_en": "The essay argues that America’s tech dominance hinges on admitting the world’s top 95% of programmers, a demographic largely foreign to the U.S. It critiques anti‑immigration rhetoric that claims domestic training can fill the talent gap, pointing out the immutable aptitude gap between competent and exceptional coders. By citing startup CEOs who would hire dozens more if talent were available, the author demonstrates a tangible demand that cannot be met by training alone. The piece frames immigration not as a cost‑cutting measure but as a strategic imperative: a small influx of elite talent could preserve the U.S. as a technology superpower, while ignoring it risks a catastrophic loss of competitive edge. The argument is data‑driven, forward‑looking, and challenges conventional policy narratives, urging policymakers to act swiftly with minimal cost. It invites readers to rethink talent acquisition as a national security issue rather than a mere labor market concern.",
-    "summary_zh": "作者主张美国技术优势取决于吸纳全球95%的优秀程序员，强调培训不足以弥补天赋差距。通过硅谷创始人愿意雇佣更多人才的例子，指出人才需求已超出现有国内培养能力。文章将移民视为战略需求，若不及时行动，美国将失去技术领先地位，后果严重。它用数据与前瞻性视角挑战传统政策，呼吁决策者以低成本迅速行动，将人才引进视为国家安全问题。",
-    "best_quote_en": "Exceptional performance implies immigration. A country with only a few percent of the world’s population will be exceptional in some field only if there are a lot of immigrants working in it.",
-    "best_quote_zh": "如果我们不让优秀程序员进入美国，后果将非常严重。"
-  },
-  {
     "id": 223,
     "title": "The Dishonorable Strikes on Venezuelan Boats",
     "title_zh": "Venezuela船只被无情袭击",
@@ -2394,5 +2276,123 @@
     "summary_zh": "在这期节目中，马丁·皮卡德博士将线粒体描绘成连接心理与身体能量的关键桥梁。他指出，运动、营养、睡眠与正念等生活方式像给细胞充电，直接影响活力与衰老。通过整合炎症、氧化应激与线粒体生物发生的研究，提出可操作的工具——呼吸练习、睡眠管理、SS31等营养素——让科学变成日常可落地的习惯。节目把灰发、疲劳等常见问题视为可逆的细胞压力，重新定义衰老为可调节的过程，给听众一份数据驱动、可实践的生物学行动指南。",
     "best_quote_en": "\"Your mitochondria don’t just ‘make energy’; they translate what you do—your mindset and your relationships—into the energy you experience as vitality or lack thereof.\"",
     "best_quote_zh": "“你的线粒体不仅仅是‘产生能量’；它们将你的行动——你的心态和人际关系——转化为你感受到的活力或缺乏活力的能量。”"
+  },
+  {
+    "id": 318,
+    "title": "Collecting memories and stories of feminists | Letters",
+    "title_zh": "收集女权主义者的记忆与故事 | 信件",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/dec/22/collecting-memories-and-stories-of-feminists",
+    "tags": [
+      "solve",
+      "science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "The piece is a reflective call to preserve the lived narratives of women’s liberation activists who, in the 1960s and ’70s, shaped policy and culture without formal structures. By foregrounding grassroots voices, the authors challenge the dominant archival narrative that privileges institutional milestones such as the Sex Discrimination Act. Their “Howl” collective illustrates how oral histories and personal archives can illuminate the subtle, often overlooked, everyday struggles that fueled the movement. The article underscores the urgency of documentation—memories fade, and the risk of erasure grows as older activists pass on. It also connects the WLM’s activism to wartime pioneers like Pauline Gower, reminding readers that gender equality has always been a contested, cumulative effort. The call to “collect more” invites contemporary feminists to become archivists, ensuring that the movement’s complexity remains visible and actionable for future generations. The piece is both a historical lesson and a practical guide for preserving feminist heritage.",
+    "summary_zh": "文章呼吁记录女权主义者的亲身经历，提醒我们传统史料往往忽视基层声音。通过“Howl”集体的口述历史，作者强调记忆保存的紧迫性，并将1960s‑70s的运动与二战女飞行员的先驱相连，展示性别平等的持续斗争。",
+    "best_quote_en": "The struggles (we all spoke of struggles) taking place both around the law and equal rights, and among the women who considered themselves more radical, are fading from living memories via lived experiences.",
+    "best_quote_zh": "我们想要更多！"
+  },
+  {
+    "id": 319,
+    "title": "Grounding Value Learning in Evolutionary Psychology: an Alternative Proposal to CEV",
+    "title_zh": "用进化心理学阐明价值学习：对CEV的替代方案",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/iHdfi7jwDrBxa2MZ9/grounding-value-learning-in-evolutionary-psychology-an",
+    "tags": [
+      "solve",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "The post argues that the long‑standing Coherent Extrapolated Volition (CEV) framework for AI alignment is too vague and computationally intractable.  Instead, it proposes grounding “human values” in evolutionary psychology—specifically, evolutionary moral psychology—so that value learning becomes a well‑defined scientific problem.  By treating AI as a tool, part of our extended phenotype, the author shows that anthropomorphizing AIs is a maladaptive category error that could even pose existential risk.  The essay blends philosophical critique with engineering pragmatism, outlining how a nearly‑aligned AI could ask for a formal definition of human values and receive an evolutionary‑based answer.  It also discusses the limits of current evolutionary theory, the need for large‑scale research, and the implications for control and rights.  Overall, the piece offers a novel, interdisciplinary roadmap that reframes alignment from a metaphysical puzzle into a testable, biologically grounded science.",
+    "summary_zh": "本文以进化心理学为框架，重新定义“人类价值”，提出在人工智能对齐中可替代CEV的价值学习方法。作者批判CEV的模糊性，强调将AI视为工具而非进化生物的适应性错误，并指出利用进化道德心理学可为AI赋予人类福祉导向的目标。文章兼具理论深度与实践可行性，既为对齐研究提供新的起点，也提醒人类在与AI共生时应避免人性化误区。",
+    "best_quote_en": "Evolutionary Moral Psychology tells us that we should not anthropomorphize AIs; treating them as evolved beings is a maladaptive category error.",
+    "best_quote_zh": "进化道德心理学告诉我们不应将人工智能拟人化；将其视为进化生物是适应性错误的分类错误。"
+  },
+  {
+    "id": 320,
+    "title": "Transform Pain & Trauma Into Creative Expression | David Choe",
+    "title_zh": "将痛苦与创伤转化为创意表达 | David Choe",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/transform-pain-and-trauma-into-creative-expression-david-choe",
+    "tags": [
+      "guide",
+      "psychology",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "心理学",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "David Choe’s interview is a raw, almost therapeutic narrative that bridges art, trauma, and personal growth. He recounts a childhood shaped by conflicting messages—destined for greatness yet condemned as a disgrace—leading him to channel shame into globally recognized street art. The core insight is that vulnerability, especially regarding painful experiences, becomes a catalyst for creative output and self‑forgiveness. Choe’s candid discussion of addiction cycles, early fame on Facebook, and even controversial topics like pornography underscores the complexity of the artist’s journey. For listeners, the episode offers a dual roadmap: first, a psychological framework for turning pain into purpose; second, practical strategies for maintaining authenticity while navigating commercial pressures. The dialogue is both a case study in resilience and a broader commentary on how societal expectations can be subverted through creative expression. It invites audiences to reframe their own setbacks as potential sources of innovation, making the content valuable for artists, entrepreneurs, and anyone seeking transformative personal development.",
+    "summary_zh": "David Choe 以痛苦与创伤为创作燃料，展示了脆弱与自我接纳如何成为艺术与成长的催化剂。他的故事提醒我们：将负面经历转化为创造力，不仅能治愈自我，也能激励他人迈向更真诚、更有意义的生活。",
+    "best_quote_en": "Complete vulnerability, especially about our hardest experiences, is the ultimate tool for forgiveness and self‑acceptance.",
+    "best_quote_zh": "完整的脆弱，尤其是关于我们最艰难的经历，是宽恕和自我接纳的终极工具。"
+  },
+  {
+    "id": 321,
+    "title": "How Can You Address Effects of Social Media on Well-Being?",
+    "title_zh": "如何应对社交媒体对幸福感的影响？",
+    "source": "Ulterior Motives (Art Markman Ph.D.)",
+    "link": "https://www.psychologytoday.com/us/blog/ulterior-motives/202503/how-can-you-address-effects-of-social-media-on-well-being",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-03-06",
+    "summary_en": "Recent research in the Journal of Experimental Psychology: General demonstrates that while social media can erode well‑being through comparison, loneliness, and passive consumption, targeted interventions can reverse these trends. The study compared an abstinence tutorial—teaching users to avoid platforms—with a social‑learning curriculum that encourages mindful engagement, selective following, and connection‑building. Both approaches cut harmful comparisons and reduced intensity of use, but the abstinence strategy also dampened positive friend interactions, inadvertently harming well‑being. The social‑learning arm, however, lowered fear of missing out, decreased loneliness, and proved more sustainable over a six‑week period. These findings suggest that empowering teens and emerging adults with practical, context‑specific skills is more effective than blanket bans. Future work should test whether such habits endure beyond weeks and whether they translate into long‑term mental‑health gains.",
+    "summary_zh": "最新研究表明，社交媒体对青少年幸福感有负面影响，但通过“戒断”与“社交学习”两种干预手段可逆转此趋势。戒断方案虽减少比较，却削弱正面互动；社交学习方案降低“错失恐惧”与孤独感，并更具可持续性。研究提示，赋予年轻人实用、情境化的使用技巧，比单纯禁用更有效。未来需检验此类习惯在更长周期内的持久性与对心理健康的长远益处。",
+    "best_quote_en": "The social learning approach is most sustainable.",
+    "best_quote_zh": "社会学习方法最具可持续性。"
+  },
+  {
+    "id": 322,
+    "title": "ChatGPT Is a Dude",
+    "title_zh": "ChatGPT 是个家伙",
+    "source": "Psychology Tomorrow (Bence Nanay Ph.D.)",
+    "link": "https://www.psychologytoday.com/us/blog/psychology-tomorrow/202509/chatgpt-is-a-dude",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "争议观点"
+    ],
+    "date": "2025-09-10",
+    "summary_en": "The article offers a provocative critique of ChatGPT’s conversational persona, framing it as an overconfident, entitled male archetype. By dissecting a personal anecdote—an errant film memory—Nanay demonstrates how the model’s confidence can amplify hallucinations, turning plausible misinformation into unwavering assertions. This phenomenon is not unique to ChatGPT; it reflects a systemic bias in large language models that mirror the dominant, often male‑centric narratives found online. The piece raises a subtle but urgent warning: as AI becomes a ubiquitous interlocutor, its unearned confidence may erode users’ intellectual humility and shape social interactions. The argument invites readers to reconsider how we evaluate AI outputs, not just for factual accuracy but for the tone and authority they project. Ultimately, it urges a shift toward more transparent, self‑critical AI design, lest we internalize a culture of overconfidence and entitlement.",
+    "summary_zh": "文章以幽默批判的方式，将ChatGPT描绘成自信且有些自负的男性角色。作者通过个人经历揭示，模型的自信会放大错误，形成“自信的幻觉”。这不仅是技术缺陷，更是对网络主流语境的反映。文章警示：AI的无所不知可能削弱人类的谦逊，影响人际互动。它呼吁AI设计更透明、具自省性，以免让社会沉浸在过度自信的氛围中。",
+    "best_quote_en": "The issue is not that ChatGPT gets things wrong. Of course it does, and these 'hallucinations' of AI systems have been analyzed to death. The issue is just how sure it is about its (wrong) answers.",
+    "best_quote_zh": "ChatGPT的自信并不是错误的答案，而是对错误答案的过度自信。"
   }
 ]
