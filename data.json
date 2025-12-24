@@ -1,123 +1,5 @@
 [
   {
-    "id": 223,
-    "title": "The Dishonorable Strikes on Venezuelan Boats",
-    "title_zh": "Venezuela船只被无情袭击",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/the-dishonorable-strikes-on-venezuelan-boats",
-    "tags": [
-      "solve",
-      "politics",
-      "legal",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "法律法规",
-      "争议观点"
-    ],
-    "date": "2025-12-02",
-    "summary_en": "The Washington Post’s explosive report alleges that U.S. Defense Secretary Pete Hegseth issued a verbal order to “kill everybody” on a Venezuelan drug‑trafficking boat, and that a second strike was carried out against survivors who were already incapacitated.  The story exposes a pattern of at least twenty‑plus maritime strikes that the administration frames as an armed conflict with “narco‑terrorists,” a justification that legal scholars dismiss as a twisted use of the law of war.  The piece documents congressional calls for oversight, the Pentagon’s defensive posture, and the stark contrast between the administration’s rhetoric and the legal obligations that prohibit no‑quarter orders and attacks on hors‑de‑combat.  It highlights the moral crisis of a nation that brands itself as a guardian of the rule of law while allegedly violating that very law.  The narrative underscores how political power can be wielded to override legal norms, sparking bipartisan alarm and the risk of a new crisis of legitimacy for U.S. military conduct overseas.",
-    "summary_zh": "华盛顿邮报爆料称美国国防部长海格塞特下令“全部击毙”委内瑞拉毒贩船只，并对受伤幸存者再次发动袭击。文章揭露美国将此类行动描述为与“毒贩恐怖分子”作战的做法，法律专家认为是对战时法的扭曲使用。随之而来的国会监督呼吁、五角大楼的辩护姿态，以及对“无怜悯”与“战斗力受限”法则的违背，凸显了美国自称守法的国家在实际行动中可能违背自身法律的道德危机。",
-    "best_quote_en": "There can be no conceivable legal justification for attacking the survivors.",
-    "best_quote_zh": "这是一场法律的游戏，完全脱离事实。"
-  },
-  {
-    "id": 224,
-    "title": "Micro-Lending",
-    "title_zh": "微贷",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/micro-lending/",
-    "tags": [
-      "guide",
-      "business-model",
-      "economics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "商业模式",
-      "经济金融",
-      "数据驱动"
-    ],
-    "date": "2025-11-24",
-    "summary_en": "Micro‑lending is presented not merely as a financial tool but as a catalytic mechanism that multiplies impact through virtuous cycles. The article frames it as a “tool” that turns minimal capital into measurable, global change by enabling the poorest to become enablers themselves. It highlights three proven models—peer‑to‑peer lending via Kiva, conditional grants from Trickle Up, and breeding‑pair gifting by Heifer International—each combining low entry thresholds, high repayment rates, and a self‑reinforcing growth loop. The analysis uncovers a critical insight: when the recipient is required to give back (whether a loan, training, or animal), the original donation amplifies exponentially, creating a sustainable development engine. The piece also critiques conventional charity for its one‑off nature, positioning micro‑finance as a scalable, data‑driven intervention that blends philanthropy with micro‑entrepreneurship. Its practical value lies in actionable pathways for donors, evidence of high repayment rates, and a persuasive narrative that reframes giving as an investment in human potential.",
-    "summary_zh": "微贷被视为一种能将微小资本转化为全球影响的催化机制。文章强调三种成熟模式：Kiva 的点对点借贷、Trickle Up 的有条件赠款以及 Heifer 的育种配偶赠与。它们共同构建了低门槛、高回报、可持续的循环。核心洞见在于：受助者须回馈（借贷、培训或动物），原始捐赠可指数放大，形成发展引擎。作者批评传统慈善的“一次性”局限，主张微贷兼具慈善与微型创业的双重价值，为捐赠者提供可操作路径与数据驱动的成功案例。",
-    "best_quote_en": "The payback rate for Kiva is about 97%. That’s a better “investment” than stocks this past year!",
-    "best_quote_zh": "Kiva 的回报率约为 97%。这比去年股票更好的“投资”！"
-  },
-  {
-    "id": 225,
-    "title": "How to Be an Expert in a Changing World",
-    "title_zh": "如何在变革世界中成为专家",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/ecw.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-12-03",
-    "summary_en": "This essay argues that expertise is a moving target: what counts as expert knowledge today may become obsolete tomorrow. By treating the world as dynamic, the author proposes a practical framework for investors and innovators alike. First, consciously adopt a belief in constant change and remain open‑minded, avoiding the trap of monotonically increasing confidence. Second, shift focus from ideas to people—invest in earnest, independent thinkers whose curiosity often precedes market validation. Third, treat public commentary as a bet: the more visible you are, the sharper your self‑censorship becomes, pushing you toward rigorous, data‑driven hypotheses. The piece blends personal anecdotes from Y Combinator with philosophical reflections on prediction, offering a roadmap that is both actionable and intellectually honest. It challenges readers to reframe expertise as a skill of anticipation and humility, underscoring the accelerating pace of change that demands continuous learning and strategic risk‑taking.",
-    "summary_zh": "作者认为，专业知识是不断变化的，必须把世界视为动态，保持开放心态。通过关注人而非想法，投资有潜力的创始人；把公开评论视为赌注，促使自我审视。文章兼具个人经历与理论，强调在加速变革时代持续学习与冒险的重要性。",
-    "best_quote_en": "Instead of trying to point yourself in the right direction, admit you have no idea what the right direction is, and try instead to be super sensitive to the winds of change.",
-    "best_quote_zh": "与其试图指引自己走向正确的方向，不如承认自己不知道正确方向是什么，而是努力对变化的风向保持高度敏感。"
-  },
-  {
-    "id": 226,
-    "title": "GiveCalc: Open-source tool to calculate the true cost of charitable giving",
-    "title_zh": "GiveCalc：开源工具，计算慈善捐赠的真实成本",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/AEECwALP2jKXQmCAS/givecalc-open-source-tool-to-calculate-the-true-cost-of",
-    "tags": [
-      "update",
-      "ai-research",
-      "data-science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "数据科学",
-      "数据驱动"
-    ],
-    "date": "2025-12-03",
-    "summary_en": "GiveCalc is a sophisticated, free, open‑source calculator that goes beyond the simplistic marginal‑rate approach to charitable deductions. By embedding PolicyEngine’s microsimulation engine, it models the full cascade of interactions between donations, itemized deductions, phase‑outs, AMT, and state‑level tax rules for all 50 US states and UK Gift Aid. The result is a marginal giving discount curve that shows how much tax you actually save per dollar of giving at each donation level. This non‑linear insight empowers donors to time and size their contributions strategically—whether to bunch donations across years or to exploit higher‑rate relief in the UK. The tool is fully validated against NBER’s TAXSIM and the Atlanta Fed’s Policy Rules Database, and its source code is publicly available for scrutiny and contribution. For policy makers, researchers, and high‑net‑worth individuals, GiveCalc turns complex tax legislation into actionable, data‑driven decision support, bridging the gap between theory and practice in philanthropy.",
-    "summary_zh": "GiveCalc 通过 PolicyEngine 微模拟引擎，精准模拟美国各州和英国 Gift Aid 下的捐赠税收影响，输出每美元捐赠的边际税收节省曲线。它揭示了非线性折扣，帮助捐赠者合理安排捐赠时机与额度，甚至实现捐赠叠加。该工具已通过 NBER TAXSIM 与亚特兰大联邦储备政策规则数据库验证，源代码公开，兼具学术严谨与实用可操作性，成为政策制定者、研究者及高净值个人的理想决策助手。",
-    "best_quote_en": "The key output is your marginal giving discount: how much tax you save on your next dollar/pound of giving at any donation level.",
-    "best_quote_zh": "关键输出是您的边际捐赠折扣：在任何捐赠水平下，您下一美元/英镑捐赠所能节省的税额。"
-  },
-  {
-    "id": 227,
-    "title": "The Legal Consequences of Pete Hegseth’s “Kill Them All” Order",
-    "title_zh": "彼特·海格塞斯“全部杀掉”命令的法律后果",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/the-legal-consequences-of-pete-hegseths-kill-them-all-order",
-    "tags": [
-      "analyze",
-      "politics",
-      "legal",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "法律法规",
-      "争议观点"
-    ],
-    "date": "2025-12-01",
-    "summary_en": "The piece dissects the legal fallout of a controversial Defense Secretary order that led to the missile strike on a suspected drug‑smuggling boat in the Caribbean. By weaving expert testimony from a former Navy judge advocate with the U.S. legal framework—customary international law, the law of armed conflict, and domestic statutes—it argues that the strike violated multiple layers of law, potentially amounting to a war crime. The analysis is not merely descriptive; it interrogates the Administration’s shifting rhetoric—from self‑defense to a non‑international armed conflict—and exposes the contradictions between executive authority and congressional oversight. It also contextualizes the episode within the broader history of U.S. military accountability, citing past war‑on‑terror incidents and the legacy of figures like Calley. The piece invites readers to question the legitimacy of executive‑driven force and the mechanisms for civilian oversight, highlighting the tension between national security and the rule of law. In short, it is a call for rigorous investigation and a reminder that legal norms cannot be sidelined by strategic imperatives.",
-    "summary_zh": "文章剖析了海格塞斯下令对加勒比海一艘涉嫌走私船使用导弹的法律后果。通过引入前海军法官的专业见解，作者揭示该行动违背了国际法与国内法的多重约束，可能构成战争罪。文章不仅阐述事实，更批判了政府在自卫与非国际武装冲突之间的言辞矛盾，强调了立法监督的重要性，并与过去的战争罪案例相呼应，提醒公众执法与安全之间的平衡。",
-    "best_quote_en": "This one seems to have been very clearly intentional. I think that is one thing that makes it much different, and on some level worse, because if you’re looking at the use of force in an armed conflict and you have violations, not everything rises to the level of a war crime. This is a war crime.",
-    "best_quote_zh": "这一次似乎是非常明确的有意行为。我认为这使它与众不同，在某种程度上更糟，因为如果你在武装冲突中使用武力并出现违规，所有情况并不都升格为战争罪。 这是一种战争罪。"
-  },
-  {
     "id": 228,
     "title": "Pricier Mexican Residency/SteriPEN Ultralight/Expat Issue Discussions",
     "title_zh": "墨西哥居留费用上涨 / SteriPen 超轻型 / 外籍人士问题讨论",
@@ -2394,5 +2276,123 @@
     "summary_zh": "文章以幽默批判的方式，将ChatGPT描绘成自信且有些自负的男性角色。作者通过个人经历揭示，模型的自信会放大错误，形成“自信的幻觉”。这不仅是技术缺陷，更是对网络主流语境的反映。文章警示：AI的无所不知可能削弱人类的谦逊，影响人际互动。它呼吁AI设计更透明、具自省性，以免让社会沉浸在过度自信的氛围中。",
     "best_quote_en": "The issue is not that ChatGPT gets things wrong. Of course it does, and these 'hallucinations' of AI systems have been analyzed to death. The issue is just how sure it is about its (wrong) answers.",
     "best_quote_zh": "ChatGPT的自信并不是错误的答案，而是对错误答案的过度自信。"
+  },
+  {
+    "id": 323,
+    "title": "Book of the month: Yun Ko-eun",
+    "title_zh": "本月书籍推荐：尹高恩",
+    "source": "A year of reading the world",
+    "link": "https://ayearofreadingtheworld.com/2025/12/23/book-of-the-month-yun-ko-eun/",
+    "tags": [
+      "guide",
+      "writing-content",
+      "music-arts",
+      "case-study"
+    ],
+    "tags_zh": [
+      "指导",
+      "写作内容",
+      "音乐艺术",
+      "案例研究"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "The review of Yun Ko‑eun’s \"Art on Fire\" opens with a quirky premise: a struggling artist, An Yiji, lands a residency at the Robert Foundation, only to discover that each artist’s work is ultimately burned by a sentient dog named Robert. The novel blends surreal humor with sharp social commentary, exposing the fragile line between artistic authenticity and commercial pressure. Through An Yiji’s misadventures—delayed deliveries, imposter syndrome, and a bizarre translation process—the author satirizes the art world’s commodification while probing how meaning is reshaped by intermediaries. A standout moment is the dog’s “black box” communication, where human dialogue is compressed into a single, often distorted, message, highlighting the loss of nuance in mediated exchanges. The reviewer emphasizes the book’s meta‑reflection on translation itself: Lizzie Buehler’s rendition adds an extra layer of satire, turning linguistic shifts into a comedic commentary on cultural exchange. Overall, \"Art on Fire\" is a witty, thought‑provoking read that uses absurdity to illuminate contemporary artistic anxieties and the power of humor to confront the unsayable.",
+    "summary_zh": "尹高恩的《Art on Fire》以荒诞的艺术驻地设定，探讨创作与商业化的张力。书中狗狗罗伯特将作品烧毁，讽刺艺术家被迫在市场与真诚之间摇摆。主人公安一姬的翻译遭遇更凸显沟通的失真，作者借此批判媒介化时代的意义扭曲。Lizzie Buehler 的翻译更添幽默层次，让语言本身成为讽刺的载体。整部作品以轻松的笔调，既娱乐读者，又让人反思艺术与商业、真实与表象的关系。",
+    "best_quote_en": "\"While humans communicated with one another line by line … Robert saved the entire space‑time of a conversation in his head, like an enormous file transfer system.\"",
+    "best_quote_zh": "\"以轻松的方式说出难以言说的事，或许它能达到目标。\""
+  },
+  {
+    "id": 324,
+    "title": "The best slippers for men and women, from cosy sheepskin mules to chic ballet shoes",
+    "title_zh": "男女最佳拖鞋：从舒适羊毛拖鞋到时尚芭蕾鞋",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/thefilter/2024/dec/28/best-slippers-men-women",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "This piece blends lifestyle journalism with practical consumer guidance, positioning slippers as a lens into personal comfort, style, and productivity. By framing footwear choices as acts of self‑nurture, the author invites readers to re‑evaluate the everyday ritual of choosing what to wear at home. The article’s strength lies in its curated, diverse selection—from luxury sheepskin mules to minimalist ballet‑style shoes—each accompanied by design rationale, material insight, and situational suitability. The tone balances playful anecdote with expert‑level detail, offering readers actionable advice on matching slippers to climate, activity, and aesthetic. The piece also subtly underscores sustainability, highlighting ethical sourcing and recyclable materials. For consumers, the guide serves as a decision matrix: price, comfort, durability, and style. For brands, it showcases a successful product‑review format that marries storytelling with data‑driven comparisons. Overall, the article elevates a mundane item into a meaningful lifestyle choice, encouraging readers to consider how even small comforts can influence daily productivity and well‑being.",
+    "summary_zh": "这篇文章把拖鞋从日常小物提升为自我关怀与生活品质的象征。作者以幽默与专业并存的笔触，列举从羊毛拖鞋到芭蕾鞋等多样款式，详细说明材质、设计与使用场景。文章兼顾可持续性与时尚感，帮助读者在舒适、耐用与美观之间做出理性选择。它不仅是购物指南，更是一种生活态度的宣示，提醒我们即使是最平凡的物品也能提升工作效率与居家幸福。",
+    "best_quote_en": "The right slipper can truly make time at home feel 110% more cosy, productive, sociable or fun; whatever you need it to be on any given day.",
+    "best_quote_zh": "合适的拖鞋真的能让你在家里度过的时间变得 110% 更加舒适、富有成效、社交或有趣；无论你今天需要它是什么样子。"
+  },
+  {
+    "id": 325,
+    "title": "The Top of My Todo List",
+    "title_zh": "我的待办清单之首",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/todo.html",
+    "tags": [
+      "analyze",
+      "startup-strategy",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "创业策略",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-12-24",
+    "summary_en": "The author reflects on Bronnie Ware’s five regrets of the dying and turns them into proactive commands that become the top of a personal to‑do list. By framing the regrets as errors of omission—forgetting dreams, overworking, silencing feelings, neglecting friends, and denying happiness—the piece invites readers to invert them into concrete actions: pursue dreams, set healthy work limits, speak truthfully, nurture relationships, and cultivate joy. The essay blends anecdotal insight with practical advice, highlighting how defaults shape our lives and how conscious reminders can counteract them. It encourages a shift from passive compliance to intentional living, suggesting that the antidote to regret is a simple, daily checklist. The author’s voice is contemplative yet direct, urging readers to reassess their priorities and embed these commands into routine habits. This reflective exercise offers a low‑effort, high‑impact strategy for personal growth that resonates with anyone seeking to live more intentionally.",
+    "summary_zh": "作者以布朗妮·华尔的五大遗憾为镜，提炼出五条行动口号，成为待办清单之首。通过将遗憾视为默认失误——忽视梦想、过度工作、压抑感情、疏远朋友、否定快乐——他鼓励读者将其逆向为“追梦、限工、真言、友谊、快乐”。文章将自省与实用建议相结合，强调习惯与提醒的力量，倡导主动而非被动的生活方式。它为想要更有意识地生活的人提供了一份简洁而高效的日常指南，既易于执行，又能带来深远影响。",
+    "best_quote_en": "Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy.",
+    "best_quote_zh": "不要忽视你的梦想；不要过度工作；说出你的想法；培养友谊；保持快乐。"
+  },
+  {
+    "id": 326,
+    "title": "Alignment Fellowship",
+    "title_zh": "对齐奖学金",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/kCnwovXFHoqu5DvN2/alignment-fellowship",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-12-24",
+    "summary_en": "Zvi’s proposal for an Alignment Fellowship tackles a perennial pain point for researchers: the tedious, resource‑draining cycle of grant applications and fundraising. By offering unconditional, two‑year grants to a handful of promising individuals—selected through a community‑voted, delegatable nomination system—he seeks to eliminate the “justifying existence” burden that stifles creativity, especially in high‑stakes fields like AI alignment. The idea is radical yet grounded: it borrows the Thiel Fellowship’s unconditional‑grant model and applies it to existential risk, while leveraging crowd wisdom to identify talent. The proposal invites critical questions—optimal award size, voting mechanics, eligibility criteria—yet it opens a dialogue about democratizing funding, reducing administrative overhead, and accelerating breakthrough research. For anyone interested in funding innovation, the piece is a case study in designing incentive structures that reward intrinsic motivation and long‑term impact. It also challenges conventional philanthropy, suggesting that a more participatory, data‑driven approach could uncover hidden talent and better align resources with societal needs.\n",
+    "summary_zh": "Zvi提议的对齐奖学金通过无条件两年资助，消除研究者的申请与筹资负担，尤其针对AI对齐等高风险领域。采用社区投票与可委托机制，借鉴Thiel Fellowship模式，聚焦人才发现与资源匹配。此举既创新又务实，探讨奖金额、投票规则与合格标准，提出去中心化、数据驱动的资助方案，可能大幅提升科研效率与社会效益。",
+    "best_quote_en": "Unconditional Grants to Worthy Individuals Are Great",
+    "best_quote_zh": "我想给每个对齐论坛的成员一票，允许他们委托"
+  },
+  {
+    "id": 327,
+    "title": "Trump, Epstein, and the Women",
+    "title_zh": "特朗普、爱泼斯坦与女性",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/trump-epstein-and-the-women",
+    "tags": [
+      "analyze",
+      "science",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "Trump’s legacy as a predator is laid bare through the unprecedented torrent of Epstein documents, revealing a chilling partnership built on sexual exploitation and impunity. The article weaves court rulings, eyewitness testimony, and investigative journalism to show how Trump’s public bravado—captured in the infamous Access Hollywood tape—masked a pattern of misogynistic dominance that persisted long after the 2016 election. By juxtaposing the Trump–Epstein nexus with the fabricated Nassar letter, the piece critiques the media’s appetite for sensationalism while underscoring the systemic failures that allowed such behavior to flourish. It also interrogates the cultural logic that excuses “locker‑room talk” and the political calculus that prioritizes image over accountability. The narrative urges readers to recognize that a single damning revelation is rarely the tipping point; instead, it is the accumulation of abuse, financial self‑dealing, and rhetoric that erodes democratic norms. In doing so, it calls for a deeper reckoning with how power, gender, and media intersect in contemporary politics.",
+    "summary_zh": "文章揭示特朗普与爱泼斯坦的勾结，展示其长期的性剥削与权力纵容。通过法院判决、目击者与调查报道，批判媒体的耸人听闻与政治的图像至上。强调单一丑闻无法解释全部，而是累积的性侵、金钱交易与言论侵蚀了民主规范，呼吁深度反思权力、性别与媒体的交织。",
+    "best_quote_en": "I don’t even wait. And, when you’re a star, they let you do it. You can do anything… Grab ’em by the pussy. You can do anything.",
+    "best_quote_zh": "我甚至不等，抓住她们，抓住她们"
   }
 ]
