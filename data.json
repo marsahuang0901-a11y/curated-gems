@@ -1,125 +1,5 @@
 [
   {
-    "id": 232,
-    "title": "What is the most impressive game an LLM can implement from scratch?",
-    "title_zh": "LLM 从零开始实现的最令人印象深刻的游戏是什么？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/GbjnPZWmY6TeqMHzJ/what-is-the-most-impressive-game-an-llm-can-implement-from",
-    "tags": [
-      "learn",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-04",
-    "summary_en": "The article probes the limits of large language models (LLMs) in creative coding, using game generation as a litmus test for practical programming prowess. It critiques conventional benchmarks—LeetCode‑style puzzles and template‑heavy web demos—arguing that they fail to capture the nuanced, iterative design loop required to build a playable game. By spotlighting OpenAI’s GPT‑5.1 demo of a polished 2D space shooter, the author demonstrates how a single prompt can coax a model into synthesizing graphics, sound, physics, and AI into a cohesive, functional product. The piece then expands into a meta‑analysis: why games uniquely stress an LLM’s ability to reason about user experience, edge cases, and emergent mechanics, and how this maps to real‑world software engineering. It concludes with an open call for systematic, genre‑agnostic prompt experiments, urging readers to document their own one‑shot results to refine the community’s understanding of LLM competence and economic impact.",
-    "summary_zh": "作者通过游戏生成测试，探讨LLM在创意编码中的极限，批评传统LeetCode式基准和模板化网页演示无法衡量真正的编程能力。以GPT‑5.1的2D太空射击为例，展示单一提示如何让模型合成图形、音效、物理与AI，形成完整可玩产品。随后作者阐释游戏为何能压测LLM对用户体验、边缘情况和新机制的推理，映射到实际软件工程。最后呼吁社区记录多体裁一次性提示实验，以更精准评估LLM经济价值。",
-    "best_quote_en": "\"Game programming, in contrast, is all about pushing technical limits, and, unlike most other domains of programming, there are sharply diminishing returns on coloring‑by‑numbers.\"",
-    "best_quote_zh": "“游戏编程相反，它完全是关于推动技术极限，而与大多数编程领域不同，填色式编程的收益会迅速递减。”"
-  },
-  {
-    "id": 233,
-    "title": "Essentials: Controlling Your Dopamine for Motivation, Focus & Satisfaction",
-    "title_zh": "必修课：控制多巴胺以提升动力、专注与满足感",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-controlling-your-dopamine-for-motivation-focus-satisfaction",
-    "tags": [
-      "guide",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-08-14",
-    "summary_en": "In this concise Huberman Lab Essentials episode, Dr. Andrew Huberman dissects the biochemical engine behind motivation—dopamine—and equips listeners with concrete, science‑backed techniques to fine‑tune their drive. He maps how dopamine’s highs, lows, and baseline levels sculpt our willingness to act, how specific stimuli (cold exposure, caffeine, effort‑based rewards, and certain supplements) can safely elevate dopamine, and how the timing of rewards can rewire the brain’s reward circuitry. The discussion balances clinical depth—touching on Parkinson’s disease, addiction, and neurochemical prediction errors—with practical advice for students, professionals, and anyone seeking sustained focus. By framing dopamine as a currency that can be earned and regulated, the episode invites listeners to treat motivation like a skill: measurable, adjustable, and improvable. The implications stretch beyond personal productivity, hinting at broader strategies for mental resilience, habit formation, and even ethical considerations around pharmacological enhancement.",
-    "summary_zh": "在本期Huberman实验室必修课中，Andrew Huberman博士拆解了多巴胺驱动动机的生化机制，并提供科学验证的实用技巧，帮助人们精准调节动力。",
-    "best_quote_en": "The highs, lows, and baseline levels of dopamine shape your motivation and long-term satisfaction.",
-    "best_quote_zh": "多巴胺的高峰、低谷和基线水平塑造了你的动机和长期满足感。"
-  },
-  {
-    "id": 234,
-    "title": "The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello ( #838)",
-    "title_zh": "随机秀 — 2–2–2 规则、人工智能的未来、生物电医学、现代约会生存、DORA 对阿尔茨海默症的承诺以及安东尼·德·梅洛的智慧（#838）",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/12/03/the-random-show-with-kevin-rose-2/",
-    "tags": [
-      "inspire",
-      "medicine",
-      "health-wellness",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "医学健康",
-      "健康养生",
-      "数据驱动"
-    ],
-    "date": "2025-12-03",
-    "summary_en": "In this Random Show episode, Tim Ferriss and Kevin Rose dissect the 2–2–2 drinking rule, the meteoric rise of AI, the promise of Dual Orexin Receptor Antagonists (DORAs) for Alzheimer’s sleep therapy, and the frontier of bio‑electric medicine. They weave scientific studies with personal anecdotes to craft actionable toolkits and mindset frameworks that empower listeners to make smarter choices in health, technology, and relationships. The discussion highlights how rapid AI evolution can obsolete yesterday’s opinions, how sleep quality directly ties to cognitive decline, and how simple behavioral rules like the 2–2–2 can mitigate alcohol’s long‑term damage. By combining data‑driven insights with practical tips, the episode offers a holistic playbook for navigating the intertwined worlds of wellness, innovation, and modern dating.",
-    "summary_zh": "在这期随机秀中，费里斯与科文·罗斯深入探讨 2–2–2 饮酒规则、AI 的快速演进、DORA 作为阿尔茨海默症睡眠治疗的潜力、以及生物电医学的新前沿。两位嘉宾结合科学研究与个人经验，提出实用工具与思维框架，帮助听众在健康、科技与人际关系上做出更明智的选择。",
-    "best_quote_en": "2 drinks max in one day, 2 days a week, never 2 days in a row.",
-    "best_quote_zh": "每天最多两杯，周最多两天，且不连续两天。"
-  },
-  {
-    "id": 235,
-    "title": "Women behind the lens: ‘They waited in a kind of deranged inactivity for the possibility of a visit’",
-    "title_zh": "女性镜头背后：‘她们在一种疯狂的不活跃中等待可能的探视’",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/dec/03/women-venezuela-prison-photography-drugs-family",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-03",
-    "summary_en": "Ana María Arévalo Gosen’s photo essay, “Días Eternos,” lays bare the invisible torment of women locked in Venezuela’s Poli‑Valencia detention centre. By turning an abandoned interrogation office into a makeshift sanctuary, the detainees etched their identities onto sterile walls—names, hearts, defiant slogans—defying a system intent on erasing them. The images capture the raw humanity of women like Daniela, sentenced before her family knew she existed, and Roxana, who turned her addiction‑plagued past into a university degree and a book. Gosen’s work is more than reportage; it is a case study of resistance, a stark illustration of how institutional neglect fuels despair, and a call to action for human‑rights advocacy. The series invites viewers to confront the everyday cruelty of incarceration while celebrating the resilience of those who refuse to disappear. It challenges us to rethink prison reform, gendered justice, and the power of visual storytelling to ignite empathy and policy change.",
-    "summary_zh": "阿玛里亚·阿雷瓦尔·戈森的摄影系列《永恒之日》揭示了委内瑞拉Poli‑Valencia拘留中心女性的无声痛苦。被改造成临时避难所的旧讯问室，囚犯们在墙上刻下姓名、心形和反抗口号，抵抗消除身份的制度。照片中丹尼尔和罗克萨娜的故事——前者在家人不知情的情况下被判刑，后者从毒瘾到大学学位并写书——展示了抵抗与人权倡导的力量。作品不仅是记录，更是对监狱改革、性别正义与视觉叙事激发同理心与政策变革的呼唤。",
-    "best_quote_en": "\"I don’t expect anyone to believe in me because I don’t believe in anyone.\"",
-    "best_quote_zh": "“我不指望有人相信我，因为我不相信任何人。”"
-  },
-  {
-    "id": 236,
-    "title": "Try Training SAEs with RLAIF",
-    "title_zh": "尝试使用 RLAIF 训练 SAE",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/DKAqtetYmjeKZJHPw/try-training-saes-with-rlaif",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-05",
-    "summary_en": "This article proposes a hybrid training objective for Sparse Autoencoders (SAEs) that blends reconstruction loss, sparsity, and a reinforcement learning–style interpretability loss (RLAIF). By back‑propagating a human‑interpretable metric—correlation with concept presence and causal influence—into the SAE directions, the author seeks to combine the unsupervised power of SAEs with the direct interpretability gains of probes. The insight lies in treating interpretability as a differentiable objective, potentially resolving longstanding issues such as feature splitting, meta‑SAEs, and atomicity. The proposal is ambitious: it demands heavy evaluation with large language models and validation corpora, raising scalability concerns. Yet the conceptual leap is clear—if successful, it could democratize interpretable feature learning without costly labeled datasets. The article invites collaboration, signaling a nascent research frontier that merges mechanistic interpretability, RLHF, and unsupervised representation learning. It challenges researchers to rethink loss design, pushing the field toward more human‑aligned representations.",
-    "summary_zh": "作者提出将重建损失、稀疏约束与RLAIF解释性损失相结合，训练Sparse Autoencoder（SAE）。通过对人类可解释性指标进行反向传播，试图让SAE既保持无监督优势，又获得像探针那样的可解释特征。此思路可解决特征拆分、meta‑SAE和原子化等难题，但需大量LM评估，规模化是关键。若可行，将为无标签数据的可解释特征学习打开新途径。文章呼吁合作，标志着机制解释与RLHF交叉的新研究方向。",
-    "best_quote_en": "On top of the reconstruction and sparsity losses, train SAEs with a third loss given by doing RLAIF on how interpretable, simple, and causal features are.",
-    "best_quote_zh": "在重建和稀疏损失之上，再加入第三个损失，即通过 RLAIF 对特征的可解释性、简洁性和因果性进行评估并反向传播。"
-  },
-  {
     "id": 237,
     "title": "War Is Peace, the Dozing Don Edition",
     "title_zh": "战争即和平：沉睡的唐纳德版",
@@ -2390,5 +2270,125 @@
     "summary_zh": "在本期播客中，Tim Ferriss请来哈佛教授Arthur Brooks，探讨意义的科学、晨间仪式的力量与幸福的神经基础。Brooks推崇古老的Brahma Muhurta——日出前1.5小时醒来，以激发最佳创造力与情绪。结合神经科学与个人实验，他强调不以咖啡因提神，而以咖啡因聚焦，高剂量肌酸提升认知，并用“神圣半小时”进行礼拜或冥想以获得超越。对话凸显生产力取决于生理节律与意图的契合，意义追求是一场习惯实验室。Brooks以“关掉设备，去爱某人”作为收尾，体现以数据驱动的规律与人际连接交织，帮助听众打造更充实人生。",
     "best_quote_en": "If you don't know what to do today and meaning feels out of reach, turn off your device and go love somebody.",
     "best_quote_zh": "如果今天你不知道该做什么，意义感失去，你就关掉手机，去爱某人。"
+  },
+  {
+    "id": 332,
+    "title": "What happened next: The We Do Not Care Club – how a funny, furious feminist movement began",
+    "title_zh": "接下来发生了什么：不在乎俱乐部——一个有趣、愤怒的女权运动如何开始",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/lifeandstyle/2025/dec/26/what-happened-next-the-we-do-not-care-club-how-a-funny-furious-feminist-movement-began",
+    "tags": [
+      "analyze",
+      "medicine",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-12-26",
+    "summary_en": "The We Do Not Care Club (WDNC) is a grassroots movement born from a single, candid video by 45‑year‑old Melani Sanders, a menopausal woman who felt isolated and overwhelmed. Her humor‑laden list of “things we don’t care about” struck a chord with millions, turning a personal diary into a global sisterhood. The article traces Sanders’ journey from a frazzled content creator to the movement’s charismatic heart, highlighting the power of authentic storytelling to validate shared experiences and dismantle medical and societal silence around perimenopause. It also underscores the tension between viral fame and personal vulnerability—Sanders admitted to cutting her phone to cope, revealing the emotional cost of visibility. The piece invites readers to reflect on how digital communities can transform stigma into solidarity, and how humor can be a catalyst for empowerment. It offers a case study of how niche health issues can mobilize mass participation, challenging conventional narratives about aging and gender.\n",
+    "summary_zh": "这篇文章记录了梅拉尼·桑德斯如何用一段自嘲视频，开启了‘不在乎俱乐部’，让数百万更年期女性获得共鸣与支持。它揭示了社群力量如何把隐秘痛苦转化为幽默与团结，也提醒我们：数字声量背后仍有情感代价。",
+    "best_quote_en": "I honestly got scared.",
+    "best_quote_zh": "我真的很害怕。"
+  },
+  {
+    "id": 333,
+    "title": "How Y Combinator Started",
+    "title_zh": "Y Combinator 的起源",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/ycstart.html",
+    "tags": [
+      "update",
+      "startup-strategy",
+      "startup-funding",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "创业策略",
+      "创业融资",
+      "深度分析"
+    ],
+    "date": "2025-12-26",
+    "summary_en": "The narrative of Y Combinator’s birth is a study in entrepreneurial audacity and systemic disruption. Paul Graham and Jessica Livingston, disenchanted with conventional VC, envisioned a lean, seed‑funding engine that democratized access for young founders. Their first batch, a summer cohort of undergraduates, was less a profit‑driven experiment than a learning lab, yet it proved that synchronous, small‑scale investment could catalyze high‑growth startups. The story underscores the power of framing: by standardizing terms and synchronizing funding cycles, YC created a national platform that reshaped the startup ecosystem. It also illustrates how early misjudgments—such as underestimating the venture’s impact—can be reframed into a cultural phenomenon, the “Y Combinator effect.” For anyone studying venture capital, this account offers a blueprint for how vision, timing, and a willingness to experiment can overturn entrenched industry norms.",
+    "summary_zh": "Y Combinator 的创立故事是一场对创业精神与传统风险投资模式的大胆颠覆。创始人将小额、同步的种子融资标准化，打造全国性平台，改变了创业生态。它告诉我们，愿景与实验精神能颠覆行业固有规则，形成“Y Combinator 效应”。",
+    "best_quote_en": "\"We invented a term, 'the Y Combinator effect', to describe the moment when the realization hit someone that YC was not totally lame.\"",
+    "best_quote_zh": "\"我们创造了‘Y Combinator 效应’这个词，形容当人们意识到 YC 并非完全无聊的那一刻。\""
+  },
+  {
+    "id": 334,
+    "title": "Unknown Knowns: Five Ideas You Can't Unsee",
+    "title_zh": "未知的已知：你无法再忘记的五个概念",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/uqnpbDxnhi9aeQ8Hx/unknown-knowns-five-ideas-you-can-t-unsee",
+    "tags": [
+      "solve",
+      "personal-finance",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "个人理财",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2025-12-25",
+    "summary_en": "The post unpacks five “unknown knowns” – concepts that feel invisible until you internalise them and then become almost impossible to unsee. By dissecting the Intermediate Value Theorem, Net Present Value, local linearity of differentiable functions, Grice’s maxims, and Theory of Mind, the author illustrates how everyday reasoning can be blindsided by subtle mathematical or linguistic insights. The piece is both a call to broaden one’s conceptual toolkit and a reminder that seemingly mundane ideas underpin critical thinking, decision‑making, and interpersonal understanding. It balances rigorous examples with a conversational tone, urging readers to test themselves with real‑world disputes where these concepts are missing. The article’s strength lies in its blend of advanced theory with accessible case studies, making it a valuable resource for anyone who wants to sharpen their analytical intuition and avoid common cognitive blind spots.",
+    "summary_zh": "文章揭示了五个“未知已知”，让人意识到平凡概念背后的深层逻辑。通过中值定理、净现值、可微函数局部线性、格赖斯准则和心智理论，作者展示了日常推理中常见的盲点，并用实例说明如何在实际争论中检验这些概念。它兼具理论深度与易懂案例，鼓励读者扩展认知工具，提升判断力。",
+    "best_quote_en": "If you have not heard any of these ideas before, I highly recommend you look them up! Most likely, they will seem obvious to you.",
+    "best_quote_zh": "如果你以前没听过这些概念，我强烈建议你去查阅！它们很可能对你来说显而易见。"
+  },
+  {
+    "id": 335,
+    "title": "Americans Won’t Ban Kids from Social Media. What Can We Do Instead?",
+    "title_zh": "Americans Won’t Ban Kids from Social Media. What Can We Do Instead?",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/fault-lines/americans-wont-ban-kids-from-social-media-what-can-we-do-instead",
+    "tags": [
+      "inspire",
+      "legal",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "法律法规",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "The piece examines the clash between First‑Amendment rights and the urgent need to protect minors from social‑media harms. After noting that U.S. courts are unlikely to impose age bans, it turns to Australia’s Online Safety Amendment Act—an aggressive, data‑driven restriction that forces companies to verify users’ ages with AI‑analyzed selfies and imposes hefty fines for non‑compliance. While Australians largely support the law, enforcement is weak and many teens find workarounds, suggesting that societal pressure and parental action may be the real lever. The author contrasts this with past public‑health campaigns, arguing that a cultural shift—mirrored by school‑level phone bans—can gradually curtail youth exposure. The article warns that the anti‑smartphone movement reflects broader discomfort with the commodification of attention, and calls for a holistic vision that balances digital liberty with healthy life rhythms. It invites readers to rethink how technology should serve, rather than dominate, everyday life.",
+    "summary_zh": "文章探讨第一修正案与保护未成年人免受社交媒体危害的冲突，评估美国法律难以实施年龄限制，转而关注澳大利亚的《在线安全修正案》。该法通过AI自拍验证和高额罚款强制企业执行，尽管公众支持，却因监管松懈与青少年迂回手段，显示社会规范与家长治理才是关键。作者借鉴公共卫生禁烟经验，强调校园手机禁令等文化变革能逐步降低青少年使用率，并警示反智能手机运动揭示了对技术消费化的不安。文章呼吁构建以人为本的数字生活愿景，平衡言论自由与健康节奏。",
+    "best_quote_en": "I ultimately agree with Klein that we will not be neutral forever, even if our courts make an Australia‑like ban nearly impossible.",
+    "best_quote_zh": "社会变革已经在进行。"
+  },
+  {
+    "id": 336,
+    "title": "Expiring Perks/Bone-conducting Earbuds/Forge Travel Wallet",
+    "title_zh": "即将到期的特权/骨传导耳机/Forge 旅行钱包",
+    "source": "Kevin Kelly",
+    "link": "https://kk.org/cooltools/expiring-perks-bone-conducting-earbuds-forge-travel-wallet/",
+    "tags": [
+      "update",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-12-25",
+    "summary_en": "The newsletter stitches together four practical travel hacks into a single, engaging snapshot that feels both like a personal diary and a concierge guide. It starts with a subtle reminder that credit‑card perks can be calendar‑based, not just renewal‑based, and illustrates the money‑saving power of a $150 credit on 2026 hotel stays—an actionable tip that would resonate with budget‑savvy travelers. Next, the piece pivots to health‑aware audio tech: bone‑conducting earbuds that sidestep tinnitus‑related ear damage, a niche solution that marries medical insight with consumer electronics. The third bite tackles a very British quirk—airport drop‑off fees that silently inflate taxi costs, a cultural nuance that can trip the unprepared. Finally, the author showcases a slim, RFID‑blocking wallet that pops cards out like a well‑orchestrated stage trick, adding a tangible gadget recommendation. Across the board, the writer balances anecdote with data, making each tip feel actionable, context‑rich, and immediately implementable, while subtly encouraging a broader conversation about how small logistics shape the travel experience.",
+    "summary_zh": "这篇简报将四个旅行小技巧巧妙拼接，既像日记又像随身管家。它提醒信用卡特权可能按日历计时，示例说明如何用$150信用抵扣2026年酒店房费；随后介绍骨传导耳机，帮助耳鸣者避开耳内损伤；再揭露英格兰机场接送费，提醒旅客注意隐藏成本；最后推介一款可弹出卡片的窄钱包，兼具RFID防护。每条建议都兼具实用性、数据支持和文化洞察，鼓励读者思考细节如何影响旅行体验。",
+    "best_quote_en": "If you obtain it with enough time on the calendar, you could benefit twice in less than a year.",
+    "best_quote_zh": "如果你在日历上有足够的时间，你可以在不到一年的时间里获得两次收益。"
   }
 ]
