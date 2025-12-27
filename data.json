@@ -1,123 +1,5 @@
 [
   {
-    "id": 237,
-    "title": "War Is Peace, the Dozing Don Edition",
-    "title_zh": "战争即和平：沉睡的唐纳德版",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/letter-from-trumps-washington/war-is-peace-the-dozing-don-edition",
-    "tags": [
-      "analyze",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-12-05",
-    "summary_en": "In a scathing, almost satirical exposé, the article unpacks the paradox of Donald Trump’s self‑proclaimed peacemaking while simultaneously launching an undeclared war in the Caribbean. By juxtaposing his triumphant signing ceremony with African leaders against a backdrop of questionable military strikes on alleged drug‑trafficking boats, the piece exposes a pattern of unilateral decision‑making that flouts international norms. The narrative highlights the stark contrast between Trump’s public image—“President of Peace” and “greatest dealmaker” in the eyes of his allies—and the grim realities of extrajudicial violence and political opportunism. The author deftly weaves anecdotal evidence with legal critique, questioning the legitimacy of the strikes and the moral calculus behind pardoning a convicted drug trafficker while threatening another nation’s leader. The article serves as a cautionary tale about the erosion of accountability when a leader’s rhetoric outpaces the rule of law, urging readers to scrutinize the gap between political theater and geopolitical consequence.",
-    "summary_zh": "文章以讽刺的笔触揭露特朗普自称“和平缔造者”却暗中发动无宣战的加勒比海战争的悖论。通过对他与非洲领导人签署和平协议的盛大仪式与对疑似走私船的军事打击进行对照，文章揭示其单边决策背离国际法。作者将轶事与法律批判相结合，质疑打击的合法性，并批评在赦免走私犯的同时威胁他国领导人的双重标准。文章警示，政治表象与法律现实之间的鸿沟正侵蚀问责机制，呼吁读者审视权力与道德的错位。",
-    "best_quote_en": "It’s a trick for Trump to both claim credit for ending wars that are not actually over while initiating new ones that have no legal justification.",
-    "best_quote_zh": "他把自己打造成和平缔造者，却在背后发动无宣战的战争，完全违背了国际法的基本原则。"
-  },
-  {
-    "id": 238,
-    "title": "Free Ski Passes/Free Japan Flights/Posture-fixing Shirt",
-    "title_zh": "免费滑雪通行证/免费日本国内航班/矫正姿势的衬衫",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/free-ski-passes-free-japan-flights-posture-fixing-shirt/",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-04",
-    "summary_en": "This brief newsletter packs a punch with practical travel hacks and a quirky product review that together paint a vivid picture of the modern nomad’s toolkit. The Alaska Airlines offer—free lift tickets tied to select resorts—illustrates how airlines can partner with leisure destinations to create added value for passengers, while the limited‑time Japan domestic flight deal demonstrates the power of strategic route structuring for cost‑conscious travelers. On a lighter note, the posture‑fixing polo from Forme offers a tangible, wearable solution to a common ergonomic problem, showcasing how product innovation can intersect with daily comfort. Overall, the piece balances actionable tips with a sense of adventure, encouraging readers to explore cost‑saving strategies and new experiences. It’s a reminder that the best travel hacks often come from unexpected partnerships and thoughtful product design, making the journey as efficient as it is enjoyable.",
-    "summary_zh": "这期简讯以实用的旅行攻略和一款奇妙的姿势衬衫为主线，展示现代流浪者的装备与智慧。阿拉斯加航空赠送滑雪票的合作模式，让航空与休闲目的地联手创造价值；日本国内航班的限时优惠则体现了精明路线规划的魅力。Forme的矫正衬衫则把产品创新与日常舒适相结合，提醒我们旅行的乐趣在于细节与便利。整体上，这篇短文既提供可操作的省钱技巧，又激发探索新体验的热情，强调合作与设计在旅途中的重要性。",
-    "best_quote_en": "If you fly on Alaska Airlines, some ski resorts will give you a free lift ticket.",
-    "best_quote_zh": "如果你乘坐阿拉斯加航空公司，有些滑雪度假村会赠送免费滑雪票。"
-  },
-  {
-    "id": 239,
-    "title": "Essentials: The Science of Making & Breaking Habits",
-    "title_zh": "基础：养成与戒除习惯的科学",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/essentials-science-of-making-breaking-habits",
-    "tags": [
-      "update",
-      "science",
-      "psychology",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "心理学",
-      "数据驱动"
-    ],
-    "date": "2025-12-04",
-    "summary_en": "In this Huberman Lab Essentials episode, Dr. Huberman dissects the neurobiology of habit formation, revealing that habits are not merely routine actions but neuroplastic pathways that shape identity. He contrasts goal‑based and identity‑based habits, explaining how the former is a short‑term cue–response loop while the latter rewires the limbic system for lasting change. The episode presents two practical frameworks: a rhythm‑aligned system that syncs habits with circadian peaks, and a 21‑day reinforcement cycle that leverages the brain’s natural consolidation windows. He introduces “linchpin” habits—low‑effort anchors that unlock cascades of healthier behaviors—and demonstrates task‑bracketing and visualization as tools to rewire unwanted patterns. The discussion is data‑driven, citing recent studies on limbic friction and habit strength, and it offers a step‑by‑step guide that empowers listeners to design, evaluate, and adjust their personal habit programs. For anyone looking to build resilience or break entrenched habits, the episode blends scientific rigor with actionable strategies, turning abstract neuroscience into a practical playbook.",
-    "summary_zh": "在本期Huberman Lab Essentials中，Huberman博士阐释习惯的神经科学，揭示习惯是塑造身份的可塑性神经通路。他对比目标导向与身份导向习惯，提出节奏同步与21天强化两套系统，并介绍“关键习惯”与任务分段等实用工具。内容基于最新研究，既有数据支撑，又提供可操作的步骤，让听众能把抽象神经学转化为个人习惯改造的实战手册。",
-    "best_quote_en": "Goal-Based vs Identity-Based Habits",
-    "best_quote_zh": "目标导向与身份导向的习惯"
-  },
-  {
-    "id": 240,
-    "title": "‘Bad girls’ is how society labels women in prison. But what if that label is a lie? | Sabrina Mahtani",
-    "title_zh": "‘坏女孩’是社会对在狱女性的标签，但如果这个标签是谎言呢？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/dec/03/prison-feminist-issue-jailing-marginalised-women-ruins-lives-children",
-    "tags": [
-      "analyze",
-      "society",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-12-03",
-    "summary_en": "Sabrina Mahtani’s piece exposes the myth of the ‘bad girl’ in prison, revealing that most incarcerated women are victims of poverty, mental illness, abuse, and systemic bias rather than criminal intent. By compiling cross‑continental case studies—from shoplifters in South Africa to mothers in Sierra Leone—she shows how gendered punishment amplifies intergenerational trauma, with 19,000 children living with their mothers behind bars worldwide. The article critiques the global reliance on punitive measures, highlights the lack of international accountability, and spotlights grassroots movements that reimagine justice through community sentences and feminist legal reform. Mahtani’s narrative invites readers to reconsider incarceration as a feminist issue intertwined with reproductive rights, poverty, and gender‑based violence, urging donors, policymakers, and activists to fund humane alternatives. The piece is a call to action that blends data, personal testimony, and policy critique, offering a hopeful blueprint for systemic change.",
-    "summary_zh": "萨布丽娜·马塔尼揭示，‘坏女孩’标签是谎言，绝大多数在狱女性因贫困、精神疾病与性暴力而被刑罚。她跨洲案例显示，监狱加剧代际创伤，全球已有1.9万儿童与母亲同住。文章批判惩罚至上，呼吁国际责任与人道替代方案，并强调女权主义与生殖权、贫困、性暴力的交织。它既是数据与个人叙事的汇聚，也是激励变革的蓝图，提醒捐助者、决策者与活动家投身更公平的司法系统。",
-    "best_quote_en": "\"When you imprison a woman, you imprison a family.\"",
-    "best_quote_zh": "当你关押一个女人，你就是在关押一个家庭。"
-  },
-  {
-    "id": 241,
-    "title": "Answering a child's questions",
-    "title_zh": "回答孩子的问题",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/bWJfniJ9kqsp5behg/answering-a-child-s-questions",
-    "tags": [
-      "learn",
-      "science",
-      "lifestyle",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "生活方式",
-      "深度分析"
-    ],
-    "date": "2025-12-06",
-    "summary_en": "In this whimsical yet pedagogically rich post, the author shares a personal experiment: answering a five‑year‑old’s eight curious questions by hand‑written letter. The narrative serves two purposes. First, it illustrates how the act of inquiry—asking “why” and “how”—is a lifelong learning engine, not merely a quest for definitive answers. Second, it demonstrates the epistemic humility that accompanies knowledge: each question can be answered in a thousand ways, and the most valuable responses are those that open new lines of curiosity. The author’s explanations—ranging from the atom‑level mechanics of electricity to anthropological musings on Earth’s “hair”—are deliberately simple, yet they invite readers to explore deeper. The piece is both an encouragement for parents to nurture wonder and a reminder that education is less about facts and more about framing questions. Its tone is playful, reflective, and subtly philosophical, making it a useful guide for anyone who wants to spark curiosity in children or adults alike.",
-    "summary_zh": "作者用手写信回答5岁孩子的八个问题，展示提问的乐趣与知识的无限可能。文章把科学、哲学与日常生活交织，让读者看到好奇心是终身学习的引擎。",
-    "best_quote_en": "Knowing that this is what's happening doesn't give you a lot of insight into what you'll actually experience when you use a device that is electrical.",
-    "best_quote_zh": "电是当大量电子朝同一方向推动时的现象。"
-  },
-  {
     "id": 242,
     "title": "What’s in my NOW? — Bob Oken",
     "title_zh": "我的现在是什么？——鲍勃·欧肯",
@@ -2390,5 +2272,125 @@
     "summary_zh": "这篇简报将四个旅行小技巧巧妙拼接，既像日记又像随身管家。它提醒信用卡特权可能按日历计时，示例说明如何用$150信用抵扣2026年酒店房费；随后介绍骨传导耳机，帮助耳鸣者避开耳内损伤；再揭露英格兰机场接送费，提醒旅客注意隐藏成本；最后推介一款可弹出卡片的窄钱包，兼具RFID防护。每条建议都兼具实用性、数据支持和文化洞察，鼓励读者思考细节如何影响旅行体验。",
     "best_quote_en": "If you obtain it with enough time on the calendar, you could benefit twice in less than a year.",
     "best_quote_zh": "如果你在日历上有足够的时间，你可以在不到一年的时间里获得两次收益。"
+  },
+  {
+    "id": 337,
+    "title": "Fat, fearless and over 50. Thanks to my TikTok outfit posts, I feel powerful and seen | Jen Walshaw",
+    "title_zh": "肥胖、无畏、50岁以上：感谢我的TikTok穿搭视频，我感到强大而被看到 | Jen Walshaw",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/commentisfree/2025/dec/26/tiktok-outfit-posts-fat-fearless-over-50-jen-walshaw-mum-in-the-madhouse",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "science",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "科学研究",
+      "新手友好"
+    ],
+    "date": "2025-12-26",
+    "summary_en": "Jen Walshaw’s TikTok journey illustrates how a simple “fit‑of‑the‑day” post can become a catalyst for personal empowerment and community building, especially for marginalized body types. After a life‑shattering illness, she reclaimed agency by dressing and sharing her outfits, turning the act of getting dressed into a ritual of accountability and self‑care. The story underscores the power of representation: older, fat women rarely see themselves reflected in mainstream fashion, yet on TikTok, authenticity thrives. Walshaw’s narrative offers a practical blueprint—embrace your body, curate a wardrobe that feels good, and use social media as a supportive space. It also challenges industry norms, reminding brands that 27 % of consumer spending comes from women over 50. The piece blends inspiration with actionable advice, positioning TikTok not merely as a platform for trends but as a democratic stage for body positivity. Her experience invites readers to re‑evaluate how we define beauty, encouraging a shift from exclusion to inclusion.",
+    "summary_zh": "Jen Walshaw 通过 TikTok 的穿搭分享，证明了简单的“今日穿搭”视频可以成为个人赋权与社区凝聚的催化剂，尤其对边缘化体型尤为重要。经历重病后，她通过穿衣并分享，重新获得了主动权，将穿衣行为转化为自律与自我关怀的仪式。故事凸显了代表性的力量：主流时尚中，50+ 年龄、肥胖女性的身影罕见，却在 TikTok 上得到真实呈现。Walshaw 的经历提供了可操作的蓝图——接受自己的身体，挑选舒适的衣物，并利用社交平台建立支持圈。她的叙事也向行业发出挑战，提醒品牌：50+ 女性占消费支出 27%，值得关注。该篇文章兼具启发与实用建议，鼓励读者重新审视美的定义，推动从排斥向包容的转变。",
+    "best_quote_en": "I call myself fat because that’s what I am – it’s a descriptor, not an insult. Taking ownership of the word removes its sting, and it’s my way of taking up space unapologetically.",
+    "best_quote_zh": "我把自己称作胖，因为那就是我——这是一种描述，而不是侮辱。掌握这个词的所有权消除了它的刺痛，这也是我无所畏惧地占据空间的方式。"
+  },
+  {
+    "id": 338,
+    "title": "Thoughts on epistemic virtue in science",
+    "title_zh": "关于科学中的认识论美德的思考",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/tQDEdyGFvjkGfrcDp/thoughts-on-epistemic-virtue-in-science",
+    "tags": [
+      "inspire",
+      "science",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2025-12-27",
+    "summary_en": "The article argues that the backbone of rigorous science is not merely statistical rigor or methodological checklist, but the subtle, largely invisible epistemic virtues that scientists cultivate in their private minds. By dissecting habits such as relentless skepticism, precise language, and the disciplined practice of keeping provisional conclusions tied to evidence, the author paints a portrait of “epistemic hygiene” as a daily, almost subconscious, discipline. This perspective challenges the conventional reliance on external metrics—peer review, reproducibility scores, or publication counts—by suggesting that true scientific progress hinges on internal virtues that resist social incentives and confirmation bias. The piece is a call to recognize, nurture, and even measure these virtues, framing them as both a personal and collective investment in the integrity of knowledge. It invites scientists and educators alike to re‑evaluate the criteria for excellence, emphasizing that the pursuit of truth, not prestige, should guide research practice.",
+    "summary_zh": "文章指出，科学严谨的核心不在于统计方法或外部指标，而在于科学家私下培养的认识论美德。作者通过阐述怀疑主义、精准用语和保留性结论等习惯，描绘了“认识论卫生”这一日常自觉实践。此观点挑战传统对同行评议和可重复性等外部衡量的依赖，强调真正的进步取决于抵御社会动机与确认偏差的内在美德。文章呼吁将这些美德视为个人与集体对知识完整性的投资，并鼓励在科研评价中以追求真理为先。",
+    "best_quote_en": "The most important factor underlying research rigor is epistemic virtue.",
+    "best_quote_zh": "研究严谨的最重要因素是认识论美德。"
+  },
+  {
+    "id": 339,
+    "title": "How Willie Nelson Sees America",
+    "title_zh": "威利·尼尔森眼中的美国",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/12/29/willie-nelson-profile",
+    "tags": [
+      "learn",
+      "politics",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "政治时事",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2025-12-22",
+    "summary_en": "Willie Nelson’s recent tour is less a concert and more a living manifesto of resilience, community, and the politics of music. The article traces his evolution from a Texas farmhand to a folk‑country icon who uses his platform to champion farmers, immigrants, and progressive causes. Nelson’s relentless touring schedule, his unconventional band structure, and his refusal to commercialize his art reveal a philosophy that music is both medicine and a unifying force. The narrative juxtaposes his personal hardships—emphysema, COVID, family loss—with his public activism, illustrating how art can be a form of social medicine. Critics and fellow musicians frame Nelson’s improvisational style as a lesson in creative freedom, while his political stances—support for farm aid, opposition to corporate power—highlight the tension between authenticity and influence. The piece invites readers to consider the broader implications of a cultural icon who remains fiercely independent, and how his legacy informs contemporary debates about art, politics, and community building.",
+    "summary_zh": "威利·尼尔森的巡演不只是音乐会，而是关于韧性、社区与音乐政治的活体宣言。文章从他在德州农场的起点，到成为乡村音乐标杆，阐释他如何用平台支持农民、移民与进步议题。尼尔森不计时长的巡演、非传统乐队结构以及拒绝商业化的态度，体现音乐既是疗愈也是团结的力量。个人困境与公共行动交织，展示艺术如何成为社会疗法。评论家与同行将他即兴的演奏视为创意自由的课堂，他的政治立场—支持农场援助、反对企业权力—则揭示真实性与影响力的张力。此文促人思考一位坚持独立的文化偶像如何影响当代艺术、政治与社区建设的辩论。",
+    "best_quote_en": "Music is medicine—he won’t do the lung exercises his doctors prescribe, but ‘singing for an hour is good for you,’ he says.",
+    "best_quote_zh": "音乐是药物——他不会做医生给的肺部锻炼，但‘唱一小时很好’。"
+  },
+  {
+    "id": 340,
+    "title": "Essentials: Psychedelics for Treating Mental Disorders | Dr. Matthew Johnson",
+    "title_zh": "必备知识：迷幻药治疗精神障碍 | 约翰逊博士",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/essentials-psychedelics-for-treating-mental-disorders-matthew-johnson",
+    "tags": [
+      "inspire",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-07-24",
+    "summary_en": "In a concise yet rich episode of Huberman Lab Essentials, Dr. Matthew Johnson—one of the world’s leading psychedelic researchers—unpacks the science behind psilocybin, MDMA, and LSD and their remarkable therapeutic promise. He explains how these substances, when administered in carefully controlled clinical settings, can fundamentally reshape perception, self‑identity, and neural circuitry, yielding lasting relief from depression, addiction, and trauma. The discussion also touches on micro‑dosing, the emerging evidence linking psychedelics to neuro‑repair, and the ethical, safety, and regulatory considerations that accompany their clinical use. What stands out is Johnson’s balanced blend of rigorous data—clinical trial results, neuroimaging findings, and longitudinal follow‑ups—with a clear-eyed view of the limitations and risks. For listeners, the episode offers actionable insights for clinicians, researchers, and patients alike, while also framing psychedelics as a future‑focused frontier in mental‑health treatment.",
+    "summary_zh": "在Huberman Lab Essentials的这一集中，约翰逊博士用严谨的数据和清晰的思考阐释了迷幻药如何重塑感知与自我认同，提供抑郁、成瘾与创伤的持久缓解。",
+    "best_quote_en": "These substances can profoundly alter perception and self‑identity, providing long‑lasting relief from depression, addiction and trauma when used in controlled clinical settings.",
+    "best_quote_zh": "这些物质可以深刻改变感知和自我认同，在受控临床环境中提供持久的抑郁、成瘾和创伤缓解。"
+  },
+  {
+    "id": 341,
+    "title": "Arthur Brooks — Finding The Meaning of Your Life, The Poet’s Protocol, The Holy Half-Hour, and Why Your Suffering is Sacred (#841)",
+    "title_zh": "Arthur Brooks — 发现人生意义、诗人协议、神圣半小时以及为何痛苦是神圣的",
+    "source": "Tim Ferriss",
+    "link": "https://tim.blog/2025/12/23/arthur-brooks-meaning/",
+    "tags": [
+      "guide",
+      "health-wellness",
+      "writing-content",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "指导",
+      "健康养生",
+      "写作内容",
+      "深度分析"
+    ],
+    "date": "2025-12-23",
+    "summary_en": "Arthur Brooks, a Harvard professor and best‑selling author, uses a blend of neuroscience, stoic practice, and personal ritual to dissect the elusive quest for meaning. In this episode he lays out a concrete “poet’s protocol” – a morning routine that couples zone‑2 cardio, deliberate rest, and a micro‑practice of gratitude – and shows how quantifying progress can become a pathway to sustained happiness. He challenges the myth of “arrival” and argues that the real value lies in the ongoing process, a stance that reframes life coaching as a data‑driven, iterative experiment. Brooks also weaves in his own affect profiles (mad scientist, cheerleader, judge, poet) to illustrate how personality shapes meaning‑seeking. The conversation ends with a philosophical meditation on suffering as sacred, suggesting that pain, when met with resilience, can catalyze transcendence. For anyone wrestling with purpose, the episode offers a practical, science‑backed framework that turns abstract longing into actionable daily habits.",
+    "summary_zh": "亚瑟·布鲁克以神经科学与斯多葛实践为工具，拆解意义追寻的迷雾。通过晨间“诗人协议”——结合低强度有氧、刻意休息与感恩练习，他展示了量化进步如何成为持续幸福的路径。布鲁克批判“到达”概念，强调过程本身才是真正价值所在，提出生活教练应成为数据驱动、迭代实验。对人格的四种影响档案（疯狂科学家、啦啦队长、评判者、诗人）进一步阐释个体如何寻找意义。最后，他把痛苦视为神圣，认为痛苦若以韧性面对，可触发超越。对追问人生意义的人而言，这段对话提供可操作、科学支撑的日常框架，将抽象渴望转化为行动。",
+    "best_quote_en": "You never arrive. Arrival gives you almost nothing, but it’s progress toward the goal.",
+    "best_quote_zh": "你永远不会到达。到达几乎什么也不带来，但它是通往目标的进步。"
   }
 ]
