@@ -1,133 +1,5 @@
 [
   {
-    "id": 242,
-    "title": "What’s in my NOW? — Bob Oken",
-    "title_zh": "我的现在是什么？——鲍勃·欧肯",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/whats-in-my-now-bob-oken/",
-    "tags": [
-      "update",
-      "lifestyle",
-      "writing-content"
-    ],
-    "tags_zh": [
-      "动态",
-      "生活方式",
-      "写作内容"
-    ],
-    "date": "2025-12-03",
-    "summary_en": "Bob Oken’s short yet vivid list of tools and habits paints a portrait of a modern seeker who blends physical well‑being, digital curiosity, and philosophical reflection. His daily ritual of reading a page from Pema Chodron’s *Comfortable with Uncertainty* turns a quiet moment into a deliberate meditation, while the mini binoculars and Bowflex dumbbells anchor him in the tangible world of nature and fitness. The digital side of his “NOW”—Internet Archive and Perplexity’s AI‑powered browser—highlights a growing appetite for free knowledge and AI‑augmented productivity. Oken’s inclusion of Shane Parrish’s quote underscores a broader cultural tension between crowd comfort and independent thought. Together, the post invites readers to curate a personalized ecosystem of resources that nurture curiosity, resilience, and self‑direction. It prompts a critical reflection on how we choose our daily touchstones and the impact of technology on our sense of agency. The piece serves as both a gentle guide and an inspirational snapshot of mindful living in the information age.",
-    "summary_zh": "鲍勃·欧肯用简洁的清单描绘了现代求知者的日常：从每日读书、观景、健身，到利用Internet Archive和Perplexity AI浏览器获取知识。配合Shane Parrish关于群体舒适与独立思考的警示，文章邀请读者构建能激发好奇与自我驱动的个人生态，既是温柔的指导，也是对科技与自我掌控关系的深思。",
-    "best_quote_en": "A lot of people prefer the comfort of a crowd to the responsibility of independent thought.",
-    "best_quote_zh": "许多人更倾向于群体的舒适，而非独立思考的责任。"
-  },
-  {
-    "id": 243,
-    "title": "How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard",
-    "title_zh": "如何重塑大脑并更快学习 | 迈克尔·基尔加德博士",
-    "source": "Huberman Lab",
-    "link": "https://www.hubermanlab.com/episode/how-to-rewire-your-brain-and-learn-faster-dr-michael-kilgard",
-    "tags": [
-      "solve",
-      "medicine",
-      "psychology",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "心理学",
-      "未来预测"
-    ],
-    "date": "2025-08-11",
-    "summary_en": "In this episode, neuroscientist Dr. Michael Kilgard demystifies neuroplasticity, revealing that rewiring the brain is a deliberate, effort‑driven process rather than a passive state. He outlines four essential pillars—alertness, focused effort, post‑learning reflection, and restorative sleep—each supported by distinct neuromodulators such as dopamine, acetylcholine, serotonin, and norepinephrine. Kilgard bridges theory and practice by presenting concrete behavioral steps and emerging neuromodulation techniques, from vagus‑nerve stimulation to psychedelic‑assisted therapy, that can accelerate learning and treat conditions like PTSD, tinnitus, and stroke. The episode offers a rich, evidence‑based framework for anyone—from students to clinicians—seeking to harness the brain’s plasticity for faster skill acquisition, improved cognition, or therapeutic recovery. Its blend of actionable advice, advanced science, and real‑world case studies makes it a valuable resource for lifelong learners and health professionals alike.",
-    "summary_zh": "Dr.基尔加德用科学阐释大脑可塑性，指出重塑需警觉、专注、反思与睡眠，并将神经递质与行为步骤结合。节目兼具理论与实用，适合学生、临床医师及自我提升者。",
-    "best_quote_en": "Neuroplasticity is not a passive state; it is an active, effort‑driven process that requires alertness, focused effort, reflection, and sleep.",
-    "best_quote_zh": "大脑可塑性不是一种被动状态，而是一种需要警觉、专注、反思和睡眠的主动、努力驱动的过程。"
-  },
-  {
-    "id": 244,
-    "title": "The Tim Ferriss Show Transcripts: The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello ( #838)",
-    "title_zh": "The Tim Ferriss Show Transcripts: The Random Show — The 2–2–2 Rule, The Future of AI, Bioelectric Medicine, Surviving Modern Dating, The Promises of DORAs for Alzheimer’s, and Wisdom from Anthony de Mello ( #838)",
-    "source": "Tim Ferriss",
-    "link": "https://tim.blog/2025/12/03/the-random-show-with-kevin-rose-2-transcript/",
-    "tags": [
-      "solve",
-      "ai-research",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-12-04",
-    "summary_en": "This transcript captures a wide-ranging conversation between Tim Ferriss and Kevin Rose, weaving together practical health strategies, cutting‑edge neuroscience, and contemporary social challenges. Ferriss dissects the 2‑2‑2 drinking rule as a minimalist, actionable framework for moderating alcohol consumption, illustrating how small behavioral shifts can yield outsized health benefits. He delves into accelerated transcranial magnetic stimulation (TMS) and its synergistic use with D‑cycloserine, presenting a compelling case study that suggests a single‑day protocol can produce months of anxiety relief—an insight that could democratize access to neuro‑stimulation therapies. The discussion also touches on AI’s rapid evolution, urging listeners to stay flexible amid swift model improvements. Finally, Ferriss and Rose explore modern dating dynamics and the importance of clear communication, offering a nuanced perspective on relational resilience. The episode balances personal anecdotes with data‑driven analysis, positioning itself as a rich resource for listeners seeking actionable health, tech, and lifestyle insights.\n",
-    "summary_zh": "本期访谈将健康、前沿神经科学与社交挑战交织，探讨 2‑2‑2 饮酒规则、加速 TMS 与 D‑cycloserine 的协同效应、AI 的快速演进以及现代约会的沟通技巧，提供可操作的健康与生活方式洞见。",
-    "best_quote_en": "\"The 2-2-2 rule: maximum of two drinks at any given night, never two days in a row, and then two days a week.\"",
-    "best_quote_zh": "“2‑2‑2 规则：任何一天最多两杯酒，不能连续两天饮酒，然后每周两天。”"
-  },
-  {
-    "id": 245,
-    "title": "The Fatal Pinch",
-    "title_zh": "致命夹击",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/pinch.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2025-12-07",
-    "summary_en": "The article exposes a brutal reality many founders face: the \"fatal pinch\"—a precarious point where a startup, despite a healthy cash reserve, is hemorrhaging money, stagnant revenue, and a dwindling runway. The author argues that the second funding round often becomes a death sentence because investors demand higher standards, spending escalates, and the company’s trajectory shifts from ambiguous to a default of failure. By naming the phenomenon, founders gain a diagnostic tool that forces them to confront the self‑reinforcing cycle of over‑optimism and fiscal slack. The piece offers a stark, pragmatic playbook: reassess fundraising odds, consider a graceful exit, or aggressively trim expenses—usually by firing staff or cutting salaries—and pivot revenue streams. It stresses the importance of focusing on a single, widely adopted product, or, if survival is paramount, diversifying into consulting‑style work that monetizes expertise. The author’s tone is unapologetically blunt, yet the advice is rooted in real‑world experience and data‑driven reasoning, making it a must‑read for any founder at the brink of collapse.",
-    "summary_zh": "文章揭示创始人常遇的致命夹击：资金充裕却持续亏损、收入停滞、剩余跑道仅几个月。作者指出，第二轮融资往往成了死亡判决，因为投资者标准提高、支出激增、公司前景从模糊转为失败。命名这一现象让创始人能及时诊断自我放任与财务松懈的恶性循环。文中提供实用方案：重新评估融资概率、考虑优雅退出、或通过裁员、降薪来削减成本，并转变营收模式。强调聚焦单一产品或转向咨询式收入，既是生存之道，也是潜在成功之路。作者直言不讳，却以真实案例与数据为依据，值得危机中的创始人深思。",
-    "best_quote_en": "The probability is zero.",
-    "best_quote_zh": "概率为零。"
-  },
-  {
-    "id": 246,
-    "title": "Building a State of Fear in “Extremist”",
-    "title_zh": "在《极端主义》中构建恐惧的国家",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/screening-room/building-a-state-of-fear-in-extremist",
-    "tags": [
-      [
-        "learn",
-        "politics",
-        "case-study"
-      ],
-      [
-        "learn",
-        "politics",
-        "expert-insight"
-      ]
-    ],
-    "tags_zh": [
-      [
-        "学习",
-        "政治",
-        "案例研究"
-      ],
-      [
-        "学习",
-        "政治",
-        "专家洞见"
-      ]
-    ],
-    "date": "2025-12-05",
-    "summary_en": "Alexander Molochnikov’s short film “Extremist” reframes a single, audacious act of protest—relabeling supermarket price tags with anti‑war slogans—in a cinematic meditation on state power, individual agency, and the peril of proximity in authoritarian societies. The narrative follows Sasha Skochilenko, a Russian artist imprisoned for the stunt, and her reluctant accuser, the elderly shopkeeper Galina Baranova, who gradually shifts from bemused observer to hardened enforcer. By situating the two in the same apartment building, Molochnikov underscores how ordinary neighbors can become instruments of state terror, a metaphor that extends beyond the specific case to the broader Russian anti‑war underground. The film also reflects the director’s own exile, the loss of artistic venues, and his struggle to preserve voice under censorship. Beyond its political critique, “Extremist” offers a poignant meditation on freedom: the paradox that those inside a prison may feel freer than those who remain free under surveillance. The piece invites viewers to question the boundaries between dissent and compliance, and to recognize the invisible walls that shape everyday choices.",
-    "summary_zh": "《极端主义》以一场大胆的价格标签抗议为线索，透过主人公萨沙与店主的相邻关系，揭示了俄国权力与个体自由的碰撞。影片在展现监禁与审判的同时，也映射导演因侵略被迫流亡、艺术被删的处境。它以亲密邻里为隐喻，指出普通人也可能成为国家恐惧的工具，呼唤观众审视抗议与顺从的界限，并思考在监视下自由的悖论。",
-    "best_quote_en": "Even though I am behind bars, I am freer than you.",
-    "best_quote_zh": "即使我被关在笼子里，我也比你更自由。"
-  },
-  {
     "id": 247,
     "title": "Essentials: Increase Strength & Endurance with Cooling Protocols | Dr. Craig Heller",
     "title_zh": "精要：使用冷却方案提升力量与耐力 | 克雷格·赫勒博士",
@@ -2392,5 +2264,123 @@
     "summary_zh": "亚瑟·布鲁克以神经科学与斯多葛实践为工具，拆解意义追寻的迷雾。通过晨间“诗人协议”——结合低强度有氧、刻意休息与感恩练习，他展示了量化进步如何成为持续幸福的路径。布鲁克批判“到达”概念，强调过程本身才是真正价值所在，提出生活教练应成为数据驱动、迭代实验。对人格的四种影响档案（疯狂科学家、啦啦队长、评判者、诗人）进一步阐释个体如何寻找意义。最后，他把痛苦视为神圣，认为痛苦若以韧性面对，可触发超越。对追问人生意义的人而言，这段对话提供可操作、科学支撑的日常框架，将抽象渴望转化为行动。",
     "best_quote_en": "You never arrive. Arrival gives you almost nothing, but it’s progress toward the goal.",
     "best_quote_zh": "你永远不会到达。到达几乎什么也不带来，但它是通往目标的进步。"
+  },
+  {
+    "id": 342,
+    "title": "Jess Cartner-Morley on fashion: when it comes to lace, it’s all about the trimmings",
+    "title_zh": "Jess Cartner‑Morley谈时尚：关于蕾丝，一切都在于饰边",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/dec/24/jess-cartner-morley-on-fashion-lace-trimmings",
+    "tags": [
+      "update",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-12-24",
+    "summary_en": "Jess Cartner‑Morley’s lace‑centric essay turns a seemingly niche detail into a masterclass on sartorial nuance. She argues that lace’s allure lies not in its abundance but in its strategic placement—think a trim on a skirt or a hidden camisole beneath a blazer. The piece blends fashion theory with practical advice, offering concrete wardrobe recipes: a black‑lace‑ed River Island midi, a satin‑applique skirt from The White Company, or a lace‑sleeved bodysuit for winter layering. Her tone is playful yet insightful, reminding readers that lace can be a subtle flirtation rather than a statement piece. The article invites fashion enthusiasts to experiment with restraint, highlighting how a single lace detail can elevate a look without overpowering it. It also hints at the psychological power of lace, linking it to intimacy and intrigue, thereby positioning it as a tool for both style and storytelling.",
+    "summary_zh": "Jess Cartner‑Morley用蕾丝的细节阐释时尚的微妙力量，主张少即多，建议将蕾丝巧妙嵌入裙摆、内搭等位置。她兼顾理论与实用，提供多款穿搭方案，强调蕾丝既可低调魅惑，也能提升整体造型。",
+    "best_quote_en": "Lace looks hot when it peeks out from underneath something else, and it doesn’t take a genius to figure out the psychology of this.",
+    "best_quote_zh": "蕾丝若在其他衣物下轻轻露出，便显得热情四溢，理解其心理学并不需要天才。"
+  },
+  {
+    "id": 343,
+    "title": "Defining Property",
+    "title_zh": "定义财产",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/property.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2025-12-28",
+    "summary_en": "The piece uses a whimsical anecdote from eighteenth‑century Japan to probe how the notion of property morphs with technology.  It argues that what is deemed “property” is not a fixed legal concept but a functional one: it is useful only when society can enforce its ownership without destabilising the market.  The author contrasts the old‑world smell‑shop story with today’s music‑and‑movie industry, where record labels and studios insist on treating intangible media as a tradable commodity, even as streaming networks render it diffuse and ubiquitous.  He diagnoses the conflict as a battle of incentives—bonus‑driven executives fighting short‑term revenue over long‑term innovation.  The essay warns that legal overreach can lock us into obsolete property regimes, and it champions democratic pluralism as a safeguard against monopolistic re‑definition.  Its core insight is that charging for content is legitimate only when it aligns with societal welfare and technological reality, not merely when it yields profit.\n",
+    "summary_zh": "文章以日本十八世纪的香味商店故事为引子，探讨财产概念随技术变迁的功能性本质。作者认为，只有当社会能够在不扭曲市场的前提下执法并收取费用时，内容才算真正的“财产”。他把传统的香味收费与现代音乐电影行业的版权争议相对比，揭示了行业内部以奖金为导向的短期利润追求与长期创新的冲突。文中警示，法律过度干预会让我们被锁定在过时的财产模式中，而多元民主制度则是抵御垄断重定义的防线。核心观点是，收费应服务于社会福祉与技术现实，而非单纯利润。\n",
+    "best_quote_en": "The underlying problem with the labels and studios is that the people who run them are driven by bonuses rather than equity.",
+    "best_quote_zh": "标签和电影工作室的根本问题是，他们的负责人是以奖金而非股权为动力。"
+  },
+  {
+    "id": 344,
+    "title": "Orpheus' Basilisk",
+    "title_zh": "奥菲斯的巴西利斯克",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/JzDG7d6J5kZqhQiiT/orpheus-basilisk",
+    "tags": [
+      "inspire",
+      "society",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "社会议题",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-12-28",
+    "summary_en": "Orpheus’ Basilisk is a brief yet profound meditation on fate, divine intelligence, and human agency, framed within the mythic narrative of Orpheus. The narrator, a poet, wrestles with the paradox of whether to heed Fate’s warning to look back at his lost love. The dialogue exposes the tension between deterministic myth and the possibility of subverting divine will, suggesting that even gods can be outwitted or out‑performed by mortal ingenuity. The piece invites readers to question the nature of failure and success, framing them as choices rather than inevitable outcomes. It also critiques the self‑defeating habit of dismissing the impossible, arguing that innovation thrives on the willingness to attempt the unprecedented. By weaving philosophical musings with mythic tropes, the author offers a layered exploration of how narrative, belief, and action co‑create reality, leaving the reader with a lingering sense of agency and responsibility.",
+    "summary_zh": "这篇短篇以奥菲斯的故事为框架，探讨命运、神智与人类能动性。诗人与命运的对话揭示了决定论与突破神力的张力，强调失败与成功是选择而非必然。作者批判放弃可能性的自我挫败，主张创新源自敢于尝试前所未有的事。",
+    "best_quote_en": "You could know that by the way your story ends. If you’ve already failed, it’s because you were tricked by an intellect far surpassing your own.",
+    "best_quote_zh": "你可以通过故事的结局来判断。如果你已经失败，那是因为你被远超自己智慧的智者所欺骗。"
+  },
+  {
+    "id": 345,
+    "title": "Health Effects & Risks of Kratom, Opioids & Other Natural Occurring Medicines | Dr. Chris McCurdy",
+    "title_zh": "克拉托姆、阿片类药物与其他天然药物的健康影响与风险 | Dr. Chris McCurdy",
+    "source": "Huberman Lab",
+    "link": "https://www.hubermanlab.com/episode/health-effects-and-risks-of-kratom-opioids-and-other-natural-occurring-medicines-dr-chris-mccurdy",
+    "tags": [
+      "update",
+      "medicine",
+      "science",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "动态",
+      "医学健康",
+      "科学研究",
+      "深度分析"
+    ],
+    "date": "2025-07-21",
+    "summary_en": "In this episode, Dr. Chris McCurdy, a leading pharmacology scholar, dissects the multifaceted profile of kratom and other plant‑derived medicines. He traces kratom’s evolution from traditional Southeast‑Asian use to modern commercial products, detailing how dose, strain, and extraction method modulate its energizing, mood‑boosting, analgesic, and opioid‑substitution effects. Crucially, he balances enthusiasm with caution, highlighting the drug’s narrow therapeutic window, respiratory‑depression risk, potential for physical dependence, and the heightened danger posed by isolated alkaloid concentrates. The discussion extends to broader plant alkaloids—cocaine, opium, and even nicotine—underscoring a common theme: natural origin does not equal safety. By juxtaposing empirical data with real‑world case studies, Dr. McCurdy equips listeners with a nuanced framework for evaluating the promise and peril of botanical therapeutics, encouraging evidence‑based decision‑making in a rapidly expanding market.",
+    "summary_zh": "本期访谈聚焦克拉托姆及其它天然药物的多重效用与风险，专家揭示其在能量提升、情绪调节、疼痛管理及潜在阿片替代中的作用。内容兼顾科学严谨与临床警示，帮助听众理性评估天然化合物的药理价值与成瘾隐患。",
+    "best_quote_en": "Kratom’s wide-ranging effects, including its use for boosting energy, enhancing mood, managing pain and as a potential opioid substitute, while also explaining its critical safety concerns and addictive potential, especially for kratom-derived/isolate products.",
+    "best_quote_zh": "克拉托姆的广泛效应，包括用于提升能量、增强情绪、管理疼痛以及作为潜在阿片替代物，同时阐明其关键安全问题和成瘾潜力，尤其是克拉托姆衍生/分离产品。"
+  },
+  {
+    "id": 346,
+    "title": "Why So Many People Study Wrong",
+    "title_zh": "为什么这么多人学习错误",
+    "source": "Ulterior Motives (Art Markman Ph.D.)",
+    "link": "https://www.psychologytoday.com/us/blog/ulterior-motives/202502/many-people-avoid-studying-properly",
+    "tags": [
+      "analyze",
+      "science",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2025-02-26",
+    "summary_en": "The article exposes a paradox in modern learning: while self‑explanation is empirically the most effective strategy for mastering complex material, most learners avoid it. Drawing on a 2025 experimental study in the Journal of Experimental Psychology, the author shows that people’s self‑perceived mastery shapes their study preferences—those who feel confident lean toward self‑explanation, whereas those who feel uncertain fear the task’s difficulty and opt for passive review. By manipulating confidence through easy or hard pre‑tests, the research demonstrates that perceived understanding, not actual knowledge, drives the choice of strategy. Importantly, even when participants initially resisted self‑explanation, the act itself produced superior test performance, confirming its causal power. The piece invites educators and learners alike to confront the “comfort bias” that keeps us from engaging with the most productive methods. It also underscores the role of meta‑cognition: telling learners about the benefits of self‑explanation can nudge them toward better practice. In sum, the article is a clarion call to re‑frame learning as an active, reflective process rather than a passive absorption of facts.",
+    "summary_zh": "文章揭示了学习的悖论：自我解释虽是最有效的学习方式，却被大多数人回避。研究表明，学习者对自身理解的主观感受决定了学习策略的选择，信心高的人倾向自我解释，信心低的人则更怕难度而选择被动复习。通过让受试者先做易或难测验来操纵自信心，研究发现自我解释的效果不受先前态度影响，真正提升了后测成绩。文章提醒我们，学习应是一种主动、反思的过程，且元认知的培养和对策略有效性的宣传可改变学习者的偏好。",
+    "best_quote_en": "Explaining material to yourself is a great way to learn complex things.",
+    "best_quote_zh": "把材料解释给自己听是学习复杂内容的好方法。"
   }
 ]
